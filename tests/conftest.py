@@ -40,4 +40,5 @@ def mock_cfg(tmp_path):
         output_dir=tmp_path / "output",
         retail_price=24.99,
         min_margin=0.35,
+        printify_variant_ids=(11, 12, 13),  # mock costs clear the floor
     )

@@ -196,6 +196,34 @@ class PrintifyClient:
         )
         return data.get("variants", data if isinstance(data, list) else [])
 
+    def variant_cost_cents(self, variant_id: int) -> int:
+        """Printify base production cost + first-item shipping for a variant, in cents.
+
+        Used by the margin floor. In mock mode returns a deterministic low cost so
+        offline runs clear a normal margin. Real mode reads the catalog: variant
+        `cost` (base) plus the cheapest US shipping `first_item` charge.
+        """
+        if self.mock:
+            return 1000 + (variant_id % 5) * 50  # $10.00–$12.00, deterministic
+
+        bp = self.cfg.printify_blueprint_id
+        prov = self.cfg.printify_print_provider_id
+        base = 0
+        for v in self.blueprint_variants(bp, prov):
+            if v.get("id") == variant_id:
+                base = int(v.get("cost", 0))
+                break
+        ship = self._request(
+            "GET", f"/catalog/blueprints/{bp}/print_providers/{prov}/shipping.json"
+        )
+        first_items = [
+            int(p.get("first_item", {}).get("cost", 0))
+            for p in ship.get("profiles", [])
+            if p.get("first_item")
+        ]
+        shipping = min(first_items) if first_items else 0
+        return base + shipping
+
     # -- Core flow ---------------------------------------------------------
 
     def upload_image(self, png_path: str | Path) -> str:

@@ -60,6 +60,23 @@ def _int(name: str):
         return None
 
 
+def _int_list(name: str) -> tuple[int, ...]:
+    """Parse a comma-separated list of ints from env, skipping bad entries."""
+    raw = os.environ.get(name, "").strip()
+    if not raw:
+        return ()
+    out = []
+    for part in raw.split(","):
+        part = part.strip()
+        if not part:
+            continue
+        try:
+            out.append(int(part))
+        except ValueError:
+            continue
+    return tuple(out)
+
+
 @dataclass(frozen=True)
 class Config:
     # Anthropic / ideation
@@ -71,6 +88,7 @@ class Config:
     printify_shop_id: str = ""
     printify_blueprint_id: int | None = None
     printify_print_provider_id: int | None = None
+    printify_variant_ids: tuple[int, ...] = ()   # variants to publish (margin-checked)
 
     # Image generation (design.py)
     image_provider: str = ""       # "recraft" | "" (empty -> stub raises unless MOCK)
@@ -108,6 +126,7 @@ class Config:
             printify_shop_id=os.environ.get("PRINTIFY_SHOP_ID", "").strip(),
             printify_blueprint_id=_int("PRINTIFY_BLUEPRINT_ID"),
             printify_print_provider_id=_int("PRINTIFY_PRINT_PROVIDER_ID"),
+            printify_variant_ids=_int_list("PRINTIFY_VARIANT_IDS"),
             image_provider=os.environ.get("IMAGE_PROVIDER", "").strip().lower(),
             image_api_key=os.environ.get("IMAGE_API_KEY", "").strip(),
             recraft_model=os.environ.get("RECRAFT_MODEL", "").strip() or "recraftv3",
