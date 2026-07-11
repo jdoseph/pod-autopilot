@@ -1,0 +1,7 @@
+requests>=2.31
+anthropic>=0.40
+pytrends>=4.9
+Pillow>=10.0
+
+# dev / test
+pytest>=8.0
