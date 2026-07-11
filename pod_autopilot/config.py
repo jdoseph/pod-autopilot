@@ -72,9 +72,12 @@ class Config:
     printify_blueprint_id: int | None = None
     printify_print_provider_id: int | None = None
 
-    # Image generation (design.py stub)
-    image_provider: str = ""
+    # Image generation (design.py)
+    image_provider: str = ""       # "recraft" | "" (empty -> stub raises unless MOCK)
     image_api_key: str = ""
+    recraft_model: str = "recraftv3"       # transparent-bg supported on v3+
+    recraft_style: str = "vector_illustration"   # clean POD art
+    recraft_size: str = "1024x1024"        # generation size (Recraft max dim 4096)
 
     # Trend proxy
     trend_source: str = "google"       # "google" | "csv"
@@ -101,8 +104,11 @@ class Config:
             printify_shop_id=os.environ.get("PRINTIFY_SHOP_ID", "").strip(),
             printify_blueprint_id=_int("PRINTIFY_BLUEPRINT_ID"),
             printify_print_provider_id=_int("PRINTIFY_PRINT_PROVIDER_ID"),
-            image_provider=os.environ.get("IMAGE_PROVIDER", "").strip(),
+            image_provider=os.environ.get("IMAGE_PROVIDER", "").strip().lower(),
             image_api_key=os.environ.get("IMAGE_API_KEY", "").strip(),
+            recraft_model=os.environ.get("RECRAFT_MODEL", "").strip() or "recraftv3",
+            recraft_style=os.environ.get("RECRAFT_STYLE", "").strip() or "vector_illustration",
+            recraft_size=os.environ.get("RECRAFT_SIZE", "").strip() or "1024x1024",
             trend_source=(os.environ.get("TREND_SOURCE", "").strip() or "google").lower(),
             trend_csv_path=os.environ.get("TREND_CSV_PATH", "").strip(),
             mock=_bool("MOCK", False),

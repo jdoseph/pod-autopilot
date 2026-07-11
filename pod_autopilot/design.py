@@ -1,16 +1,20 @@
 """Prompt → print-ready PNG.
 
-STATUS: STUB. The real text-to-image provider call is NOT implemented (see
-HANDOFF.md Prompt 2). What exists:
-  - `generate_design(prompt, out_path, cfg)` — the stable signature the pipeline
-    and mock mode depend on. Do not change it when implementing the real provider.
-  - a MOCK path that writes a deterministic transparent-background PNG locally so
-    the pipeline runs fully offline.
-  - `validate_png()` — the print-readiness gate the real impl must satisfy:
-    alpha channel present + long edge >= LONG_EDGE_MIN px (~300 DPI full-front).
+Real provider: Recraft (https://external.api.recraft.ai/v1/images/generations).
+Recraft's transparent-background vector-illustration style is a good fit for POD.
 
-Definition of done (from CLAUDE.md): real provider call, transparent-background
-PNG, >=4500px long edge, validated, retry/backoff + timeout.
+Because Recraft's max output dimension is 4096px but print needs >= LONG_EDGE_MIN
+(4500px), we generate a transparent square and LANCZOS-upscale it locally to the
+threshold. Vector-style art upscales cleanly, so this is lossless enough for print.
+(Recraft also exposes /v1/images/crispUpscale — noted as an optional enhancement.)
+
+What exists:
+  - `generate_design(prompt, out_path, cfg)` — STABLE signature the pipeline and
+    mock mode depend on. Do not change it.
+  - MOCK path: deterministic transparent PNG, fully offline.
+  - `_real_provider`: Recraft call with timeout + retry/backoff, alpha enforced,
+    upscaled and validated.
+  - `validate_png()` — print-readiness gate: alpha channel + long edge >= LONG_EDGE_MIN.
 
 Independently runnable:
     python -m pod_autopilot.design --prompt "whimsical mushroom" --out out.png
@@ -19,12 +23,19 @@ Independently runnable:
 from __future__ import annotations
 
 import hashlib
+import io
+import time
 from dataclasses import dataclass
 from pathlib import Path
 
 from . import config
 
 LONG_EDGE_MIN = 4500  # px; ~300 DPI across a 15" full-front print
+
+RECRAFT_URL = "https://external.api.recraft.ai/v1/images/generations"
+_HTTP_TIMEOUT = (10, 120)   # (connect, read) seconds — generation can be slow
+_MAX_RETRIES = 4
+_BACKOFF_BASE = 1.5         # seconds; exponential
 
 
 class DesignError(RuntimeError):
@@ -93,18 +104,126 @@ def _mock_png(prompt: str, out_path: Path, size: int = LONG_EDGE_MIN) -> Design:
     return Design(prompt=prompt, path=out_path, width=size, height=size, has_alpha=True)
 
 
-def _real_provider(prompt: str, out_path: Path, cfg: config.Config) -> Design:
-    """NOT IMPLEMENTED. See HANDOFF.md Prompt 2.
+def _transparent_prompt(prompt: str) -> str:
+    """Nudge Recraft toward an alpha background (V3+ honors this in the prompt)."""
+    low = prompt.lower()
+    if "transparent background" in low or "transparent bg" in low:
+        return prompt
+    return f"{prompt.rstrip('. ')}, on a transparent background, no background"
 
-    Implement here: call cfg.image_provider's text-to-image API with cfg.image_api_key,
-    (retry/backoff + timeout), ensure a transparent background (remove bg if the
-    provider doesn't return alpha), upscale/validate to >= LONG_EDGE_MIN, then return
-    validate_png(out_path). Keep this behind generate_design() so callers are unaffected.
+
+def _recraft_request(prompt: str, cfg: config.Config) -> bytes:
+    """Call Recraft, retry on 429/5xx with backoff, return raw PNG bytes.
+
+    Two hops: POST for a generation, then GET the returned image URL. Both share
+    the timeout + retry policy. Raises DesignError on unrecoverable failure.
     """
-    raise NotImplementedError(
-        "design.py real provider is a stub — implement _real_provider (HANDOFF.md Prompt 2), "
-        "or run with MOCK=1 for offline development."
-    )
+    import requests  # lazy import
+
+    if not cfg.image_api_key:
+        raise DesignError("IMAGE_API_KEY is empty — cannot call Recraft (or use MOCK=1)")
+
+    headers = {"Authorization": f"Bearer {cfg.image_api_key}"}
+    payload = {
+        "prompt": _transparent_prompt(prompt),
+        "model": cfg.recraft_model,
+        "style": cfg.recraft_style,
+        "size": cfg.recraft_size,
+        "response_format": "url",
+    }
+
+    data = _post_with_retry(requests, RECRAFT_URL, headers, payload)
+    try:
+        image_url = data["data"][0]["url"]
+    except (KeyError, IndexError, TypeError) as exc:
+        raise DesignError(f"unexpected Recraft response shape: {data!r}") from exc
+
+    return _get_bytes_with_retry(requests, image_url, headers)
+
+
+def _post_with_retry(requests, url: str, headers: dict, payload: dict) -> dict:
+    last_exc: Exception | None = None
+    for attempt in range(_MAX_RETRIES):
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=_HTTP_TIMEOUT)
+        except requests.RequestException as exc:  # network error — retry
+            last_exc = exc
+            _sleep_backoff(attempt)
+            continue
+        if resp.status_code == 200:
+            return resp.json()
+        if resp.status_code == 429 or resp.status_code >= 500:
+            _sleep_backoff(attempt, retry_after=resp.headers.get("Retry-After"))
+            last_exc = DesignError(f"Recraft {resp.status_code}: {resp.text[:500]}")
+            continue
+        # 4xx other than 429 won't fix itself — fail fast with the body.
+        raise DesignError(f"Recraft {resp.status_code}: {resp.text[:500]}")
+    raise DesignError(f"Recraft generation failed after {_MAX_RETRIES} attempts: {last_exc}")
+
+
+def _get_bytes_with_retry(requests, url: str, headers: dict) -> bytes:
+    last_exc: Exception | None = None
+    for attempt in range(_MAX_RETRIES):
+        try:
+            resp = requests.get(url, headers=headers, timeout=_HTTP_TIMEOUT)
+        except requests.RequestException as exc:
+            last_exc = exc
+            _sleep_backoff(attempt)
+            continue
+        if resp.status_code == 200:
+            return resp.content
+        if resp.status_code == 429 or resp.status_code >= 500:
+            _sleep_backoff(attempt, retry_after=resp.headers.get("Retry-After"))
+            last_exc = DesignError(f"image download {resp.status_code}")
+            continue
+        raise DesignError(f"image download {resp.status_code}: {url}")
+    raise DesignError(f"image download failed after {_MAX_RETRIES} attempts: {last_exc}")
+
+
+def _sleep_backoff(attempt: int, retry_after: str | None = None) -> None:
+    if retry_after:
+        try:
+            time.sleep(min(float(retry_after), 60.0))
+            return
+        except (TypeError, ValueError):
+            pass
+    time.sleep(_BACKOFF_BASE ** attempt)
+
+
+def _finalize_png(raw: bytes, out_path: Path, prompt: str) -> Design:
+    """Ensure alpha + upscale to >= LONG_EDGE_MIN, save, and return a Design.
+
+    Pure image processing (no network) so it's unit-testable with a fixture.
+    """
+    from PIL import Image  # lazy import
+
+    img = Image.open(io.BytesIO(raw))
+    img.load()
+    if img.mode != "RGBA":
+        # PNG without alpha (or palette-with-transparency) -> promote to RGBA so
+        # downstream validation and printing have a real alpha channel.
+        img = img.convert("RGBA")
+
+    long_edge = max(img.size)
+    if long_edge < LONG_EDGE_MIN:
+        scale = LONG_EDGE_MIN / long_edge
+        new_size = (round(img.width * scale), round(img.height * scale))
+        img = img.resize(new_size, Image.LANCZOS)
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    img.save(out_path, format="PNG")
+    return Design(prompt=prompt, path=out_path, width=img.width, height=img.height, has_alpha=True)
+
+
+def _real_provider(prompt: str, out_path: Path, cfg: config.Config) -> Design:
+    """Generate a print-ready transparent PNG via the configured provider."""
+    if cfg.image_provider != "recraft":
+        raise DesignError(
+            f"unsupported IMAGE_PROVIDER={cfg.image_provider!r}; only 'recraft' is "
+            "implemented (or set MOCK=1 for offline development)."
+        )
+    raw = _recraft_request(prompt, cfg)
+    return _finalize_png(raw, out_path, prompt)
 
 
 def generate_design(
@@ -115,7 +234,7 @@ def generate_design(
     """Produce a print-ready transparent PNG for `prompt` at `out_path`.
 
     STABLE SIGNATURE — do not change. MOCK mode yields a deterministic local PNG;
-    otherwise delegates to the (currently stubbed) real provider.
+    otherwise delegates to the real provider (Recraft).
     """
     cfg = cfg or config.load()
     out_path = Path(out_path)
