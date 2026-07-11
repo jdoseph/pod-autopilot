@@ -148,20 +148,26 @@ def run(
                 logger.info("STAGED %s (review-first; not published)", slug)
                 continue
 
-            # --- publish path ---
+            # --- publish path (idempotent via the client's slug ledger) ---
             image_id = client.upload_image(art_path)
             variant_ids: list[int] = []  # Prompt 5 supplies real variant ids + margin check
-            product_id = client.create_product(
-                title=concept.title, description=description,
+            pub = client.create_and_publish(
+                slug=slug, title=concept.title, description=description,
                 image_id=image_id, variant_ids=variant_ids, price_cents=price_cents,
+                mockup_dir=design_dir,
             )
-            pub = client.publish_product(product_id)
-            outcome.product_id = product_id
+            outcome.product_id = pub.product_id
             outcome.published = pub.published
-            summary.published += 1 if pub.published else 0
-            summary.staged += 0 if pub.published else 1
+            if pub.skipped:
+                outcome.skipped_reason = "already published (ledger)"
+                summary.skipped += 1
+            elif pub.published:
+                summary.published += 1
+            else:
+                summary.staged += 1
             summary.outcomes.append(outcome)
-            logger.info("PUBLISHED %s -> product %s (published=%s)", slug, product_id, pub.published)
+            logger.info("PUBLISHED %s -> product %s (published=%s, skipped=%s)",
+                        slug, pub.product_id, pub.published, pub.skipped)
 
     logger.info("=== done: published=%d staged=%d skipped=%d ===",
                 summary.published, summary.staged, summary.skipped)
