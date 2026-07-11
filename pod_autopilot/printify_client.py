@@ -32,7 +32,7 @@ from . import config
 
 logger = logging.getLogger(__name__)
 
-API_ROOT = "https://api.printify.com/v3"
+API_ROOT = "https://api.printify.com/v1"
 _TIMEOUT = 30           # seconds; every external call gets one (CLAUDE.md convention)
 _MAX_RETRIES = 5
 _BACKOFF_BASE = 1.5     # seconds; exponential

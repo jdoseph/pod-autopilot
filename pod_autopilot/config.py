@@ -83,13 +83,17 @@ class Config:
     trend_source: str = "google"       # "google" | "csv"
     trend_csv_path: str = ""
 
+    # Screening / USPTO (disabled unless a search URL is provided; see screening.py)
+    uspto_search_url: str = ""
+    uspto_api_key: str = ""
+
     # Behaviour
     mock: bool = False
     output_dir: Path = field(default_factory=lambda: ROOT / "output")
     min_margin: float = 0.35
     retail_price: float = 24.99
 
-    _SECRET_FIELDS = ("anthropic_api_key", "printify_api_token", "image_api_key")
+    _SECRET_FIELDS = ("anthropic_api_key", "printify_api_token", "image_api_key", "uspto_api_key")
 
     @classmethod
     def load(cls) -> "Config":
@@ -111,6 +115,8 @@ class Config:
             recraft_size=os.environ.get("RECRAFT_SIZE", "").strip() or "1024x1024",
             trend_source=(os.environ.get("TREND_SOURCE", "").strip() or "google").lower(),
             trend_csv_path=os.environ.get("TREND_CSV_PATH", "").strip(),
+            uspto_search_url=os.environ.get("USPTO_SEARCH_URL", "").strip(),
+            uspto_api_key=os.environ.get("USPTO_API_KEY", "").strip(),
             mock=_bool("MOCK", False),
             output_dir=out_path,
             min_margin=_float("MIN_MARGIN", 0.35),
