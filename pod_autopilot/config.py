@@ -77,6 +77,14 @@ def _int_list(name: str) -> tuple[int, ...]:
     return tuple(out)
 
 
+def _str_list(name: str) -> tuple[str, ...]:
+    """Parse a comma-separated list of strings from env (trimmed, non-empty)."""
+    raw = os.environ.get(name, "").strip()
+    if not raw:
+        return ()
+    return tuple(p.strip() for p in raw.split(",") if p.strip())
+
+
 @dataclass(frozen=True)
 class Config:
     # Anthropic / ideation
@@ -111,6 +119,11 @@ class Config:
     min_margin: float = 0.35
     retail_price: float = 24.99
 
+    # Scheduled runner
+    seeds: tuple[str, ...] = ()          # niches to process each scheduled run
+    per_run_cap: int = 3                 # max designs per seed per run
+    auto_publish: bool = False           # scheduled runs must opt in explicitly
+
     _SECRET_FIELDS = ("anthropic_api_key", "printify_api_token", "image_api_key", "uspto_api_key")
 
     @classmethod
@@ -140,6 +153,9 @@ class Config:
             output_dir=out_path,
             min_margin=_float("MIN_MARGIN", 0.35),
             retail_price=_float("RETAIL_PRICE", 24.99),
+            seeds=_str_list("SEEDS"),
+            per_run_cap=_int("PER_RUN_CAP") or 3,
+            auto_publish=_bool("AUTO_PUBLISH", False),
         )
 
     def masked(self) -> dict:

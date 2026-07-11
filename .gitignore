@@ -15,6 +15,7 @@ venv/
 
 # Pipeline artifacts
 output/
+logs/
 *.sqlite
 *.sqlite3
 *.db
