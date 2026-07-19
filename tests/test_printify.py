@@ -8,6 +8,15 @@ def key(monkeypatch):
     monkeypatch.setenv("PRINTIFY_API_KEY", "k")
 
 
+def test_shop_ids_by_channel_normalizes_and_skips_disconnected(monkeypatch):
+    monkeypatch.setattr(printify_client, "shops", lambda: [
+        {"id": 1, "title": "S", "sales_channel": "shopify"},
+        {"id": 2, "title": "E", "sales_channel": "Etsy"},
+        {"id": 3, "title": "old", "sales_channel": "disconnected"},
+    ])
+    assert printify_client.shop_ids_by_channel() == {"shopify": 1, "etsy": 2}
+
+
 def test_resolve_provider_keeps_valid_preferred(monkeypatch):
     monkeypatch.setattr(printify_client, "_get_json",
                         lambda url: [{"id": 27}, {"id": 99}])

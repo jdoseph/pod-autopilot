@@ -24,7 +24,7 @@ Printify auto-fulfills orders. Runs unattended on GitHub Actions
 ## Invariants — do not weaken
 
 - The IP gate fails closed (both gates must return approved + low risk). Never loosen to boost throughput.
-- `listing.AI_DISCLOSURE` is gated by `DISCLOSE_AI` (owner opted out for their own Shopify store, July 2026). It MUST be re-enabled for any Etsy publishing — Etsy enforces AI disclosure and removes listings without it. Never delete the constant or the gate; never mention AI/tools in listings, pins, or store copy while the owner's opt-out stands.
+- `listing.AI_DISCLOSURE` is gated by `DISCLOSE_AI` (owner opted out for their own Shopify store, July 2026), and `listing.for_channel` force-appends it to every Etsy listing regardless of that gate — Etsy enforces AI disclosure and removes listings without it. Never delete the constant, the gate, or the Etsy force-append; never mention AI/tools in Shopify listings, pins, or store copy while the owner's opt-out stands.
 - Every real cost is logged to the ledger; `budget.publishing_allowed()` must be checked before any publish.
 - USPTO phrase search has no free public API — it stays disabled unless `USPTO_SEARCH_URL` is set, and fails open to the Claude-knowledge screen.
 - Printify API is v1 (`api.printify.com/v1`).

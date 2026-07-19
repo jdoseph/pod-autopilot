@@ -36,7 +36,11 @@ def daily_run() -> None:
         log("Skipping run — no free actions wasted while paused.")
         return
 
-    shop = printify_client.shop_id()
+    channels = printify_client.shop_ids_by_channel()
+    log(f"Connected channels: {', '.join(sorted(channels)) or 'NONE'}")
+    if not channels:
+        log("No sales channel connected in Printify — nothing to publish to.")
+        return
 
     log("Stage 1: research (1 Sonnet call)...")
     concepts = research.generate_concepts(
@@ -76,23 +80,36 @@ def daily_run() -> None:
                 (RUN_DIR / f"{tag}.rejected.json").write_text(json.dumps(
                     {**a, "image_verdict": v2}, indent=2))  # provenance for tuning
                 continue
-            image_id = printify_client.upload_image(png)
-            product = printify_client.create_product(
-                shop, image_id, a["concept"]["product_type"],
-                copy["title"], copy["description"],
-                listing.price_for(a["concept"]["product_type"]), copy["tags"],
-                image_aspect=design.ASPECT_VALUE[aspect])
+            image_id = printify_client.upload_image(png)  # account-level: serves every shop
+            products, shopify_product = {}, None
+            for channel, shop in sorted(channels.items()):
+                try:  # one channel failing must not sink the others
+                    ch_copy = listing.for_channel(copy, channel)
+                    product = printify_client.create_product(
+                        shop, image_id, a["concept"]["product_type"],
+                        ch_copy["title"], ch_copy["description"],
+                        listing.price_for(a["concept"]["product_type"]), ch_copy["tags"],
+                        image_aspect=design.ASPECT_VALUE[aspect])
+                    products[channel] = product["id"]
+                    if channel == "shopify":
+                        shopify_product = product
+                    if APPROVAL_MODE == "auto":
+                        printify_client.publish(shop, product["id"])
+                        if channel == "etsy":   # Etsy charges $0.20/listing; Shopify doesn't
+                            budget.record_listing_fee()
+                        log(f"  PUBLISHED [{channel}] {product['id']}")
+                except Exception as e:
+                    log(f"  ERROR [{tag}/{channel}]: {e}")
+            if not products:
+                continue
             (RUN_DIR / f"{tag}.json").write_text(json.dumps(
-                {**a, "image_verdict": v2, "listing": copy, "product_id": product["id"]}, indent=2))
+                {**a, "image_verdict": v2, "listing": copy, "products": products}, indent=2))
             if APPROVAL_MODE == "auto":
-                printify_client.publish(shop, product["id"])
-                budget.record_listing_fee()
-                log(f"  PUBLISHED {product['id']}")
-                if marketing.enabled():
+                if marketing.enabled() and shopify_product:
                     try:
-                        mockup = (product.get("images") or [{}])[0].get("src", "")
+                        mockup = (shopify_product.get("images") or [{}])[0].get("src", "")
                         url = (f"https://{os.environ['SHOPIFY_STORE']}"
-                               f"/products/{product.get('external', {}).get('handle', '')}")
+                               f"/products/{shopify_product.get('external', {}).get('handle', '')}")
                         pin = marketing.post_pin(a["concept"], copy, mockup, url)
                         log(f"  PINNED {pin}")
                     except Exception as e:
@@ -107,12 +124,22 @@ def daily_run() -> None:
 
 
 def approve_all() -> None:
-    shop = printify_client.shop_id()
+    channels = printify_client.shop_ids_by_channel()
     for f in sorted(RUN_DIR.glob("c*.json")):
+        if ".rejected" in f.name:   # IP-gate provenance, never publishable
+            continue
         rec = json.loads(f.read_text())
-        printify_client.publish(shop, rec["product_id"])
-        budget.record_listing_fee()
-        log(f"PUBLISHED {rec['product_id']} ({rec['listing']['title'][:50]})")
+        # pre-Etsy staged records carry a single Shopify "product_id"
+        products = rec.get("products") or {"shopify": rec["product_id"]}
+        for channel, pid in sorted(products.items()):
+            shop = channels.get(channel)
+            if not shop:
+                log(f"SKIPPED [{channel}] {pid} — channel not connected")
+                continue
+            printify_client.publish(shop, pid)
+            if channel == "etsy":
+                budget.record_listing_fee()
+            log(f"PUBLISHED [{channel}] {pid} ({rec['listing']['title'][:50]})")
 
 
 if __name__ == "__main__":

@@ -41,10 +41,24 @@ def price_from_cost(cost_cents: int, product_type: str) -> int:
     return max(price, PRICE_FLOOR)
 
 
-def shop_id() -> int:
+def shops() -> list[dict]:
     r = requests.get(f"{BASE}/shops.json", headers=_headers(), timeout=30)
     r.raise_for_status()
-    return r.json()[0]["id"]
+    return r.json()
+
+
+def shop_ids_by_channel() -> dict[str, int]:
+    """Connected sales channels -> shop id, e.g. {"shopify": 1, "etsy": 2}.
+    Printify doesn't document the exact sales_channel strings, so match by
+    substring; unknown channels pass through under their raw name."""
+    out = {}
+    for s in shops():
+        ch = (s.get("sales_channel") or "").lower()
+        key = ("etsy" if "etsy" in ch else
+               "shopify" if "shopify" in ch else ch)
+        if key and key != "disconnected":
+            out.setdefault(key, s["id"])
+    return out
 
 
 def upload_image(png_path: str) -> str:

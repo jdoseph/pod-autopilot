@@ -31,6 +31,30 @@ def disclosure() -> str:
     on = os.environ.get("DISCLOSE_AI", "").lower() in ("1", "true", "yes")
     return AI_DISCLOSURE if on else ""
 
+
+ETSY_TITLE_MAX = 140   # Etsy hard limits; exceeding either fails the listing
+ETSY_TAG_MAX = 20
+
+
+def for_channel(copy: dict, channel: str) -> dict:
+    """Adapt one listing to a channel's hard limits. Etsy ALWAYS carries the
+    AI disclosure — Etsy enforces it on AI-assisted listings, so the owner's
+    DISCLOSE_AI opt-out applies to their own Shopify store only."""
+    if channel != "etsy":
+        return copy
+    c = dict(copy)
+    c["title"] = c["title"][:ETSY_TITLE_MAX].rstrip()
+    seen, tags = set(), []
+    for t in c.get("tags", []):
+        t = str(t).strip()[:ETSY_TAG_MAX].rstrip()
+        if t and t.lower() not in seen:
+            seen.add(t.lower())
+            tags.append(t)
+    c["tags"] = tags[:13]
+    if AI_DISCLOSURE not in c["description"]:
+        c["description"] = c["description"].rstrip() + AI_DISCLOSURE
+    return c
+
 # Provisional prices for the create payload only — the moment Printify
 # returns real per-variant costs, printify_client reprices every variant.
 BASE_COST = {"t-shirt": 1100, "mug": 600, "tote": 900, "poster": 800}  # cents

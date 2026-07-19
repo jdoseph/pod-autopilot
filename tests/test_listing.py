@@ -49,3 +49,28 @@ def test_bulk_fallback_when_model_skips_index(monkeypatch):
 
 def test_empty_input():
     assert listing.write_listings_bulk([]) == []
+
+
+def test_for_channel_etsy_always_discloses(monkeypatch):
+    monkeypatch.delenv("DISCLOSE_AI", raising=False)  # Shopify opt-out active
+    copy = {"title": "T", "tags": ["x"], "description": "About tees."}
+    out = listing.for_channel(copy, "etsy")
+    assert out["description"].endswith(listing.AI_DISCLOSURE)
+    assert "AI" not in copy["description"]  # original untouched for Shopify
+
+
+def test_for_channel_etsy_enforces_limits():
+    copy = {"title": "T" * 200,
+            "tags": ["a really long tail keyword tag", "short", "SHORT", "", "b"],
+            "description": "d" + listing.AI_DISCLOSURE}
+    out = listing.for_channel(copy, "etsy")
+    assert len(out["title"]) <= listing.ETSY_TITLE_MAX
+    assert all(len(t) <= listing.ETSY_TAG_MAX for t in out["tags"])
+    assert len(out["tags"]) == len({t.lower() for t in out["tags"]})  # deduped
+    assert "" not in out["tags"]
+    assert out["description"].count(listing.AI_DISCLOSURE) == 1  # not doubled
+
+
+def test_for_channel_shopify_passthrough():
+    copy = {"title": "T" * 200, "tags": ["x"], "description": "d"}
+    assert listing.for_channel(copy, "shopify") is copy
