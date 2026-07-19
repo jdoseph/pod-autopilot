@@ -1,0 +1,19 @@
+<!-- @dsCard group="Components" -->
+<style>
+  .pc{font-family:Inter,system-ui,sans-serif;padding:24px;display:flex;gap:24px}
+  .pc .card{width:200px;text-decoration:none;color:#111;display:block}
+  .pc .img{aspect-ratio:3/4;background:linear-gradient(135deg,#f4f4f4 0%,#e9e9e9 100%);border-radius:4px;transition:transform .25s ease;display:flex;align-items:center;justify-content:center;color:#bbb;font-size:12px}
+  .pc .card:hover .img{transform:rotate(-1.2deg) scale(1.02)}
+  .pc .t{font-size:14px;margin-top:8px;line-height:1.4}
+  .pc .p{font:600 12px Inter,sans-serif;margin-top:2px}
+  .pc .badge{position:absolute;margin:8px;background:#E64400;color:#fff;font:700 10px Inter,sans-serif;text-transform:uppercase;letter-spacing:.04em;padding:4px 10px;border-radius:100px}
+  .pc .lbl{font-size:11px;color:#444;align-self:end;max-width:24ch}
+</style>
+<div class="pc">
+  <a class="card" href="#">
+    <div style="position:relative"><span class="badge">Sale</span><div class="img">artwork</div></div>
+    <div class="t">Fueled by Caffeine and Controlled Chaos — Mug</div>
+    <div class="p">$18.95</div>
+  </a>
+  <div class="lbl">Image tilts −1.2° and scales 1.02 on hover — the signature quirky touch. Card radius 4px; sale badge is an accent pill.</div>
+</div>
