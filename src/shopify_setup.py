@@ -61,16 +61,32 @@ def setup_theme() -> None:
 if __name__ == "__main__":
     print("[shopify setup]\n")
     try:
-        # Verify auth works
+        # Verify auth works and check scopes
         shop = api("GET", "/shop.json").get("shop", {})
         print(f"✓ Authenticated to {shop.get('name', 'your store')}\n")
-        print("Manual setup steps (5 min):")
-        setup_collections()
-        setup_policies()
-        setup_shipping()
-        setup_theme()
-        print("\nThen your store is ready. First product publish will be via")
-        print("GitHub Actions (run: gh workflow run pod-autopilot --approve).")
+
+        # Try each scope and report
+        scopes_to_test = [
+            ("write_collections", lambda: api("GET", "/collections.json")),
+            ("write_policies", lambda: api("GET", "/shop.json")),
+            ("write_shipping", lambda: api("GET", "/shipping_zones.json")),
+            ("write_themes", lambda: api("GET", "/themes.json")),
+        ]
+
+        print("Scope availability:")
+        for scope_name, test_fn in scopes_to_test:
+            try:
+                test_fn()
+                print(f"  ✓ {scope_name}")
+            except RuntimeError as e:
+                if "403" in str(e):
+                    print(f"  ✗ {scope_name} (403 Forbidden)")
+                else:
+                    print(f"  ? {scope_name} ({e})")
+
+        print("\nIf any scopes show ✗, reinstall the app:")
+        print("  1. Settings → Apps → your app → ⋯ → Uninstall")
+        print("  2. Settings → Apps → your app → Install app")
     except Exception as e:
         print(f"✗ Auth failed: {e}\nCheck SHOPIFY_STORE/CLIENT_ID/SECRET.")
         exit(1)
