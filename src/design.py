@@ -9,12 +9,24 @@ from . import budget
 from .claude_client import ask_json
 
 SYSTEM = """You write prompts for an AI image model producing print-on-demand
-artwork. Requirements: transparent/solid background suitable for garment
-printing, bold and readable at 12x16 inches, no brand references, no real
-people, no copyrighted characters, and NEVER reference a named artist,
-studio, or 'in the style of' any identifiable creator — describe the desired
-aesthetic in generic terms instead. If the concept includes text, spell it
-exactly and keep it short."""
+artwork that must look professionally designed, never "AI-generated".
+
+STYLE RULES (bake these into every prompt):
+- flat vector illustration, bold simple shapes, clean sharp edges,
+  high contrast, screen-print aesthetic
+- limited palette: name 3-5 specific solid colors; say "solid color blocks,
+  no gradients, no airbrush shading, no photorealism"
+- single centered composition on a plain solid background with generous
+  margin — the artwork only, never a t-shirt/mug mockup, never a model
+- readable at 12x16 inches from across a room
+
+TEXT RULES: if the concept includes text, quote the EXACT wording, keep it
+under 6 words, and describe the type treatment (e.g. "bold retro serif
+arched above the illustration"). No other words or lettering anywhere.
+
+BANNED: brand references, real people, copyrighted characters, named
+artists/studios or 'in the style of' any identifiable creator, watercolor,
+3D renders, drop shadows, busy backgrounds, photorealistic detail."""
 
 
 def write_design_prompt(concept: dict) -> dict:
@@ -29,9 +41,26 @@ Return JSON: {{"image_prompt": str, "text_on_design": str or null,
 
 
 MODEL_URLS = {
-    "schnell": "black-forest-labs/flux-schnell",   # ~$0.003/img — default for tests
-    "pro": "black-forest-labs/flux-1.1-pro",       # ~$0.04/img — winners only
+    "schnell": "black-forest-labs/flux-schnell",   # ~$0.003/img — textless drafts
+    "pro": "black-forest-labs/flux-1.1-pro",       # ~$0.04/img — proven winners
+    "text": "ideogram-ai/ideogram-v3-turbo",       # ~$0.03/img — any design with text
 }
+
+
+def model_input(tier: str, image_prompt: str) -> dict:
+    """Per-model request payload. Ideogram v3 renders typography reliably
+    (90%+ accuracy vs Flux Schnell's garble); Design style + magic prompt
+    off keeps output faithful to our carefully constructed prompt."""
+    if tier == "text":
+        return {"prompt": image_prompt, "aspect_ratio": "3:4",
+                "style_type": "Design", "magic_prompt_option": "Off"}
+    return {"prompt": image_prompt, "aspect_ratio": "3:4",
+            "output_format": "png"}
+
+
+def pick_tier(design: dict) -> str:
+    """Route text-bearing designs to the typography-capable model."""
+    return "text" if design.get("text_on_design") else "schnell"
 
 
 def render(image_prompt: str, out_path: str, tier: str = "schnell",
@@ -52,8 +81,7 @@ def _render_once(image_prompt: str, out_path: str, tier: str) -> str:
     r = requests.post(
         f"https://api.replicate.com/v1/models/{MODEL_URLS[tier]}/predictions",
         headers={**headers, "Prefer": "wait"},
-        json={"input": {"prompt": image_prompt, "aspect_ratio": "3:4",
-                        "output_format": "png"}},
+        json={"input": model_input(tier, image_prompt)},
         timeout=120,
     )
     r.raise_for_status()

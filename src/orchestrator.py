@@ -64,7 +64,8 @@ def daily_run() -> None:
         tag = f"c{i:02d}"
         try:
             png = str(RUN_DIR / f"{tag}.png")
-            design.render(a["design"]["image_prompt"], png, tier="schnell")
+            design.render(a["design"]["image_prompt"], png,
+                          tier=design.pick_tier(a["design"]))
             v2 = ip_check.screen_image(png)  # gate 2: the rendered pixels
             if not v2["approved"]:
                 log(f"  IMAGE REJECTED [{tag}] ({v2['risk_level']}): {v2['reason'][:70]}")

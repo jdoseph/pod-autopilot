@@ -1,7 +1,8 @@
 # POD Autopilot
 
-Automated print-on-demand pipeline: Claude researches concepts → Flux renders
-art → two-gate IP screen → Printify product → publish to Shopify/Etsy →
+Automated print-on-demand pipeline: Claude researches concepts → Flux/Ideogram
+renders art (Ideogram for any design with text — Flux garbles typography) →
+two-gate IP+quality screen → Printify product → publish to Shopify/Etsy →
 Printify auto-fulfills orders. Runs unattended on GitHub Actions
 (`.github/workflows/pipeline.yml`).
 

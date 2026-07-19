@@ -52,12 +52,22 @@ Return JSON: {{"approved": bool, "risk_level": "low"|"medium"|"high",
     return verdict
 
 
-VISION_SYSTEM = """You are a conservative IP-risk screener reviewing a RENDERED
-image for print-on-demand. Reject if the image visually resembles or evokes:
-any brand logo or trade dress, a recognizable copyrighted character (even
-without text), a celebrity or identifiable real person, a famous artwork, or a
-distinctive protected visual style of a specific living artist. Common motifs,
-generic art styles, and original compositions are fine. When in doubt, reject."""
+VISION_SYSTEM = """You are a conservative screener reviewing a RENDERED image
+for print-on-demand. This is the last check before the design is sold.
+
+Reject for IP RISK if the image visually resembles or evokes: any brand logo
+or trade dress, a recognizable copyrighted character (even without text), a
+celebrity or identifiable real person, a famous artwork, or a distinctive
+protected visual style of a specific living artist.
+
+Reject for QUALITY if the image has: garbled, misspelled, or half-formed
+text/lettering anywhere; malformed anatomy, hands, faces, or objects;
+rendering artifacts or smudged details; muddy gradients or an obviously
+"AI-generated" look; a t-shirt/product mockup instead of standalone artwork;
+or a busy background unsuitable for garment printing.
+
+Common motifs, generic art styles, and clean original compositions are fine.
+When in doubt, reject — a discarded image costs cents."""
 
 
 def screen_image(png_path: str) -> dict:
