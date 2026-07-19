@@ -1,0 +1,46 @@
+{
+  "concept": {
+    "niche": "Amateur Mycologists",
+    "product_type": "Poster",
+    "concept": "A botanical-style scientific illustration grid of eight common foraged mushroom varieties labeled in Latin with 'Seek, Identify, Wonder' as a footer tagline.",
+    "audience": "Foraging hobbyists, cottage-core enthusiasts, and nature science lovers aged 20-40",
+    "score": 8.3,
+    "rationale": "Fall is peak foraging season and poster purchases spike for autumn home decor refreshes. Mycology is a rapidly growing hobby community with strong identity and low POD saturation. Scientific illustration style commands higher perceived value and price point. No IP concerns."
+  },
+  "design": {
+    "image_prompt": "A scientific botanical illustration grid displaying eight different mushroom specimens arranged in two rows of four. Each mushroom is rendered in detailed, naturalistic line-art style with cross-sections showing internal structure, gills, and spore patterns. The specimens represent common foraged varieties like button, oyster, chanterelle, morel, puffball, shelf, honey, and shiitake types. Include fine botanical detail work, subtle earth-tone watercolor washes on a clean white background, and small Latin nomenclature labels beneath each specimen. The overall composition is symmetrical, educational, and suitable for framing as a natural history reference poster.",
+    "text_on_design": "Seek, Identify, Wonder",
+    "style": "Vintage botanical scientific illustration with naturalistic line art and subtle watercolor washes, reminiscent of 19th-century natural history guides, rendered in muted earth tones and blacks on white"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The botanical scientific illustration style with Latin species labels is a well-established generic art form with no IP concerns. Common foraged mushroom varieties as subjects are not protectable. The tagline 'Seek, Identify, Wonder' is a short generic descriptive phrase combining three ordinary English words in a natural thematic sequence relevant to foraging; it does not appear to replicate any known registered trademark or distinctive protected slogan. No celebrity, brand, character, or lyric references are present. Overall risk is low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The image is an original botanical-style illustration of various mushroom types with labels. It depicts generic fungi in a common naturalist/scientific illustration style. No brand logos, recognizable copyrighted characters, celebrities, famous artworks, or distinctive protected artistic styles are present. This is a common motif in nature illustration with no identifiable IP concerns."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Mushroom Species Botanical Poster | Foraged Varieties Scientific Illustration",
+    "tags": [
+      "mushroom identification poster",
+      "botanical illustration art",
+      "foraging guide decor",
+      "mycology science print",
+      "cottage core wall art",
+      "nature lover gift",
+      "latin botanical names",
+      "forest fungi chart",
+      "educational science poster",
+      "naturalist home decor",
+      "fungi species reference",
+      "woodland aesthetic print",
+      "amateur mycologist gift"
+    ],
+    "description": "Explore the fascinating world of fungi with this scientific-style poster featuring eight common foraged mushroom varieties. Each specimen is beautifully illustrated in botanical detail with accurate Latin nomenclature, perfect for learning identification or elevating your nature-inspired space. The 'Seek, Identify, Wonder' footer captures the spirit of discovery. Ideal for foraging enthusiasts, nature students, science classrooms, cottage-core decorating, and anyone who appreciates the intricate beauty of the fungal kingdom. Frame it for your study, kitchen, or cabin\u2014a conversation starter that celebrates curiosity about the natural world.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+  },
+  "product_id": "6a5c39339bb34b7ffa059a92"
+}

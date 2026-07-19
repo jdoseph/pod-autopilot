@@ -1,0 +1,46 @@
+{
+  "concept": {
+    "niche": "Back to School Teachers",
+    "product_type": "Mug",
+    "concept": "A coffee mug reading 'Fueled by Caffeine and Controlled Chaos' with a chalkboard and tiny paper airplanes illustration.",
+    "audience": "Elementary and middle school teachers preparing for the new school year",
+    "score": 7.2,
+    "rationale": "Back to school buying peaks in late August; teacher gifts and self-purchases are a proven evergreen sub-niche. Caffeine humor is saturated but chalkboard aesthetic adds a niche-specific visual anchor. Low design complexity, high giftability."
+  },
+  "design": {
+    "image_prompt": "A ceramic coffee mug illustration featuring a chalkboard design with white chalk drawings of paper airplanes scattered around it. Include small doodles of stars and chalk marks. The mug should be centered and shown at a slight angle to display dimension. Use a warm cream background with the mug as the focal point. Include subtle steam wisps rising from the top of the mug.",
+    "text_on_design": "Fueled by Caffeine and Controlled Chaos",
+    "style": "Clean, modern illustration with hand-drawn charm. Bold, readable sans-serif typography. Warm color palette with navy blue, white, and cream tones. Suitable for printing on apparel with clear contrast against fabric."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled by Caffeine and Controlled Chaos' is a generic humorous expression combining common concepts. No known trademark registrations are associated with this specific phrase. The visual elements described (chalkboard, paper airplanes) are generic illustrative motifs with no IP encumbrances. The overall design presents no identifiable trademark, brand, celebrity, character, or protected slogan concerns."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Generic illustration of a plain white coffee mug with paper airplanes and stars rising from the steam. No brand logos, trade dress, recognizable characters, celebrity likenesses, or protected artistic styles detected. Common motifs in an original composition."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Teacher Coffee Mug | Fueled by Caffeine and Controlled Chaos",
+    "tags": [
+      "teacher appreciation gift",
+      "back to school mug",
+      "teacher coffee mug",
+      "classroom chaos humor",
+      "caffeine lover gift",
+      "teacher thank you gift",
+      "end of year teacher gift",
+      "education professional mug",
+      "funny teacher mug",
+      "elementary teacher gift",
+      "school staff appreciation",
+      "middle school teacher gift",
+      "new school year gift"
+    ],
+    "description": "Start your school day right with this relatable teacher mug featuring the motto 'Fueled by Caffeine and Controlled Chaos.' Playful chalkboard and paper airplane illustrations perfectly capture classroom life. This durable ceramic mug holds your favorite beverage and brings a smile during early mornings and afternoon slumps. An ideal gift for elementary and middle school teachers, whether they're preparing for a new school year, celebrating the end of one, or just need a laugh during a challenging week. Perfect for staff appreciation, thank-you gifts, or treating yourself\u2014because teachers deserve recognition for keeping the classroom magic alive. Great for any educator who embraces the beautiful chaos of their profession.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+  },
+  "product_id": "6a5c398d9bb34b7ffa059b31"
+}

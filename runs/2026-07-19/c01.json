@@ -1,0 +1,46 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking Hobbyists",
+    "product_type": "Tote",
+    "concept": "A canvas tote featuring an illustrated sourdough loaf with the phrase 'I Keep Things Alive (Mostly My Starter)' in hand-lettered type.",
+    "audience": "Home bakers aged 28-45 who maintain sourdough starters as a lifestyle hobby",
+    "score": 7.8,
+    "rationale": "Sourdough community is large, passionate, and identity-driven year-round. Totes are practical for farmers market season peaking in summer and early fall. Self-deprecating humor resonates strongly. Low IP risk, differentiable from generic baking merch."
+  },
+  "design": {
+    "image_prompt": "Illustrated sourdough loaf with a rustic, hand-drawn aesthetic. The loaf features detailed scoring marks and a golden-brown crusty exterior with visible texture. Include flour dust and breadcrumbs scattered around the base. Warm, earthy color palette with cream, tan, and golden brown tones. Clean, minimalist composition centered on a white background suitable for garment printing.",
+    "text_on_design": "I Keep Things Alive (Mostly My Starter)",
+    "style": "Hand-lettered typography with organic, slightly imperfect letterforms. Whimsical and relatable tone. Illustration style: detailed line work with watercolor-like fills, vintage botanical illustration influences, warm and inviting aesthetic."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Keep Things Alive (Mostly My Starter)' is a generic humorous statement about sourdough baking with no known trademark associations. The sourdough starter reference is a common cultural touchstone in home baking communities. The illustrated sourdough loaf is a generic food depiction. No celebrity, brand, character, team, or protected slogan references are present. This is original, everyday humor suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Generic illustration of a bread loaf with crumbs. No brand logos, recognizable characters, celebrity likenesses, famous artworks, or distinctive protected artistic styles detected. Common food motif in a standard cartoon/illustration style."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Sourdough Baker Canvas Tote | Keep Things Alive Starter Humor",
+    "tags": [
+      "sourdough baker gift",
+      "canvas tote bag",
+      "bread baking humor",
+      "sourdough starter lover",
+      "home baker tote",
+      "funny baker gift",
+      "fermentation hobby",
+      "artisan bread culture",
+      "baker lifestyle tote",
+      "cottage core shopping bag",
+      "bread enthusiast gift",
+      "kitchen humor apparel",
+      "baker community tote"
+    ],
+    "description": "Celebrate your sourdough journey with this charming canvas tote featuring a hand-lettered design that speaks to every starter-keeper's reality: 'I Keep Things Alive (Mostly My Starter).' Perfect for farmers market trips, grocery hauls, or displaying your baking passion. The illustrated sourdough loaf adds a touch of warmth and humor. Ideal for gifting to home bakers, fermentation fans, or anyone who's invested hours nurturing their starter. Durable, roomy, and proudly worn by people who understand that maintaining a sourdough culture is a lifestyle commitment. Great for bread-baking classes, farmer's markets, or everyday use.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+  },
+  "product_id": "6a5c39594742f6361f060b8d"
+}

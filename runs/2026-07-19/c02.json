@@ -1,0 +1,46 @@
+{
+  "concept": {
+    "niche": "Houseplant Collectors",
+    "product_type": "Tote",
+    "concept": "A tote printed with illustrated tropical leaves framing the text 'Just One More Plant, I Have Excellent Self Control' in serif type.",
+    "audience": "Millennial plant enthusiasts who collect rare houseplants and follow plant hobby communities online",
+    "score": 7.5,
+    "rationale": "Plant hobbyist community is large, visually driven, and purchases identity merchandise readily. Totes fit their farmers market and nursery shopping habits. Self-aware collector humor is proven. Evergreen with slight seasonal lift as people nest heading into fall. Low design complexity."
+  },
+  "design": {
+    "image_prompt": "Illustrated tropical leaves in rich greens and earth tones forming an ornate rectangular frame border on a white background. The frame features monstera leaves, palm fronds, and large leafy botanicals with detailed line work and subtle shading. The design is symmetrical and leaves generous white space in the center for text placement. Clean, modern botanical illustration style suitable for tote bag printing.",
+    "text_on_design": "Just One More Plant, I Have Excellent Self Control",
+    "style": "Modern botanical illustration with clean line work, detailed foliage, muted natural color palette of forest greens and warm neutrals, serif typography, minimalist composition with decorative frame border"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Just One More Plant, I Have Excellent Self Control' is a generic humorous expression about plant collecting with no known trademark registrations, celebrity associations, song lyric origins, or IP-protected source material. The illustrated tropical leaves are a common generic design element. The combination presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Generic tropical leaf border composition featuring common botanical motifs (monstera, broad leaves, palm fronds) in a watercolor style. No brand logos, recognizable characters, celebrities, famous artworks, or distinctive protected artist styles detected. Common decorative nature art suitable for print-on-demand."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Plant Collector Tote Bag | Excellent Self Control Tropical Leaves",
+    "tags": [
+      "plant lover tote bag",
+      "houseplant collector gift",
+      "tropical leaf design",
+      "funny plant parent tote",
+      "plant enthusiast bag",
+      "rare plant community",
+      "self control humor",
+      "millennial plant gift",
+      "botanical canvas tote",
+      "plant community merch",
+      "plant parent shopping bag",
+      "indoor plant lover gift",
+      "plant collecting humor"
+    ],
+    "description": "Wear your plant-collecting truth with this witty canvas tote: 'Just One More Plant, I Have Excellent Self Control.' Framed by beautifully illustrated tropical leaves, it's the perfect bag for plant enthusiasts who've lost count of their collection. Roomy enough for nursery finds, market trips, or everyday hauling. Connects you with the plant-parent community\u2014whether you're hunting rare varieties or admiring fellow collectors' greenery. Makes a thoughtful gift for plant lovers, balcony gardeners, or anyone who's ever sworn they had self-control and then came home with another plant. Durable, canvas construction designed for years of plant-hunting adventures.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+  },
+  "product_id": "6a5c397b4742f6361f060bcf"
+}
