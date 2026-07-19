@@ -30,7 +30,7 @@ jobs:
           SUPPORT_SMTP_HOST: ${{ secrets.SUPPORT_SMTP_HOST }}
           SUPPORT_EMAIL: ${{ secrets.SUPPORT_EMAIL }}
           SUPPORT_EMAIL_PASSWORD: ${{ secrets.SUPPORT_EMAIL_PASSWORD }}
-          APPROVAL_MODE: review   # flip to "auto" after the review period
+          APPROVAL_MODE: ${{ vars.APPROVAL_MODE || 'review' }}
         run: |
           python -m src.orchestrator
           python -m src.support
