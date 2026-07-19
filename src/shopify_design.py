@@ -7,6 +7,7 @@ Store NAME can only be changed in admin (Settings -> General) — the API
 returns 406 for shop mutations from custom apps.
 Run: python -m src.shopify_design
 """
+import copy
 import json
 import os
 
@@ -98,12 +99,6 @@ def _active_theme() -> dict:
     return theme
 
 
-def _theme_sections(theme_id: int) -> set[str]:
-    assets = api("GET", f"/themes/{theme_id}/assets.json").get("assets", [])
-    return {a["key"].removeprefix("sections/").removesuffix(".liquid")
-            for a in assets if a["key"].startswith("sections/")}
-
-
 def _write_theme_file(theme_id: int, filename: str, value: str) -> None:
     """REST asset write, falling back to GraphQL themeFilesUpsert."""
     try:
@@ -126,52 +121,47 @@ def _write_theme_file(theme_id: int, filename: str, value: str) -> None:
             raise RuntimeError(f"REST: {rest_err} | GraphQL: {errs}")
 
 
-def homepage_template() -> dict:
-    """Dawn-style JSON template: hero, four featured collections, values."""
-    sections = {
-        "hero": {"type": "rich-text", "blocks": {
-            "h": {"type": "heading", "settings": {"heading": BRAND}},
-            "t": {"type": "text",
-                  "settings": {"text": f"<p>{TAGLINE} Designed oddly, printed "
-                                       "on demand, shipped to your door.</p>"}},
-            "b": {"type": "button",
-                  "settings": {"button_label": "Shop everything",
-                               "button_link": "shopify://collections/all"}},
-        }, "block_order": ["h", "t", "b"], "settings": {}},
-    }
-    order = ["hero"]
-    for handle, (title, _, _) in SMART_COLLECTIONS.items():
-        sid = f"featured-{handle}"
-        sections[sid] = {"type": "featured-collection",
-                         "settings": {"title": title, "collection": handle}}
-        order.append(sid)
-    sections["values"] = {"type": "multicolumn", "blocks": {
-        "v1": {"type": "column", "settings": {
-            "title": "Original designs",
-            "text": "<p>Made here, found nowhere else.</p>"}},
-        "v2": {"type": "column", "settings": {
-            "title": "Printed just for you",
-            "text": "<p>Each order is produced on demand.</p>"}},
-        "v3": {"type": "column", "settings": {
-            "title": "No waste",
-            "text": "<p>Nothing sits unsold in a warehouse.</p>"}},
-    }, "block_order": ["v1", "v2", "v3"], "settings": {}}
-    order.append("values")
-    return {"sections": sections, "order": order}
-
-
 def setup_homepage() -> None:
+    """Rebrand the live Horizon homepage in place: edit the hero copy and
+    clone the theme's own product-list section once per collection, so every
+    setting comes from the theme itself and stays schema-valid."""
     theme = _active_theme()
     print(f"  · active theme: {theme['name']} (id {theme['id']})")
-    available = _theme_sections(theme["id"])
-    needed = {"rich-text", "featured-collection", "multicolumn"}
-    if not needed <= available:
-        print(f"  ! theme lacks sections {needed - available} — homepage left "
-              f"untouched. Available: {sorted(available)[:20]}")
+    asset = api("GET", f"/themes/{theme['id']}/assets.json",
+                params={"asset[key]": "templates/index.json"})
+    tpl = json.loads(asset["asset"]["value"])
+    sections, order = tpl["sections"], tpl["order"]
+
+    hero_id = next((s for s in order if sections[s].get("type") == "hero"), None)
+    proto_id = next((s for s in order
+                     if sections[s].get("type") == "product-list"), None)
+    if not (hero_id and proto_id):
+        print(f"  ! unexpected structure (types: "
+              f"{[sections[s].get('type') for s in order]}) — left untouched")
         return
+
+    hero = sections[hero_id]
+    for blk in hero.get("blocks", {}).values():
+        if blk.get("type") == "text":
+            blk["settings"]["text"] = (
+                f"<h1>{BRAND}</h1><p>{TAGLINE} Designed oddly, printed on "
+                "demand, shipped to your door.</p>")
+            break
+
+    proto = sections[proto_id]
+    new_sections, new_order = {hero_id: hero}, [hero_id]
+    for handle in SMART_COLLECTIONS:
+        sid = f"product_list_{handle.replace('-', '_')}"
+        sec = copy.deepcopy(proto)
+        sec["settings"]["collection"] = handle
+        sec["settings"]["max_products"] = 4
+        new_sections[sid] = sec
+        new_order.append(sid)
+    tpl["sections"], tpl["order"] = new_sections, new_order
+
     _write_theme_file(theme["id"], "templates/index.json",
-                      json.dumps(homepage_template(), indent=2))
-    print("  + homepage: hero + 4 featured collections + values row")
+                      json.dumps(tpl, indent=2))
+    print("  + homepage: branded hero + 4 collection grids (Horizon-native)")
 
 
 def dump_homepage() -> None:
