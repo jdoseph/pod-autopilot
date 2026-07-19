@@ -26,7 +26,8 @@ def access_token() -> str | None:
     r = requests.post(f"https://{shop}/admin/oauth/access_token", timeout=30,
                       data={"grant_type": "client_credentials",
                             "client_id": cid, "client_secret": secret})
-    r.raise_for_status()
+    if not r.ok:  # surface Shopify's reason (invalid_client etc.), not just the status
+        raise RuntimeError(f"token exchange {r.status_code}: {r.text[:300]}")
     j = r.json()
     _cached["token"] = j["access_token"]
     _cached["exp"] = time.time() + j.get("expires_in", 86400) - 300
