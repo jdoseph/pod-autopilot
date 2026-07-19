@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Amateur Mycologists",
-    "product_type": "Poster",
-    "concept": "A botanical-style scientific illustration grid of eight common foraged mushroom varieties labeled in Latin with 'Seek, Identify, Wonder' as a footer tagline.",
-    "audience": "Foraging hobbyists, cottage-core enthusiasts, and nature science lovers aged 20-40",
-    "score": 8.3,
-    "rationale": "Fall is peak foraging season and poster purchases spike for autumn home decor refreshes. Mycology is a rapidly growing hobby community with strong identity and low POD saturation. Scientific illustration style commands higher perceived value and price point. No IP concerns."
+    "niche": "Spooky Season Early Adopters",
+    "product_type": "t-shirt",
+    "concept": "A retro 1970s horror-movie-poster-style graphic tee featuring a haunted Victorian house and the phrase 'It's Always October Somewhere' in distressed display lettering.",
+    "audience": "Halloween enthusiasts and horror aesthetic fans aged 18-45",
+    "score": 7.6,
+    "rationale": "The 6-8 week window from mid-July perfectly targets September buying for Halloween, which peaks earlier every year. 'Halloween creep' is real and these buyers purchase intentionally early. Retro horror aesthetic is differentiated from generic pumpkin designs. High passion, high repeat-buyer niche."
   },
   "design": {
-    "image_prompt": "A scientific botanical illustration grid displaying eight different mushroom specimens arranged in two rows of four. Each mushroom is rendered in detailed, naturalistic line-art style with cross-sections showing internal structure, gills, and spore patterns. The specimens represent common foraged varieties like button, oyster, chanterelle, morel, puffball, shelf, honey, and shiitake types. Include fine botanical detail work, subtle earth-tone watercolor washes on a clean white background, and small Latin nomenclature labels beneath each specimen. The overall composition is symmetrical, educational, and suitable for framing as a natural history reference poster.",
-    "text_on_design": "Seek, Identify, Wonder",
-    "style": "Vintage botanical scientific illustration with naturalistic line art and subtle watercolor washes, reminiscent of 19th-century natural history guides, rendered in muted earth tones and blacks on white"
+    "image_prompt": "A haunted Victorian mansion with gothic architecture, crooked windows glowing with eerie orange light, bare twisted trees surrounding it, fog rolling across the ground. The scene uses a vintage horror movie aesthetic with muted earth tones, burnt orange, deep purple, and sickly yellow-green hues. Distressed texture and grain throughout. Solid dark background suitable for garment printing.",
+    "text_on_design": "It's Always October Somewhere",
+    "style": "Vintage 1970s horror movie poster aesthetic with distressed lettering, muted retro color palette, grainy texture, bold graphic design suitable for print-on-demand apparel"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The botanical scientific illustration style with Latin species labels is a well-established generic art form with no IP concerns. Common foraged mushroom varieties as subjects are not protectable. The tagline 'Seek, Identify, Wonder' is a short generic descriptive phrase combining three ordinary English words in a natural thematic sequence relevant to foraging; it does not appear to replicate any known registered trademark or distinctive protected slogan. No celebrity, brand, character, or lyric references are present. Overall risk is low."
+    "reason": "The phrase 'It's Always October Somewhere' is a generic seasonal/humorous expression with no known trademark registration or strong association with any specific brand, celebrity, or IP holder. It is a play on the common idiom 'It's always five o'clock somewhere,' which is itself a generic colloquial phrase. The retro horror poster aesthetic featuring a haunted Victorian house is a well-established generic visual genre with no specific character, film, or brand being referenced or evoked. The distressed display lettering is a common design style. No trademark conflicts, celebrity likenesses, character references, or protected slogans are identified. Design is cleared for print-on-demand use."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The image is an original botanical-style illustration of various mushroom types with labels. It depicts generic fungi in a common naturalist/scientific illustration style. No brand logos, recognizable copyrighted characters, celebrities, famous artworks, or distinctive protected artistic styles are present. This is a common motif in nature illustration with no identifiable IP concerns."
+    "reason": "Generic haunted house / spooky Victorian mansion illustration with common Halloween motifs. No recognizable brand, copyrighted character, celebrity, famous artwork, or distinctive protected artist style detected. Original atmospheric composition suitable for print-on-demand."
   },
   "listing": {
     "index": 0,
-    "title": "Mushroom Species Botanical Poster | Foraged Varieties Scientific Illustration",
+    "title": "Retro Horror Haunted House October Tee - Vintage 70s Movie Poster Style",
     "tags": [
-      "mushroom identification poster",
-      "botanical illustration art",
-      "foraging guide decor",
-      "mycology science print",
-      "cottage core wall art",
-      "nature lover gift",
-      "latin botanical names",
-      "forest fungi chart",
-      "educational science poster",
-      "naturalist home decor",
-      "fungi species reference",
-      "woodland aesthetic print",
-      "amateur mycologist gift"
+      "spooky season shirt",
+      "horror graphic tee",
+      "vintage halloween apparel",
+      "retro 70s design",
+      "haunted house aesthetic",
+      "october clothing",
+      "horror fan gift",
+      "distressed band tee style",
+      "scary movie merch",
+      "alternative fashion",
+      "dark aesthetic shirt",
+      "collector tee",
+      "gift for horror lovers"
     ],
-    "description": "Explore the fascinating world of fungi with this scientific-style poster featuring eight common foraged mushroom varieties. Each specimen is beautifully illustrated in botanical detail with accurate Latin nomenclature, perfect for learning identification or elevating your nature-inspired space. The 'Seek, Identify, Wonder' footer captures the spirit of discovery. Ideal for foraging enthusiasts, nature students, science classrooms, cottage-core decorating, and anyone who appreciates the intricate beauty of the fungal kingdom. Frame it for your study, kitchen, or cabin\u2014a conversation starter that celebrates curiosity about the natural world.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "Channel vintage horror vibes with this distressed graphic tee featuring a moody haunted Victorian mansion and 'It's Always October Somewhere' in bold retro lettering. Perfect for Halloween enthusiasts, horror fans, and anyone who lives for spooky season year-round. The 70s-inspired poster aesthetic makes it an ideal gift for collectors of vintage-style apparel or anyone seeking standout casual wear with dark aesthetic appeal. Comfortable everyday wear that celebrates Halloween spirit and classic horror aesthetics.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
   },
-  "product_id": "6a5c39339bb34b7ffa059a92"
+  "product_id": "6a5c660137cc8d74f603c24d"
 }

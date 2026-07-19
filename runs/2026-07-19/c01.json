@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Sourdough Baking Hobbyists",
-    "product_type": "Tote",
-    "concept": "A canvas tote featuring an illustrated sourdough loaf with the phrase 'I Keep Things Alive (Mostly My Starter)' in hand-lettered type.",
-    "audience": "Home bakers aged 28-45 who maintain sourdough starters as a lifestyle hobby",
-    "score": 7.8,
-    "rationale": "Sourdough community is large, passionate, and identity-driven year-round. Totes are practical for farmers market season peaking in summer and early fall. Self-deprecating humor resonates strongly. Low IP risk, differentiable from generic baking merch."
+    "niche": "First-Generation College Student Pride",
+    "product_type": "t-shirt",
+    "concept": "A clean, typographic tee reading 'First In Line' with a subtle graduation cap icon and small text 'First Generation Graduate' in a dignified, non-cheesy layout.",
+    "audience": "First-gen college students and their families, aged 17-45",
+    "score": 7.1,
+    "rationale": "Fall semester starts in late August, creating strong emotional purchase motivation right in the window. This identity is deeply meaningful and underserved with quality designs. Non-kitschy execution is key differentiator. Gift purchases from proud parents drive volume."
   },
   "design": {
-    "image_prompt": "Illustrated sourdough loaf with a rustic, hand-drawn aesthetic. The loaf features detailed scoring marks and a golden-brown crusty exterior with visible texture. Include flour dust and breadcrumbs scattered around the base. Warm, earthy color palette with cream, tan, and golden brown tones. Clean, minimalist composition centered on a white background suitable for garment printing.",
-    "text_on_design": "I Keep Things Alive (Mostly My Starter)",
-    "style": "Hand-lettered typography with organic, slightly imperfect letterforms. Whimsical and relatable tone. Illustration style: detailed line work with watercolor-like fills, vintage botanical illustration influences, warm and inviting aesthetic."
+    "image_prompt": "Clean, modern typographic design with bold sans-serif lettering reading 'First In Line' as the dominant text. Below it, a minimal line-drawn graduation cap icon in the same weight and color. Small supporting text reading 'First Generation Graduate' positioned underneath in a smaller, refined sans-serif font. Design uses a dignified, professional layout with generous negative space. Monochromatic color scheme suitable for garment printing. Solid white or transparent background. Symmetrical, centered composition that reads clearly at large scale.",
+    "text_on_design": "First In Line / [graduation cap icon] / First Generation Graduate",
+    "style": "Modern minimalist typography with geometric line iconography, professional and elegant aesthetic, suitable for print-on-demand apparel"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'I Keep Things Alive (Mostly My Starter)' is a generic humorous statement about sourdough baking with no known trademark associations. The sourdough starter reference is a common cultural touchstone in home baking communities. The illustrated sourdough loaf is a generic food depiction. No celebrity, brand, character, team, or protected slogan references are present. This is original, everyday humor suitable for print-on-demand."
+    "reason": "The phrase 'First In Line' is a common English expression with no distinctive trademark association in the apparel or education space. 'First Generation Graduate' is a widely used generic descriptive term in academic and social contexts, not owned by any single brand or institution. The graduation cap is a universal public domain symbol. No celebrity, team, brand, character, lyric, or protected slogan is referenced. The overall concept is original generic pride apparel with low IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Generic illustration of a bread loaf with crumbs. No brand logos, recognizable characters, celebrity likenesses, famous artworks, or distinctive protected artistic styles detected. Common food motif in a standard cartoon/illustration style."
+    "reason": "The image contains generic serif typography, a common graduation cap icon, and original text ('In Line / First in Lade'). No recognizable brand logos, copyrighted characters, celebrity likenesses, or protected artistic styles are present. The graduation cap is a generic, widely-used symbol not associated with any specific brand or IP."
   },
   "listing": {
     "index": 1,
-    "title": "Sourdough Baker Canvas Tote | Keep Things Alive Starter Humor",
+    "title": "First In Line First Generation Graduate Tee - Dignified Achievement Shirt",
     "tags": [
-      "sourdough baker gift",
-      "canvas tote bag",
-      "bread baking humor",
-      "sourdough starter lover",
-      "home baker tote",
-      "funny baker gift",
-      "fermentation hobby",
-      "artisan bread culture",
-      "baker lifestyle tote",
-      "cottage core shopping bag",
-      "bread enthusiast gift",
-      "kitchen humor apparel",
-      "baker community tote"
+      "first generation college shirt",
+      "graduation gift apparel",
+      "achievement tee",
+      "college pride clothing",
+      "first gen student gift",
+      "dignified design tee",
+      "class of shirt",
+      "family milestone apparel",
+      "grad announcement tee",
+      "proud parent gift",
+      "educational achievement",
+      "typographic tee",
+      "celebration shirt"
     ],
-    "description": "Celebrate your sourdough journey with this charming canvas tote featuring a hand-lettered design that speaks to every starter-keeper's reality: 'I Keep Things Alive (Mostly My Starter).' Perfect for farmers market trips, grocery hauls, or displaying your baking passion. The illustrated sourdough loaf adds a touch of warmth and humor. Ideal for gifting to home bakers, fermentation fans, or anyone who's invested hours nurturing their starter. Durable, roomy, and proudly worn by people who understand that maintaining a sourdough culture is a lifestyle commitment. Great for bread-baking classes, farmer's markets, or everyday use.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "Celebrate first-generation achievement with this clean, dignified tee featuring 'First In Line' and subtle graduation cap imagery. Thoughtfully designed without clich\u00e9s, this shirt honors the milestone of being the first in your family to graduate college. Ideal gift for first-gen students, proud families marking educational accomplishments, or anyone celebrating this meaningful achievement. Versatile everyday wear that speaks to personal pride and breakthrough moments.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
   },
-  "product_id": "6a5c39594742f6361f060b8d"
+  "product_id": "6a5c660e1f3a9bfaf807759e"
 }
