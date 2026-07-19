@@ -30,14 +30,24 @@ artists/studios or 'in the style of' any identifiable creator, watercolor,
 
 
 def write_design_prompt(concept: dict) -> dict:
-    return ask_json(
+    d = ask_json(
         SYSTEM,
         f"""Concept: {concept['concept']}
 Audience: {concept['audience']} | Product: {concept['product_type']}
-Return JSON: {{"image_prompt": str, "text_on_design": str or null,
-"style": str}}""",
+Return JSON: {{"image_prompt": str,
+"text_on_design": str or null (the EXACT words that appear on the design,
+nothing else — no style notes), "style": str}}""",
         tier="cheap",
     )
+    text = d.get("text_on_design")
+    if text:
+        # Enforce in code, not hope: Ideogram renders quoted text reliably,
+        # but only when the prompt states it explicitly and prominently.
+        d["image_prompt"] = (
+            f'The design prominently features the text "{text}" — spelled '
+            f'exactly, large and readable, integrated into the composition, '
+            f'no other words anywhere. {d["image_prompt"]}')
+    return d
 
 
 MODEL_URLS = {

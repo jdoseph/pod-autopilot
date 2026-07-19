@@ -22,18 +22,24 @@ def gather_signals() -> str:
 def generate_concepts(per_type: int = 3) -> list[dict]:
     """Returns list of {niche, product_type, concept, audience, score, rationale},
     a balanced slate across the three product types the store sells."""
-    total = per_type * 3
+    candidates = per_type * 2  # ask for spares so the >=7.0 bar still fills the slate
     data = ask_json(
         SYSTEM,
         f"""Trend signals:\n{gather_signals()}\n
-Generate exactly {per_type} print-on-demand product concepts EACH for the
-product types "t-shirt", "mug", and "tote" ({total} concepts total).
+Generate exactly {candidates} print-on-demand product concepts EACH for the
+product types "t-shirt", "mug", and "tote" ({candidates * 3} concepts total).
 product_type must be EXACTLY one of: "t-shirt", "mug", "tote" (lowercase).
 Return JSON: {{"concepts": [{{"niche": str, "product_type": str,
 "concept": str (the design idea in one sentence), "audience": str,
 "score": float 1-10, "rationale": str}}]}}""",
         tier="smart",
-        max_tokens=1000 + 400 * total,
+        max_tokens=1000 + 400 * candidates * 3,
     )
     concepts = sorted(data["concepts"], key=lambda c: c["score"], reverse=True)
-    return [c for c in concepts if c["score"] >= 7.0]
+    picked, counts = [], {}
+    for c in concepts:
+        ptype = c.get("product_type", "").lower().strip()
+        if c["score"] >= 7.0 and counts.get(ptype, 0) < per_type:
+            counts[ptype] = counts.get(ptype, 0) + 1
+            picked.append(c)
+    return picked

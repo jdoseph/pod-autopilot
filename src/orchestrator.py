@@ -71,6 +71,8 @@ def daily_run() -> None:
             v2 = ip_check.screen_image(png, a["design"].get("text_on_design"))
             if not v2["approved"]:
                 log(f"  IMAGE REJECTED [{tag}] ({v2['risk_level']}): {v2['reason'][:70]}")
+                (RUN_DIR / f"{tag}.rejected.json").write_text(json.dumps(
+                    {**a, "image_verdict": v2}, indent=2))  # provenance for tuning
                 continue
             image_id = printify_client.upload_image(png)
             product = printify_client.create_product(
