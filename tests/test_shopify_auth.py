@@ -28,8 +28,7 @@ def test_client_credentials_exchange_and_cache(monkeypatch):
     calls = []
 
     class Resp:
-        def raise_for_status(self):
-            pass
+        ok = True
 
         def json(self):
             return {"access_token": "shpat_minted", "expires_in": 86399}
