@@ -1,5 +1,10 @@
 name: store design setup
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "apply (make changes) or dump (print homepage template)"
+        default: apply
 jobs:
   design:
     runs-on: ubuntu-latest
@@ -8,7 +13,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
-      - run: python -m src.shopify_design
+      - run: python -m src.shopify_design ${{ inputs.mode || 'apply' }}
         env:
           SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
           SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}

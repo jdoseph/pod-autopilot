@@ -174,7 +174,21 @@ def setup_homepage() -> None:
     print("  + homepage: hero + 4 featured collections + values row")
 
 
+def dump_homepage() -> None:
+    """Print the live homepage template so it can be edited faithfully."""
+    theme = _active_theme()
+    print(f"THEME: {theme['name']} (id {theme['id']})")
+    asset = api("GET", f"/themes/{theme['id']}/assets.json",
+                params={"asset[key]": "templates/index.json"})
+    print("----- templates/index.json -----")
+    print(asset["asset"]["value"])
+
+
 if __name__ == "__main__":
+    import sys
+    if "dump" in sys.argv:
+        dump_homepage()
+        raise SystemExit(0)
     print("[storefront design]\n")
     failures = 0
     for step in (setup_collections, setup_about_page, setup_homepage):
