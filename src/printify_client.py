@@ -17,7 +17,9 @@ def _headers() -> dict:
 # Providers are preferences, not guarantees: availability shifts, so the
 # actual provider is resolved from the live catalog at create time.
 BLUEPRINTS = {"t-shirt": {"blueprint_id": 6, "preferred_provider": 99},   # Unisex Gildan 5000
-              "mug": {"blueprint_id": 68, "preferred_provider": 28}}
+              "mug": {"blueprint_id": 68, "preferred_provider": 28},
+              "tote": {"blueprint_id": 75, "preferred_provider": 75},      # Canvas tote
+              "poster": {"blueprint_id": 207, "preferred_provider": 11}}
 MAX_VARIANTS = 100  # Printify rejects products with more enabled variants
 
 
