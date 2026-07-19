@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Back to School Survival Tote",
+    "niche": "Book Clubs and Avid Readers",
     "product_type": "tote",
-    "concept": "Illustrated overflowing backpack with floating school supplies and the phrase 'Carrying the Weight of Entire Civilization (Unpaid)' for teacher use",
-    "audience": "Teachers who carry materials to and from classrooms daily",
-    "score": 7.5,
-    "rationale": "Teachers literally need large totes for classroom supplies. Functional product meets identity product. August buying window is perfectly timed 6-8 weeks from today."
+    "concept": "A tote with a minimalist illustration of an overflowing bookshelf and the text 'I Have a Problem and I'm Not Fixing It'.",
+    "audience": "Book club members and bibliophiles aged 30-60",
+    "score": 7.4,
+    "rationale": "Readers love carrying book-themed totes to libraries and bookstores. Self-deprecating humor about buying too many books is a beloved trope. Strong gifting potential in the fall season."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"Carrying the Weight of Entire Civilization (Unpaid)\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an oversized backpack bursting open with school supplies floating outward in a dynamic composition. Include pencils, books, papers, erasers, and apple scattered around the packed bag. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges in a screen-print aesthetic. Limited palette: charcoal gray, warm rust orange, cream white, and forest green on a solid light gray background. Single centered composition with generous margin on all sides. Readable at 12x16 inches from across a room.",
-    "text_on_design": "Carrying the Weight of Entire Civilization (Unpaid)",
-    "style": "Bold retro sans-serif, all caps, arched above the backpack illustration in charcoal gray"
+    "image_prompt": "The design prominently features the text \"I Have a Problem and I'm Not Fixing It\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist wooden bookshelf overflowing with books. Books stack vertically and horizontally with some tilted and leaning at angles, a few volumes tumbling off the top shelf. Simple geometric shapes for book spines in solid colors. Clean bold outlines, no shading or texture. Centered composition with generous margin on a plain cream background. High contrast, screen-print aesthetic, solid color blocks only. Readable at 12x16 inches from across a room.",
+    "text_on_design": "I Have a Problem and I'm Not Fixing It",
+    "style": "Bold modern sans-serif, all caps, positioned in a single line below the bookshelf illustration. Heavy weight, clean letterforms, high contrast against the cream background."
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Carrying the Weight of Entire Civilization (Unpaid)' is an original, descriptive expression of teacher appreciation humor with no known trademark conflicts. It does not reference any brand, character, celebrity, sports team, lyric, or protected slogan. The illustrated backpack and floating school supplies concept is a generic visual theme with no IP-protected elements. The combination is original creative expression suitable for print-on-demand."
+    "reason": "The phrase 'I Have a Problem and I'm Not Fixing It' is a generic humorous expression with no known trademark registration or association with a specific brand, celebrity, or IP holder. The minimalist bookshelf illustration is a common generic concept. The design references no protected characters, slogans, lyrics, or brand identities. This type of self-deprecating book-lover humor is widely used in the public domain of casual expression and presents minimal IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The text reads exactly 'CARRYING THE WEIGHT OF ENTIRE CIVILIZATION (UNPAID)' \u2014 correctly spelled and complete. The illustration is a clean, original composition of a school backpack overflowing with books, pencils, and school supplies, with an apple at the base. No IP risk, no quality issues, no malformed elements, and a plain background suitable for garment printing."
+    "reason": "Text reads exactly 'I HAVE A PROBLEM AND I'M NOT FIXING IT' \u2014 correctly spelled and complete. The illustration features a generic bookshelf with colorful books, a clean cream background, no IP concerns, no anatomy issues, and no rendering artifacts. Composition is clean and suitable for garment printing."
   },
   "listing": {
     "index": 3,
-    "title": "Teacher Survival Tote Bag - 'Carrying the Weight' Canvas Bag",
+    "title": "Book Lovers Tote Bag 'I Have a Problem and I'm Not Fixing It'",
     "tags": [
-      "teacher tote",
-      "school supplies bag",
-      "teacher gift",
-      "canvas carryall",
-      "back to school",
-      "classroom organization",
-      "teacher appreciation",
-      "overflowing backpack design",
-      "school bag",
-      "educator gift",
-      "funny teacher merch",
-      "durable canvas tote",
-      "work bag for teachers"
+      "book club tote",
+      "book lover gift",
+      "reading tote bag",
+      "bookshelf design",
+      "bibliophile tote",
+      "literary gift",
+      "funny book tote",
+      "reusable book bag",
+      "book nerd gift",
+      "avid reader tote",
+      "minimalist design",
+      "book collector gift",
+      "canvas book bag"
     ],
-    "description": "For teachers who carry the weight of everything. This sturdy canvas tote features an illustrated overflowing backpack with floating school supplies and humorous text celebrating the unpaid labor of educators. Spacious design holds lesson plans, papers, materials, and more. Durable handles built for daily classroom commutes. Witty gift for teachers, perfect for back-to-school season and year-round appreciation."
+    "description": "A witty tote for book club members and serious readers who know that overflowing bookshelves are a lifestyle, not a problem. Minimalist illustration of a bursting bookshelf pairs perfectly with the humorous message. Ideal for carrying library hauls, book club meetings, or as a gift for that special reader aged 30-60 in your life."
   },
-  "product_id": "6a5cdceae3817f662b062089"
+  "product_id": "6a5ce77fca81a1092c097217"
 }

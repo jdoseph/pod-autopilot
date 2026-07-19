@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Farmers Market Regular Shoppers",
-    "product_type": "tote",
-    "concept": "Grid of hand-illustrated seasonal produce with 'Local First, Always' in a bold woodblock print style",
-    "audience": "Urban and suburban shoppers who attend weekly farmers markets",
-    "score": 7.3,
-    "rationale": "Totes are the natural functional product for this audience. Farmers market season peaks in fall harvest months. Design style feels authentic to the aesthetic of the community."
+    "niche": "Back to School Teachers",
+    "product_type": "t-shirt",
+    "concept": "A vintage-style illustration of a stack of books with the text 'Fueled by Coffee and Chaos' beneath it.",
+    "audience": "K-12 teachers preparing for the fall semester",
+    "score": 7.2,
+    "rationale": "Back-to-school season hits late August; teachers are a passionate gifting niche with strong identity spending. The humor resonates broadly and avoids IP issues. Competition exists but evergreen demand."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"Local First, Always\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a 2x2 grid showcasing four seasonal produce items: spring asparagus bundle, summer tomato, autumn pumpkin, winter root vegetables. Each produce item rendered in bold simple shapes with clean sharp edges, solid color blocks, no gradients or shading. Color palette: deep forest green, warm burnt orange, bright red, cream white, charcoal black. Solid color blocks only, screen-print aesthetic. Single centered composition on plain cream background with generous margin. Readable at 12x16 inches from across a room.",
-    "text_on_design": "Local First, Always",
-    "style": "Bold woodblock print type treatment, thick serif letterforms with slight irregularity, arched above the grid of produce, solid black, high contrast. Flat vector illustration, limited palette, no gradients, no photorealism, screen-print ready."
+    "image_prompt": "The design prominently features the text \"Fueled by Coffee and Chaos\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a stack of five books in varying heights, tilted slightly off-center, rendered in solid color blocks with clean sharp edges. Books are stacked in a playful, slightly chaotic arrangement. Use a limited palette of 4 colors: deep burgundy, mustard yellow, forest green, and cream. No gradients, no shading, no photorealism. Single centered composition on a plain solid white background with generous margins. The stack should be readable and impactful from across a room at 12x16 inches. Screen-print aesthetic with bold simple shapes and high contrast.",
+    "text_on_design": "Fueled by Coffee and Chaos",
+    "style": "Bold retro serif typeface, centered directly below the book stack illustration, solid dark color matching one of the palette colors"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Local First, Always' is a generic promotional sentiment commonly used in the farm-to-table and local food movement space. It does not appear to be a distinctive registered trademark, and the combination with hand-illustrated seasonal produce in a woodblock print style is a common aesthetic in the artisan/farmers market design category. No celebrity, brand, character, or protected slogan references are present. The design concept is broadly generic enough to carry low IP risk, though the seller should note that no formal USPTO search was conducted and a clearance search is always advisable before large print runs."
+    "reason": "The phrase 'Fueled by Coffee and Chaos' is a generic humorous expression combining two common concepts. It does not reference any known registered trademark, brand, celebrity, character, or protected slogan. The vintage book stack illustration is a common generic design element. No IP concerns identified."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The design clearly displays 'LOCAL FIRST, ALWAYS' \u2014 correctly spelled and complete. The artwork features clean, flat-style vegetable illustrations (asparagus, tomato, pumpkin, radishes) with no IP concerns, no anatomical issues, no rendering artifacts, and a simple cream background suitable for garment printing."
+    "reason": "The design displays exactly 'Fueled by Coffee and Chaos' with correct spelling across the typography and book spines. The illustration is a clean stack of books with bookmarks, using a retro color palette. No IP concerns, no anatomy issues, no rendering artifacts, and the text is fully legible and correctly spelled."
   },
   "listing": {
     "index": 5,
-    "title": "Farmers Market Tote - 'Local First, Always' Produce Bag",
+    "title": "Teacher T-Shirt 'Fueled by Coffee and Chaos' Back to School Tee",
     "tags": [
-      "farmers market tote",
-      "produce shopping bag",
-      "local food gift",
-      "seasonal vegetables",
-      "market shopper gift",
-      "reusable grocery tote",
-      "woodblock print design",
-      "sustainable shopping",
-      "farmers market regular",
-      "local first movement",
-      "eco-friendly tote",
-      "canvas market bag",
-      "food lover gift"
+      "teacher appreciation shirt",
+      "back to school teacher",
+      "funny teacher tee",
+      "coffee lover shirt",
+      "classroom chaos shirt",
+      "k-12 teacher gift",
+      "vintage book design",
+      "teacher humor apparel",
+      "fall semester gift",
+      "educator tshirt",
+      "coffee addict shirt",
+      "teaching life shirt",
+      "school year apparel"
     ],
-    "description": "For shoppers who visit the farmers market religiously. This canvas tote showcases hand-illustrated seasonal produce in a grid layout with 'Local First, Always' in striking woodblock print style. Sturdy enough for weekly hauls of fresh vegetables, fruits, and local goods. Perfect for urban and suburban market enthusiasts who celebrate seasonal eating and local food systems. Practical and beautiful."
+    "description": "An honest tribute to the teacher life, featuring a vintage-style stack of books beneath the relatable motto. Perfect for K-12 educators prepping for fall semester or as appreciation from students and families. Celebrates the dual fuel source of every classroom: coffee and the beautiful controlled chaos of education."
   },
-  "product_id": "6a5cdd0778043256370a3f56"
+  "product_id": "6a5ce7ac05c86b870d071353"
 }

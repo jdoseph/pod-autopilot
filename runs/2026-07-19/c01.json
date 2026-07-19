@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Cat Ownership Identity",
-    "product_type": "mug",
-    "concept": "Black cat silhouette sitting inside a coffee cup viewed from above with 'They Were In Here First' as caption text",
-    "audience": "Cat owners who anthropomorphize their pets and drink coffee ritually",
-    "score": 7.8,
-    "rationale": "Cat mugs are perennial bestsellers. This concept has a fresh visual angle rather than recycled phrases. High repeat-gift potential and broad demographic reach among pet owners."
+    "niche": "Farmers Market Regulars",
+    "product_type": "tote",
+    "concept": "An illustrated tote showing a flat-lay of seasonal vegetables with 'Locally Obsessed' printed in hand-lettered style.",
+    "audience": "Farmers market shoppers and locavore food culture enthusiasts",
+    "score": 7.6,
+    "rationale": "Totes are the quintessential farmers market accessory. Late summer produce season is peak relevance. The design is functional and identity-affirming. Low IP risk and highly giftable."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"They Were In Here First\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cat silhouette sitting inside a coffee cup viewed from directly above. The cat is curled up, shown in pure solid black, centered in the cup. The cup is rendered in warm cream or tan with a dark brown rim and handle visible. Solid color blocks, no gradients, no shading, no photorealism. Clean sharp edges, screen-print aesthetic. Centered composition on plain white background with generous margin. High contrast, bold simple shapes.",
-    "text_on_design": "They Were In Here First",
-    "style": "Bold retro sans-serif block letters, all caps, positioned arched below the cup illustration in dark brown, clean and legible at distance"
+    "image_prompt": "The design prominently features the text \"Locally Obsessed\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a seasonal vegetable flat-lay arrangement. Center composition featuring a tomato, carrot, bell pepper, leafy greens, and zucchini arranged in an organic scattered pattern. Bold simple shapes with clean sharp edges, high contrast screen-print aesthetic. Solid color blocks only\u2014no gradients, no shading, no photorealism. Limited palette: forest green, burnt orange, tomato red, golden yellow, and cream. Plain solid cream background, generous margin around design, all elements connected and centered, readable at 12x16 inches from across a room.",
+    "text_on_design": "Locally Obsessed",
+    "style": "Hand-lettered sans-serif, organic flowing letterforms, positioned arched below the vegetable arrangement in forest green, 5 words maximum"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The black cat silhouette inside a coffee cup is a generic illustrative concept with no identifiable trademark, character, or brand association. The phrase 'They Were In Here First' is a common-sense humorous caption about cats claiming spaces, and does not appear to reference any known registered slogan, song lyric, movie quote, or branded catchphrase. The design as a whole is original generic humor suitable for print-on-demand."
+    "reason": "The phrase 'Locally Obsessed' is a generic descriptive expression commonly used in the farm-to-table and local food movement space. It does not reference any known registered trademark, brand, celebrity, team, character, or protected slogan. The illustrated seasonal vegetable flat-lay concept is likewise generic. No IP conflicts identified. Note: a formal USPTO trademark search is recommended before production as no database search was performed for this review."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The design clearly displays 'THEY WERE IN HERE FIRST' in bold, correctly spelled text on a mug with a generic black cat silhouette. Text matches the required phrase exactly. No IP risks, no quality issues, clean flat illustration style suitable for garment printing."
+    "reason": "Text reads 'LOCALLY OBSESSED' \u2014 correctly spelled and matches required copy exactly. Clean flat-style illustration with generic vegetable motifs (tomato, carrot, zucchini, bell pepper, leafy greens) in a retro color palette. No IP concerns, no brand resemblance, no anatomy issues, no rendering artifacts. Suitable for garment printing."
   },
   "listing": {
     "index": 1,
-    "title": "Cat Lover Coffee Mug - 'They Were In Here First' Cup",
+    "title": "Farmers Market Tote Bag 'Locally Obsessed' Seasonal Produce Design",
     "tags": [
-      "cat owner mug",
-      "cat coffee cup",
-      "funny cat mug",
-      "cat lady gift",
-      "pet humor gift",
-      "cat silhouette design",
-      "morning coffee mug",
-      "cat parent gift",
-      "ceramic mug",
-      "cat themed gifts",
-      "pet owner coffee",
-      "quirky cat gifts",
-      "office desk mug"
+      "farmers market tote",
+      "reusable grocery bag",
+      "locally sourced shopping",
+      "vegetable print tote",
+      "eco-friendly tote",
+      "farmers market bag",
+      "seasonal produce",
+      "locavore gift",
+      "sustainable shopping",
+      "farmers market lover",
+      "hand-lettered tote",
+      "food culture gift",
+      "canvas tote bag"
     ],
-    "description": "Perfect for the cat owner who knows their feline is the true ruler of the home. This mug features a black cat silhouette nestled inside a coffee cup, viewed from above, with the knowing caption 'They Were In Here First.' Ceramic construction, dishwasher-safe, 11oz capacity. Ideal for morning coffee rituals and cat-themed desk spaces. Gift idea for cat parents and pet lovers."
+    "description": "Carry your farmers market finds in style with this illustrated tote celebrating local, seasonal produce. Hand-lettered 'Locally Obsessed' design showcases vibrant vegetables in a beautiful flat-lay composition. Perfect for weekly farmers market trips, supporting local growers, or gifting to food-conscious friends and family who value fresh, community-sourced ingredients."
   },
-  "product_id": "6a5cdcce78043256370a3f2d"
+  "product_id": "6a5ce75383eb9fd865080558"
 }

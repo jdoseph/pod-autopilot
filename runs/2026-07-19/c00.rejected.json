@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Back to School Teachers",
+    "product_type": "mug",
+    "concept": "A large-print mug reading 'This Mug Is Basically a Lesson Plan' with a pencil doodle border.",
+    "audience": "Elementary and middle school teachers",
+    "score": 7.8,
+    "rationale": "Mugs are the top gifted item for teachers at back-to-school time. Funny and relatable copy with a clean visual. High purchase intent from parents buying teacher gifts in August."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"This Mug Is Basically a Lesson Plan\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a simple ceramic mug centered on a plain white background. The mug is rendered in solid light gray with a solid dark gray handle. Inside the mug bowl, a solid yellow rectangle represents hot liquid. Around the outer perimeter of the mug, a continuous pencil doodle border made of simple line-work: small dashes, dots, squiggles, and geometric shapes in solid black. The doodles are thin, playful, and hand-drawn-looking but perfectly clean vector lines. No shading, no gradients, no photorealism. Bold simple shapes, high contrast, screen-print aesthetic. Limited palette: light gray, dark gray, yellow, black, white background. Single centered composition with generous white margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "This Mug Is Basically a Lesson Plan",
+    "style": "Bold black sans-serif type, uppercase, arched across the upper half of the mug bowl, 5 lines of text stacked in hierarchy, solid color blocks, no gradients, no drop shadows, flat vector illustration, screen-print aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'This Mug Is Basically a Lesson Plan' is a generic humorous expression referencing a common teaching concept with no known trademark associations, celebrity ties, or protected IP. The pencil doodle border is a widely used generic decorative style with no distinctive brand association. This falls squarely into the category of common short-phrase humor targeting educators, which is generally safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text on the mug reads 'THIS MUG IS BASICALLY A LESSON PLAN' which matches the required text correctly. However, there are garbled/illegible characters on the mug handle area that appear to be malformed text or symbols, constituting a quality issue. Additionally, this is literally a mug mockup/product rendering rather than standalone garment artwork, which fails the quality requirement of being standalone art rather than a product mockup."
+  }
+}

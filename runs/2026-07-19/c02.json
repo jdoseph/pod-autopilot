@@ -2,45 +2,45 @@
   "concept": {
     "niche": "Homeschool Parents",
     "product_type": "t-shirt",
-    "concept": "T-shirt reading 'Principal, Teacher, Lunch Lady, IT Department' stacked in a vertical school-schedule format.",
-    "audience": "Homeschooling parents, homeschool co-op communities",
-    "score": 7.6,
-    "rationale": "Back-to-school timing is highly relevant for this audience. Homeschool community is passionate, tightly networked, and actively seeks identity merchandise. The multi-role humor concept is relatable and original. Competition exists but less saturated than mainstream teacher merch. Good evergreen tail beyond the season."
+    "concept": "A bold retro design reading 'Principal, Teacher, Lunch Lady' stacked in three color blocks.",
+    "audience": "Parents who homeschool their children",
+    "score": 7.5,
+    "rationale": "Homeschool community is large, passionate, and underserved in mainstream retail. Back-to-school timing is perfect. Multi-role humor resonates deeply and differentiates from standard teacher shirts."
   },
   "design": {
-    "image_prompt": "Flat vector illustration of a vertical school schedule board with four rectangular blocks stacked, each containing one role. Design in bold simple shapes with clean sharp edges, screen-print aesthetic. Color palette: deep navy blue, bright white, warm golden yellow, charcoal gray. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on plain cream background with generous margins. Readable at 12x16 inches from across a room.",
-    "text_on_design": "Principal\nTeacher\nLunch Lady\nIT Department",
-    "style": "Bold sans-serif, stacked vertically in separate rectangular blocks, each text in alternating colors (white on navy, white on golden, white on charcoal, white on navy), mimicking a school schedule board layout"
+    "image_prompt": "The design prominently features the text \"PRINCIPAL\nTEACHER\nLUNCH LADY\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for print-on-demand t-shirt. Design features three stacked horizontal color blocks in solid colors: top block deep navy blue, middle block burnt orange, bottom block forest green. Each block contains one word centered in bold retro sans-serif typography, all caps, white text: 'PRINCIPAL' / 'TEACHER' / 'LUNCH LADY'. Text is large and fills each block proportionally with clean sharp edges. Single centered composition on plain cream background with generous margins. No gradients, no shading, no photorealism. Screen-print aesthetic, high contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": "PRINCIPAL\nTEACHER\nLUNCH LADY",
+    "style": "flat vector illustration, bold retro sans-serif, three stacked solid color blocks, screen-print aesthetic, high contrast, clean sharp edges"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The design consists entirely of generic occupational titles commonly associated with school staff roles. None of the terms are trademarked phrases, branded slogans, or references to specific characters, celebrities, or intellectual property. The humor derives from the relatable concept of one person wearing many hats in a school setting, which is a generic and widely used comedic trope. No IP concerns identified."
+    "reason": "The phrase 'Principal, Teacher, Lunch Lady' is a generic list of common school staff roles with no trademark significance. None of these individual words or their combination constitute a protected mark, slogan, or reference to any specific brand, character, celebrity, or intellectual property. The retro stacked color block design concept is a common generic style. This is straightforward occupational/school-themed humor merchandise with no identifiable IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Clean graphic design featuring four stacked rounded rectangles in different colors (blue, yellow, cream, dark gray) each displaying the word 'ROLE' in bold text. Text is clear and correctly spelled, no IP concerns, no recognizable characters or logos, no anatomy issues. Simple and suitable for garment printing."
+    "reason": "The design displays exactly the required text 'PRINCIPAL / TEACHER / LUNCH LADY' correctly spelled and complete. The typography is clean and legible, using bold sans-serif fonts on colored rectangular backgrounds (navy, rust, forest green). No IP risks, no quality issues, no artifacts or anatomical elements. Clean composition suitable for garment printing."
   },
   "listing": {
     "index": 2,
-    "title": "Principal Teacher Lunch Lady IT Department Homeschool Parent Shirt",
+    "title": "Homeschool Mom T-Shirt 'Principal Teacher Lunch Lady' Retro Design",
     "tags": [
       "homeschool parent shirt",
-      "homeschool gift",
-      "mom life t-shirt",
-      "funny parent tee",
-      "homeschool apparel",
+      "homeschooling mom gift",
+      "back to school tee",
+      "funny parent shirt",
+      "homeschool humor",
       "teacher parent shirt",
-      "multitasking mom gift",
-      "homeschool co-op gift",
-      "back to school parent",
-      "school administrator shirt",
-      "parent humor tee",
-      "homeschooling funny shirt",
-      "family gift ideas"
+      "retro design tee",
+      "color block tshirt",
+      "mom appreciation gift",
+      "homeschool family",
+      "education gift",
+      "parenting humor shirt",
+      "back to school apparel"
     ],
-    "description": "For the homeschooling parent who wears every hat at once. This tee celebrates the reality of managing curriculum, classrooms, meal prep, and tech support all in one household. Stacked text in school-schedule format makes a humorous statement about the many roles parents play. Perfect gift for homeschool families, homeschool co-op members, and anyone juggling education at home. Comfort-fit 100% cotton, available in unisex sizing. Ideal for back-to-school season, parent appreciation, or just acknowledging the beautiful chaos of homeschooling."
+    "description": "Wear your multiple roles with pride in this retro-styled tee celebrating the homeschool parent juggling act. Bold color-blocked design stacks 'Principal, Teacher, Lunch Lady' for a fun, honest tribute to your daily responsibilities. Great for homeschooling parents, back-to-school season, or gifting to the multi-tasking educator in your life."
   },
-  "product_id": "6a5c75829ffbca031e0e5dfd"
+  "product_id": "6a5ce76a83eb9fd865080565"
 }

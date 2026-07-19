@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Night Shift Nurses",
+    "niche": "Grandparents with Grandchildren",
     "product_type": "mug",
-    "concept": "Dark background with a single glowing moon and bold text 'I Heal People While You Sleep'",
-    "audience": "Night shift nurses and hospital staff",
+    "concept": "A mug with illustrated small handprints and the text 'My Favorite Title Is Grandma/Grandpa' in warm serif type.",
+    "audience": "Grandparents aged 55-75 receiving gifts from adult children",
     "score": 7.3,
-    "rationale": "Healthcare worker identity is deeply personal and gift-driven. Night shift nurses are underserved in POD. Strong emotional hook with no IP concerns."
+    "rationale": "Grandparent gifting is evergreen and spikes around fall holidays entering the buying window. Sentimental but not cliche enough to be dismissed. Strong gift purchase intent year-round."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"I Heal People While You Sleep\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a single large glowing moon centered on a solid charcoal background. Moon is a perfect circle in pale cream with a thin bright yellow glow ring around it. No stars, no clouds, no additional elements. Solid color blocks only, no gradients, no shading. Clean sharp edges, screen-print aesthetic. Composition centered with generous margins on all sides.",
-    "text_on_design": "I Heal People While You Sleep",
-    "style": "Bold sans-serif typeface, all caps, arched above the moon illustration in bright cream color. High contrast against charcoal background. Single-line treatment, no outline or shadow effects. Professional, modern, readable at distance."
+    "image_prompt": "The design prominently features the text \"My Favorite Title Is Grandma\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of 8-10 small child handprints arranged in a loose circular pattern around the center. Handprints are simple outlined shapes with fingers splayed naturally. Color palette: warm cream, terracotta, soft sage green, warm taupe on a solid white background. Solid color blocks only, no gradients, no shading, no photorealism. Bold screen-print aesthetic with clean sharp edges. Single centered composition on plain white background with generous margins. Readable at 12x16 inches. No text, no busy elements, handprints only.",
+    "text_on_design": "My Favorite Title Is Grandma",
+    "style": "Bold warm serif typeface, arched in a gentle curve above the handprint illustration. Clean, professional, readable. Warm terracotta or taupe color matching the handprint palette."
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'I Heal People While You Sleep' is a generic descriptive slogan commonly used in nurse/healthcare humor merchandise. It does not reference any known registered trademark, brand, celebrity, sports team, character, or protected slogan. The moon and dark background design elements are generic. No IP concerns identified."
+    "reason": "The phrase 'My Favorite Title Is Grandma' is a common generic sentiment widely used in the grandparent gift market with no distinctive trademark association. The illustrated handprints are a generic decorative motif. No celebrity, brand, character, or protected slogan is referenced. This is a straightforward family-themed design with low IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The text reads exactly 'I HEAL PEOPLE WHILE YOU SLEEP' \u2014 correctly spelled and complete. The design is a clean typographic composition on a cream circle with yellow border against a dark background. No IP concerns, no quality issues, no anatomy, no artifacts."
+    "reason": "The design displays exactly 'MY FAVORITE TITLE IS GRANDMA' \u2014 correctly spelled and complete. The artwork consists of colorful children's handprints arranged around the text, which is a common generic motif with no IP concerns. Clean composition suitable for garment printing with a plain background."
   },
   "listing": {
     "index": 4,
-    "title": "Night Shift Nurse Mug 'I Heal People While You Sleep'",
+    "title": "Grandparent Mug 'My Favorite Title Is Grandma/Grandpa' Handprint",
     "tags": [
-      "nurse mug",
-      "night shift mug",
-      "healthcare worker gift",
-      "hospital staff mug",
-      "nurse appreciation",
-      "night shift worker",
-      "medical professional gift",
-      "glowing moon design",
-      "coffee mug nurse",
-      "RN gift",
-      "nurse thank you",
-      "shift work mug",
-      "healthcare mug"
+      "grandparent mug",
+      "grandma gift",
+      "grandpa gift",
+      "grandchild gift",
+      "personalized title mug",
+      "warm serif design",
+      "family mug",
+      "gift from grandkids",
+      "grandparent coffee cup",
+      "handprint mug",
+      "family love gift",
+      "sentimental gift",
+      "coffee mug grandparents"
     ],
-    "description": "A powerful mug for night shift heroes. Dark background with a single glowing moon and bold text that speaks to the dedication of nurses working overnight. Perfect for late-night coffee breaks, quiet reflection between shifts, or proud display on the break room shelf. Hospital staff, ER nurses, ICU workers, and night shift medical professionals will feel seen and appreciated. The striking design is eye-catching even in dim lighting. Ceramic construction with durable print. An honest tribute to those who heal while others sleep."
+    "description": "Celebrate the most meaningful title with this warm, illustrated mug featuring small handprints and serif typography. Perfect gift from adult children or grandchildren to the grandparents in their lives. Cozy morning reminder of favorite family roles, ideal for ages 55-75 who treasure their grandparent identity with every sip."
   },
-  "product_id": "6a5c792b20ea6e0b930f4e54"
+  "product_id": "6a5ce79483eb9fd865080587"
 }
