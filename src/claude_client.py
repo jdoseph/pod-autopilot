@@ -61,8 +61,20 @@ def ask_vision(system: str, user: str, png_path: str,
     return "".join(b.text for b in resp.content if b.type == "text")
 
 
+def extract_json(raw: str):
+    """Parse JSON from a model reply, tolerating fences, preamble, and
+    trailing prose — models occasionally add them despite instructions."""
+    raw = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```")
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError:
+        start, end = raw.find("{"), raw.rfind("}")
+        if start == -1 or end <= start:
+            raise
+        return json.loads(raw[start:end + 1])
+
+
 def ask_json(system: str, user: str, tier: str = "cheap", max_tokens: int = 1500):
     raw = ask(system + "\nRespond with ONLY valid JSON. No markdown fences, no preamble.",
               user, tier, max_tokens)
-    raw = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```")
-    return json.loads(raw)
+    return extract_json(raw)

@@ -6,7 +6,7 @@ import os
 
 import requests
 
-from .claude_client import ask_json, ask_vision
+from .claude_client import ask_json, ask_vision, extract_json
 
 SYSTEM = """You are a conservative IP-risk screener for print-on-demand.
 Reject anything that references or evokes: registered trademarks, brand names,
@@ -86,7 +86,6 @@ def screen_image(png_path: str, expected_text: str | None = None) -> dict:
         VISION_SYSTEM,
         expectation + '\nReturn ONLY JSON: {"approved": bool, "risk_level": "low"|"medium"|"high", "reason": str}',
         png_path, tier="smart")
-    raw = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```")
-    v = json.loads(raw)
+    v = extract_json(raw)
     v["approved"] = v["approved"] and v["risk_level"] == "low"
     return v
