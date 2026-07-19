@@ -16,10 +16,10 @@ def _headers() -> dict:
 # Popular defaults — list real IDs with GET /catalog/blueprints.json
 # Providers are preferences, not guarantees: availability shifts, so the
 # actual provider is resolved from the live catalog at create time.
-BLUEPRINTS = {"t-shirt": {"blueprint_id": 6, "preferred_provider": 99},   # Unisex Gildan 5000
-              "mug": {"blueprint_id": 68, "preferred_provider": 28},
-              "tote": {"blueprint_id": 75, "preferred_provider": 75},      # Canvas tote
-              "poster": {"blueprint_id": 207, "preferred_provider": 11}}
+BLUEPRINTS = {"t-shirt": {"blueprint_id": 145, "preferred_provider": None},   # Unisex Softstyle T-Shirt
+              "mug": {"blueprint_id": 68, "preferred_provider": None},         # Mug 11oz
+              "tote": {"blueprint_id": 507, "preferred_provider": None},       # Canvas Tote Bag
+              "poster": {"blueprint_id": 97, "preferred_provider": None}}
 MAX_VARIANTS = 100  # Printify rejects products with more enabled variants
 
 
@@ -50,6 +50,10 @@ def resolve_provider(blueprint_id: int, preferred: int | None = None) -> int:
     ids = [p["id"] for p in providers]
     if not ids:
         raise RuntimeError(f"no print providers offer blueprint {blueprint_id}")
+    # If no preference, pick the first available (Printify orders them by quality)
+    if not preferred:
+        return ids[0]
+    # If preference was set, use it if available, else fall back to first
     return preferred if preferred in ids else ids[0]
 
 
