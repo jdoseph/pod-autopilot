@@ -9,6 +9,7 @@ import email
 import imaplib
 import json
 import os
+import re
 import smtplib
 from datetime import datetime
 from email.mime.text import MIMEText
@@ -17,6 +18,12 @@ from pathlib import Path
 from .claude_client import ask_json
 
 FLAGGED = Path("runs/flagged_emails.jsonl")
+# Hard per-run ceiling on emails sent to Claude. A huge unseen backlog (spam
+# wave, misconfigured inbox, "mark all unread") must never turn into a mass
+# LLM spend again — July 19 2026: 11k personal emails, $13.61 in one run.
+MAX_PER_RUN = int(os.environ.get("SUPPORT_MAX_EMAILS", "25"))
+BULK_FROM = re.compile(r"no-?reply|do-?not-?reply|notifications?@|mailer@|newsletter",
+                       re.IGNORECASE)
 DISCLOSURE = ("\n\n—\nThis reply was drafted by our automated shop assistant. "
               "A human reviews flagged messages weekly.")
 
@@ -44,15 +51,39 @@ def _send(to_addr: str, subject: str, body: str) -> None:
         s.send_message(msg)
 
 
+def _is_bulk(msg) -> bool:
+    """Newsletter/notification/no-reply mail — never a customer inquiry."""
+    if msg.get("List-Unsubscribe") or msg.get("List-Id"):
+        return True
+    if (msg.get("Precedence") or "").lower() in ("bulk", "list", "junk"):
+        return True
+    if (msg.get("Auto-Submitted") or "no").lower() != "no":
+        return True
+    return bool(BULK_FROM.search(msg.get("From") or ""))
+
+
 def run() -> None:
     if not os.environ.get("SUPPORT_IMAP_HOST"):
         return
     m = _conn()
     m.select("INBOX")
     _, ids = m.search(None, "UNSEEN")
+    handled = skipped = 0
     for eid in ids[0].split():
+        # Peek headers first (doesn't set \Seen): bulk mail is marked read and
+        # skipped without an LLM call or a reply.
+        _, data = m.fetch(eid, "(BODY.PEEK[HEADER])")
+        if _is_bulk(email.message_from_bytes(data[0][1])):
+            m.store(eid, "+FLAGS", "\\Seen")
+            skipped += 1
+            continue
+        if handled >= MAX_PER_RUN:
+            print(f"[support] cap {MAX_PER_RUN} reached; leaving the rest "
+                  f"unseen for the next run")
+            break
         _, data = m.fetch(eid, "(RFC822)")
         msg = email.message_from_bytes(data[0][1])
+        handled += 1
         body = ""
         for part in msg.walk():
             if part.get_content_type() == "text/plain":
@@ -73,6 +104,7 @@ Return JSON: {{"category": str, "answer": str or null}}""",
                                     "from": msg.get("From"),
                                     "subject": msg.get("Subject"),
                                     "category": verdict.get("category")}) + "\n")
+    print(f"[support] {handled} emails handled, {skipped} bulk skipped")
     m.logout()
 
 

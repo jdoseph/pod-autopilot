@@ -49,6 +49,20 @@ def test_publishing_allowed_with_revenue(ledger, monkeypatch):
     assert ok
 
 
+def test_llm_breaker_trips_at_cap(ledger, monkeypatch):
+    monkeypatch.setattr(budget, "MONTHLY_LLM_BUDGET", 1.0)
+    budget._log("llm", 1.5, {"model": "m", "in": 1, "out": 1, "cached": 0})
+    with pytest.raises(RuntimeError, match="breaker tripped"):
+        budget.check_llm_budget()
+
+
+def test_llm_breaker_ignores_non_llm_spend(ledger, monkeypatch):
+    monkeypatch.setattr(budget, "MONTHLY_LLM_BUDGET", 1.0)
+    budget._log("listing_fee", 5.0)
+    budget._log("image", 5.0, {"tier": "pro"})
+    budget.check_llm_budget()   # only llm entries count toward the cap
+
+
 def test_month_revenue_fails_to_zero(monkeypatch):
     monkeypatch.setenv("SHOPIFY_STORE", "x.myshopify.com")
     monkeypatch.setenv("SHOPIFY_ACCESS_TOKEN", "tok")

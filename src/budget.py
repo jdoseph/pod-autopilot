@@ -19,6 +19,7 @@ from . import shopify_auth
 LEDGER = Path("runs/ledger.jsonl")
 GRACE_BUDGET = float(os.environ.get("GRACE_BUDGET_USD", "30"))   # allowed monthly loss floor
 SPEND_RATIO = float(os.environ.get("SPEND_RATIO", "0.25"))       # spend <= 25% of revenue
+MONTHLY_LLM_BUDGET = float(os.environ.get("MONTHLY_LLM_BUDGET_USD", "25"))
 ETSY_LISTING_FEE = 0.20
 IMAGE_COST = {"schnell": 0.003, "pro": 0.04, "text": 0.03, "bgremove": 0.0005}
 
@@ -63,6 +64,29 @@ def month_spend() -> float:
     start = _month_start()
     return sum(json.loads(line)["usd"] for line in LEDGER.open()
                if json.loads(line)["ts"] >= start)
+
+
+def llm_spend_mtd() -> float:
+    if not LEDGER.exists():
+        return 0.0
+    start = _month_start()
+    total = 0.0
+    for line in LEDGER.open():
+        e = json.loads(line)
+        if e["kind"] == "llm" and e["ts"] >= start:
+            total += e["usd"]
+    return total
+
+
+def check_llm_budget() -> None:
+    """Circuit breaker checked before every Claude call. Unlike the publish
+    governor (which only pauses listings), this hard-stops all LLM spend for
+    the month — the backstop against any runaway loop, whatever its source."""
+    spent = llm_spend_mtd()
+    if spent >= MONTHLY_LLM_BUDGET:
+        raise RuntimeError(
+            f"LLM budget breaker tripped: ${spent:.2f} spent this month >= "
+            f"${MONTHLY_LLM_BUDGET:.2f} cap (raise MONTHLY_LLM_BUDGET_USD to override)")
 
 
 def month_revenue() -> float:

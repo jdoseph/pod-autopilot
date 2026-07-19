@@ -25,6 +25,7 @@ def client() -> anthropic.Anthropic:
 
 
 def ask(system: str, user: str, tier: str = "cheap", max_tokens: int = 1500) -> str:
+    budget.check_llm_budget()
     model = MODELS[tier]
     resp = client().messages.create(
         model=model,
@@ -43,6 +44,7 @@ def ask_vision(system: str, user: str, png_path: str,
                tier: str = "smart", max_tokens: int = 500) -> str:
     """Text+image call (used by the post-render IP screen)."""
     import base64
+    budget.check_llm_budget()
     with open(png_path, "rb") as f:
         b64 = base64.b64encode(f.read()).decode()
     model = MODELS[tier]
