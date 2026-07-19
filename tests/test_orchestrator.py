@@ -27,6 +27,7 @@ def test_daily_run_end_to_end_mocked(monkeypatch, tmp_path):
                                    "style": "s"})
     monkeypatch.setattr(orchestrator.design, "render",
                         lambda prompt, out, tier, aspect="3:4": out)
+    monkeypatch.setattr(orchestrator.design, "remove_background", lambda p: True)
     monkeypatch.setattr(orchestrator.ip_check, "screen",
                         lambda c, t: {"approved": True, "risk_level": "low", "reason": ""})
     monkeypatch.setattr(orchestrator.ip_check, "screen_image",

@@ -96,10 +96,11 @@ def remove_background(png_path: str) -> bool:
     matches any garment color (the cream-rectangle-on-canvas-tote problem).
     Non-fatal: on failure the original opaque render is kept."""
     import base64
-    headers = {"Authorization": f"Bearer {os.environ['REPLICATE_API_TOKEN']}"}
-    with open(png_path, "rb") as f:
-        data_uri = "data:image/png;base64," + base64.b64encode(f.read()).decode()
     try:
+        headers = {"Authorization": f"Bearer {os.environ['REPLICATE_API_TOKEN']}"}
+        with open(png_path, "rb") as f:
+            data_uri = ("data:image/png;base64,"
+                        + base64.b64encode(f.read()).decode())
         r = requests.post(
             f"https://api.replicate.com/v1/models/{BG_REMOVER}/predictions",
             headers={**headers, "Prefer": "wait"},
