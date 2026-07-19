@@ -1,0 +1,23 @@
+<div class="joes-tiles">
+  {%- assign handles = 't-shirts,mugs,totes' | split: ',' -%}
+  {%- for handle in handles -%}
+    {%- assign c = collections[handle] -%}
+    {%- if c != blank -%}
+      <a class="joes-tile" href="{{ c.url }}">
+        {%- assign img = c.image | default: c.products.first.featured_image -%}
+        {%- if img -%}
+          <img src="{{ img | image_url: width: 900 }}" alt="{{ c.title | escape }}" loading="lazy">
+        {%- endif -%}
+        <span>{{ c.title }} &rarr;</span>
+      </a>
+    {%- endif -%}
+  {%- endfor -%}
+</div>
+
+{% schema %}
+{
+  "name": "Joe's category tiles",
+  "settings": [],
+  "presets": [{ "name": "Joe's category tiles" }]
+}
+{% endschema %}

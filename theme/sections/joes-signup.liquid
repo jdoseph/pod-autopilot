@@ -1,0 +1,29 @@
+<section class="joes-signup">
+  <h2>{{ section.settings.heading }}</h2>
+  <p>{{ section.settings.body }}</p>
+  {% form 'customer' %}
+    <input type="hidden" name="contact[tags]" value="newsletter">
+    <input type="email" name="contact[email]" placeholder="you@example.com"
+           required aria-label="Email address">
+    <button type="submit">Sign up</button>
+    {%- if form.posted_successfully? -%}
+      <p class="joes-signup__ok">Welcome to the odd list.</p>
+    {%- endif -%}
+  {% endform %}
+</section>
+
+{% schema %}
+{
+  "name": "Joe's signup",
+  "settings": [
+    { "type": "text", "id": "heading", "label": "Heading", "default": "Join the odd list" },
+    {
+      "type": "textarea",
+      "id": "body",
+      "label": "Body",
+      "default": "New prints, early access and the occasional bad pun. No spam — we're too busy plotting."
+    }
+  ],
+  "presets": [{ "name": "Joe's signup" }]
+}
+{% endschema %}

@@ -10,6 +10,7 @@ Run: python -m src.shopify_design
 import copy
 import json
 import os
+from pathlib import Path
 
 import requests
 
@@ -140,77 +141,31 @@ def _write_theme_file(theme_id: int, filename: str, value: str) -> None:
             raise RuntimeError(f"REST: {rest_err} | GraphQL: {errs}")
 
 
-def setup_homepage() -> None:
-    """Rebrand the live Horizon homepage in place: edit the hero copy and
-    clone the theme's own product-list section once per collection, so every
-    setting comes from the theme itself and stays schema-valid."""
+THEME_DIR = Path(__file__).resolve().parent.parent / "theme"
+
+
+def sync_theme_dir() -> None:
+    """Upload the repo's theme/ sources (custom sections, brand CSS, page
+    templates) to the live theme — the implementation of the Claude Design
+    handoff. Native Horizon header/footer/PDP/cart stay untouched; sorted
+    upload order puts sections/ before templates/ so JSON templates never
+    reference a section that has not landed yet."""
     theme = _active_theme()
     print(f"  · active theme: {theme['name']} (id {theme['id']})")
-    asset = api("GET", f"/themes/{theme['id']}/assets.json",
-                params={"asset[key]": "templates/index.json"})
-    tpl = json.loads(asset["asset"]["value"])
-    sections, order = tpl["sections"], tpl["order"]
-
-    hero_id = next((s for s in order if sections[s].get("type") == "hero"), None)
-    proto_id = next((s for s in order
-                     if sections[s].get("type") == "product-list"), None)
-    if not (hero_id and proto_id):
-        print(f"  ! unexpected structure (types: "
-              f"{[sections[s].get('type') for s in order]}) — left untouched")
-        return
-
-    hero = sections[hero_id]
-    hero["settings"]["section_height"] = "large"
-    for blk in hero.get("blocks", {}).values():
-        if blk.get("type") == "text":
-            blk["settings"]["text"] = (
-                f"<h1>{BRAND}</h1><p>{TAGLINE} Designed oddly, printed on "
-                "demand, shipped to your door.</p>")
-        elif blk.get("type") == "button":
-            blk["settings"].update(custom_button_background=ACCENT,
-                                   custom_button_text="#ffffff",
-                                   custom_button_border=ACCENT)
-
-    proto = sections[proto_id]
-    new_sections, new_order = {hero_id: hero}, [hero_id]
-    for handle in SMART_COLLECTIONS:
-        sid = f"product_list_{handle.replace('-', '_')}"
-        sec = copy.deepcopy(proto)
-        sec["settings"]["collection"] = handle
-        sec["settings"]["max_products"] = 4
-        new_sections[sid] = sec
-        new_order.append(sid)
-    tpl["sections"], tpl["order"] = new_sections, new_order
-
-    _write_theme_file(theme["id"], "templates/index.json",
-                      json.dumps(tpl, indent=2))
-    print("  + homepage: branded hero + 4 collection grids (Horizon-native)")
+    for path in sorted(THEME_DIR.rglob("*")):
+        if not path.is_file():
+            continue
+        key = path.relative_to(THEME_DIR).as_posix()
+        _write_theme_file(theme["id"], key, path.read_text(encoding="utf-8"))
+        print(f"  + {key}")
 
 
-# Brand interaction layer — element-level selectors only, so it works on any
-# Horizon DOM without depending on the theme's internal class names.
-BRAND_CSS = f"""/* Joseph's Shirts — brand layer (generated; safe to delete) */
-::selection {{ background: {ACCENT}; color: #fff; }}
-:focus-visible {{ outline: 2px solid {ACCENT}; outline-offset: 2px; }}
-h1, h2 {{ letter-spacing: -0.01em; }}
-a {{ text-underline-offset: 3px; text-decoration-thickness: 2px; }}
-button, [role="button"], input[type="submit"] {{
-  transition: transform .15s ease, box-shadow .15s ease;
-}}
-button:hover, [role="button"]:hover, input[type="submit"]:hover {{
-  transform: translateY(-2px);
-}}
-a img {{ transition: transform .25s ease; }}
-a:hover img {{ transform: rotate(-1.2deg) scale(1.02); }}
-"""
-CSS_ASSET = "assets/joes-brand.css"
 CSS_TAG = "{{ 'joes-brand.css' | asset_url | stylesheet_tag }}"
 
 
-def setup_brand_css() -> None:
-    """Install the brand stylesheet and link it from layout/theme.liquid."""
+def ensure_css_link() -> None:
+    """Make sure layout/theme.liquid loads the brand stylesheet."""
     theme = _active_theme()
-    _write_theme_file(theme["id"], CSS_ASSET, BRAND_CSS)
     layout = api("GET", f"/themes/{theme['id']}/assets.json",
                  params={"asset[key]": "layout/theme.liquid"})["asset"]["value"]
     if "joes-brand.css" not in layout:
@@ -219,7 +174,7 @@ def setup_brand_css() -> None:
             return
         layout = layout.replace("</head>", f"    {CSS_TAG}\n  </head>", 1)
         _write_theme_file(theme["id"], "layout/theme.liquid", layout)
-    print("  + brand CSS: tilt-on-hover, button lift, accent selection/focus")
+    print("  + brand stylesheet linked")
 
 
 def setup_theme_style() -> None:
@@ -260,8 +215,8 @@ if __name__ == "__main__":
         raise SystemExit(0)
     print("[storefront design]\n")
     failures = 0
-    for step in (setup_collections, setup_about_page, setup_homepage,
-                 setup_theme_style, setup_brand_css):
+    for step in (setup_collections, setup_about_page, setup_theme_style,
+                 sync_theme_dir, ensure_css_link):
         try:
             step()
         except Exception as e:

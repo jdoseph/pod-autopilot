@@ -1,0 +1,40 @@
+<section class="joes-products">
+  {%- assign coll = collections[section.settings.collection_handle] -%}
+  {%- if coll == blank -%}{%- assign coll = collections['all'] -%}{%- endif -%}
+  <div class="joes-products__head">
+    <h2>{{ section.settings.title }}</h2>
+    <a class="joes-products__all" href="{{ coll.url }}">View all {{ coll.products_count }} &rarr;</a>
+  </div>
+  <div class="joes-grid">
+    {%- for product in coll.products limit: section.settings.max_products -%}
+      <a class="joes-card" href="{{ product.url }}">
+        <div class="joes-card__media">
+          {%- if product.compare_at_price > product.price -%}
+            <span class="joes-card__badge">Sale</span>
+          {%- endif -%}
+          {%- if product.featured_image -%}
+            <img src="{{ product.featured_image | image_url: width: 700 }}"
+                 alt="{{ product.title | escape }}" loading="lazy">
+          {%- endif -%}
+        </div>
+        <div class="joes-card__title">{{ product.title }}</div>
+        <div class="joes-card__price">
+          {{ product.price | money }}
+          {%- if product.compare_at_price > product.price %} <s>{{ product.compare_at_price | money }}</s>{% endif -%}
+        </div>
+      </a>
+    {%- endfor -%}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Joe's bestsellers",
+  "settings": [
+    { "type": "text", "id": "title", "label": "Heading", "default": "Bestsellers" },
+    { "type": "text", "id": "collection_handle", "label": "Collection handle", "default": "all" },
+    { "type": "range", "id": "max_products", "label": "Products", "min": 2, "max": 12, "step": 1, "default": 4 }
+  ],
+  "presets": [{ "name": "Joe's bestsellers" }]
+}
+{% endschema %}

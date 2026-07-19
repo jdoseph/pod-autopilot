@@ -1,0 +1,21 @@
+<div class="joes-marquee" aria-hidden="true">
+  <div>
+    <span>{{ section.settings.text }}&nbsp;</span>
+    <span>{{ section.settings.text }}&nbsp;</span>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Joe's marquee",
+  "settings": [
+    {
+      "type": "text",
+      "id": "text",
+      "label": "Marquee text",
+      "default": "New drops weekly → Printed on demand → Free US shipping over $35 → Gifts for lovable obsessives →"
+    }
+  ],
+  "presets": [{ "name": "Joe's marquee" }]
+}
+{% endschema %}

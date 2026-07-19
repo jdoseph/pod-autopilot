@@ -1,0 +1,118 @@
+/* Joseph's Shirts — brand layer (generated from the Claude Design handoff) */
+:root {
+  --joes-ink: #111111;
+  --joes-accent: #E64400;
+  --joes-sub: #444444;
+  --joes-line: #E6E6E6;
+  --joes-ph: #f4f4f4;
+  --joes-display: var(--font-heading--family, 'Archivo Black', 'Arial Black', sans-serif);
+  --joes-body: var(--font-body--family, Inter, system-ui, sans-serif);
+}
+
+/* interaction layer */
+::selection { background: var(--joes-accent); color: #fff; }
+:focus-visible { outline: 2px solid var(--joes-accent); outline-offset: 2px; }
+a { text-underline-offset: 3px; text-decoration-thickness: 2px; }
+a:hover { color: var(--joes-accent); }
+button, [role="button"], input[type="submit"] {
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+button:hover, [role="button"]:hover, input[type="submit"]:hover {
+  transform: translateY(-2px);
+}
+
+/* shared components */
+.joes-btn {
+  display: inline-block; font: 600 14px var(--joes-body);
+  padding: 15px 32px; border-radius: 100px; text-decoration: none;
+  transition: transform .15s ease, box-shadow .15s ease; cursor: pointer;
+}
+.joes-btn:hover { transform: translateY(-2px); }
+.joes-btn--primary { background: var(--joes-accent); color: #fff; }
+.joes-btn--primary:hover { color: #fff; box-shadow: 0 6px 16px rgba(0,0,0,.12); }
+.joes-btn--secondary { border: 1px solid var(--joes-ink); color: var(--joes-ink); }
+.joes-display {
+  font-family: var(--joes-display); text-transform: uppercase;
+  line-height: 1.05; letter-spacing: -0.01em; margin: 0;
+}
+
+/* hero */
+.joes-hero { display: flex; flex-wrap: wrap; align-items: center; gap: 40px; padding: 64px 5vw 56px; }
+.joes-hero__copy { flex: 1 1 460px; min-width: 300px; }
+.joes-hero__copy h1 {
+  font-family: var(--joes-display); text-transform: uppercase;
+  font-size: clamp(44px, 6.5vw, 96px); line-height: 1.02;
+  letter-spacing: -0.01em; margin: 0; text-wrap: balance; color: var(--joes-ink);
+}
+.joes-hero__copy h1 span { color: var(--joes-accent); }
+.joes-hero__copy p { font: 16px/1.7 var(--joes-body); color: var(--joes-sub); max-width: 46ch; margin: 20px 0 28px; }
+.joes-hero__ctas { display: flex; gap: 14px; flex-wrap: wrap; }
+.joes-hero__fan { flex: 1 1 380px; min-width: 300px; display: flex; justify-content: center; align-items: center; padding: 24px 0; }
+.joes-hero__fan a { display: block; }
+.joes-hero__fan img {
+  width: clamp(150px, 16vw, 240px); aspect-ratio: 3/4; object-fit: cover;
+  border: 1px solid var(--joes-line); border-radius: 4px;
+  box-shadow: 0 12px 32px rgba(0,0,0,.10); background: var(--joes-ph); display: block;
+}
+.joes-hero__fan a:nth-child(1) img { transform: rotate(-5deg); }
+.joes-hero__fan a:nth-child(2) img { transform: rotate(3deg) translateY(18px); margin-left: -28px; }
+.joes-hero__fan a:nth-child(3) img { transform: rotate(-2deg) translateY(-10px); margin-left: -28px; }
+
+/* category tiles */
+.joes-tiles { padding: 24px 5vw 8px; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+.joes-tile { position: relative; border-radius: 4px; overflow: hidden; background: var(--joes-ph); aspect-ratio: 4/3; display: block; }
+.joes-tile img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .25s ease; }
+.joes-tile:hover img { transform: rotate(-1.2deg) scale(1.03); }
+.joes-tile span {
+  position: absolute; left: 16px; bottom: 14px; background: #fff; color: var(--joes-ink);
+  border-radius: 100px; padding: 8px 18px;
+  font-family: var(--joes-display); text-transform: uppercase; font-size: 16px;
+}
+
+/* product grid + cards */
+.joes-products { padding: 56px 5vw 24px; }
+.joes-products__head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 22px; }
+.joes-products__head h2 { font-family: var(--joes-display); text-transform: uppercase; font-size: clamp(28px, 3.4vw, 44px); line-height: 1.05; margin: 0; color: var(--joes-ink); }
+.joes-products__all { font: 600 13px var(--joes-body); color: var(--joes-ink); text-decoration: none; border-bottom: 2px solid var(--joes-ink); padding-bottom: 2px; }
+.joes-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 24px 16px; }
+.joes-card { display: block; text-decoration: none; color: var(--joes-ink); }
+.joes-card__media { position: relative; border-radius: 4px; overflow: hidden; background: var(--joes-ph); aspect-ratio: 3/4; }
+.joes-card__media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .25s ease; }
+.joes-card:hover .joes-card__media img { transform: rotate(-1.2deg) scale(1.02); }
+.joes-card__badge {
+  position: absolute; margin: 10px; z-index: 1; background: var(--joes-accent); color: #fff;
+  font: 700 10px var(--joes-body); text-transform: uppercase; letter-spacing: .04em;
+  padding: 4px 10px; border-radius: 100px;
+}
+.joes-card__title { font: 14px/1.4 var(--joes-body); margin-top: 10px; }
+.joes-card__price { font: 600 12px var(--joes-body); margin-top: 2px; }
+.joes-card__price s { color: var(--joes-sub); font-weight: 400; }
+
+/* brand statement */
+.joes-statement { background: var(--joes-ink); color: #fff; text-align: center; padding: 80px 5vw; margin-top: 48px; }
+.joes-statement h2 { font-family: var(--joes-display); text-transform: uppercase; font-size: clamp(30px, 4vw, 52px); line-height: 1.05; margin: 0; text-wrap: balance; }
+.joes-statement p { font: 15px/1.7 var(--joes-body); color: #ffffffcc; max-width: 52ch; margin: 16px auto 0; }
+
+/* marquee */
+.joes-marquee { border-bottom: 1px solid var(--joes-line); overflow: hidden; padding: 18px 0; white-space: nowrap; }
+.joes-marquee div {
+  display: inline-flex; animation: joes-mq 22s linear infinite;
+  font-family: var(--joes-display); text-transform: uppercase; font-size: 18px; color: var(--joes-ink);
+}
+.joes-marquee span { padding-right: 40px; }
+@keyframes joes-mq { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+/* signup */
+.joes-signup { text-align: center; padding: 80px 5vw; }
+.joes-signup h2 { font-family: var(--joes-display); text-transform: uppercase; font-size: clamp(28px, 3.4vw, 44px); margin: 0; color: var(--joes-ink); }
+.joes-signup p { font: 14px/1.7 var(--joes-body); color: var(--joes-sub); max-width: 44ch; margin: 12px auto 24px; }
+.joes-signup form { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+.joes-signup input[type="email"] {
+  font: 14px var(--joes-body); border: 1px solid var(--joes-ink);
+  border-radius: 100px; padding: 14px 22px; width: min(300px, 70vw); outline: none;
+}
+.joes-signup button {
+  font: 600 14px var(--joes-body); background: var(--joes-accent); color: #fff;
+  border: 0; border-radius: 100px; padding: 14px 30px; cursor: pointer;
+}
+.joes-signup .joes-signup__ok { color: var(--joes-ink); font-weight: 600; margin-top: 14px; }

@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "hero": { "type": "joes-hero", "settings": {} },
+    "tiles": { "type": "joes-category-tiles", "settings": {} },
+    "best": { "type": "joes-bestsellers", "settings": { "title": "Bestsellers", "collection_handle": "all", "max_products": 4 } },
+    "statement": { "type": "joes-statement", "settings": {} },
+    "marquee": { "type": "joes-marquee", "settings": {} },
+    "signup": { "type": "joes-signup", "settings": {} }
+  },
+  "order": ["hero", "tiles", "best", "statement", "marquee", "signup"]
+}

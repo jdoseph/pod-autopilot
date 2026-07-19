@@ -1,0 +1,38 @@
+<section class="joes-hero">
+  <div class="joes-hero__copy">
+    <h1>Quirky prints for <span>particular</span> people.</h1>
+    <p>{{ section.settings.subtext }}</p>
+    <div class="joes-hero__ctas">
+      <a class="joes-btn joes-btn--primary" href="{{ routes.all_products_collection_url }}">Shop everything</a>
+      <a class="joes-btn joes-btn--secondary" href="/collections/totes">Browse totes</a>
+    </div>
+  </div>
+  {%- assign fan = collections['all'].products -%}
+  {%- if fan.size > 0 -%}
+    <div class="joes-hero__fan">
+      {%- for product in fan limit: 3 -%}
+        {%- if product.featured_image -%}
+          <a href="{{ product.url }}">
+            <img src="{{ product.featured_image | image_url: width: 700 }}"
+                 alt="{{ product.title | escape }}" loading="lazy">
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+</section>
+
+{% schema %}
+{
+  "name": "Joe's hero",
+  "settings": [
+    {
+      "type": "textarea",
+      "id": "subtext",
+      "label": "Subtext",
+      "default": "Tees, mugs and totes for teachers, gardeners, librarians and other lovable obsessives. Designed oddly, printed on demand, shipped to your door."
+    }
+  ],
+  "presets": [{ "name": "Joe's hero" }]
+}
+{% endschema %}
