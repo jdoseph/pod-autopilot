@@ -20,7 +20,7 @@ LEDGER = Path("runs/ledger.jsonl")
 GRACE_BUDGET = float(os.environ.get("GRACE_BUDGET_USD", "30"))   # allowed monthly loss floor
 SPEND_RATIO = float(os.environ.get("SPEND_RATIO", "0.25"))       # spend <= 25% of revenue
 ETSY_LISTING_FEE = 0.20
-IMAGE_COST = {"schnell": 0.003, "pro": 0.04, "text": 0.03}
+IMAGE_COST = {"schnell": 0.003, "pro": 0.04, "text": 0.03, "bgremove": 0.0005}
 
 # $/MTok — verified July 2026; batch API halves these if you migrate to batches
 PRICES = {

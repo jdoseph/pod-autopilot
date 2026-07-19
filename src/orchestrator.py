@@ -66,8 +66,10 @@ def daily_run() -> None:
         tag = f"c{i:02d}"
         try:
             png = str(RUN_DIR / f"{tag}.png")
+            aspect = design.pick_aspect(a["concept"]["product_type"])
             design.render(a["design"]["image_prompt"], png,
-                          tier=design.pick_tier(a["design"]))
+                          tier=design.pick_tier(a["design"]), aspect=aspect)
+            design.remove_background(png)  # art matches any garment color
             v2 = ip_check.screen_image(png, a["design"].get("text_on_design"))
             if not v2["approved"]:
                 log(f"  IMAGE REJECTED [{tag}] ({v2['risk_level']}): {v2['reason'][:70]}")
@@ -78,7 +80,8 @@ def daily_run() -> None:
             product = printify_client.create_product(
                 shop, image_id, a["concept"]["product_type"],
                 copy["title"], copy["description"],
-                listing.price_for(a["concept"]["product_type"]), copy["tags"])
+                listing.price_for(a["concept"]["product_type"]), copy["tags"],
+                image_aspect=design.ASPECT_VALUE[aspect])
             (RUN_DIR / f"{tag}.json").write_text(json.dumps(
                 {**a, "image_verdict": v2, "listing": copy, "product_id": product["id"]}, indent=2))
             if APPROVAL_MODE == "auto":

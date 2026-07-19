@@ -17,9 +17,13 @@ def _headers() -> dict:
 # Popular defaults — list real IDs with GET /catalog/blueprints.json
 # Providers are preferences, not guarantees: availability shifts, so the
 # actual provider is resolved from the live catalog at create time.
+# image_y / panel_frac: blueprint 507's "front" area is a tall WRAP running
+# under the bag — art must sit in the top half or it prints past the fold
+# and looks cut off on the physical front face.
 BLUEPRINTS = {"t-shirt": {"blueprint_id": 145, "preferred_provider": None},   # Unisex Softstyle T-Shirt
               "mug": {"blueprint_id": 68, "preferred_provider": None},         # Mug 11oz
-              "tote": {"blueprint_id": 507, "preferred_provider": None},       # Canvas Tote Bag
+              "tote": {"blueprint_id": 507, "preferred_provider": None,        # Canvas Tote Bag
+                       "image_y": 0.25, "panel_frac": 0.5},
               "poster": {"blueprint_id": 97, "preferred_provider": None}}
 MAX_VARIANTS = 100  # Printify rejects products with more enabled variants
 
@@ -58,6 +62,18 @@ def _get_json(url: str) -> dict:
     return r.json()
 
 
+def contain_scale(image_aspect: float, area_w: int | None, area_h: int | None,
+                  max_scale: float = 0.9) -> float:
+    """Largest fraction of the print-area WIDTH the image can occupy while
+    the whole image still fits inside the area (Printify crops overflow —
+    this is why portrait art was getting cut off on square tote areas).
+    image_aspect = width/height of the artwork; 5% breathing room."""
+    if not (area_w and area_h):
+        return max_scale
+    fit = image_aspect * area_h / area_w * 0.95
+    return round(min(max_scale, fit), 4)
+
+
 def resolve_provider(blueprint_id: int, preferred: int | None = None) -> int:
     """Pick a print provider that actually serves this blueprint right now."""
     providers = _get_json(f"{BASE}/catalog/blueprints/{blueprint_id}/print_providers.json")
@@ -72,13 +88,21 @@ def resolve_provider(blueprint_id: int, preferred: int | None = None) -> int:
 
 
 def create_product(shop: int, image_id: str, product_type: str,
-                   title: str, description: str, price_cents: int, tags: list[str]) -> dict:
+                   title: str, description: str, price_cents: int,
+                   tags: list[str], image_aspect: float = 0.75) -> dict:
     product_type = product_type.lower().strip()  # research sometimes capitalizes
     bp = BLUEPRINTS.get(product_type, BLUEPRINTS["t-shirt"])
     provider = resolve_provider(bp["blueprint_id"], bp.get("preferred_provider"))
     all_variants = _get_json(
         f"{BASE}/catalog/blueprints/{bp['blueprint_id']}/print_providers/{provider}/variants.json"
     )["variants"][:MAX_VARIANTS]
+    panel = bp.get("panel_frac", 1.0)
+    image_y = bp.get("image_y", 0.5)
+    fits = [contain_scale(image_aspect, p.get("width"),
+                          int((p.get("height") or 0) * panel) or None)
+            for v in all_variants
+            for p in v.get("placeholders", []) if p.get("position") == "front"]
+    scale = min(fits) if fits else 0.9
     payload = {
         "title": title, "description": description, "tags": tags[:13],
         "blueprint_id": bp["blueprint_id"], "print_provider_id": provider,
@@ -87,7 +111,8 @@ def create_product(shop: int, image_id: str, product_type: str,
         "print_areas": [{
             "variant_ids": [v["id"] for v in all_variants],
             "placeholders": [{"position": "front", "images": [
-                {"id": image_id, "x": 0.5, "y": 0.5, "scale": 0.9, "angle": 0}]}],
+                {"id": image_id, "x": 0.5, "y": image_y, "scale": scale,
+                 "angle": 0}]}],
         }],
     }
     r = requests.post(f"{BASE}/shops/{shop}/products.json", headers=_headers(),
