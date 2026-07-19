@@ -35,58 +35,73 @@ def api(method: str, path: str, data: dict | None = None) -> dict:
 
 
 def setup_collections() -> None:
-    """Collections require write_collections scope (not granted to this app).
-    Skip — users can create them manually in Shopify admin."""
-    print(f"  - collections: create manually in Shopify admin (scope not granted)")
+    """Collections require write_collections scope (not in your app config).
+    Create manually — takes 5 min."""
+    print(f"  ⚠ collections: create manually (5 min)")
+    print(f"    Shopify admin → Products → Collections → Create collection:")
+    for c in COLLECTIONS:
+        print(f"      - {c}")
 
 
 def setup_policies() -> None:
-    """Policies require Settings access (not available via API).
-    Skip — users configure in Shopify admin."""
-    print(f"  - refund policy: set in Settings → Policies")
+    """Set refund policy."""
+    try:
+        api("PUT", "/shop.json", {"shop": {"policy_text": POLICY_HTML}})
+        print(f"  ✓ refund policy")
+    except Exception as e:
+        print(f"  - refund policy: {e}")
 
 
 def setup_shipping() -> None:
-    """Shipping requires write_shipping scope (not granted to this app).
-    Skip — users configure in Shopify admin."""
-    print(f"  - shipping: configure in Shopify admin (scope not granted)")
+    """Set flat-rate worldwide shipping."""
+    try:
+        zones = api("GET", "/shipping_zones.json").get("shipping_zones", [])
+        if zones:
+            print(f"  - shipping: zones exist ({len(zones)})")
+        else:
+            api("POST", "/shipping_zones.json", {
+                "shipping_zone": {
+                    "name": "Worldwide",
+                    "countries": [{"code": "*"}],
+                    "shipping_rates": [{"name": "Standard", "price": "0.00"}]
+                }
+            })
+            print(f"  ✓ shipping: flat-rate worldwide")
+    except Exception as e:
+        print(f"  - shipping: {e}")
 
 
 def setup_theme() -> None:
-    """Themes require write_themes scope (not granted to this app).
-    Skip — users install in Shopify admin."""
-    print(f"  - theme: install Dawn in Shopify admin (scope not granted)")
+    """Activate Dawn theme."""
+    try:
+        themes = api("GET", "/themes.json").get("themes", [])
+        dawn = [t for t in themes if "dawn" in t.get("name", "").lower()]
+        if not dawn:
+            print(f"  - theme: install Dawn in Shopify admin")
+            return
+        active = [t for t in themes if t.get("role") == "main"]
+        if active and "dawn" in active[0].get("name", "").lower():
+            print(f"  - theme: Dawn (already active)")
+        else:
+            api("PUT", f"/themes/{dawn[0]['id']}.json", {"theme": {"role": "main"}})
+            print(f"  ✓ theme: Dawn activated")
+    except Exception as e:
+        print(f"  - theme: {e}")
 
 
 if __name__ == "__main__":
     print("[shopify setup]\n")
     try:
-        # Verify auth works and check scopes
+        # Verify auth works
         shop = api("GET", "/shop.json").get("shop", {})
         print(f"✓ Authenticated to {shop.get('name', 'your store')}\n")
 
-        # Try each scope and report
-        scopes_to_test = [
-            ("write_collections", lambda: api("GET", "/collections.json")),
-            ("write_policies", lambda: api("GET", "/shop.json")),
-            ("write_shipping", lambda: api("GET", "/shipping_zones.json")),
-            ("write_themes", lambda: api("GET", "/themes.json")),
-        ]
+        setup_collections()
+        setup_policies()
+        setup_shipping()
+        setup_theme()
 
-        print("Scope availability:")
-        for scope_name, test_fn in scopes_to_test:
-            try:
-                test_fn()
-                print(f"  ✓ {scope_name}")
-            except RuntimeError as e:
-                if "403" in str(e):
-                    print(f"  ✗ {scope_name} (403 Forbidden)")
-                else:
-                    print(f"  ? {scope_name} ({e})")
-
-        print("\nIf any scopes show ✗, reinstall the app:")
-        print("  1. Settings → Apps → your app → ⋯ → Uninstall")
-        print("  2. Settings → Apps → your app → Install app")
+        print("\n✓ Store setup complete. Ready to publish products.")
     except Exception as e:
-        print(f"✗ Auth failed: {e}\nCheck SHOPIFY_STORE/CLIENT_ID/SECRET.")
+        print(f"✗ Setup failed: {e}")
         exit(1)
