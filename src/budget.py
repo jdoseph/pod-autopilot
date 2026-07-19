@@ -14,6 +14,8 @@ from pathlib import Path
 
 import requests
 
+from . import shopify_auth
+
 LEDGER = Path("runs/ledger.jsonl")
 GRACE_BUDGET = float(os.environ.get("GRACE_BUDGET_USD", "30"))   # allowed monthly loss floor
 SPEND_RATIO = float(os.environ.get("SPEND_RATIO", "0.25"))       # spend <= 25% of revenue
@@ -66,12 +68,15 @@ def month_spend() -> float:
 def month_revenue() -> float:
     """Month-to-date gross revenue from Shopify orders. A failed lookup counts
     as $0 revenue — the governor then errs toward pausing, never overspending."""
-    shop, token = os.environ.get("SHOPIFY_STORE"), os.environ.get("SHOPIFY_ACCESS_TOKEN")
-    if not (shop and token):
+    shop = os.environ.get("SHOPIFY_STORE")
+    if not shop:
         return 0.0
     try:
+        auth = shopify_auth.headers()
+        if not auth:
+            return 0.0
         r = requests.get(f"https://{shop}/admin/api/2025-07/orders.json",
-                         headers={"X-Shopify-Access-Token": token}, timeout=30,
+                         headers=auth, timeout=30,
                          params={"status": "any", "created_at_min": _month_start(),
                                  "financial_status": "paid", "limit": 250})
         r.raise_for_status()

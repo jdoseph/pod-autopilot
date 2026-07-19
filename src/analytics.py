@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 
 import requests
 
+from . import shopify_auth
 from .claude_client import ask_json
 
 KILL_AFTER_DAYS = 30   # no sales in this window -> delist
@@ -18,7 +19,7 @@ def _shop() -> str:
 
 
 def _headers() -> dict:
-    return {"X-Shopify-Access-Token": os.environ["SHOPIFY_ACCESS_TOKEN"]}
+    return shopify_auth.headers()
 
 
 def fetch_products() -> list[dict]:
