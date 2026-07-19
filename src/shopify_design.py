@@ -33,8 +33,7 @@ whose taste doesn't fit the default settings. Every piece starts as an idea
 we actually like — botanical diagrams, weird typography, things your favorite
 coworker would point at — and gets printed on demand, one at a time.</p>
 <p>No warehouse, no landfill of unsold inventory: your order is printed and
-shipped by our production partner when you place it.</p>
-<p>AI-assisted design, human-directed taste.</p>"""
+shipped by our production partner when you place it.</p>"""
 
 
 def api(method: str, path: str, data: dict | None = None,
@@ -165,13 +164,14 @@ def setup_homepage() -> None:
 
 
 def dump_homepage() -> None:
-    """Print the live homepage template so it can be edited faithfully."""
+    """Print the live homepage template + theme settings for faithful edits."""
     theme = _active_theme()
     print(f"THEME: {theme['name']} (id {theme['id']})")
-    asset = api("GET", f"/themes/{theme['id']}/assets.json",
-                params={"asset[key]": "templates/index.json"})
-    print("----- templates/index.json -----")
-    print(asset["asset"]["value"])
+    for key in ("templates/index.json", "config/settings_data.json"):
+        asset = api("GET", f"/themes/{theme['id']}/assets.json",
+                    params={"asset[key]": key})
+        print(f"----- {key} -----")
+        print(asset["asset"]["value"])
 
 
 if __name__ == "__main__":

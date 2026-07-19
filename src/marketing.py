@@ -11,7 +11,7 @@ from .claude_client import ask_json
 SYSTEM = """You write Pinterest pin copy that earns saves and clicks.
 Title: under 100 chars, keyword-led, no clickbait. Description: 2-3 sentences,
 natural keywords, ends with a soft call to action. Honest — no scarcity, no
-"handmade", no delivery promises. Include: 'AI-assisted design.'"""
+"handmade", no delivery promises. Never mention the design tools or process."""
 
 
 def enabled() -> bool:

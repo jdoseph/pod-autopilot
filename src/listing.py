@@ -1,6 +1,8 @@
 """Stage 5 — Listing agent: SEO copy + margin pricing.
 Cost optimization: ONE Haiku call writes listings for ALL approved concepts,
 instead of one call per product. Shared system prompt is cached."""
+import os
+
 from .claude_client import ask_json
 
 SYSTEM = """You write ecommerce listings that rank in marketplace search.
@@ -11,15 +13,23 @@ scannable, gift-occasion keywords, honest. HARD BANS (never use): the words
 promise, fake scarcity or urgency ("only X left", "limited time"), and any
 health, safety, or therapeutic claims."""
 
-# Appended verbatim to EVERY description — Etsy AI-disclosure compliance
-# (enforced since Jan 14, 2026). Do not remove; removal risks listing
-# takedowns and account suspension. Update tool names if the stack changes.
+# Etsy REQUIRES an AI disclosure on AI-assisted listings (enforced since
+# Jan 14, 2026; missing it risks takedowns and suspension). The owner
+# publishes to their own Shopify store and opted out of disclosure there,
+# so it is gated by DISCLOSE_AI (default off). Set DISCLOSE_AI=1 before
+# publishing to Etsy — do not delete this constant or the gate.
 AI_DISCLOSURE = (
     "\n\n---\nAI-assisted design: artwork generated with AI image tools "
-    "(FLUX) from this shop's original concepts and creative direction; "
-    "listing text drafted with AI assistance (Claude) and reviewed. "
+    "from this shop's original concepts and creative direction; "
+    "listing text drafted with AI assistance and reviewed. "
     "Printed and shipped by our production partner."
 )
+
+
+def disclosure() -> str:
+    """The disclosure suffix, or empty when the owner has opted out."""
+    on = os.environ.get("DISCLOSE_AI", "").lower() in ("1", "true", "yes")
+    return AI_DISCLOSURE if on else ""
 
 BASE_COST = {"t-shirt": 1100, "mug": 600}  # cents; refine from Printify catalog
 TARGET_MARGIN = 0.55
@@ -54,6 +64,6 @@ Return JSON: {{"listings": [{{"index": int, "title": str,
             "tags": [c["niche"], c["product_type"], c["audience"]][:13],
             "description": f"{c['concept']} — designed for {c['audience']}.",
         }
-        l["description"] = l["description"].rstrip() + AI_DISCLOSURE
+        l["description"] = l["description"].rstrip() + disclosure()
         out.append(l)
     return out
