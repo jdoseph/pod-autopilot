@@ -18,6 +18,26 @@ from . import shopify_auth
 STORE = os.environ["SHOPIFY_STORE"]
 BRAND = "Joseph's Shirts"
 TAGLINE = "Quirky prints for particular people."
+ACCENT = "#E64400"  # electric orange — the one loud note on a monochrome page
+
+# Horizon settings overrides (keys verified against the live settings_data
+# dump). Archivo Black display type + uppercase headings + pill buttons.
+STYLE = {
+    "type_heading_font": "archivo_black_n4",
+    "type_accent_font": "archivo_black_n4",
+    "type_size_h1": "64",
+    "type_case_h1": "uppercase",
+    "type_case_h2": "uppercase",
+    "palette_primary_button_background": ACCENT,
+    "palette_primary_button_text": "#ffffff",
+    "palette_primary_button_border": ACCENT,
+    "button_border_radius_primary": 100,
+    "button_border_radius_secondary": 100,
+    "badge_sale_background_color": ACCENT,
+    "badge_sale_text_color": "#ffffff",
+    "color_palette": {"background": "#ffffff", "foreground": "#111111",
+                      "color1": "#444444", "color2": "#E6E6E6"},
+}
 
 # handle -> (title, disjunctive, [(column, relation, condition), ...])
 SMART_COLLECTIONS = {
@@ -140,12 +160,16 @@ def setup_homepage() -> None:
         return
 
     hero = sections[hero_id]
+    hero["settings"]["section_height"] = "large"
     for blk in hero.get("blocks", {}).values():
         if blk.get("type") == "text":
             blk["settings"]["text"] = (
                 f"<h1>{BRAND}</h1><p>{TAGLINE} Designed oddly, printed on "
                 "demand, shipped to your door.</p>")
-            break
+        elif blk.get("type") == "button":
+            blk["settings"].update(custom_button_background=ACCENT,
+                                   custom_button_text="#ffffff",
+                                   custom_button_border=ACCENT)
 
     proto = sections[proto_id]
     new_sections, new_order = {hero_id: hero}, [hero_id]
@@ -161,6 +185,61 @@ def setup_homepage() -> None:
     _write_theme_file(theme["id"], "templates/index.json",
                       json.dumps(tpl, indent=2))
     print("  + homepage: branded hero + 4 collection grids (Horizon-native)")
+
+
+# Brand interaction layer — element-level selectors only, so it works on any
+# Horizon DOM without depending on the theme's internal class names.
+BRAND_CSS = f"""/* Joseph's Shirts — brand layer (generated; safe to delete) */
+::selection {{ background: {ACCENT}; color: #fff; }}
+:focus-visible {{ outline: 2px solid {ACCENT}; outline-offset: 2px; }}
+h1, h2 {{ letter-spacing: -0.01em; }}
+a {{ text-underline-offset: 3px; text-decoration-thickness: 2px; }}
+button, [role="button"], input[type="submit"] {{
+  transition: transform .15s ease, box-shadow .15s ease;
+}}
+button:hover, [role="button"]:hover, input[type="submit"]:hover {{
+  transform: translateY(-2px);
+}}
+a img {{ transition: transform .25s ease; }}
+a:hover img {{ transform: rotate(-1.2deg) scale(1.02); }}
+"""
+CSS_ASSET = "assets/joes-brand.css"
+CSS_TAG = "{{ 'joes-brand.css' | asset_url | stylesheet_tag }}"
+
+
+def setup_brand_css() -> None:
+    """Install the brand stylesheet and link it from layout/theme.liquid."""
+    theme = _active_theme()
+    _write_theme_file(theme["id"], CSS_ASSET, BRAND_CSS)
+    layout = api("GET", f"/themes/{theme['id']}/assets.json",
+                 params={"asset[key]": "layout/theme.liquid"})["asset"]["value"]
+    if "joes-brand.css" not in layout:
+        if "</head>" not in layout:
+            print("  ! theme.liquid has no </head> — stylesheet not linked")
+            return
+        layout = layout.replace("</head>", f"    {CSS_TAG}\n  </head>", 1)
+        _write_theme_file(theme["id"], "layout/theme.liquid", layout)
+    print("  + brand CSS: tilt-on-hover, button lift, accent selection/focus")
+
+
+def setup_theme_style() -> None:
+    """Apply the brand look to config/settings_data.json in place."""
+    theme = _active_theme()
+    asset = api("GET", f"/themes/{theme['id']}/assets.json",
+                params={"asset[key]": "config/settings_data.json"})
+    data = json.loads(asset["asset"]["value"])
+    current = data.get("current")
+    if isinstance(current, str):  # settings referencing a preset by name
+        current = copy.deepcopy(data["presets"][current])
+        data["current"] = current
+    if not isinstance(current, dict):
+        print("  ! settings_data has no editable 'current' — style skipped")
+        return
+    current.update(copy.deepcopy(STYLE))
+    _write_theme_file(theme["id"], "config/settings_data.json",
+                      json.dumps(data, indent=2))
+    print("  + theme style: Archivo Black display, uppercase headings, "
+          f"pill buttons, accent {ACCENT}")
 
 
 def dump_homepage() -> None:
@@ -181,7 +260,8 @@ if __name__ == "__main__":
         raise SystemExit(0)
     print("[storefront design]\n")
     failures = 0
-    for step in (setup_collections, setup_about_page, setup_homepage):
+    for step in (setup_collections, setup_about_page, setup_homepage,
+                 setup_theme_style, setup_brand_css):
         try:
             step()
         except Exception as e:
