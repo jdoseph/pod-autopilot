@@ -40,12 +40,12 @@ STYLE = {
 }
 
 # handle -> (title, disjunctive, [(column, relation, condition), ...])
+# The store sells exactly three product families (owner decision, July 2026).
 SMART_COLLECTIONS = {
     "t-shirts": ("T-Shirts", True, [("title", "contains", "shirt"),
                                     ("title", "contains", "tee")]),
     "mugs": ("Mugs", False, [("title", "contains", "mug")]),
     "totes": ("Totes", False, [("title", "contains", "tote")]),
-    "posters": ("Posters", False, [("title", "contains", "poster")]),
 }
 
 ABOUT_HTML = f"""<p>{BRAND} makes original, slightly odd designs for people

@@ -19,17 +19,21 @@ def gather_signals() -> str:
     return "\n".join(signals)
 
 
-def generate_concepts(n: int = 10) -> list[dict]:
-    """Returns list of {niche, product_type, concept, audience, score, rationale}."""
+def generate_concepts(per_type: int = 3) -> list[dict]:
+    """Returns list of {niche, product_type, concept, audience, score, rationale},
+    a balanced slate across the three product types the store sells."""
+    total = per_type * 3
     data = ask_json(
         SYSTEM,
         f"""Trend signals:\n{gather_signals()}\n
-Generate {n} print-on-demand product concepts (t-shirts, mugs, posters, totes).
+Generate exactly {per_type} print-on-demand product concepts EACH for the
+product types "t-shirt", "mug", and "tote" ({total} concepts total).
+product_type must be EXACTLY one of: "t-shirt", "mug", "tote" (lowercase).
 Return JSON: {{"concepts": [{{"niche": str, "product_type": str,
 "concept": str (the design idea in one sentence), "audience": str,
 "score": float 1-10, "rationale": str}}]}}""",
         tier="smart",
-        max_tokens=3000,
+        max_tokens=1000 + 400 * total,
     )
     concepts = sorted(data["concepts"], key=lambda c: c["score"], reverse=True)
     return [c for c in concepts if c["score"] >= 7.0]

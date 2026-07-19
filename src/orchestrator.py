@@ -20,7 +20,8 @@ from . import budget, design, ip_check, listing, marketing, printify_client, res
 
 RUN_DIR = Path("runs") / datetime.now().strftime("%Y-%m-%d")
 APPROVAL_MODE = os.environ.get("APPROVAL_MODE", "auto")
-MAX_PUBLISHES_PER_DAY = int(os.environ.get("MAX_PUBLISHES_PER_DAY", "5"))
+MAX_PUBLISHES_PER_DAY = int(os.environ.get("MAX_PUBLISHES_PER_DAY", "9"))
+DESIGNS_PER_TYPE = int(os.environ.get("DESIGNS_PER_TYPE", "3"))
 
 
 def log(msg: str) -> None:
@@ -38,7 +39,8 @@ def daily_run() -> None:
     shop = printify_client.shop_id()
 
     log("Stage 1: research (1 Sonnet call)...")
-    concepts = research.generate_concepts(n=10)[:MAX_PUBLISHES_PER_DAY]
+    concepts = research.generate_concepts(
+        per_type=DESIGNS_PER_TYPE)[:MAX_PUBLISHES_PER_DAY]
 
     log("Stage 2-3: design prompts + IP gate (before any image spend)...")
     approved = []
@@ -66,7 +68,7 @@ def daily_run() -> None:
             png = str(RUN_DIR / f"{tag}.png")
             design.render(a["design"]["image_prompt"], png,
                           tier=design.pick_tier(a["design"]))
-            v2 = ip_check.screen_image(png)  # gate 2: the rendered pixels
+            v2 = ip_check.screen_image(png, a["design"].get("text_on_design"))
             if not v2["approved"]:
                 log(f"  IMAGE REJECTED [{tag}] ({v2['risk_level']}): {v2['reason'][:70]}")
                 continue

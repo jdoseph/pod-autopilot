@@ -70,12 +70,21 @@ Common motifs, generic art styles, and clean original compositions are fine.
 When in doubt, reject — a discarded image costs cents."""
 
 
-def screen_image(png_path: str) -> dict:
-    """Second gate: screens the actual rendered pixels, catching design-mark and
-    character-likeness risks the text-only gate cannot see."""
+def screen_image(png_path: str, expected_text: str | None = None) -> dict:
+    """Second gate: screens the actual rendered pixels — IP risk, quality,
+    and that any intended text rendered EXACTLY as designed (models sometimes
+    drop the text or render placeholder words instead)."""
+    if expected_text:
+        expectation = (f'This design must display exactly this text, correctly '
+                       f'spelled, and nothing else: "{expected_text}". Reject if '
+                       'the text is missing, different, incomplete, misspelled, '
+                       'or replaced by placeholder words.')
+    else:
+        expectation = ('This design must contain NO text or lettering at all — '
+                       'reject if any words appear.')
     raw = ask_vision(
         VISION_SYSTEM,
-        'Return ONLY JSON: {"approved": bool, "risk_level": "low"|"medium"|"high", "reason": str}',
+        expectation + '\nReturn ONLY JSON: {"approved": bool, "risk_level": "low"|"medium"|"high", "reason": str}',
         png_path, tier="smart")
     raw = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```")
     v = json.loads(raw)

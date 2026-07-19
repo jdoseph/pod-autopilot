@@ -3,6 +3,7 @@ Fulfillment itself is native Printify: with auto-fulfill ON in your Printify
 account settings, incoming store orders are produced and shipped to the
 customer with zero code and zero touch."""
 import base64
+import math
 import os
 
 import requests
@@ -21,6 +22,19 @@ BLUEPRINTS = {"t-shirt": {"blueprint_id": 145, "preferred_provider": None},   # 
               "tote": {"blueprint_id": 507, "preferred_provider": None},       # Canvas Tote Bag
               "poster": {"blueprint_id": 97, "preferred_provider": None}}
 MAX_VARIANTS = 100  # Printify rejects products with more enabled variants
+
+# Pricing: guarantee MIN_MARGIN of retail over production cost + estimated
+# shipping (the store offers free shipping, so the price must absorb it).
+SHIPPING_EST = {"t-shirt": 475, "mug": 550, "tote": 450, "poster": 550}  # cents, US economy
+MIN_MARGIN = 0.40
+PRICE_FLOOR = 1295
+
+
+def price_from_cost(cost_cents: int, product_type: str) -> int:
+    """Per-variant retail (cents): landed cost / (1 - margin), x.95 ending."""
+    landed = cost_cents + SHIPPING_EST.get(product_type, 500)
+    price = math.ceil(landed / (1 - MIN_MARGIN) / 100) * 100 - 5
+    return max(price, PRICE_FLOOR)
 
 
 def shop_id() -> int:
@@ -59,6 +73,7 @@ def resolve_provider(blueprint_id: int, preferred: int | None = None) -> int:
 
 def create_product(shop: int, image_id: str, product_type: str,
                    title: str, description: str, price_cents: int, tags: list[str]) -> dict:
+    product_type = product_type.lower().strip()  # research sometimes capitalizes
     bp = BLUEPRINTS.get(product_type, BLUEPRINTS["t-shirt"])
     provider = resolve_provider(bp["blueprint_id"], bp.get("preferred_provider"))
     all_variants = _get_json(
@@ -79,7 +94,22 @@ def create_product(shop: int, image_id: str, product_type: str,
                       json=payload, timeout=60)
     if not r.ok:  # surface Printify's reason, not just the status code
         raise RuntimeError(f"product create {r.status_code}: {r.text[:300]}")
-    return r.json()
+    product = r.json()
+
+    # Reprice per variant from the REAL production costs Printify returns —
+    # sizes differ by dollars, and a flat price can go underwater on 2XL+.
+    costed = [v for v in product.get("variants", []) if v.get("cost")]
+    if costed:
+        upd = requests.put(
+            f"{BASE}/shops/{shop}/products/{product['id']}.json",
+            headers=_headers(), timeout=60,
+            json={"variants": [
+                {"id": v["id"], "price": price_from_cost(v["cost"], product_type),
+                 "is_enabled": v.get("is_enabled", True)} for v in costed]})
+        if not upd.ok:  # a mispriced product must not reach the store
+            raise RuntimeError(f"reprice {upd.status_code}: {upd.text[:200]}")
+        product = upd.json()
+    return product
 
 
 def publish(shop: int, product_id: str) -> None:

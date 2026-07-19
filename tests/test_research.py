@@ -7,5 +7,5 @@ def test_concepts_filtered_and_sorted(monkeypatch):
         {"concept": "great", "score": 9.1},
         {"concept": "good", "score": 7.0},
     ]})
-    out = research.generate_concepts(n=3)
+    out = research.generate_concepts(per_type=1)
     assert [c["concept"] for c in out] == ["great", "good"]  # >=7.0 only, ranked

@@ -31,12 +31,14 @@ def disclosure() -> str:
     on = os.environ.get("DISCLOSE_AI", "").lower() in ("1", "true", "yes")
     return AI_DISCLOSURE if on else ""
 
-BASE_COST = {"t-shirt": 1100, "mug": 600}  # cents; refine from Printify catalog
+# Provisional prices for the create payload only — the moment Printify
+# returns real per-variant costs, printify_client reprices every variant.
+BASE_COST = {"t-shirt": 1100, "mug": 600, "tote": 900, "poster": 800}  # cents
 TARGET_MARGIN = 0.55
 
 
 def price_for(product_type: str) -> int:
-    cost = BASE_COST.get(product_type, 1100)
+    cost = BASE_COST.get(product_type.lower().strip(), 1100)
     return int(round((cost / (1 - TARGET_MARGIN)) / 100) * 100 - 5)
 
 

@@ -21,7 +21,7 @@ def test_daily_run_end_to_end_mocked(monkeypatch, tmp_path):
     monkeypatch.setattr(orchestrator.printify_client, "publish",
                         lambda shop, pid: published.append(pid))
     monkeypatch.setattr(orchestrator.research, "generate_concepts",
-                        lambda n=10: [concept])
+                        lambda per_type=3: [concept])
     monkeypatch.setattr(orchestrator.design, "write_design_prompt",
                         lambda c: {"image_prompt": "p", "text_on_design": None,
                                    "style": "s"})
@@ -30,7 +30,8 @@ def test_daily_run_end_to_end_mocked(monkeypatch, tmp_path):
     monkeypatch.setattr(orchestrator.ip_check, "screen",
                         lambda c, t: {"approved": True, "risk_level": "low", "reason": ""})
     monkeypatch.setattr(orchestrator.ip_check, "screen_image",
-                        lambda p: {"approved": True, "risk_level": "low", "reason": ""})
+                        lambda p, expected_text=None: {
+                            "approved": True, "risk_level": "low", "reason": ""})
     monkeypatch.setattr(orchestrator.listing, "write_listings_bulk",
                         lambda cs: [{"index": 0, "title": "T", "tags": ["x"],
                                      "description": "d"}])
