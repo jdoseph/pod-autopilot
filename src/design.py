@@ -34,7 +34,19 @@ MODEL_URLS = {
 }
 
 
-def render(image_prompt: str, out_path: str, tier: str = "schnell") -> str:
+def render(image_prompt: str, out_path: str, tier: str = "schnell",
+           retries: int = 2) -> str:
+    """Render with retries — Replicate throws occasional transient 5xx/E-errors."""
+    for attempt in range(retries + 1):
+        try:
+            return _render_once(image_prompt, out_path, tier)
+        except Exception:
+            if attempt == retries:
+                raise
+            time.sleep(5 * (attempt + 1))
+
+
+def _render_once(image_prompt: str, out_path: str, tier: str) -> str:
     """Render via Replicate's HTTP API and save a PNG. Returns file path."""
     headers = {"Authorization": f"Bearer {os.environ['REPLICATE_API_TOKEN']}"}
     r = requests.post(
