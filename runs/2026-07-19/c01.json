@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "First-Generation College Student Pride",
-    "product_type": "t-shirt",
-    "concept": "A clean, typographic tee reading 'First In Line' with a subtle graduation cap icon and small text 'First Generation Graduate' in a dignified, non-cheesy layout.",
-    "audience": "First-gen college students and their families, aged 17-45",
-    "score": 7.1,
-    "rationale": "Fall semester starts in late August, creating strong emotional purchase motivation right in the window. This identity is deeply meaningful and underserved with quality designs. Non-kitschy execution is key differentiator. Gift purchases from proud parents drive volume."
+    "niche": "Late Summer Gardeners",
+    "product_type": "tote",
+    "concept": "A botanical illustration-style tote featuring overgrown tomato vines with the phrase 'I Did Not Plant This Many Tomatoes on Purpose'.",
+    "audience": "Home vegetable gardeners, particularly in the 35-65 age range active in summer harvest season",
+    "score": 7.8,
+    "rationale": "Late July is peak tomato overwhelm season \u2014 a real cultural moment gardeners joke about constantly. Totes are functional for harvest. The self-deprecating humor is highly shareable and gift-friendly. Low IP risk, passionate niche with strong Reddit and Facebook group presence."
   },
   "design": {
-    "image_prompt": "Clean, modern typographic design with bold sans-serif lettering reading 'First In Line' as the dominant text. Below it, a minimal line-drawn graduation cap icon in the same weight and color. Small supporting text reading 'First Generation Graduate' positioned underneath in a smaller, refined sans-serif font. Design uses a dignified, professional layout with generous negative space. Monochromatic color scheme suitable for garment printing. Solid white or transparent background. Symmetrical, centered composition that reads clearly at large scale.",
-    "text_on_design": "First In Line / [graduation cap icon] / First Generation Graduate",
-    "style": "Modern minimalist typography with geometric line iconography, professional and elegant aesthetic, suitable for print-on-demand apparel"
+    "image_prompt": "Detailed botanical illustration of sprawling tomato vines with abundant foliage, intertwining stems, and multiple ripe and ripening tomatoes in various stages of growth. Vines overflow and tangle across the composition with ornate botanical line work and subtle watercolor details. Solid white background suitable for screen printing on fabric.",
+    "text_on_design": "I Did Not Plant This Many Tomatoes on Purpose",
+    "style": "Classic botanical illustration with vintage engraving details and light watercolor accents"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'First In Line' is a common English expression with no distinctive trademark association in the apparel or education space. 'First Generation Graduate' is a widely used generic descriptive term in academic and social contexts, not owned by any single brand or institution. The graduation cap is a universal public domain symbol. No celebrity, team, brand, character, lyric, or protected slogan is referenced. The overall concept is original generic pride apparel with low IP risk."
+    "reason": "The phrase 'I Did Not Plant This Many Tomatoes on Purpose' is a generic humorous expression describing a common gardening experience. It does not reference any known trademark, brand, celebrity, character, song lyric, or protected slogan. The botanical illustration style with tomato vines is a common decorative motif with no IP concerns. This is original, everyday humor with low commercial risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The image contains generic serif typography, a common graduation cap icon, and original text ('In Line / First in Lade'). No recognizable brand logos, copyrighted characters, celebrity likenesses, or protected artistic styles are present. The graduation cap is a generic, widely-used symbol not associated with any specific brand or IP."
+    "reason": "Original botanical illustration of tomatoes on the vine. No brand logos, recognizable characters, celebrities, famous artworks, or distinctive protected artist styles detected. Generic botanical art style with common motifs."
   },
   "listing": {
     "index": 1,
-    "title": "First In Line First Generation Graduate Tee - Dignified Achievement Shirt",
+    "title": "Overgrown Tomato Garden Tote | Gardener's Canvas Bag",
     "tags": [
-      "first generation college shirt",
-      "graduation gift apparel",
-      "achievement tee",
-      "college pride clothing",
-      "first gen student gift",
-      "dignified design tee",
-      "class of shirt",
-      "family milestone apparel",
-      "grad announcement tee",
-      "proud parent gift",
-      "educational achievement",
-      "typographic tee",
-      "celebration shirt"
+      "garden tote bag",
+      "tomato gardener gift",
+      "botanical canvas bag",
+      "summer gardening tote",
+      "farmer market bag",
+      "gardening humor tote",
+      "vegetable garden design",
+      "home gardener gift",
+      "reusable shopping tote",
+      "harvest season apparel",
+      "plant lover tote",
+      "illustrated gardening bag",
+      "funny garden gifts"
     ],
-    "description": "Celebrate first-generation achievement with this clean, dignified tee featuring 'First In Line' and subtle graduation cap imagery. Thoughtfully designed without clich\u00e9s, this shirt honors the milestone of being the first in your family to graduate college. Ideal gift for first-gen students, proud families marking educational accomplishments, or anyone celebrating this meaningful achievement. Versatile everyday wear that speaks to personal pride and breakthrough moments.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "A sturdy canvas tote showcasing a charming botanical illustration of overgrown tomato vines with the relatable phrase 'I Did Not Plant This Many Tomatoes on Purpose'. Celebrate the beautiful chaos of a summer vegetable garden. Spacious interior perfect for farmers market trips, garden supply hauling, or everyday use. The vintage botanical aesthetic appeals to serious gardeners and casual plant enthusiasts alike. Durable and lightweight\u2014ideal for anyone who's experienced the surprising abundance of a productive garden bed. Perfect gift for the gardener in your life.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
   },
-  "product_id": "6a5c660e1f3a9bfaf807759e"
+  "product_id": "6a5c6bdb9ffbca031e0e58c2"
 }

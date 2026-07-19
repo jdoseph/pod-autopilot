@@ -1,0 +1,46 @@
+{
+  "concept": {
+    "niche": "Fantasy Football Season Kickoff",
+    "product_type": "t-shirt",
+    "concept": "A mock-vintage sports poster aesthetic reading 'Undefeated Since Last Tuesday' for a fictional team called 'The Waiver Wire Warriors'.",
+    "audience": "Adult fantasy football players, predominantly male, aged 25-45, who take leagues semi-seriously and enjoy the culture around draft season",
+    "score": 7.1,
+    "rationale": "NFL preseason and fantasy draft season begins in August, making late July a strong buying window for fantasy football gear. The joke about waiver wire dependency is deeply insider and resonates with experienced players. 'Undefeated since last Tuesday' is universally funny across skill levels. No real IP risk with fictional team name."
+  },
+  "design": {
+    "image_prompt": "Vintage sports poster design featuring bold geometric shapes and retro typography. Central imagery shows a dynamic football player silhouette in an athletic stance, rendered in a limited color palette of deep navy, gold, and cream. Background includes subtle halftone patterns and star burst elements typical of 1970s-80s sports memorabilia. The overall composition has a distressed, aged paper quality with slightly worn edges and color shifts suggesting an authentic vintage aesthetic. Bold banner elements frame the design. Solid cream background suitable for garment printing.",
+    "text_on_design": "UNDEFEATED SINCE LAST TUESDAY\nTHE WAIVER WIRE WARRIORS",
+    "style": "Retro vintage sports poster, 1970s-1980s aesthetic, distressed print quality, bold geometric design, limited color palette with gold and navy accents"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Both the phrase 'Undefeated Since Last Tuesday' and the team name 'The Waiver Wire Warriors' appear to be original, generic humorous constructions with no identifiable trademark conflicts. 'Waiver Wire' is a common fantasy sports term in the public domain, and 'Warriors' as a standalone word is generic. The combination into 'The Waiver Wire Warriors' as a fictional team name does not reference or evoke any specific real professional or collegiate sports franchise in a confusingly similar way. The phrase 'Undefeated Since Last Tuesday' is a generic comedic construction with no known trademark registration or association with a specific brand, celebrity, or protected property. The mock-vintage sports poster aesthetic is a common design style not owned by any single entity. No song lyrics, movie or TV characters, celebrity likenesses, or registered slogans are implicated. Risk is low and the design is approved."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Generic retro-style football poster featuring an unnamed, stylized player silhouette in a common navy/gold color scheme. No identifiable person, recognizable copyrighted character, specific team branding, logos, or trade dress. The number 19 is a common jersey number with no specific protected association. The composition, typography, and illustration style are generic vintage sports poster motifs."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Undefeated Waiver Wire Warriors Fantasy Football T-Shirt",
+    "tags": [
+      "fantasy football shirt",
+      "fantasy football gift",
+      "sports humor tee",
+      "mock vintage sports shirt",
+      "draft season apparel",
+      "fantasy league tee",
+      "sports fan t-shirt",
+      "funny sports shirt",
+      "waiver wire humor",
+      "sports bar wear",
+      "retro sports design",
+      "football league gifts",
+      "sports comedy tee"
+    ],
+    "description": "Join The Waiver Wire Warriors with this mock-vintage sports poster aesthetic tee reading 'Undefeated Since Last Tuesday'. Featuring classic sports design elements and league pride, it's perfect for fantasy football season and speaks to players who take their drafts seriously while enjoying the humor inherent in league culture. Ideal for wearing to draft parties, league meetings, or casual Friday hangouts. Celebrates the mid-season mythology and banter that makes fantasy football fun. Great gift for league mates, fantasy playoffs competitors, or anyone navigating the unpredictable waiver wire grind.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+  },
+  "product_id": "6a5c6c0705e1d9c84606b336"
+}

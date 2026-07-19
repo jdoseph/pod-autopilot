@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Houseplant Collectors",
-    "product_type": "Tote",
-    "concept": "A tote printed with illustrated tropical leaves framing the text 'Just One More Plant, I Have Excellent Self Control' in serif type.",
-    "audience": "Millennial plant enthusiasts who collect rare houseplants and follow plant hobby communities online",
+    "niche": "Labor Day Weekend Campers",
+    "product_type": "t-shirt",
+    "concept": "A retro badge-style graphic reading 'Last Campfire of Summer' with pine trees, a crescent moon, and a vintage patch aesthetic.",
+    "audience": "Outdoor enthusiasts and families who camp over Labor Day weekend as a summer send-off tradition",
     "score": 7.5,
-    "rationale": "Plant hobbyist community is large, visually driven, and purchases identity merchandise readily. Totes fit their farmers market and nursery shopping habits. Self-aware collector humor is proven. Evergreen with slight seasonal lift as people nest heading into fall. Low design complexity."
+    "rationale": "Labor Day is roughly 6 weeks out \u2014 squarely in the buying window. 'Last campfire of summer' is emotionally resonant and seasonally specific. Retro patch aesthetics perform well on apparel. The sentiment captures nostalgia without requiring any IP. Good gifting and self-purchase potential."
   },
   "design": {
-    "image_prompt": "Illustrated tropical leaves in rich greens and earth tones forming an ornate rectangular frame border on a white background. The frame features monstera leaves, palm fronds, and large leafy botanicals with detailed line work and subtle shading. The design is symmetrical and leaves generous white space in the center for text placement. Clean, modern botanical illustration style suitable for tote bag printing.",
-    "text_on_design": "Just One More Plant, I Have Excellent Self Control",
-    "style": "Modern botanical illustration with clean line work, detailed foliage, muted natural color palette of forest greens and warm neutrals, serif typography, minimalist composition with decorative frame border"
+    "image_prompt": "Retro badge patch design with 'Last Campfire of Summer' text in a circular emblem format, featuring silhouetted pine trees at the bottom, a crescent moon in the upper night sky, vintage stitching details around the border, warm orange and yellow campfire glow at center, navy and cream color palette, distressed texture suggesting aged fabric patch, solid white background for garment printing, bold and legible at 12x16 inches",
+    "text_on_design": "Last Campfire of Summer",
+    "style": "Vintage embroidered patch aesthetic, retro outdoor badge design, nostalgic 1970s camping culture, distressed and weathered appearance"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Just One More Plant, I Have Excellent Self Control' is a generic humorous expression about plant collecting with no known trademark registrations, celebrity associations, song lyric origins, or IP-protected source material. The illustrated tropical leaves are a common generic design element. The combination presents no identifiable IP risk."
+    "reason": "The phrase 'Last Campfire of Summer' is a generic, descriptive expression with no known trademark associations, celebrity connections, or protected IP. The accompanying visual elements (pine trees, crescent moon, vintage patch aesthetic) are common public domain design motifs widely used in outdoor and camping merchandise. The combination presents no identifiable IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Generic tropical leaf border composition featuring common botanical motifs (monstera, broad leaves, palm fronds) in a watercolor style. No brand logos, recognizable characters, celebrities, famous artworks, or distinctive protected artist styles detected. Common decorative nature art suitable for print-on-demand."
+    "reason": "Original camping/outdoor badge design with generic typography, common motifs (campfire, pine trees, crescent moon, stars), and no recognizable brand logos, copyrighted characters, real persons, or distinctive protected artistic styles. The composition is a standard vintage outdoor badge style, which is a common generic aesthetic."
   },
   "listing": {
     "index": 2,
-    "title": "Plant Collector Tote Bag | Excellent Self Control Tropical Leaves",
+    "title": "Last Campfire of Summer Retro Camping T-Shirt | Outdoor Tee",
     "tags": [
-      "plant lover tote bag",
-      "houseplant collector gift",
-      "tropical leaf design",
-      "funny plant parent tote",
-      "plant enthusiast bag",
-      "rare plant community",
-      "self control humor",
-      "millennial plant gift",
-      "botanical canvas tote",
-      "plant community merch",
-      "plant parent shopping bag",
-      "indoor plant lover gift",
-      "plant collecting humor"
+      "camping t-shirt",
+      "labor day weekend gear",
+      "retro outdoor apparel",
+      "adventure tee",
+      "campfire graphic shirt",
+      "outdoor family gift",
+      "vintage camping design",
+      "nature enthusiast tee",
+      "end of summer shirt",
+      "camping humor tee",
+      "badge style graphic",
+      "outdoor lifestyle wear",
+      "hiking apparel"
     ],
-    "description": "Wear your plant-collecting truth with this witty canvas tote: 'Just One More Plant, I Have Excellent Self Control.' Framed by beautifully illustrated tropical leaves, it's the perfect bag for plant enthusiasts who've lost count of their collection. Roomy enough for nursery finds, market trips, or everyday hauling. Connects you with the plant-parent community\u2014whether you're hunting rare varieties or admiring fellow collectors' greenery. Makes a thoughtful gift for plant lovers, balcony gardeners, or anyone who's ever sworn they had self-control and then came home with another plant. Durable, canvas construction designed for years of plant-hunting adventures.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "Capture the bittersweet spirit of summer's final campfire. This tee features a retro badge-style graphic with 'Last Campfire of Summer', pine trees, a crescent moon, and vintage patch aesthetics. Perfect for Labor Day weekend trips, end-of-season camping adventures, or simply celebrating outdoor traditions. The nostalgic design resonates with camping families and outdoor enthusiasts preparing for the seasonal transition. Comfortable, durable, and ideal for layering around the fire. Makes a meaningful gift for those who cherish summer camping rituals and outdoor togetherness.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
   },
-  "product_id": "6a5c397b4742f6361f060bcf"
+  "product_id": "6a5c6be99ffbca031e0e58ca"
 }

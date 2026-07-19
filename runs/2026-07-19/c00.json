@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Spooky Season Early Adopters",
+    "niche": "Pilates and Reformer Fitness",
     "product_type": "t-shirt",
-    "concept": "A retro 1970s horror-movie-poster-style graphic tee featuring a haunted Victorian house and the phrase 'It's Always October Somewhere' in distressed display lettering.",
-    "audience": "Halloween enthusiasts and horror aesthetic fans aged 18-45",
-    "score": 7.6,
-    "rationale": "The 6-8 week window from mid-July perfectly targets September buying for Halloween, which peaks earlier every year. 'Halloween creep' is real and these buyers purchase intentionally early. Retro horror aesthetic is differentiated from generic pumpkin designs. High passion, high repeat-buyer niche."
+    "concept": "A minimalist anatomical silhouette in a Pilates pose with the dry caption 'I Pay to Be in Pain Before 7am'.",
+    "audience": "Women aged 22-45 attending reformer Pilates studios, a demographic with high disposable income and strong identity attachment to the workout",
+    "score": 7.9,
+    "rationale": "Reformer Pilates is one of the fastest-growing fitness trends as of 2025-2026. Studio attendees have strong tribal identity and routinely buy branded or niche apparel. The self-aware humor about cost and early mornings is highly relatable. Low design competition in this specific angle. No seasonal dependency \u2014 strong evergreen score."
   },
   "design": {
-    "image_prompt": "A haunted Victorian mansion with gothic architecture, crooked windows glowing with eerie orange light, bare twisted trees surrounding it, fog rolling across the ground. The scene uses a vintage horror movie aesthetic with muted earth tones, burnt orange, deep purple, and sickly yellow-green hues. Distressed texture and grain throughout. Solid dark background suitable for garment printing.",
-    "text_on_design": "It's Always October Somewhere",
-    "style": "Vintage 1970s horror movie poster aesthetic with distressed lettering, muted retro color palette, grainy texture, bold graphic design suitable for print-on-demand apparel"
+    "image_prompt": "Minimalist anatomical silhouette of a woman's body in a reformer pilates stretch pose, showing internal muscle and skeletal structure in clean line work, solid black on transparent background, modern and clinical aesthetic",
+    "text_on_design": "I Pay to Be in Pain Before 7am",
+    "style": "Clean line art, anatomical diagram aesthetic, minimalist, high contrast black silhouette, medical illustration influence"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'It's Always October Somewhere' is a generic seasonal/humorous expression with no known trademark registration or strong association with any specific brand, celebrity, or IP holder. It is a play on the common idiom 'It's always five o'clock somewhere,' which is itself a generic colloquial phrase. The retro horror poster aesthetic featuring a haunted Victorian house is a well-established generic visual genre with no specific character, film, or brand being referenced or evoked. The distressed display lettering is a common design style. No trademark conflicts, celebrity likenesses, character references, or protected slogans are identified. Design is cleared for print-on-demand use."
+    "reason": "The phrase 'I Pay to Be in Pain Before 7am' is a generic humorous expression describing a common experience with paid fitness classes or exercise routines. It does not reference any specific brand, trademark, celebrity, character, or protected slogan. The minimalist anatomical silhouette in a Pilates pose is a generic artistic depiction with no identifiable trademarked imagery. This type of self-deprecating fitness humor falls within common short phrases and generic expression, posing minimal IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Generic haunted house / spooky Victorian mansion illustration with common Halloween motifs. No recognizable brand, copyrighted character, celebrity, famous artwork, or distinctive protected artist style detected. Original atmospheric composition suitable for print-on-demand."
+    "reason": "Original composition showing a generic female silhouette with visible skeleton overlay in an educational/artistic anatomy style. No recognizable brand logos, copyrighted characters, celebrity likenesses, or distinctive protected artist styles detected. The x-ray/skeleton motif is a common generic concept used widely in anatomy and health-related art."
   },
   "listing": {
     "index": 0,
-    "title": "Retro Horror Haunted House October Tee - Vintage 70s Movie Poster Style",
+    "title": "Pilates Pain Before 7am Women's T-Shirt | Reformer Fitness Tee",
     "tags": [
-      "spooky season shirt",
-      "horror graphic tee",
-      "vintage halloween apparel",
-      "retro 70s design",
-      "haunted house aesthetic",
-      "october clothing",
-      "horror fan gift",
-      "distressed band tee style",
-      "scary movie merch",
-      "alternative fashion",
-      "dark aesthetic shirt",
-      "collector tee",
-      "gift for horror lovers"
+      "pilates t-shirt",
+      "reformer fitness apparel",
+      "workout humor tee",
+      "minimalist fitness design",
+      "pilates studio fashion",
+      "women's athletic shirt",
+      "fitness motivation gift",
+      "gym humor clothing",
+      "pilates enthusiast gift",
+      "performance tee women",
+      "workout graphic tee",
+      "fitness instructor gift",
+      "athleisure casual wear"
     ],
-    "description": "Channel vintage horror vibes with this distressed graphic tee featuring a moody haunted Victorian mansion and 'It's Always October Somewhere' in bold retro lettering. Perfect for Halloween enthusiasts, horror fans, and anyone who lives for spooky season year-round. The 70s-inspired poster aesthetic makes it an ideal gift for collectors of vintage-style apparel or anyone seeking standout casual wear with dark aesthetic appeal. Comfortable everyday wear that celebrates Halloween spirit and classic horror aesthetics.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "Designed for the reformer Pilates devotee. This tee features a minimalist anatomical silhouette captured mid-Pilates pose paired with the dry caption 'I Pay to Be in Pain Before 7am'\u2014a relatable nod to early morning studio sessions. Perfect for layering over workout gear, wearing to class, or gifting to your studio friends. Comfortable everyday wear that celebrates the dedication of the Pilates lifestyle. Great for studio enthusiasts, fitness instructors, and anyone who lives for that pre-dawn burn.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
   },
-  "product_id": "6a5c660137cc8d74f603c24d"
+  "product_id": "6a5c6bcd9ffbca031e0e58ba"
 }
