@@ -35,63 +35,38 @@ def api(method: str, path: str, data: dict | None = None) -> dict:
 
 
 def setup_collections() -> None:
-    """Create collections for product categories."""
-    existing = {c["title"]: c["id"] for c in api("GET", "/collections.json").get("collections", [])}
-    for name in COLLECTIONS:
-        title = name.replace("-", " ").title()
-        if title not in existing:
-            api("POST", "/collections.json", {
-                "collection": {"title": title, "handle": name}})
-            print(f"  ✓ collection: {title}")
-        else:
-            print(f"  - collection: {title} (exists)")
+    """Collections require write_collections scope (not granted to this app).
+    Skip — users can create them manually in Shopify admin."""
+    print(f"  - collections: create manually in Shopify admin (scope not granted)")
 
 
 def setup_policies() -> None:
-    """Set refund policy."""
-    current = api("GET", "/shop.json").get("shop", {}).get("policy_text")
-    if not current or "30 days" not in current:
-        api("PUT", "/shop.json", {
-            "shop": {"policy_text": POLICY_HTML}})
-        print(f"  ✓ refund policy")
-    else:
-        print(f"  - refund policy (exists)")
+    """Set refund policy (via admin_shop_settings scope)."""
+    try:
+        current = api("GET", "/shop.json").get("shop", {}).get("policy_text", "")
+        if not current or "30 days" not in current:
+            api("PUT", "/shop.json", {
+                "shop": {"policy_text": POLICY_HTML}})
+            print(f"  ✓ refund policy")
+        else:
+            print(f"  - refund policy (exists)")
+    except RuntimeError as e:
+        if "403" in str(e):
+            print(f"  - refund policy: configure in Shopify admin")
+        else:
+            raise
 
 
 def setup_shipping() -> None:
-    """Set flat-rate shipping."""
-    zones = api("GET", "/shipping_zones.json").get("shipping_zones", [])
-    if zones:
-        print(f"  - shipping zones ({len(zones)} exist)")
-        return
-    api("POST", "/shipping_zones.json", {
-        "shipping_zone": {
-            "name": "Worldwide",
-            "countries": [{"code": "*"}],
-            "shipping_rates": [{
-                "name": "Standard",
-                "price": "0.00",
-                "weight_based": False
-            }]
-        }
-    })
-    print(f"  ✓ shipping: flat-rate worldwide")
+    """Shipping requires write_shipping scope (not granted to this app).
+    Skip — users configure in Shopify admin."""
+    print(f"  - shipping: configure in Shopify admin (scope not granted)")
 
 
 def setup_theme() -> None:
-    """Ensure Dawn theme is active."""
-    themes = api("GET", "/themes.json").get("themes", [])
-    dawn = [t for t in themes if "dawn" in t.get("name", "").lower()]
-    if not dawn:
-        print(f"  - theme: install Dawn manually via Shopify admin")
-        return
-    active = [t for t in themes if t.get("role") == "main"]
-    if active and "dawn" in active[0].get("name", "").lower():
-        print(f"  - theme: Dawn (active)")
-        return
-    api("PUT", f"/themes/{dawn[0]['id']}.json", {
-        "theme": {"role": "main"}})
-    print(f"  ✓ theme: Dawn")
+    """Themes require write_themes scope (not granted to this app).
+    Skip — users install in Shopify admin."""
+    print(f"  - theme: install Dawn in Shopify admin (scope not granted)")
 
 
 if __name__ == "__main__":
