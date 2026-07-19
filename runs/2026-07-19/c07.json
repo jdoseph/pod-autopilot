@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Anxious Plant Parents",
+    "niche": "Autumn Hiking Enthusiasts",
     "product_type": "t-shirt",
-    "concept": "Cartoon drooping houseplant with a thought bubble reading 'Was it too much water or not enough? We'll never know.'",
-    "audience": "Millennial and Gen Z indoor plant collectors with self-deprecating humor",
-    "score": 7.0,
-    "rationale": "Plant parent identity is strong and gift-friendly. Humor-based designs in this niche perform consistently. No IP risk and high shareability on social."
+    "concept": "Silhouette of a hiker on a ridge surrounded by falling leaves with 'Peak Season' as a double-meaning tagline",
+    "audience": "Outdoor hikers who celebrate fall foliage season",
+    "score": 7.1,
+    "rationale": "Fall hiking content surges in August-September buying windows. The pun creates shareability. Seasonal timing aligns well with the 6-8 week lead time from today."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"Was it too much water or not enough? We'll never know.\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a drooping houseplant in a simple pot, wilted leaves hanging downward, with a thought bubble above containing text. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: sage green, terracotta orange, cream white, charcoal black, and soft gray. Single centered composition on plain cream background with generous margin. Clean sharp edges, screen-print aesthetic, bold simple shapes, high contrast. Readable at 12x16 inches from across a room.",
-    "text_on_design": "Was it too much water or not enough? We'll never know.",
-    "style": "Bold retro sans-serif, lowercase, arranged in two lines inside the thought bubble above the plant"
+    "image_prompt": "The design prominently features the text \"PEAK SEASON\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a hiker silhouette standing on a mountain ridge, arms raised in celebration. Surrounding the figure are falling maple and birch leaves in mid-air, creating dynamic movement around the composition. Solid color blocks: deep charcoal gray for the hiker and ridge, burnt orange, golden yellow, and rust red for the leaves, cream solid background. No gradients, no shading, no photorealism. Single centered composition with generous white margin. Readable as a bold screen-print at 12x16 inches.",
+    "text_on_design": "PEAK SEASON",
+    "style": "Bold retro sans-serif, white, arched above the hiker silhouette, approximately 1.5 inches tall, crisp and legible from distance."
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Was it too much water or not enough? We'll never know.' is an original, generic humorous expression about common houseplant care frustration. It does not reference any known trademark, brand, celebrity, character, song lyric, or protected slogan. The cartoon drooping houseplant concept is a widely used generic illustration theme with no distinctive IP associations. The combination of image and text represents original comedic content suitable for print-on-demand."
+    "reason": "The phrase 'Peak Season' is a common generic expression used in everyday language to describe a period of high activity or demand. As a double entendre referencing both mountain peaks and the autumn hiking season, it is a straightforward play on words with no distinctive trademark character. The silhouette hiker and falling leaves imagery is generic outdoor/nature art with no reference to specific brands, characters, celebrities, or protected IP. No known registered trademarks for this exact phrase in the apparel or print-on-demand space are prominent enough to raise concern. Overall risk is low."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The text reads exactly 'WAS IT TOO MUCH WATER OR NOT ENOUGH? WE'LL NEVER KNOW.' \u2014 correctly spelled and complete. The illustration is a generic drooping potted plant with a thought bubble, no IP concerns, clean linework, plain background suitable for garment printing, and no quality issues."
+    "reason": "The design displays exactly 'PEAK SEASON' in bold, correctly spelled text. The composition features a clean silhouette of a hiker on a mountain peak surrounded by autumn leaves \u2014 all generic motifs with no IP concerns. Text is clear and legible, anatomy is stylized silhouette (no malformation issues), and the overall design is clean and suitable for garment printing."
   },
   "listing": {
     "index": 7,
-    "title": "Plant Parent T-Shirt Anxious Houseplant Humor Funny Tee",
+    "title": "Peak Season Hiking T-Shirt - Autumn Foliage Tee",
     "tags": [
-      "plant parent shirt",
-      "houseplant humor",
-      "funny plant tee",
-      "plant lover shirt",
-      "millennial humor",
-      "houseplant anxiety",
-      "indoor plant shirt",
-      "self-deprecating humor",
-      "plant parent gift",
-      "plant collector tee",
-      "gardening humor",
-      "drooping plant design",
-      "Gen Z style"
+      "hiking shirt",
+      "autumn hiking",
+      "fall foliage tee",
+      "outdoor apparel",
+      "nature lover gift",
+      "hiker gift",
+      "peak season design",
+      "silhouette graphic",
+      "seasonal outdoor",
+      "trail shirt",
+      "fall adventure",
+      "outdoor enthusiast",
+      "graphic nature tee"
     ],
-    "description": "For everyone who's ever stared at a drooping houseplant and wondered what went wrong. This relatable tee features a cartoon houseplant with a thought bubble asking the eternal question: 'Was it too much water or not enough? We'll never know.' Perfect for plant collectors, plant parents, and anyone who loves a little horticultural humor. The self-deprecating design resonates with millennials and Gen Z who care deeply about their green friends. Soft, comfortable fit that works for plant meets, casual days, or indoor plant photoshoots. A funny gift for someone whose apartment is basically a jungle and proud of it."
+    "description": "Celebrate peak season with this striking hiking tee. Features a silhouette of a hiker on a ridge surrounded by falling leaves, with the double-meaning tagline 'Peak Season' capturing both mountain elevation and autumn's best hiking weather. Soft, durable cotton blend perfect for trail adventures and everyday wear. Ideal gift for outdoor hikers who chase fall foliage and mountain views."
   },
-  "product_id": "6a5c79613142c1a9d5064bee"
+  "product_id": "6a5cdd59ca81a1092c09684c"
 }

@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Homeschool Parents",
-    "product_type": "t-shirt",
-    "concept": "Bold typography: 'Principal. Teacher. Lunch Lady. Mom.' stacked in varsity-style lettering",
-    "audience": "Homeschooling mothers entering the fall academic year",
-    "score": 7.4,
-    "rationale": "Homeschool community is tight-knit and identity-driven. Back-to-school timing is perfect. Multi-role humor resonates deeply and drives gifting and self-purchase."
+    "niche": "Back to School Survival Tote",
+    "product_type": "tote",
+    "concept": "Illustrated overflowing backpack with floating school supplies and the phrase 'Carrying the Weight of Entire Civilization (Unpaid)' for teacher use",
+    "audience": "Teachers who carry materials to and from classrooms daily",
+    "score": 7.5,
+    "rationale": "Teachers literally need large totes for classroom supplies. Functional product meets identity product. August buying window is perfectly timed 6-8 weeks from today."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"PRINCIPAL\nTEACHER\nLUNCH LADY\nMOM\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Centered composition on plain solid background with generous margin. Limited palette: cream, deep navy, burnt orange, forest green. Solid color blocks, no gradients, no airbrush shading, no photorealism. Typography-driven design featuring four stacked words in heavy varsity block lettering, each word on its own line, slightly offset horizontally for dynamic rhythm. Bold retro serif block letters, all caps. No illustration elements, pure typography composition. Readable at 12x16 inches from across a room.",
-    "text_on_design": "PRINCIPAL\nTEACHER\nLUNCH LADY\nMOM",
-    "style": "flat vector illustration, bold varsity typography, screen-print aesthetic, limited solid color palette, high contrast, no gradients or shading"
+    "image_prompt": "The design prominently features the text \"Carrying the Weight of Entire Civilization (Unpaid)\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an oversized backpack bursting open with school supplies floating outward in a dynamic composition. Include pencils, books, papers, erasers, and apple scattered around the packed bag. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges in a screen-print aesthetic. Limited palette: charcoal gray, warm rust orange, cream white, and forest green on a solid light gray background. Single centered composition with generous margin on all sides. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Carrying the Weight of Entire Civilization (Unpaid)",
+    "style": "Bold retro sans-serif, all caps, arched above the backpack illustration in charcoal gray"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Principal. Teacher. Lunch Lady. Mom.' is a generic, descriptive list of common occupational and familial roles with no association to any known trademark, brand, celebrity, character, or protected slogan. Varsity-style lettering is a common design aesthetic not owned by any single entity. This type of humorous role-stacking sentiment is a well-established genre of generic novelty apparel. No IP concerns identified."
+    "reason": "The phrase 'Carrying the Weight of Entire Civilization (Unpaid)' is an original, descriptive expression of teacher appreciation humor with no known trademark conflicts. It does not reference any brand, character, celebrity, sports team, lyric, or protected slogan. The illustrated backpack and floating school supplies concept is a generic visual theme with no IP-protected elements. The combination is original creative expression suitable for print-on-demand."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The design displays exactly the required text 'PRINCIPAL / TEACHER / LUNCH LADY / MOM' in the correct order, correctly spelled, with no additional or missing words. The typography is clean collegiate/varsity style with good color contrast (dark navy, orange, green) on a cream background. No IP risks, no anatomical elements, no artifacts, and no mockup present."
+    "reason": "The text reads exactly 'CARRYING THE WEIGHT OF ENTIRE CIVILIZATION (UNPAID)' \u2014 correctly spelled and complete. The illustration is a clean, original composition of a school backpack overflowing with books, pencils, and school supplies, with an apple at the base. No IP risk, no quality issues, no malformed elements, and a plain background suitable for garment printing."
   },
   "listing": {
     "index": 3,
-    "title": "Homeschool Mom T-Shirt 'Principal Teacher Lunch Lady Mom'",
+    "title": "Teacher Survival Tote Bag - 'Carrying the Weight' Canvas Bag",
     "tags": [
-      "homeschool mom shirt",
-      "teacher mom shirt",
+      "teacher tote",
+      "school supplies bag",
+      "teacher gift",
+      "canvas carryall",
       "back to school",
-      "homeschool tee",
-      "funny mom shirt",
-      "educator mom",
-      "parenting humor",
-      "varsity lettering",
-      "homeschooling parents",
-      "back to school shirt",
-      "mom of students",
-      "homeschool family",
-      "educational parent"
+      "classroom organization",
+      "teacher appreciation",
+      "overflowing backpack design",
+      "school bag",
+      "educator gift",
+      "funny teacher merch",
+      "durable canvas tote",
+      "work bag for teachers"
     ],
-    "description": "A funny, relatable tee for homeschooling moms juggling multiple roles. Bold varsity-style lettering stacks the reality: Principal. Teacher. Lunch Lady. Mom. Soft, comfortable cotton perfect for the school year hustle. This shirt celebrates the multitasking mastery of homeschool parents who wear all the hats. Great for fall academic season photos, meeting other homeschool families, or just getting through Wednesday with humor intact. The classic design pairs with anything in your wardrobe. A gift that says 'I see you and your incredible work.'"
+    "description": "For teachers who carry the weight of everything. This sturdy canvas tote features an illustrated overflowing backpack with floating school supplies and humorous text celebrating the unpaid labor of educators. Spacious design holds lesson plans, papers, materials, and more. Durable handles built for daily classroom commutes. Witty gift for teachers, perfect for back-to-school season and year-round appreciation."
   },
-  "product_id": "6a5c79183142c1a9d5064bcf"
+  "product_id": "6a5cdceae3817f662b062089"
 }

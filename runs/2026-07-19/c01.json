@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Back to School Teacher",
-    "product_type": "tote",
-    "concept": "Canvas-style illustration of stacked books and supplies with 'Carrying the Weight of 28 Futures' in hand-lettered script",
-    "audience": "Dedicated K-12 teachers and the people who gift them",
-    "score": 7.6,
-    "rationale": "Teachers genuinely use totes for carrying classroom supplies. Emotional resonance is high. Back-to-school timing is ideal. Giftable and self-purchase both apply."
+    "niche": "Cat Ownership Identity",
+    "product_type": "mug",
+    "concept": "Black cat silhouette sitting inside a coffee cup viewed from above with 'They Were In Here First' as caption text",
+    "audience": "Cat owners who anthropomorphize their pets and drink coffee ritually",
+    "score": 7.8,
+    "rationale": "Cat mugs are perennial bestsellers. This concept has a fresh visual angle rather than recycled phrases. High repeat-gift potential and broad demographic reach among pet owners."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"Carrying the Weight of 28 Futures\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a tall stack of books and school supplies (pencils, notebooks, apple, ruler, chalk) balanced precariously in the center. The stack is rendered in bold simple shapes with solid color blocks: deep navy blue, warm mustard yellow, burnt orange, and cream. Sharp clean edges, no gradients or shading. Single centered composition on a plain white background with generous margin. Screen-print aesthetic, high contrast, readable at 12x16 inches from across a room.",
-    "text_on_design": "Carrying the Weight of 28 Futures",
-    "style": "Hand-lettered flowing script in deep navy blue, positioned in a gentle arc below the stacked supplies illustration. Bold retro serif letterforms with organic curves, professional hand-rendered quality, no AI-visible distortion."
+    "image_prompt": "The design prominently features the text \"They Were In Here First\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cat silhouette sitting inside a coffee cup viewed from directly above. The cat is curled up, shown in pure solid black, centered in the cup. The cup is rendered in warm cream or tan with a dark brown rim and handle visible. Solid color blocks, no gradients, no shading, no photorealism. Clean sharp edges, screen-print aesthetic. Centered composition on plain white background with generous margin. High contrast, bold simple shapes.",
+    "text_on_design": "They Were In Here First",
+    "style": "Bold retro sans-serif block letters, all caps, positioned arched below the cup illustration in dark brown, clean and legible at distance"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Carrying the Weight of 28 Futures' is an original, descriptive expression referencing a teacher or educator responsible for a classroom of students. It contains no registered trademarks, brand names, celebrity references, protected slogans, song lyrics, or character names. The number 28 is generic and contextually references a class size. The canvas-style illustration of stacked books and school supplies is a common, non-proprietary artistic concept. No known trademark conflicts identified."
+    "reason": "The black cat silhouette inside a coffee cup is a generic illustrative concept with no identifiable trademark, character, or brand association. The phrase 'They Were In Here First' is a common-sense humorous caption about cats claiming spaces, and does not appear to reference any known registered slogan, song lyric, movie quote, or branded catchphrase. The design as a whole is original generic humor suitable for print-on-demand."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The design displays exactly 'Carrying the Weight of 28 Futures' with correct spelling and no extraneous text. The illustration features a clean stack of books with school supplies and an apple \u2014 a common, generic teacher/education motif with no IP concerns. Typography is bold and legible, artwork is clean with no rendering artifacts or quality issues, and the light background is suitable for garment printing."
+    "reason": "The design clearly displays 'THEY WERE IN HERE FIRST' in bold, correctly spelled text on a mug with a generic black cat silhouette. Text matches the required phrase exactly. No IP risks, no quality issues, clean flat illustration style suitable for garment printing."
   },
   "listing": {
     "index": 1,
-    "title": "Teacher Tote Bag Canvas 'Carrying Futures' Book Design",
+    "title": "Cat Lover Coffee Mug - 'They Were In Here First' Cup",
     "tags": [
-      "teacher tote bag",
-      "back to school gift",
-      "teacher appreciation",
-      "canvas book tote",
-      "K-12 teacher gift",
-      "school supplies bag",
-      "hand-lettered design",
-      "teacher thank you",
-      "gift for teacher",
-      "stacked books tote",
-      "educator gift",
-      "teacher end of year",
-      "carry all tote"
+      "cat owner mug",
+      "cat coffee cup",
+      "funny cat mug",
+      "cat lady gift",
+      "pet humor gift",
+      "cat silhouette design",
+      "morning coffee mug",
+      "cat parent gift",
+      "ceramic mug",
+      "cat themed gifts",
+      "pet owner coffee",
+      "quirky cat gifts",
+      "office desk mug"
     ],
-    "description": "A meaningful tote for educators who carry far more than just supplies. This canvas-style bag features a stunning illustration of stacked books and classroom supplies with hand-lettered script that speaks to the heart of teaching. Perfect for carrying lesson plans, papers, or personal items to and from school. Durable construction handles daily use. Whether you're a teacher treating yourself or someone celebrating the educators in your life, this design honors the profound impact teachers have. Spacious interior and reinforced handles make it practical for the busy school year."
+    "description": "Perfect for the cat owner who knows their feline is the true ruler of the home. This mug features a black cat silhouette nestled inside a coffee cup, viewed from above, with the knowing caption 'They Were In Here First.' Ceramic construction, dishwasher-safe, 11oz capacity. Ideal for morning coffee rituals and cat-themed desk spaces. Gift idea for cat parents and pet lovers."
   },
-  "product_id": "6a5c78f63142c1a9d5064bba"
+  "product_id": "6a5cdcce78043256370a3f2d"
 }

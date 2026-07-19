@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Back to School Teacher",
-    "product_type": "t-shirt",
-    "concept": "Bold retro-style text reading 'Fueled by Caffeine and Chaos' surrounded by scattered pencils and apple doodles",
-    "audience": "K-12 teachers heading into the fall semester",
-    "score": 7.2,
-    "rationale": "Late July is prime back-to-school buying window. Teachers are a passionate gift-receiving audience with proven POD demand. Design avoids IP and uses evergreen humor."
+    "niche": "Farmers Market Regular Shoppers",
+    "product_type": "tote",
+    "concept": "Grid of hand-illustrated seasonal produce with 'Local First, Always' in a bold woodblock print style",
+    "audience": "Urban and suburban shoppers who attend weekly farmers markets",
+    "score": 7.3,
+    "rationale": "Totes are the natural functional product for this audience. Farmers market season peaks in fall harvest months. Design style feels authentic to the aesthetic of the community."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"Fueled by Caffeine and Chaos\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, screen-print aesthetic. Centered composition on solid cream background. Bold retro sans-serif text reading 'Fueled by Caffeine and Chaos' arched in a circle. Surrounding the text: 6-8 scattered pencils at varied angles, 4-5 simple apple silhouettes with stems, small coffee cup icon. Solid color blocks only\u2014no gradients, no shading, no photorealism. Limited palette: deep forest green, burnt orange, mustard yellow, cream, charcoal black. High contrast, clean sharp edges, readable at 12x16 inches from across a room. Single centered composition, generous margins, no background pattern.",
-    "text_on_design": "Fueled by Caffeine and Chaos",
-    "style": "Flat vector illustration, bold retro screen-print aesthetic, limited solid color palette (forest green, burnt orange, mustard yellow, cream, charcoal), high contrast, clean sharp edges, no gradients or photorealistic detail"
+    "image_prompt": "The design prominently features the text \"Local First, Always\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a 2x2 grid showcasing four seasonal produce items: spring asparagus bundle, summer tomato, autumn pumpkin, winter root vegetables. Each produce item rendered in bold simple shapes with clean sharp edges, solid color blocks, no gradients or shading. Color palette: deep forest green, warm burnt orange, bright red, cream white, charcoal black. Solid color blocks only, screen-print aesthetic. Single centered composition on plain cream background with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Local First, Always",
+    "style": "Bold woodblock print type treatment, thick serif letterforms with slight irregularity, arched above the grid of produce, solid black, high contrast. Flat vector illustration, limited palette, no gradients, no photorealism, screen-print ready."
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Fueled by Caffeine and Chaos' is a generic humorous expression with no known trademark registration or association with a specific brand, celebrity, or IP holder. The surrounding design elements of scattered pencils and apple doodles are common generic illustrations with no distinctive trademark associations. The overall concept is an original combination of generic humor and educator-themed imagery that presents no identifiable IP risk."
+    "reason": "The phrase 'Local First, Always' is a generic promotional sentiment commonly used in the farm-to-table and local food movement space. It does not appear to be a distinctive registered trademark, and the combination with hand-illustrated seasonal produce in a woodblock print style is a common aesthetic in the artisan/farmers market design category. No celebrity, brand, character, or protected slogan references are present. The design concept is broadly generic enough to carry low IP risk, though the seller should note that no formal USPTO search was conducted and a clearance search is always advisable before large print runs."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The text 'FUELED BY CAFFEINE AND CHAOS' is correctly spelled and complete. The design features clean hand-lettered typography surrounded by generic teacher-themed illustrations (apples, pencils, coffee cup) on a plain background. No IP risks, no quality issues, suitable for garment printing."
+    "reason": "The design clearly displays 'LOCAL FIRST, ALWAYS' \u2014 correctly spelled and complete. The artwork features clean, flat-style vegetable illustrations (asparagus, tomato, pumpkin, radishes) with no IP concerns, no anatomical issues, no rendering artifacts, and a simple cream background suitable for garment printing."
   },
   "listing": {
     "index": 5,
-    "title": "Teacher T-Shirt 'Fueled by Caffeine and Chaos' Pencils",
+    "title": "Farmers Market Tote - 'Local First, Always' Produce Bag",
     "tags": [
-      "teacher shirt",
-      "back to school",
-      "funny teacher tee",
-      "caffeine shirt",
-      "pencil design",
-      "retro lettering",
-      "classroom chaos",
-      "teacher appreciation",
-      "school supplies print",
-      "teacher humor",
-      "fall semester tee",
-      "educator shirt",
-      "coffee lover teacher"
+      "farmers market tote",
+      "produce shopping bag",
+      "local food gift",
+      "seasonal vegetables",
+      "market shopper gift",
+      "reusable grocery tote",
+      "woodblock print design",
+      "sustainable shopping",
+      "farmers market regular",
+      "local first movement",
+      "eco-friendly tote",
+      "canvas market bag",
+      "food lover gift"
     ],
-    "description": "The anthem of every K-12 teacher heading into fall. Bold retro-style text declares what fuels the school year: caffeine and controlled chaos. Surrounded by scattered pencils and apple doodles that capture classroom energy. Soft, wearable cotton perfect for staff meetings, first-day photos, or just surviving Wednesday. This design speaks the truth about teaching with humor and style. Great for teacher friends, end-of-year gifts, or treating yourself to something that gets it. The vintage-inspired aesthetic pairs with your whole wardrobe."
+    "description": "For shoppers who visit the farmers market religiously. This canvas tote showcases hand-illustrated seasonal produce in a grid layout with 'Local First, Always' in striking woodblock print style. Sturdy enough for weekly hauls of fresh vegetables, fruits, and local goods. Perfect for urban and suburban market enthusiasts who celebrate seasonal eating and local food systems. Practical and beautiful."
   },
-  "product_id": "6a5c793c90155372e109ca51"
+  "product_id": "6a5cdd0778043256370a3f56"
 }

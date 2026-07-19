@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Cottage Core Foragers",
-    "product_type": "tote",
-    "concept": "Delicate botanical illustration of wild berries and leaves with 'Forage. Gather. Repeat.' in serif type",
-    "audience": "Nature-loving women who forage, hike, and embrace slow living",
+    "niche": "Amateur Mycology Hobbyists",
+    "product_type": "mug",
+    "concept": "Detailed botanical-style illustration of five common foraged mushrooms with their Latin names in a circular arrangement",
+    "audience": "Mushroom foragers, mycology enthusiasts, and science-art crossover buyers",
     "score": 7.2,
-    "rationale": "Fall foraging season peaks in August-September, directly in the buying window. Totes are functional for foraging. Aesthetic aligns with cottage core Pinterest trends. Clean design with commercial appeal."
+    "rationale": "Mycology fandom is fast-growing with strong Etsy and niche platform traction. Fall foraging season starts in September. Botanical illustration style is on-trend and design-differentiated."
   },
   "design": {
-    "image_prompt": "The design prominently features the text \"Forage. Gather. Repeat.\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of wild berries and leaves arranged in a loose circular composition. Include blackberries, raspberries, and blueberries on stems with serrated leaves. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Limited palette: deep forest green, burgundy red, dusty blue, cream, and charcoal black. Single centered composition on plain cream background with generous margin. High contrast, readable at 12x16 inches from across a room.",
-    "text_on_design": "Forage. Gather. Repeat.",
-    "style": "Bold serif type, arched above the botanical illustration in charcoal black"
+    "image_prompt": "Flat vector illustration of five common edible mushrooms arranged in a circle: chanterelle, porcini, oyster, shiitake, and morel. Each mushroom shown in simple bold silhouettes with clean outlines and minimal internal detail lines. Solid color blocks only\u2014no gradients, no shading, no photorealism. Color palette: forest green, cream, burnt orange, deep brown, charcoal gray. Single centered composition on solid off-white background with generous margins. High contrast, screen-print aesthetic, readable at 12x16 inches.",
+    "text_on_design": null,
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients, no photorealism"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Forage. Gather. Repeat.' is a generic three-word activity sequence in a common 'Verb. Verb. Repeat.' format widely used across print-on-demand. No known trademark association with brands, celebrities, or protected IP. The botanical wild berry illustration concept is a classic, generic nature art style with no distinctive character or brand tie-ins. The combination presents minimal IP risk."
+    "reason": "Botanical-style illustrations of common foraged mushrooms with their Latin scientific names are in the public domain as a concept and style. Latin binomial nomenclature for species is generic scientific terminology not owned by any trademark holder. Circular arrangement is a common compositional choice. No brand names, characters, slogans, or protected intellectual property is referenced. This design presents negligible IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Text reads exactly 'FORAGE. GATHER. REPEAT.' \u2014 correctly spelled and complete. The design features clean folk-art style botanical illustration with berries and leaves surrounding the text. No IP concerns, no quality issues, clear cream background suitable for garment printing."
+    "reason": "Clean flat-style illustration of various mushroom types (chanterelles, morel, shiitake, etc.) arranged in a circular composition on a white background. No text, no IP concerns, no quality issues. Simple, original botanical motif suitable for garment printing."
   },
   "listing": {
     "index": 6,
-    "title": "Forager Tote Bag Botanical Wild Berries 'Forage Gather'",
+    "title": "Mycology Mug - Foraged Mushroom Botanical Illustration Cup",
     "tags": [
-      "foraging tote",
-      "botanical design",
-      "cottagecore bag",
-      "wild berries illustration",
-      "nature tote bag",
-      "hiking bag",
-      "reusable market tote",
-      "slow living style",
-      "woodland design",
-      "nature lovers gift",
-      "forager gift",
-      "herbal print tote",
-      "outdoor enthusiast bag"
+      "mushroom mug",
+      "mycology gift",
+      "foraging enthusiast",
+      "botanical illustration",
+      "science art mug",
+      "nature lover gift",
+      "mushroom species",
+      "Latin names design",
+      "fungi enthusiast",
+      "educational mug",
+      "science gifts",
+      "hobby coffee cup",
+      "naturalist gift"
     ],
-    "description": "For those who find magic in forests and meadows. This delicate canvas tote features beautiful botanical illustrations of wild berries and leaves with 'Forage. Gather. Repeat.' in elegant serif type. Perfect for farmers market trips, berry-picking seasons, hiking excursions, or farmers market gatherings. The sophisticated design celebrates the slow-living, nature-connected lifestyle. Roomy enough for mushrooms, berries, greens, or weekend finds. Durable construction handles foraging adventures and repeated use. A lovely gift for nature lovers who embrace cottagecore aesthetics and real connection to the land."
+    "description": "For the amateur mycologist and fungi enthusiast. This mug features detailed botanical-style illustrations of five common foraged mushrooms arranged in a circular composition with their Latin names displayed. Educational and beautiful, celebrating the intersection of science and natural history. Ceramic, 11oz, dishwasher-safe. Perfect gift for mushroom foragers, mycology hobbyists, and anyone who appreciates nature-inspired science art."
   },
-  "product_id": "6a5c794e90155372e109ca58"
+  "product_id": "6a5cdd47e3817f662b0620fa"
 }

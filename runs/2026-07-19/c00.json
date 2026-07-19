@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "New School Year / Reading Teachers / Librarians",
-    "product_type": "mug",
-    "concept": "Mug reading 'Shh... I'm Plotting' with a small open book graphic, targeting librarians who love mystery and dark humor about their quiet authority.",
-    "audience": "School and public librarians, reading specialists, book club leaders",
-    "score": 8.1,
-    "rationale": "Librarian identity merchandise is a passionate and underserved niche relative to teacher merch. The 'plotting' pun works on two levels (plot of a story, plotting something devious) which is exactly the layered humor this audience appreciates. Back-to-school timing drives gifting from colleagues and patrons. Mug is the ideal format. Phrase is original and avoids IP. Strong evergreen potential well beyond the season."
+    "niche": "Book Club Readers Fall Season",
+    "product_type": "tote",
+    "concept": "Stack of books tumbling into an open bag with falling autumn leaves and 'Fall Reading List: Aggressively Ambitious' in editorial typography",
+    "audience": "Book club members and avid readers who ramp up reading in autumn",
+    "score": 7.9,
+    "rationale": "Book totes are a top organic seller on Etsy. Fall reading culture is a strong seasonal hook. Humorous self-aware copy resonates with the exact demographic. High shareability."
   },
   "design": {
-    "image_prompt": "Flat vector illustration of an open book with pages slightly lifted, centered composition. Inside the book pages, a single eye peering out with a mischievous expression. Solid color blocks: deep navy blue, cream white, charcoal black, and burnt orange. No gradients, no shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Plain solid cream background with generous margin. Design readable at 12x16 inches from across a room.",
-    "text_on_design": "Shh... I'm Plotting",
-    "style": "Bold retro sans-serif, all caps, arched above the book illustration in charcoal black, maximum 6 words"
+    "image_prompt": "The design prominently features the text \"Fall Reading List: Aggressively Ambitious\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a stack of books tumbling diagonally into an open canvas tote bag positioned center-right, with individual books at various angles mid-fall. Scattered autumn leaves in different sizes falling around the composition. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: deep forest green, burnt orange, cream, warm brown, and charcoal gray. Single centered composition on plain cream background with generous margin. High contrast, clean sharp edges, screen-print aesthetic, bold simple geometric shapes.",
+    "text_on_design": "Fall Reading List: Aggressively Ambitious",
+    "style": "Bold condensed sans-serif in charcoal gray, arranged in two lines in editorial typography style, positioned above the falling books composition, clean and authoritative."
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Shh... I'm Plotting' is a common generic humorous expression playing on the double meaning of 'plotting' (scheming vs. plot of a story) combined with the librarian 'shh' stereotype. No known trademark claims on this phrase, no celebrity or brand references, no protected characters or lyrics. The open book graphic is a generic clipart-style element. This type of wordplay-based occupational humor is widely considered in the public domain of common expression and poses minimal IP risk."
+    "reason": "The phrase 'Fall Reading List: Aggressively Ambitious' is a generic descriptive phrase combining a common seasonal reading concept with a humorous self-deprecating modifier. No trademark concerns identified for this phrase. The visual elements (stacked books, bag, autumn leaves) are entirely generic with no character, team, or brand associations. The design is original and poses no IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Clean, original illustration of an open book with a stylized eye/head peeking over it. Generic mystical/reading motif with no IP concerns, no text, clean lines, solid flat colors, and no quality issues. Suitable for garment printing."
+    "reason": "Text reads exactly 'FALL READING LIST: AGGRESSIVELY AMBITIOUS' \u2014 correctly spelled and complete. Artwork is a clean, original flat-illustration style composition of books, a tote bag, and autumn leaves on a plain cream background. No IP, brand, character, or quality issues detected."
   },
   "listing": {
     "index": 0,
-    "title": "Shh I'm Plotting Mug | Librarian & Reading Teacher Gift",
+    "title": "Fall Reading List Tote Bag - Book Club Canvas Carryall",
     "tags": [
-      "librarian mug",
-      "mystery book lover gift",
-      "reading teacher coffee mug",
-      "dark humor book mug",
-      "quiet library humor",
-      "book club gift idea",
-      "bookworm coffee cup",
-      "literary joke mug",
-      "school librarian present",
-      "funny book lover mug",
-      "librarian appreciation gift",
-      "reader humor mug",
-      "back to school librarian"
+      "book club tote",
+      "fall reading bag",
+      "literary gifts",
+      "autumn book lover",
+      "canvas tote bag",
+      "reader gifts",
+      "book stack design",
+      "seasonal tote",
+      "literary merch",
+      "book club supplies",
+      "fall gifts for readers",
+      "library tote",
+      "book nerd accessories"
     ],
-    "description": "Perfect for librarians who know that plotting happens in the quiet corners of the stacks. This mug celebrates the wit and intelligence of reading professionals who maintain order through authority and dark humor. Features a charming open book graphic paired with mysterious lettering. Ideal gift for school librarians, public librarians, reading specialists, and book club leaders. Great for back-to-school season, librarian appreciation day, or any book lover on your list. Durable ceramic, dishwasher safe, holds 11oz."
+    "description": "Carry your autumn TBR with style. This tote features a stunning cascade of books tumbling into an open bag with falling leaves\u2014perfect for book club meetings, library runs, or carrying your latest haul. The editorial typography celebrates ambitious reading goals. Durable canvas, comfortable handles, ideal for stashing novels and notebooks. Great gift for avid readers gearing up for peak reading season."
   },
-  "product_id": "6a5c75655d9a3e8b4908407c"
+  "product_id": "6a5cdcbcd6432aeda10b13f4"
 }

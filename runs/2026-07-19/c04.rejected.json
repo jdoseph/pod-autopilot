@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Dog Moms Back to Routine",
+    "product_type": "t-shirt",
+    "concept": "Cartoon dog sitting in a school bus doorway with 'My Kid Has Four Legs and No Homework' in playful script",
+    "audience": "Dog owners who humorously contrast pet ownership with parenting culture",
+    "score": 7.4,
+    "rationale": "Back-to-school season reliably generates counter-culture dog-parent humor content. High shareability and emotional resonance. Proven impulse-buy category on Merch by Amazon."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Kid Has Four Legs and No Homework\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cartoon dog sitting in the open doorway of a yellow school bus. The dog has a simple, friendly expression with floppy ears and is centered in the composition. Use solid color blocks with no gradients: school bus yellow, bright orange, warm tan for the dog, black outlines, and white accents. Clean sharp edges, bold simple shapes, screen-print aesthetic. Plain white background with generous margins. The illustration should be readable at 12x16 inches from across a room.",
+    "text_on_design": "My Kid Has Four Legs and No Homework",
+    "style": "Bold playful script lettering arched below the dog and bus illustration, high contrast, flat vector, solid color blocks, no gradients or shading, screen-print aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Kid Has Four Legs and No Homework' appears to be a generic humorous sentiment combining common pet-parent culture with a relatable observation about dogs and homework. It does not reference any known trademark, brand, celebrity, character, team, or protected slogan. The cartoon dog and school bus imagery are generic visual elements. The phrase is a natural variation of common 'my kid has four legs' pet-parent humor that exists in the public domain of everyday expression. No significant IP risk identified."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'AND NO' but is rendered as 'ANO NO' \u2014 the letter 'D' is missing from 'AND', making it a misspelling/typo. The required text must read 'and' not 'ano'."
+  }
+}

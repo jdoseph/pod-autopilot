@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Autumn Harvest Home Cooks",
+    "product_type": "mug",
+    "concept": "Illustrated pumpkin, apple, and cinnamon stick arrangement with 'Soup Season Has Arrived' in cozy serif lettering",
+    "audience": "Home cooks and food lovers who celebrate fall cooking rituals",
+    "score": 7.6,
+    "rationale": "Mugs are the highest-converting seasonal gifting product. Late September buyer behavior starts in mid-August. Soup season is a viral social sentiment that converts well to drinkware."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Soup Season Has Arrived\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an autumn harvest arrangement: a large round pumpkin in burnt orange, a bright red apple, and a cinnamon stick arranged in a balanced centered composition. Solid color blocks with clean sharp edges, no gradients or shading. Limited palette: burnt orange, bright red, warm tan, cream white, and deep brown. Screen-print aesthetic with bold simple shapes. Centered on a solid cream background with generous margin. No text, no background elements, no photorealism.",
+    "text_on_design": "Soup Season Has Arrived",
+    "style": "Bold warm serif typeface, arched in a cozy traditional style, positioned below the harvest illustration. Clean readable letterforms suitable for mug printing."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Soup Season Has Arrived' is a generic seasonal expression with no known trademark associations. The illustrated elements (pumpkin, apple, cinnamon stick) are common decorative motifs in the public domain. The cozy serif lettering style is a standard design choice. No celebrity, brand, character, team, or protected slogan references are present. This is a straightforward seasonal design with minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The word 'ARRIVED' is misspelled as 'ARRIVED' (three R's instead of two). The text fails the spelling requirement and must be rejected for quality."
+  }
+}
