@@ -1,0 +1,46 @@
+{
+  "concept": {
+    "niche": "Back to School Teacher",
+    "product_type": "t-shirt",
+    "concept": "Bold retro-style text reading 'Fueled by Caffeine and Chaos' surrounded by scattered pencils and apple doodles",
+    "audience": "K-12 teachers heading into the fall semester",
+    "score": 7.2,
+    "rationale": "Late July is prime back-to-school buying window. Teachers are a passionate gift-receiving audience with proven POD demand. Design avoids IP and uses evergreen humor."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fueled by Caffeine and Chaos\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, screen-print aesthetic. Centered composition on solid cream background. Bold retro sans-serif text reading 'Fueled by Caffeine and Chaos' arched in a circle. Surrounding the text: 6-8 scattered pencils at varied angles, 4-5 simple apple silhouettes with stems, small coffee cup icon. Solid color blocks only\u2014no gradients, no shading, no photorealism. Limited palette: deep forest green, burnt orange, mustard yellow, cream, charcoal black. High contrast, clean sharp edges, readable at 12x16 inches from across a room. Single centered composition, generous margins, no background pattern.",
+    "text_on_design": "Fueled by Caffeine and Chaos",
+    "style": "Flat vector illustration, bold retro screen-print aesthetic, limited solid color palette (forest green, burnt orange, mustard yellow, cream, charcoal), high contrast, clean sharp edges, no gradients or photorealistic detail"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled by Caffeine and Chaos' is a generic humorous expression with no known trademark registration or association with a specific brand, celebrity, or IP holder. The surrounding design elements of scattered pencils and apple doodles are common generic illustrations with no distinctive trademark associations. The overall concept is an original combination of generic humor and educator-themed imagery that presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'FUELED BY CAFFEINE AND CHAOS' is correctly spelled and complete. The design features clean hand-lettered typography surrounded by generic teacher-themed illustrations (apples, pencils, coffee cup) on a plain background. No IP risks, no quality issues, suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Teacher T-Shirt 'Fueled by Caffeine and Chaos' Pencils",
+    "tags": [
+      "teacher shirt",
+      "back to school",
+      "funny teacher tee",
+      "caffeine shirt",
+      "pencil design",
+      "retro lettering",
+      "classroom chaos",
+      "teacher appreciation",
+      "school supplies print",
+      "teacher humor",
+      "fall semester tee",
+      "educator shirt",
+      "coffee lover teacher"
+    ],
+    "description": "The anthem of every K-12 teacher heading into fall. Bold retro-style text declares what fuels the school year: caffeine and controlled chaos. Surrounded by scattered pencils and apple doodles that capture classroom energy. Soft, wearable cotton perfect for staff meetings, first-day photos, or just surviving Wednesday. This design speaks the truth about teaching with humor and style. Great for teacher friends, end-of-year gifts, or treating yourself to something that gets it. The vintage-inspired aesthetic pairs with your whole wardrobe."
+  },
+  "product_id": "6a5c793c90155372e109ca51"
+}

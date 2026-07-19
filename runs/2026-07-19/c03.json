@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Back to School Teacher",
-    "product_type": "mug",
-    "concept": "A coffee mug reading 'Fueled by Caffeine and the Audacity of Children' with a minimalist apple and lightning bolt graphic.",
-    "audience": "Elementary and middle school teachers, teacher gift-givers",
-    "score": 7.2,
-    "rationale": "Back to school season hits late August, squarely in the 6-8 week buying window. Teacher gifts are a proven evergreen POD category and humor mugs have strong gifting conversion. Phrase is original and avoids IP. Slightly saturated niche but this specific angle has room."
+    "niche": "Homeschool Parents",
+    "product_type": "t-shirt",
+    "concept": "Bold typography: 'Principal. Teacher. Lunch Lady. Mom.' stacked in varsity-style lettering",
+    "audience": "Homeschooling mothers entering the fall academic year",
+    "score": 7.4,
+    "rationale": "Homeschool community is tight-knit and identity-driven. Back-to-school timing is perfect. Multi-role humor resonates deeply and drives gifting and self-purchase."
   },
   "design": {
-    "image_prompt": "Flat vector illustration for a mug design: centered composition with a minimalist apple silhouette on the left and a lightning bolt on the right, both overlapping slightly at the center. Apple is solid, bold shape; lightning bolt is sharp geometric lines. Color palette: deep navy blue, bright yellow, white, and warm coffee brown. Solid color blocks, no gradients, no shading, no photorealism. Clean screen-print aesthetic with high contrast. Plain white background with generous margin around the central graphic. Design scales clearly to 3.5 inch mug surface and reads from across a room.",
-    "text_on_design": "Fueled by Caffeine and the Audacity of Children",
-    "style": "Bold modern sans-serif, all caps, arranged in two curved lines that frame the top and bottom of the apple-lightning bolt graphic. Confident, readable weight. No drop shadow, no texture."
+    "image_prompt": "The design prominently features the text \"PRINCIPAL\nTEACHER\nLUNCH LADY\nMOM\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Centered composition on plain solid background with generous margin. Limited palette: cream, deep navy, burnt orange, forest green. Solid color blocks, no gradients, no airbrush shading, no photorealism. Typography-driven design featuring four stacked words in heavy varsity block lettering, each word on its own line, slightly offset horizontally for dynamic rhythm. Bold retro serif block letters, all caps. No illustration elements, pure typography composition. Readable at 12x16 inches from across a room.",
+    "text_on_design": "PRINCIPAL\nTEACHER\nLUNCH LADY\nMOM",
+    "style": "flat vector illustration, bold varsity typography, screen-print aesthetic, limited solid color palette, high contrast, no gradients or shading"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Fueled by Caffeine and the Audacity of Children' is original humorous copy with no known trademark registration or association with any brand, celebrity, or protected IP. 'Fueled by Caffeine' style phrasing is a widely used generic humor category with no single owning mark. The minimalist apple graphic does carry some risk if rendered in a way that mimics Apple Inc.'s logo (monochromatic, single bite taken), but a generic minimalist apple illustration is a common public domain visual. The lightning bolt is likewise generic. Provided the apple graphic is styled as a clearly generic fruit illustration and not an imitation of the Apple Inc. logo silhouette, the overall design presents low IP risk. Recommend ensuring the apple graphic does not replicate the Apple Inc. logo shape, color treatment, or bite profile."
+    "reason": "The phrase 'Principal. Teacher. Lunch Lady. Mom.' is a generic, descriptive list of common occupational and familial roles with no association to any known trademark, brand, celebrity, character, or protected slogan. Varsity-style lettering is a common design aesthetic not owned by any single entity. This type of humorous role-stacking sentiment is a well-established genre of generic novelty apparel. No IP concerns identified."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Clean geometric abstract apple illustration using flat color shapes (navy, amber, brown) on a neutral background. No text, no recognizable IP, no celebrity likeness, no brand logo resemblance. The apple silhouette is a common generic motif rendered in an original minimalist style. No anatomy, no rendering artifacts, print-ready composition."
+    "reason": "The design displays exactly the required text 'PRINCIPAL / TEACHER / LUNCH LADY / MOM' in the correct order, correctly spelled, with no additional or missing words. The typography is clean collegiate/varsity style with good color contrast (dark navy, orange, green) on a cream background. No IP risks, no anatomical elements, no artifacts, and no mockup present."
   },
   "listing": {
     "index": 3,
-    "title": "Fueled by Caffeine & Audacity of Children Coffee Mug | Teacher Gift",
+    "title": "Homeschool Mom T-Shirt 'Principal Teacher Lunch Lady Mom'",
     "tags": [
-      "teacher coffee mug",
-      "back to school gift",
-      "funny teacher mug",
-      "elementary teacher gift",
-      "middle school teacher present",
-      "educator humor mug",
-      "teacher appreciation gift",
-      "caffeine mug humor",
-      "school staff gift",
-      "teaching humor mug",
-      "classroom coffee cup",
-      "teacher survival kit",
-      "education gift ideas"
+      "homeschool mom shirt",
+      "teacher mom shirt",
+      "back to school",
+      "homeschool tee",
+      "funny mom shirt",
+      "educator mom",
+      "parenting humor",
+      "varsity lettering",
+      "homeschooling parents",
+      "back to school shirt",
+      "mom of students",
+      "homeschool family",
+      "educational parent"
     ],
-    "description": "A bold statement for educators who understand that caffeine and patience fuel every school day. This mug features a minimalist apple and lightning bolt graphic paired with honest humor about teaching. Perfect for elementary and middle school teachers at the start of the school year or anytime they need a reminder that they're doing an amazing job. Ideal gift from students, colleagues, or anyone grateful for teachers. Premium ceramic construction, dishwasher safe, 11oz capacity. Makes a thoughtful present for teacher appreciation day, back-to-school, or end-of-year celebrations."
+    "description": "A funny, relatable tee for homeschooling moms juggling multiple roles. Bold varsity-style lettering stacks the reality: Principal. Teacher. Lunch Lady. Mom. Soft, comfortable cotton perfect for the school year hustle. This shirt celebrates the multitasking mastery of homeschool parents who wear all the hats. Great for fall academic season photos, meeting other homeschool families, or just getting through Wednesday with humor intact. The classic design pairs with anything in your wardrobe. A gift that says 'I see you and your incredible work.'"
   },
-  "product_id": "6a5c759108c15692f20d47b9"
+  "product_id": "6a5c79183142c1a9d5064bcf"
 }

@@ -1,0 +1,46 @@
+{
+  "concept": {
+    "niche": "Anxious Plant Parents",
+    "product_type": "t-shirt",
+    "concept": "Cartoon drooping houseplant with a thought bubble reading 'Was it too much water or not enough? We'll never know.'",
+    "audience": "Millennial and Gen Z indoor plant collectors with self-deprecating humor",
+    "score": 7.0,
+    "rationale": "Plant parent identity is strong and gift-friendly. Humor-based designs in this niche perform consistently. No IP risk and high shareability on social."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Was it too much water or not enough? We'll never know.\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a drooping houseplant in a simple pot, wilted leaves hanging downward, with a thought bubble above containing text. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: sage green, terracotta orange, cream white, charcoal black, and soft gray. Single centered composition on plain cream background with generous margin. Clean sharp edges, screen-print aesthetic, bold simple shapes, high contrast. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Was it too much water or not enough? We'll never know.",
+    "style": "Bold retro sans-serif, lowercase, arranged in two lines inside the thought bubble above the plant"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Was it too much water or not enough? We'll never know.' is an original, generic humorous expression about common houseplant care frustration. It does not reference any known trademark, brand, celebrity, character, song lyric, or protected slogan. The cartoon drooping houseplant concept is a widely used generic illustration theme with no distinctive IP associations. The combination of image and text represents original comedic content suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'WAS IT TOO MUCH WATER OR NOT ENOUGH? WE'LL NEVER KNOW.' \u2014 correctly spelled and complete. The illustration is a generic drooping potted plant with a thought bubble, no IP concerns, clean linework, plain background suitable for garment printing, and no quality issues."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Plant Parent T-Shirt Anxious Houseplant Humor Funny Tee",
+    "tags": [
+      "plant parent shirt",
+      "houseplant humor",
+      "funny plant tee",
+      "plant lover shirt",
+      "millennial humor",
+      "houseplant anxiety",
+      "indoor plant shirt",
+      "self-deprecating humor",
+      "plant parent gift",
+      "plant collector tee",
+      "gardening humor",
+      "drooping plant design",
+      "Gen Z style"
+    ],
+    "description": "For everyone who's ever stared at a drooping houseplant and wondered what went wrong. This relatable tee features a cartoon houseplant with a thought bubble asking the eternal question: 'Was it too much water or not enough? We'll never know.' Perfect for plant collectors, plant parents, and anyone who loves a little horticultural humor. The self-deprecating design resonates with millennials and Gen Z who care deeply about their green friends. Soft, comfortable fit that works for plant meets, casual days, or indoor plant photoshoots. A funny gift for someone whose apartment is basically a jungle and proud of it."
+  },
+  "product_id": "6a5c79613142c1a9d5064bee"
+}

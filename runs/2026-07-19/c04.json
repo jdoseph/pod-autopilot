@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Kindergarten First Day Milestone",
-    "product_type": "t-shirt",
-    "concept": "Child-sized t-shirt with a large hand-drawn crayon graphic and 'I Survived Kindergarten Drop-Off (My Parents Did Not)' as a companion adult tee set concept.",
-    "audience": "Parents of kindergartners, grandparents buying first-day gifts",
-    "score": 7.0,
-    "rationale": "First day of school is an emotional milestone with strong gifting and keepsake behavior. Parent-child matching sets have rising demand. The humor targets the parent's emotional experience rather than just the child, which is a differentiator. Timing is perfect for late August purchases."
+    "niche": "Night Shift Nurses",
+    "product_type": "mug",
+    "concept": "Dark background with a single glowing moon and bold text 'I Heal People While You Sleep'",
+    "audience": "Night shift nurses and hospital staff",
+    "score": 7.3,
+    "rationale": "Healthcare worker identity is deeply personal and gift-driven. Night shift nurses are underserved in POD. Strong emotional hook with no IP concerns."
   },
   "design": {
-    "image_prompt": "Flat vector illustration of a crayon drawing style: a wonky smiling stick figure child with oversized head and wobbly limbs in the center, surrounded by chaotic crayon scribbles and primitive sun rays. Child figure in bright yellow, scribbles in red and blue, sun in orange. Solid color blocks, no gradients, no shading, no photorealism. Plain white background with generous margins. Composition sized for 12x16 inch print visibility.",
-    "text_on_design": "I Survived Kindergarten Drop-Off",
-    "style": "flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette: yellow, red, blue, orange, white background, solid color blocks only, no gradients or airbrush effects"
+    "image_prompt": "The design prominently features the text \"I Heal People While You Sleep\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a single large glowing moon centered on a solid charcoal background. Moon is a perfect circle in pale cream with a thin bright yellow glow ring around it. No stars, no clouds, no additional elements. Solid color blocks only, no gradients, no shading. Clean sharp edges, screen-print aesthetic. Composition centered with generous margins on all sides.",
+    "text_on_design": "I Heal People While You Sleep",
+    "style": "Bold sans-serif typeface, all caps, arched above the moon illustration in bright cream color. High contrast against charcoal background. Single-line treatment, no outline or shadow effects. Professional, modern, readable at distance."
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'I Survived Kindergarten Drop-Off' is a generic humorous expression describing a common parenting experience. No known registered trademarks exist for this phrase. The 'I Survived' construction is a widely used generic format appearing across countless unprotected novelty products and is not exclusively associated with any single brand or rights holder. The crayon graphic is a common generic illustration element with no distinctive protected character association. The companion adult tee concept is a standard product pairing with no IP implications. No celebrity, character, brand, team, or protected slogan references are present. Design is cleared for print-on-demand use."
+    "reason": "The phrase 'I Heal People While You Sleep' is a generic descriptive slogan commonly used in nurse/healthcare humor merchandise. It does not reference any known registered trademark, brand, celebrity, sports team, character, or protected slogan. The moon and dark background design elements are generic. No IP concerns identified."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Generic cartoon stick figure character with sun and crayon-scribble background. Clean linework, no text, no IP concerns, no anatomical issues. Simple cheerful composition suitable for garment printing."
+    "reason": "The text reads exactly 'I HEAL PEOPLE WHILE YOU SLEEP' \u2014 correctly spelled and complete. The design is a clean typographic composition on a cream circle with yellow border against a dark background. No IP concerns, no quality issues, no anatomy, no artifacts."
   },
   "listing": {
     "index": 4,
-    "title": "I Survived Kindergarten Drop-Off Kids & Parents Matching Tee Set",
+    "title": "Night Shift Nurse Mug 'I Heal People While You Sleep'",
     "tags": [
-      "kindergarten milestone gift",
-      "matching family shirts",
-      "first day of school tee",
-      "kids back to school shirt",
-      "parent child matching set",
-      "kindergarten gift",
-      "funny family tee set",
-      "back to school outfit",
-      "milestone clothing gift",
-      "kindergarten first day",
-      "parent child matching clothes",
-      "grandparent gift ideas",
-      "school milestone tee"
+      "nurse mug",
+      "night shift mug",
+      "healthcare worker gift",
+      "hospital staff mug",
+      "nurse appreciation",
+      "night shift worker",
+      "medical professional gift",
+      "glowing moon design",
+      "coffee mug nurse",
+      "RN gift",
+      "nurse thank you",
+      "shift work mug",
+      "healthcare mug"
     ],
-    "description": "Celebrate the big milestone of kindergarten with humor and heart. This matching set includes a child-sized tee with a playful crayon graphic and a companion adult tee, both featuring the same lighthearted message about surviving the first day. Perfect for parents navigating that emotional morning and capturing first-day photos together. Ideal gift from grandparents, family friends, or as a special keepsake outfit. Both shirts feature comfortable 100% cotton construction in vibrant colors. Great for milestone celebrations, back-to-school photo ops, or gifting to new kindergarten families. Available in coordinating adult and child sizes."
+    "description": "A powerful mug for night shift heroes. Dark background with a single glowing moon and bold text that speaks to the dedication of nurses working overnight. Perfect for late-night coffee breaks, quiet reflection between shifts, or proud display on the break room shelf. Hospital staff, ER nurses, ICU workers, and night shift medical professionals will feel seen and appreciated. The striking design is eye-catching even in dim lighting. Ceramic construction with durable print. An honest tribute to those who heal while others sleep."
   },
-  "product_id": "6a5c75a05d9a3e8b4908409c"
+  "product_id": "6a5c792b20ea6e0b930f4e54"
 }
