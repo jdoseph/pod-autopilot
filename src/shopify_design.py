@@ -197,6 +197,78 @@ def setup_theme_style() -> None:
           f"pill buttons, accent {ACCENT}")
 
 
+# Owner PII to remove from all customer-facing resources — keep email only.
+PHONE_PATTERNS = ["+1 912-224-2499", "912-224-2499", "(912) 224-2499"]
+ADDRESS_PATTERNS = ["1464 Moonrise Ave, Carrollton TX 75006, United States",
+                    "1464 Moonrise Ave, Carrollton TX 75006",
+                    "1464 Moonrise Ave", "Carrollton TX 75006"]
+CONTACT_EMAIL = "b56678588@gmail.com"
+
+
+def _scrub_text(text: str) -> str:
+    """Remove phone/address, keep email, tidy leftover connector phrases."""
+    import re
+    for p in PHONE_PATTERNS:
+        text = re.sub(r"(?:please\s+)?call(?:\s+us)?(?:\s+at)?\s*" + re.escape(p)
+                      + r"\s*(?:,|or)?\s*", "", text, flags=re.I)
+        text = text.replace(p, "")
+    for a in ADDRESS_PATTERNS:
+        text = re.sub(r"(?:,|or)?\s*(?:contact|visit|write)(?:\s+us)?(?:\s+at)?\s*"
+                      + re.escape(a) + r"\.?", "", text, flags=re.I)
+        text = text.replace(a, "")
+    text = re.sub(r"\s{2,}", " ", text)
+    text = re.sub(r"\s+([,.])", r"\1", text)
+    return text
+
+
+def _mentions_pii(text: str) -> bool:
+    return any(p in text for p in PHONE_PATTERNS + ADDRESS_PATTERNS)
+
+
+def scrub_contact_info() -> None:
+    """Strip phone + street address from storefront resources; email stays."""
+    found_any = False
+
+    for page in api("GET", "/pages.json").get("pages", []):
+        body = page.get("body_html") or ""
+        if _mentions_pii(body):
+            found_any = True
+            api("PUT", f"/pages/{page['id']}.json",
+                {"page": {"id": page["id"], "body_html": _scrub_text(body)}})
+            print(f"  + page '{page['title']}': phone/address removed")
+
+    try:
+        policies = api("GET", "/policies.json").get("policies", [])
+    except RuntimeError as e:
+        policies = []
+        print(f"  ! policies unreadable ({str(e)[:80]}) — check Settings → Policies manually")
+    for pol in policies:
+        body = pol.get("body") or ""
+        if _mentions_pii(body):
+            found_any = True
+            print(f"  ⚠ policy '{pol.get('title')}' contains phone/address — "
+                  "policies are admin-only: Settings → Policies, delete the "
+                  f"phone/address lines (keep {CONTACT_EMAIL})")
+
+    try:
+        shop = api("GET", "/shop.json").get("shop", {})
+        if shop.get("phone"):
+            found_any = True
+            print("  ⚠ store phone is set in Settings → General (admin-only) — "
+                  "clear the phone field there")
+        if any("Moonrise" in str(shop.get(k, "")) for k in
+               ("address1", "address2", "city")):
+            print("  · note: the Settings → General business address is used for "
+                  "billing/labels; it is not shown on the storefront unless a "
+                  "template prints it")
+    except RuntimeError:
+        pass
+
+    if not found_any:
+        print("  - no phone/address found in API-visible resources")
+    print(f"  · contact stays email-only: {CONTACT_EMAIL}")
+
+
 def dump_homepage() -> None:
     """Print the live homepage template + theme settings for faithful edits."""
     theme = _active_theme()
@@ -212,6 +284,10 @@ if __name__ == "__main__":
     import sys
     if "dump" in sys.argv:
         dump_homepage()
+        raise SystemExit(0)
+    if "scrub" in sys.argv:
+        print("[contact scrub]\n")
+        scrub_contact_info()
         raise SystemExit(0)
     print("[storefront design]\n")
     failures = 0
