@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Back to School Teachers",
+    "niche": "Back to School Teacher",
     "product_type": "mug",
-    "concept": "A coffee mug reading 'Fueled by Coffee and Controlled Chaos' with a chalkboard and scattered school supply doodles.",
-    "audience": "Elementary and middle school teachers preparing for the August/September school year",
+    "concept": "A coffee mug reading 'Fueled by Caffeine and the Audacity of Children' with a minimalist apple and lightning bolt graphic.",
+    "audience": "Elementary and middle school teachers, teacher gift-givers",
     "score": 7.2,
-    "rationale": "Back-to-school season buying window is peak right now for teachers. Teacher mugs are a proven evergreen category with gifting demand. 'Controlled chaos' resonates deeply with classroom reality. Competition is moderate but sentiment is differentiated enough to stand out."
+    "rationale": "Back to school season hits late August, squarely in the 6-8 week buying window. Teacher gifts are a proven evergreen POD category and humor mugs have strong gifting conversion. Phrase is original and avoids IP. Slightly saturated niche but this specific angle has room."
   },
   "design": {
-    "image_prompt": "A ceramic coffee mug with a chalkboard texture background featuring hand-drawn doodles of school supplies scattered around it: pencils, erasers, apples, notebooks, rulers, and paper clips. The design has a casual, sketchy illustration style with black ink drawings on a cream or white mug surface. Include chalk-like texture elements and playful scattered arrangement of school items.",
-    "text_on_design": "Fueled by Coffee and Controlled Chaos",
-    "style": "Hand-drawn doodle illustration with chalkboard aesthetic, black ink on light background, casual and humorous teacher-themed design suitable for mug printing"
+    "image_prompt": "Flat vector illustration for a mug design: centered composition with a minimalist apple silhouette on the left and a lightning bolt on the right, both overlapping slightly at the center. Apple is solid, bold shape; lightning bolt is sharp geometric lines. Color palette: deep navy blue, bright yellow, white, and warm coffee brown. Solid color blocks, no gradients, no shading, no photorealism. Clean screen-print aesthetic with high contrast. Plain white background with generous margin around the central graphic. Design scales clearly to 3.5 inch mug surface and reads from across a room.",
+    "text_on_design": "Fueled by Caffeine and the Audacity of Children",
+    "style": "Bold modern sans-serif, all caps, arranged in two curved lines that frame the top and bottom of the apple-lightning bolt graphic. Confident, readable weight. No drop shadow, no texture."
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Fueled by Coffee and Controlled Chaos' is a generic humorous expression with no known trademark registration or association with a specific brand, celebrity, or protected property. The chalkboard and school supply doodle theme is entirely generic. No brand names, characters, or protected slogans are referenced. This is a common style of novelty teacher/coffee humor that falls within safe generic territory."
+    "reason": "The phrase 'Fueled by Caffeine and the Audacity of Children' is original humorous copy with no known trademark registration or association with any brand, celebrity, or protected IP. 'Fueled by Caffeine' style phrasing is a widely used generic humor category with no single owning mark. The minimalist apple graphic does carry some risk if rendered in a way that mimics Apple Inc.'s logo (monochromatic, single bite taken), but a generic minimalist apple illustration is a common public domain visual. The lightning bolt is likewise generic. Provided the apple graphic is styled as a clearly generic fruit illustration and not an imitation of the Apple Inc. logo silhouette, the overall design presents low IP risk. Recommend ensuring the apple graphic does not replicate the Apple Inc. logo shape, color treatment, or bite profile."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The image features a generic school-themed mug with common motifs (apples, pencils, rulers, books) and the word 'school' in a handwritten style. All elements are original compositions using widely used generic icons. No brand logos, recognizable copyrighted characters, celebrity likenesses, famous artworks, or distinctive protected artist styles are present."
+    "reason": "Clean geometric abstract apple illustration using flat color shapes (navy, amber, brown) on a neutral background. No text, no recognizable IP, no celebrity likeness, no brand logo resemblance. The apple silhouette is a common generic motif rendered in an original minimalist style. No anatomy, no rendering artifacts, print-ready composition."
   },
   "listing": {
     "index": 3,
-    "title": "Coffee and Controlled Chaos Teacher Mug | School Year Gift",
+    "title": "Fueled by Caffeine & Audacity of Children Coffee Mug | Teacher Gift",
     "tags": [
-      "teacher mug",
+      "teacher coffee mug",
       "back to school gift",
-      "coffee mug teacher",
-      "funny teacher gifts",
-      "school supplies mug",
-      "chalkboard design mug",
+      "funny teacher mug",
+      "elementary teacher gift",
+      "middle school teacher present",
+      "educator humor mug",
       "teacher appreciation gift",
-      "classroom humor mug",
-      "personalized teacher gift",
-      "durable ceramic mug",
-      "education professional gift",
-      "back to school apparel",
-      "teacher survival kit"
+      "caffeine mug humor",
+      "school staff gift",
+      "teaching humor mug",
+      "classroom coffee cup",
+      "teacher survival kit",
+      "education gift ideas"
     ],
-    "description": "Fuel up for the school year with this honest teacher's mug. 'Fueled by Coffee and Controlled Chaos' paired with playful chalkboard and scattered school supply doodles captures classroom reality perfectly. Whether for morning prep or afternoon energy boosts, this mug speaks to elementary and middle school educators navigating the organized pandemonium of August and September transitions. Durable ceramic construction, comfortable to hold, and makes a thoughtful back-to-school gift from colleagues, students, or family. A practical companion through lesson planning, grading marathons, and everything in between.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "A bold statement for educators who understand that caffeine and patience fuel every school day. This mug features a minimalist apple and lightning bolt graphic paired with honest humor about teaching. Perfect for elementary and middle school teachers at the start of the school year or anytime they need a reminder that they're doing an amazing job. Ideal gift from students, colleagues, or anyone grateful for teachers. Premium ceramic construction, dishwasher safe, 11oz capacity. Makes a thoughtful present for teacher appreciation day, back-to-school, or end-of-year celebrations."
   },
-  "product_id": "6a5c6bf85d9a3e8b49083b0e"
+  "product_id": "6a5c759108c15692f20d47b9"
 }

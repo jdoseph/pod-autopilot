@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Fantasy Football Season Kickoff",
+    "niche": "Kindergarten First Day Milestone",
     "product_type": "t-shirt",
-    "concept": "A mock-vintage sports poster aesthetic reading 'Undefeated Since Last Tuesday' for a fictional team called 'The Waiver Wire Warriors'.",
-    "audience": "Adult fantasy football players, predominantly male, aged 25-45, who take leagues semi-seriously and enjoy the culture around draft season",
-    "score": 7.1,
-    "rationale": "NFL preseason and fantasy draft season begins in August, making late July a strong buying window for fantasy football gear. The joke about waiver wire dependency is deeply insider and resonates with experienced players. 'Undefeated since last Tuesday' is universally funny across skill levels. No real IP risk with fictional team name."
+    "concept": "Child-sized t-shirt with a large hand-drawn crayon graphic and 'I Survived Kindergarten Drop-Off (My Parents Did Not)' as a companion adult tee set concept.",
+    "audience": "Parents of kindergartners, grandparents buying first-day gifts",
+    "score": 7.0,
+    "rationale": "First day of school is an emotional milestone with strong gifting and keepsake behavior. Parent-child matching sets have rising demand. The humor targets the parent's emotional experience rather than just the child, which is a differentiator. Timing is perfect for late August purchases."
   },
   "design": {
-    "image_prompt": "Vintage sports poster design featuring bold geometric shapes and retro typography. Central imagery shows a dynamic football player silhouette in an athletic stance, rendered in a limited color palette of deep navy, gold, and cream. Background includes subtle halftone patterns and star burst elements typical of 1970s-80s sports memorabilia. The overall composition has a distressed, aged paper quality with slightly worn edges and color shifts suggesting an authentic vintage aesthetic. Bold banner elements frame the design. Solid cream background suitable for garment printing.",
-    "text_on_design": "UNDEFEATED SINCE LAST TUESDAY\nTHE WAIVER WIRE WARRIORS",
-    "style": "Retro vintage sports poster, 1970s-1980s aesthetic, distressed print quality, bold geometric design, limited color palette with gold and navy accents"
+    "image_prompt": "Flat vector illustration of a crayon drawing style: a wonky smiling stick figure child with oversized head and wobbly limbs in the center, surrounded by chaotic crayon scribbles and primitive sun rays. Child figure in bright yellow, scribbles in red and blue, sun in orange. Solid color blocks, no gradients, no shading, no photorealism. Plain white background with generous margins. Composition sized for 12x16 inch print visibility.",
+    "text_on_design": "I Survived Kindergarten Drop-Off",
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette: yellow, red, blue, orange, white background, solid color blocks only, no gradients or airbrush effects"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Both the phrase 'Undefeated Since Last Tuesday' and the team name 'The Waiver Wire Warriors' appear to be original, generic humorous constructions with no identifiable trademark conflicts. 'Waiver Wire' is a common fantasy sports term in the public domain, and 'Warriors' as a standalone word is generic. The combination into 'The Waiver Wire Warriors' as a fictional team name does not reference or evoke any specific real professional or collegiate sports franchise in a confusingly similar way. The phrase 'Undefeated Since Last Tuesday' is a generic comedic construction with no known trademark registration or association with a specific brand, celebrity, or protected property. The mock-vintage sports poster aesthetic is a common design style not owned by any single entity. No song lyrics, movie or TV characters, celebrity likenesses, or registered slogans are implicated. Risk is low and the design is approved."
+    "reason": "The phrase 'I Survived Kindergarten Drop-Off' is a generic humorous expression describing a common parenting experience. No known registered trademarks exist for this phrase. The 'I Survived' construction is a widely used generic format appearing across countless unprotected novelty products and is not exclusively associated with any single brand or rights holder. The crayon graphic is a common generic illustration element with no distinctive protected character association. The companion adult tee concept is a standard product pairing with no IP implications. No celebrity, character, brand, team, or protected slogan references are present. Design is cleared for print-on-demand use."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Generic retro-style football poster featuring an unnamed, stylized player silhouette in a common navy/gold color scheme. No identifiable person, recognizable copyrighted character, specific team branding, logos, or trade dress. The number 19 is a common jersey number with no specific protected association. The composition, typography, and illustration style are generic vintage sports poster motifs."
+    "reason": "Generic cartoon stick figure character with sun and crayon-scribble background. Clean linework, no text, no IP concerns, no anatomical issues. Simple cheerful composition suitable for garment printing."
   },
   "listing": {
     "index": 4,
-    "title": "Undefeated Waiver Wire Warriors Fantasy Football T-Shirt",
+    "title": "I Survived Kindergarten Drop-Off Kids & Parents Matching Tee Set",
     "tags": [
-      "fantasy football shirt",
-      "fantasy football gift",
-      "sports humor tee",
-      "mock vintage sports shirt",
-      "draft season apparel",
-      "fantasy league tee",
-      "sports fan t-shirt",
-      "funny sports shirt",
-      "waiver wire humor",
-      "sports bar wear",
-      "retro sports design",
-      "football league gifts",
-      "sports comedy tee"
+      "kindergarten milestone gift",
+      "matching family shirts",
+      "first day of school tee",
+      "kids back to school shirt",
+      "parent child matching set",
+      "kindergarten gift",
+      "funny family tee set",
+      "back to school outfit",
+      "milestone clothing gift",
+      "kindergarten first day",
+      "parent child matching clothes",
+      "grandparent gift ideas",
+      "school milestone tee"
     ],
-    "description": "Join The Waiver Wire Warriors with this mock-vintage sports poster aesthetic tee reading 'Undefeated Since Last Tuesday'. Featuring classic sports design elements and league pride, it's perfect for fantasy football season and speaks to players who take their drafts seriously while enjoying the humor inherent in league culture. Ideal for wearing to draft parties, league meetings, or casual Friday hangouts. Celebrates the mid-season mythology and banter that makes fantasy football fun. Great gift for league mates, fantasy playoffs competitors, or anyone navigating the unpredictable waiver wire grind.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "Celebrate the big milestone of kindergarten with humor and heart. This matching set includes a child-sized tee with a playful crayon graphic and a companion adult tee, both featuring the same lighthearted message about surviving the first day. Perfect for parents navigating that emotional morning and capturing first-day photos together. Ideal gift from grandparents, family friends, or as a special keepsake outfit. Both shirts feature comfortable 100% cotton construction in vibrant colors. Great for milestone celebrations, back-to-school photo ops, or gifting to new kindergarten families. Available in coordinating adult and child sizes."
   },
-  "product_id": "6a5c6c0705e1d9c84606b336"
+  "product_id": "6a5c75a05d9a3e8b4908409c"
 }

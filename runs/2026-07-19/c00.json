@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Pilates and Reformer Fitness",
-    "product_type": "t-shirt",
-    "concept": "A minimalist anatomical silhouette in a Pilates pose with the dry caption 'I Pay to Be in Pain Before 7am'.",
-    "audience": "Women aged 22-45 attending reformer Pilates studios, a demographic with high disposable income and strong identity attachment to the workout",
-    "score": 7.9,
-    "rationale": "Reformer Pilates is one of the fastest-growing fitness trends as of 2025-2026. Studio attendees have strong tribal identity and routinely buy branded or niche apparel. The self-aware humor about cost and early mornings is highly relatable. Low design competition in this specific angle. No seasonal dependency \u2014 strong evergreen score."
+    "niche": "New School Year / Reading Teachers / Librarians",
+    "product_type": "mug",
+    "concept": "Mug reading 'Shh... I'm Plotting' with a small open book graphic, targeting librarians who love mystery and dark humor about their quiet authority.",
+    "audience": "School and public librarians, reading specialists, book club leaders",
+    "score": 8.1,
+    "rationale": "Librarian identity merchandise is a passionate and underserved niche relative to teacher merch. The 'plotting' pun works on two levels (plot of a story, plotting something devious) which is exactly the layered humor this audience appreciates. Back-to-school timing drives gifting from colleagues and patrons. Mug is the ideal format. Phrase is original and avoids IP. Strong evergreen potential well beyond the season."
   },
   "design": {
-    "image_prompt": "Minimalist anatomical silhouette of a woman's body in a reformer pilates stretch pose, showing internal muscle and skeletal structure in clean line work, solid black on transparent background, modern and clinical aesthetic",
-    "text_on_design": "I Pay to Be in Pain Before 7am",
-    "style": "Clean line art, anatomical diagram aesthetic, minimalist, high contrast black silhouette, medical illustration influence"
+    "image_prompt": "Flat vector illustration of an open book with pages slightly lifted, centered composition. Inside the book pages, a single eye peering out with a mischievous expression. Solid color blocks: deep navy blue, cream white, charcoal black, and burnt orange. No gradients, no shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Plain solid cream background with generous margin. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Shh... I'm Plotting",
+    "style": "Bold retro sans-serif, all caps, arched above the book illustration in charcoal black, maximum 6 words"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'I Pay to Be in Pain Before 7am' is a generic humorous expression describing a common experience with paid fitness classes or exercise routines. It does not reference any specific brand, trademark, celebrity, character, or protected slogan. The minimalist anatomical silhouette in a Pilates pose is a generic artistic depiction with no identifiable trademarked imagery. This type of self-deprecating fitness humor falls within common short phrases and generic expression, posing minimal IP risk."
+    "reason": "The phrase 'Shh... I'm Plotting' is a common generic humorous expression playing on the double meaning of 'plotting' (scheming vs. plot of a story) combined with the librarian 'shh' stereotype. No known trademark claims on this phrase, no celebrity or brand references, no protected characters or lyrics. The open book graphic is a generic clipart-style element. This type of wordplay-based occupational humor is widely considered in the public domain of common expression and poses minimal IP risk."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Original composition showing a generic female silhouette with visible skeleton overlay in an educational/artistic anatomy style. No recognizable brand logos, copyrighted characters, celebrity likenesses, or distinctive protected artist styles detected. The x-ray/skeleton motif is a common generic concept used widely in anatomy and health-related art."
+    "reason": "Clean, original illustration of an open book with a stylized eye/head peeking over it. Generic mystical/reading motif with no IP concerns, no text, clean lines, solid flat colors, and no quality issues. Suitable for garment printing."
   },
   "listing": {
     "index": 0,
-    "title": "Pilates Pain Before 7am Women's T-Shirt | Reformer Fitness Tee",
+    "title": "Shh I'm Plotting Mug | Librarian & Reading Teacher Gift",
     "tags": [
-      "pilates t-shirt",
-      "reformer fitness apparel",
-      "workout humor tee",
-      "minimalist fitness design",
-      "pilates studio fashion",
-      "women's athletic shirt",
-      "fitness motivation gift",
-      "gym humor clothing",
-      "pilates enthusiast gift",
-      "performance tee women",
-      "workout graphic tee",
-      "fitness instructor gift",
-      "athleisure casual wear"
+      "librarian mug",
+      "mystery book lover gift",
+      "reading teacher coffee mug",
+      "dark humor book mug",
+      "quiet library humor",
+      "book club gift idea",
+      "bookworm coffee cup",
+      "literary joke mug",
+      "school librarian present",
+      "funny book lover mug",
+      "librarian appreciation gift",
+      "reader humor mug",
+      "back to school librarian"
     ],
-    "description": "Designed for the reformer Pilates devotee. This tee features a minimalist anatomical silhouette captured mid-Pilates pose paired with the dry caption 'I Pay to Be in Pain Before 7am'\u2014a relatable nod to early morning studio sessions. Perfect for layering over workout gear, wearing to class, or gifting to your studio friends. Comfortable everyday wear that celebrates the dedication of the Pilates lifestyle. Great for studio enthusiasts, fitness instructors, and anyone who lives for that pre-dawn burn.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "Perfect for librarians who know that plotting happens in the quiet corners of the stacks. This mug celebrates the wit and intelligence of reading professionals who maintain order through authority and dark humor. Features a charming open book graphic paired with mysterious lettering. Ideal gift for school librarians, public librarians, reading specialists, and book club leaders. Great for back-to-school season, librarian appreciation day, or any book lover on your list. Durable ceramic, dishwasher safe, holds 11oz."
   },
-  "product_id": "6a5c6bcd9ffbca031e0e58ba"
+  "product_id": "6a5c75655d9a3e8b4908407c"
 }

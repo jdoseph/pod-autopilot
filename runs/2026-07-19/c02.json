@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Labor Day Weekend Campers",
+    "niche": "Homeschool Parents",
     "product_type": "t-shirt",
-    "concept": "A retro badge-style graphic reading 'Last Campfire of Summer' with pine trees, a crescent moon, and a vintage patch aesthetic.",
-    "audience": "Outdoor enthusiasts and families who camp over Labor Day weekend as a summer send-off tradition",
-    "score": 7.5,
-    "rationale": "Labor Day is roughly 6 weeks out \u2014 squarely in the buying window. 'Last campfire of summer' is emotionally resonant and seasonally specific. Retro patch aesthetics perform well on apparel. The sentiment captures nostalgia without requiring any IP. Good gifting and self-purchase potential."
+    "concept": "T-shirt reading 'Principal, Teacher, Lunch Lady, IT Department' stacked in a vertical school-schedule format.",
+    "audience": "Homeschooling parents, homeschool co-op communities",
+    "score": 7.6,
+    "rationale": "Back-to-school timing is highly relevant for this audience. Homeschool community is passionate, tightly networked, and actively seeks identity merchandise. The multi-role humor concept is relatable and original. Competition exists but less saturated than mainstream teacher merch. Good evergreen tail beyond the season."
   },
   "design": {
-    "image_prompt": "Retro badge patch design with 'Last Campfire of Summer' text in a circular emblem format, featuring silhouetted pine trees at the bottom, a crescent moon in the upper night sky, vintage stitching details around the border, warm orange and yellow campfire glow at center, navy and cream color palette, distressed texture suggesting aged fabric patch, solid white background for garment printing, bold and legible at 12x16 inches",
-    "text_on_design": "Last Campfire of Summer",
-    "style": "Vintage embroidered patch aesthetic, retro outdoor badge design, nostalgic 1970s camping culture, distressed and weathered appearance"
+    "image_prompt": "Flat vector illustration of a vertical school schedule board with four rectangular blocks stacked, each containing one role. Design in bold simple shapes with clean sharp edges, screen-print aesthetic. Color palette: deep navy blue, bright white, warm golden yellow, charcoal gray. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on plain cream background with generous margins. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Principal\nTeacher\nLunch Lady\nIT Department",
+    "style": "Bold sans-serif, stacked vertically in separate rectangular blocks, each text in alternating colors (white on navy, white on golden, white on charcoal, white on navy), mimicking a school schedule board layout"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'Last Campfire of Summer' is a generic, descriptive expression with no known trademark associations, celebrity connections, or protected IP. The accompanying visual elements (pine trees, crescent moon, vintage patch aesthetic) are common public domain design motifs widely used in outdoor and camping merchandise. The combination presents no identifiable IP risk."
+    "reason": "The design consists entirely of generic occupational titles commonly associated with school staff roles. None of the terms are trademarked phrases, branded slogans, or references to specific characters, celebrities, or intellectual property. The humor derives from the relatable concept of one person wearing many hats in a school setting, which is a generic and widely used comedic trope. No IP concerns identified."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Original camping/outdoor badge design with generic typography, common motifs (campfire, pine trees, crescent moon, stars), and no recognizable brand logos, copyrighted characters, real persons, or distinctive protected artistic styles. The composition is a standard vintage outdoor badge style, which is a common generic aesthetic."
+    "reason": "Clean graphic design featuring four stacked rounded rectangles in different colors (blue, yellow, cream, dark gray) each displaying the word 'ROLE' in bold text. Text is clear and correctly spelled, no IP concerns, no recognizable characters or logos, no anatomy issues. Simple and suitable for garment printing."
   },
   "listing": {
     "index": 2,
-    "title": "Last Campfire of Summer Retro Camping T-Shirt | Outdoor Tee",
+    "title": "Principal Teacher Lunch Lady IT Department Homeschool Parent Shirt",
     "tags": [
-      "camping t-shirt",
-      "labor day weekend gear",
-      "retro outdoor apparel",
-      "adventure tee",
-      "campfire graphic shirt",
-      "outdoor family gift",
-      "vintage camping design",
-      "nature enthusiast tee",
-      "end of summer shirt",
-      "camping humor tee",
-      "badge style graphic",
-      "outdoor lifestyle wear",
-      "hiking apparel"
+      "homeschool parent shirt",
+      "homeschool gift",
+      "mom life t-shirt",
+      "funny parent tee",
+      "homeschool apparel",
+      "teacher parent shirt",
+      "multitasking mom gift",
+      "homeschool co-op gift",
+      "back to school parent",
+      "school administrator shirt",
+      "parent humor tee",
+      "homeschooling funny shirt",
+      "family gift ideas"
     ],
-    "description": "Capture the bittersweet spirit of summer's final campfire. This tee features a retro badge-style graphic with 'Last Campfire of Summer', pine trees, a crescent moon, and vintage patch aesthetics. Perfect for Labor Day weekend trips, end-of-season camping adventures, or simply celebrating outdoor traditions. The nostalgic design resonates with camping families and outdoor enthusiasts preparing for the seasonal transition. Comfortable, durable, and ideal for layering around the fire. Makes a meaningful gift for those who cherish summer camping rituals and outdoor togetherness.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "For the homeschooling parent who wears every hat at once. This tee celebrates the reality of managing curriculum, classrooms, meal prep, and tech support all in one household. Stacked text in school-schedule format makes a humorous statement about the many roles parents play. Perfect gift for homeschool families, homeschool co-op members, and anyone juggling education at home. Comfort-fit 100% cotton, available in unisex sizing. Ideal for back-to-school season, parent appreciation, or just acknowledging the beautiful chaos of homeschooling."
   },
-  "product_id": "6a5c6be99ffbca031e0e58ca"
+  "product_id": "6a5c75829ffbca031e0e5dfd"
 }

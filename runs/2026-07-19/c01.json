@@ -1,46 +1,46 @@
 {
   "concept": {
-    "niche": "Late Summer Gardeners",
-    "product_type": "tote",
-    "concept": "A botanical illustration-style tote featuring overgrown tomato vines with the phrase 'I Did Not Plant This Many Tomatoes on Purpose'.",
-    "audience": "Home vegetable gardeners, particularly in the 35-65 age range active in summer harvest season",
+    "niche": "Autumn Hiking / Outdoor Enthusiast",
+    "product_type": "t-shirt",
+    "concept": "A minimal line-art mountain range with falling leaf silhouettes and the text 'Peak Foliage Chaser' in worn vintage lettering.",
+    "audience": "Hikers, leaf-peepers, outdoor recreation adults aged 25-60",
     "score": 7.8,
-    "rationale": "Late July is peak tomato overwhelm season \u2014 a real cultural moment gardeners joke about constantly. Totes are functional for harvest. The self-deprecating humor is highly shareable and gift-friendly. Low IP risk, passionate niche with strong Reddit and Facebook group presence."
+    "rationale": "Fall foliage hiking culture is a real and growing phenomenon with dedicated communities. Buying window aligns perfectly with early fall hike planning. 'Leaf peeper' is an established and affectionate self-identifier. The vintage outdoor aesthetic is proven in POD. Lower design saturation than generic hiking shirts and strong identity-badge appeal for this passionate niche."
   },
   "design": {
-    "image_prompt": "Detailed botanical illustration of sprawling tomato vines with abundant foliage, intertwining stems, and multiple ripe and ripening tomatoes in various stages of growth. Vines overflow and tangle across the composition with ornate botanical line work and subtle watercolor details. Solid white background suitable for screen printing on fabric.",
-    "text_on_design": "I Did Not Plant This Many Tomatoes on Purpose",
-    "style": "Classic botanical illustration with vintage engraving details and light watercolor accents"
+    "image_prompt": "Flat vector illustration of a minimal mountain range with sharp angular peaks in solid black. Overlaid are falling leaf silhouettes in burnt orange, golden yellow, and deep crimson descending across the composition. Single centered design on a cream background with generous margins. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges in screen-print aesthetic. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Peak Foliage Chaser in bold worn vintage serif lettering, arched above the mountain peaks",
+    "style": "flat vector illustration, screen-print aesthetic, limited palette: black, burnt orange, golden yellow, deep crimson, cream background"
   },
   "verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "The phrase 'I Did Not Plant This Many Tomatoes on Purpose' is a generic humorous expression describing a common gardening experience. It does not reference any known trademark, brand, celebrity, character, song lyric, or protected slogan. The botanical illustration style with tomato vines is a common decorative motif with no IP concerns. This is original, everyday humor with low commercial risk."
+    "reason": "The phrase 'Peak Foliage Chaser' is a generic descriptive expression combining common outdoor/nature vocabulary with no known trademark associations. The visual elements \u2014 minimal line-art mountains and falling leaf silhouettes \u2014 are generic nature imagery widely used in the public domain. The worn vintage serif lettering style is a common design treatment not associated with any specific brand or protected trade dress. No celebrity, team, character, brand, or protected slogan references are present. The design is cleared for print-on-demand use."
   },
   "image_verdict": {
     "approved": true,
     "risk_level": "low",
-    "reason": "Original botanical illustration of tomatoes on the vine. No brand logos, recognizable characters, celebrities, famous artworks, or distinctive protected artist styles detected. Generic botanical art style with common motifs."
+    "reason": "Clean, original flat-design illustration featuring stylized black mountain silhouettes with autumn leaves in red, orange, and gold tones on a neutral background. No IP concerns, no text, no identifiable characters or logos. Composition is simple and well-suited for garment printing."
   },
   "listing": {
     "index": 1,
-    "title": "Overgrown Tomato Garden Tote | Gardener's Canvas Bag",
+    "title": "Peak Foliage Chaser T-Shirt | Hiking & Autumn Mountain Tee",
     "tags": [
-      "garden tote bag",
-      "tomato gardener gift",
-      "botanical canvas bag",
-      "summer gardening tote",
-      "farmer market bag",
-      "gardening humor tote",
-      "vegetable garden design",
-      "home gardener gift",
-      "reusable shopping tote",
-      "harvest season apparel",
-      "plant lover tote",
-      "illustrated gardening bag",
-      "funny garden gifts"
+      "hiking t-shirt",
+      "autumn foliage shirt",
+      "mountain line art tee",
+      "outdoor enthusiast gift",
+      "fall hiking apparel",
+      "leaf-peeper shirt",
+      "nature lover clothing",
+      "hiking adventure tee",
+      "vintage hiking shirt",
+      "mountain range graphic",
+      "seasonal hiking wear",
+      "outdoor recreation shirt",
+      "fall mountain apparel"
     ],
-    "description": "A sturdy canvas tote showcasing a charming botanical illustration of overgrown tomato vines with the relatable phrase 'I Did Not Plant This Many Tomatoes on Purpose'. Celebrate the beautiful chaos of a summer vegetable garden. Spacious interior perfect for farmers market trips, garden supply hauling, or everyday use. The vintage botanical aesthetic appeals to serious gardeners and casual plant enthusiasts alike. Durable and lightweight\u2014ideal for anyone who's experienced the surprising abundance of a productive garden bed. Perfect gift for the gardener in your life.\n\n---\nAI-assisted design: artwork generated with AI image tools (FLUX) from this shop's original concepts and creative direction; listing text drafted with AI assistance (Claude) and reviewed. Printed and shipped by our production partner."
+    "description": "Designed for those who chase brilliant leaf colors across mountain peaks. This tee features minimal line-art mountain silhouettes with delicate falling leaves and vintage-style lettering that celebrates autumn hiking season. Perfect for hikers, trail enthusiasts, and anyone who marks their year by peak foliage forecasts. Ideal gift for outdoor recreation adults aged 25-60. Comfortable 100% cotton construction, available in multiple colors and sizes. Great for casual wear, weekend trips, or as a gift for the outdoor enthusiast in your life."
   },
-  "product_id": "6a5c6bdb9ffbca031e0e58c2"
+  "product_id": "6a5c757305e1d9c84606b834"
 }
