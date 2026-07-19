@@ -41,20 +41,9 @@ def setup_collections() -> None:
 
 
 def setup_policies() -> None:
-    """Set refund policy (via admin_shop_settings scope)."""
-    try:
-        current = api("GET", "/shop.json").get("shop", {}).get("policy_text", "")
-        if not current or "30 days" not in current:
-            api("PUT", "/shop.json", {
-                "shop": {"policy_text": POLICY_HTML}})
-            print(f"  ✓ refund policy")
-        else:
-            print(f"  - refund policy (exists)")
-    except RuntimeError as e:
-        if "403" in str(e):
-            print(f"  - refund policy: configure in Shopify admin")
-        else:
-            raise
+    """Policies require Settings access (not available via API).
+    Skip — users configure in Shopify admin."""
+    print(f"  - refund policy: set in Settings → Policies")
 
 
 def setup_shipping() -> None:
@@ -70,13 +59,18 @@ def setup_theme() -> None:
 
 
 if __name__ == "__main__":
-    print("[shopify setup]")
+    print("[shopify setup]\n")
     try:
+        # Verify auth works
+        shop = api("GET", "/shop.json").get("shop", {})
+        print(f"✓ Authenticated to {shop.get('name', 'your store')}\n")
+        print("Manual setup steps (5 min):")
         setup_collections()
         setup_policies()
         setup_shipping()
         setup_theme()
-        print("\n✓ Store setup complete. Ready to publish products.")
+        print("\nThen your store is ready. First product publish will be via")
+        print("GitHub Actions (run: gh workflow run pod-autopilot --approve).")
     except Exception as e:
-        print(f"\n✗ Setup failed: {e}")
+        print(f"✗ Auth failed: {e}\nCheck SHOPIFY_STORE/CLIENT_ID/SECRET.")
         exit(1)
