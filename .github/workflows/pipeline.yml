@@ -1,0 +1,64 @@
+name: pod-autopilot
+on:
+  schedule:
+    - cron: "0 14 * * *"    # daily pipeline, 9am ET
+    - cron: "0 15 * * 1"    # weekly analytics + digest, Monday
+  workflow_dispatch: {}
+permissions:
+  contents: write            # commits runs/ ledger + provenance back to repo
+jobs:
+  daily:
+    if: github.event.schedule != '0 15 * * 1'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: run pipeline + support agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PRINTIFY_API_KEY: ${{ secrets.PRINTIFY_API_KEY }}
+          REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+          PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
+          SUPPORT_IMAP_HOST: ${{ secrets.SUPPORT_IMAP_HOST }}
+          SUPPORT_SMTP_HOST: ${{ secrets.SUPPORT_SMTP_HOST }}
+          SUPPORT_EMAIL: ${{ secrets.SUPPORT_EMAIL }}
+          SUPPORT_EMAIL_PASSWORD: ${{ secrets.SUPPORT_EMAIL_PASSWORD }}
+          APPROVAL_MODE: auto
+        run: |
+          python -m src.orchestrator
+          python -m src.support
+      - name: persist ledger + provenance
+        run: |
+          git config user.name autopilot && git config user.email bot@local
+          git add runs/ && git commit -m "run $(date +%F)" || true
+          git push
+  weekly:
+    if: github.event.schedule == '0 15 * * 1'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: analytics + digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          OWNER_EMAIL: ${{ secrets.OWNER_EMAIL }}
+          SUPPORT_SMTP_HOST: ${{ secrets.SUPPORT_SMTP_HOST }}
+          SUPPORT_EMAIL: ${{ secrets.SUPPORT_EMAIL }}
+          SUPPORT_EMAIL_PASSWORD: ${{ secrets.SUPPORT_EMAIL_PASSWORD }}
+        run: |
+          python -m src.analytics
+          python -m src.digest
+      - name: persist
+        run: |
+          git config user.name autopilot && git config user.email bot@local
+          git add runs/ && git commit -m "weekly $(date +%F)" || true
+          git push
