@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn Cozy Season",
+    "product_type": "mug",
+    "concept": "Illustrated mug-within-a-mug design showing a cozy scene reflected in steaming liquid \u2014 flannel blanket, candle, rain on a window \u2014 with 'Sweater Weather Already' in script",
+    "audience": "Women aged 22-40 who celebrate fall as a full lifestyle season starting in September",
+    "score": 7.3,
+    "rationale": "Cozy fall mugs are among the highest-converting seasonal POD products and the buying window from late July perfectly captures pre-fall gifters and self-purchasers stocking up early"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Sweater Weather Already\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a large mug in center with a smaller mug nested inside showing a cozy autumn scene. The inner mug contains: a folded flannel blanket with bold plaid pattern in red and cream, a lit candle with orange flame, and a window with rain streaks. Steam wisps rise from the inner mug in simple curved lines. Color palette: deep burgundy, cream, forest green, burnt orange, charcoal gray. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition on plain pale cream background. High contrast, screen-print aesthetic, bold simple shapes, clean sharp edges. All elements connected and away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Sweater Weather Already",
+    "style": "Bold flowing script arched above the nested mug illustration in charcoal gray"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "'Sweater Weather Already' is a common colloquial seasonal expression and not a distinctive protected slogan. While 'Sweater Weather' is associated with a popular song by The Neighbourhood, the addition of 'Already' shifts it toward a generic conversational phrase rather than a direct lyric or title reference. The illustrated cozy scene elements (flannel blanket, candle, rain on window) are generic seasonal imagery with no trademark or character concerns. However, since no USPTO search was performed, a precautionary search is recommended before production, as the risk is low but not zero."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Sweater Weather Already' correctly spelled across three lines. The artwork is a clean, original composition featuring a mug with a cozy scene inside (blanket, candle, rainy window), with no IP risks, no anatomical issues, and no rendering artifacts. The light background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Sweater Weather Already Cozy Mug | Fall Season",
+    "tags": [
+      "sweater weather mug",
+      "autumn cozy mug",
+      "fall season gift",
+      "seasonal mug",
+      "flannel blanket design",
+      "hygge mug",
+      "autumn lifestyle",
+      "fall aesthetic mug",
+      "hot chocolate mug",
+      "cozy season drinkware",
+      "candle illustrated mug",
+      "september fall decor",
+      "comfort season mug"
+    ],
+    "description": "Celebrate the moment sweater weather arrives with this illustrated mug-within-a-mug design. The steaming liquid reveals a cozy scene: a flannel blanket, flickering candle, and rain pattering against a window. The script lettering reads 'Sweater Weather Already,' perfectly capturing the feeling of fall's arrival. Dishwasher and microwave safe ceramic. For anyone who marks September on the calendar and lives for autumn's comfort and coziness all season long."
+  },
+  "products": {
+    "shopify": "6a5e45c4e5ace2c91f072637"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Fall Harvest Season",
+    "product_type": "t-shirt",
+    "concept": "Warm-toned block print style illustration of pumpkins, dried corn, and sunflowers arranged in a wreath with 'Harvest Season' in rustic woodblock lettering",
+    "audience": "Women aged 25-50 who decorate for fall and enjoy seasonal lifestyle content",
+    "score": 7.0,
+    "rationale": "September-October is a peak buying season and the 6-8 week lead time from late July aligns perfectly, fall harvest aesthetics drive strong organic search volume on Etsy and Amazon Merch"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Harvest Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a circular wreath composed of pumpkins, dried corn husks, and sunflowers arranged in a balanced composition. Solid color blocks with no gradients, no shading, no photorealism, clean sharp edges. Color palette: burnt orange, golden yellow, deep rust red, sage green, cream. Single centered wreath on a plain solid cream background with generous margin. Screen-print aesthetic with bold simple shapes. High contrast. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Harvest Season",
+    "style": "Bold rustic woodblock serif lettering arched above the wreath in burnt orange, heavy weight, distressed edges to suggest carved wood texture"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Harvest Season' is a common generic seasonal expression with no well-known trademark associations in the decorative or apparel space. The design elements \u2014 pumpkins, dried corn, sunflowers in a wreath \u2014 are entirely generic fall harvest imagery with no connection to protected characters, brands, or properties. The block print and woodblock lettering style is a widely used folk art aesthetic. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'HARVEST SEASON' in correctly spelled, bold lettering arranged in an arch. The illustration features generic fall harvest motifs (pumpkins, sunflowers, corn) in a clean flat vector style with no IP concerns. Text is complete, legible, and properly rendered. Suitable for garment printing."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Harvest Season Wreath T-Shirt | Fall Block Print",
+    "tags": [
+      "harvest season shirt",
+      "fall wreath design",
+      "block print tee",
+      "autumn t-shirt",
+      "pumpkin corn sunflower",
+      "fall fashion",
+      "seasonal t-shirt",
+      "harvest gift",
+      "fall decor lover",
+      "warm autumn tones",
+      "woodblock lettering",
+      "october fashion",
+      "fall lifestyle shirt"
+    ],
+    "description": "Embrace harvest season style with this warm-toned block print illustration featuring pumpkins, dried corn, and sunflowers arranged in a beautiful wreath. 'Harvest Season' appears in rustic woodblock lettering. Perfect for women who love decorating for fall and embrace seasonal living. Comfortable, quality-constructed tee ideal for layering or wearing solo during crisp autumn days. A great gift for anyone who celebrates fall as a full lifestyle season."
+  },
+  "products": {
+    "shopify": "6a5e4603ab229ab2bf021498"
+  }
+}

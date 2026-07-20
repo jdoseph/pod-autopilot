@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "mug",
+    "concept": "Illustrated cross-section of a perfectly scored sourdough loaf with the caption 'Fed the Starter, Skipped the Gym' in hand-lettered style",
+    "audience": "Home sourdough bakers aged 25-45 who are active in bread-baking communities online",
+    "score": 7.1,
+    "rationale": "Sourdough baking became a lifestyle identity during pandemic years and has maintained a dedicated community, self-deprecating humor resonates strongly, and the niche has a passionate buyer base with real gift-giving occasions"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fed the Starter, Skipped the Gym\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a sourdough loaf cross-section showing a perfectly scored top with dramatic ear, interior crumb structure with irregular open holes, golden-brown crust. Centered composition. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes, clean sharp edges, screen-print aesthetic. High contrast. Limited palette: warm golden tan, deep brown, cream, charcoal gray, sage green. Plain solid cream background, generous margin, all artwork elements centered and away from edges.",
+    "text_on_design": "Fed the Starter, Skipped the Gym",
+    "style": "Hand-lettered chunky lowercase sans-serif in charcoal gray, arched below the sourdough cross-section, casual confident letterforms with slight stroke variation"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fed the Starter, Skipped the Gym' is an original, generic humorous expression combining common sourdough baking terminology with a relatable lifestyle sentiment. It does not reference any known trademark, brand, celebrity, sports team, song lyric, movie or TV quote, or protected slogan. The illustrated sourdough loaf cross-section is a generic food depiction with no proprietary character or logo association. This is the type of common observational humor that is widely considered safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'FED THE STARTER, SKIPPED THE GYM' \u2014 correctly spelled and complete. The illustration is a generic sourdough bread loaf cross-section, no IP concerns. Clean composition on a plain background suitable for garment printing. No quality issues detected."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Sourdough Starter Mug | Fed the Starter, Skipped Gym",
+    "tags": [
+      "sourdough mug",
+      "bread baker gift",
+      "sourdough starter",
+      "baking community",
+      "artisan bread mug",
+      "home baker gift",
+      "bread culture mug",
+      "baking humor",
+      "scored loaf design",
+      "baker coffee mug",
+      "fermentation culture",
+      "bread lover gift",
+      "kitchen humor mug"
+    ],
+    "description": "A mug for dedicated home sourdough bakers who understand the commitment. Features an illustrated cross-section of a perfectly scored sourdough loaf with hand-lettered text reading 'Fed the Starter, Skipped the Gym.' It's a nod to the daily ritual of maintaining your starter and the priorities of bread-baking life. Dishwasher and microwave safe ceramic. Perfect for bakers in online bread-making communities, or gift it to that friend obsessed with sourdough."
+  },
+  "products": {
+    "shopify": "6a5e45efe06af5dc0d01dbbe"
+  }
+}

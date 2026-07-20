@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Amateur Astronomy",
+    "product_type": "t-shirt",
+    "concept": "Detailed stipple-art style illustration of a backyard telescope under a star map with the phrase 'Chasing Dark Skies' arcing above it",
+    "audience": "Hobby astronomers and stargazers who travel to dark sky preserves and national parks",
+    "score": 7.4,
+    "rationale": "Amateur astronomy is an underserved but passionate niche with active community forums, the dark sky travel trend is growing, and the specific phrase avoids saturation while resonating deeply with the audience"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Chasing Dark Skies\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a telescope on a tripod pointing upward toward a constellation map. Bold simple shapes, clean sharp edges, screen-print aesthetic. Limited color palette: deep navy blue, cream white, bright gold, and charcoal gray. Solid color blocks only, no gradients, no stippling, no photorealism, no shading. Center the telescope in the composition with constellation dots and connecting lines radiating upward behind it. Single centered design on a plain solid white background with generous margins. Readable at 12x16 inches from across a room. Text arcs above in bold retro serif typeface.",
+    "text_on_design": "Chasing Dark Skies",
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks, high contrast, no gradients, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Chasing Dark Skies' is a generic descriptive expression commonly used in amateur astronomy communities to describe the pursuit of areas with minimal light pollution. It does not reference any known registered trademark, brand, celebrity, sports team, character, or protected slogan. The stipple-art illustration of a backyard telescope and star map is entirely generic with no protected elements. The combination is original and presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'CHASING DARK SKIES' correctly spelled and complete. The artwork features a clean illustration of a telescope on a tripod against a starry night sky circle with constellation lines \u2014 a generic astronomy motif with no IP concerns. Text is bold and legible, illustration is well-rendered with no artifacts or anatomical issues, and the light background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Chasing Dark Skies Astronomy T-Shirt | Stargazer Tee",
+    "tags": [
+      "astronomy t-shirt",
+      "dark sky preserve",
+      "stargazer shirt",
+      "backyard telescope",
+      "astronomy gift",
+      "space lover tee",
+      "stipple art design",
+      "star map shirt",
+      "amateur astronomer",
+      "dark sky activist",
+      "national parks gear",
+      "hobby astronomer gift",
+      "constellation shirt"
+    ],
+    "description": "For those who travel to dark sky reserves and spend nights chasing stars. This shirt features a detailed stipple-art illustration of a backyard telescope beneath a star map, with 'Chasing Dark Skies' arcing above. Comfortable, quality-constructed tee perfect for stargazing road trips, outdoor adventures, or everyday wear. A gift that speaks to hobby astronomers and anyone passionate about observing the night sky."
+  },
+  "products": {
+    "shopify": "6a5e45ab0cc7c73f1b0b5d1b"
+  }
+}

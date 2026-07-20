@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market Enthusiast",
+    "product_type": "tote",
+    "concept": "Lino-cut style illustration of a wooden market stall overflowing with heirloom vegetables and the text 'Local Always' in bold stamped lettering",
+    "audience": "Eco-conscious grocery shoppers and farmers market regulars aged 25-50 in urban and suburban areas",
+    "score": 7.6,
+    "rationale": "Totes are the natural product type for the farmers market niche creating a functional identity match, the lino-cut aesthetic is on trend with handcraft communities, and the message avoids all IP while expressing values the audience pays to signal"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Local Always\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a wooden farmer's market stall overflowing with heirloom vegetables including tomatoes, carrots, leafy greens, squash, and peppers in bold simple shapes. Lino-cut aesthetic with high contrast solid color blocks, no gradients, no shading. Limited palette: forest green, burnt orange, deep red, cream, charcoal black. Single centered composition on plain cream background with generous margin. Bold stamped text 'Local Always' in uppercase heavy sans-serif arched above the stall. Readable at 12x16 inches. Screen-print style with clean sharp edges, solid color blocks only, no photorealism or airbrush effects.",
+    "text_on_design": "Local Always",
+    "style": "flat vector illustration, lino-cut aesthetic, bold simple shapes, screen-print, limited solid color palette, high contrast, no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Local Always' is a generic, common-language expression promoting local commerce with no known trademark associations. The lino-cut style illustration of a market stall with heirloom vegetables is entirely generic and does not reference any protected characters, brands, celebrities, or distinctive slogans. The overall design concept is original and presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'LOCAL ALWAYS' which matches the required 'Local Always' text (case-insensitive match). The lettering is clean, correctly spelled, and complete. The illustration features a generic farmers market vegetable stand with no IP concerns, no recognizable characters, logos, or protected elements. The composition is clean with a neutral background suitable for garment printing. No anatomy issues or rendering artifacts present."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Local Always Farmers Market Tote | Lino-Cut Vegetables",
+    "tags": [
+      "farmers market tote",
+      "local produce bag",
+      "lino-cut illustration",
+      "eco-conscious tote",
+      "heirloom vegetables",
+      "market day bag",
+      "sustainable shopping",
+      "farmers market gift",
+      "organic grocery tote",
+      "support local design",
+      "woodblock aesthetic",
+      "vegetable market art",
+      "reusable market bag"
+    ],
+    "description": "A celebration of local food systems and farmers market culture. This tote features a bold lino-cut style illustration of a wooden market stall overflowing with heirloom vegetables and stamped lettering that reads 'Local Always.' Strong, sustainable canvas construction makes it perfect for weekly market runs and grocery shopping. Spacious enough for farmers market hauls, farmers' fresh produce, and everyday essentials. Ideal for eco-conscious shoppers and farmers market regulars who believe in supporting local food."
+  },
+  "products": {
+    "shopify": "6a5e4584e5ace2c91f0725da"
+  }
+}

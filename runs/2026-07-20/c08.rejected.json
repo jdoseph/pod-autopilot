@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Book Club Community",
+    "product_type": "tote",
+    "concept": "Stacked pile of illustrated books with plants growing out of the top and the phrase 'My To-Be-Read List Is a Lifestyle' arcing around it in friendly lettering",
+    "audience": "Avid readers and book club members aged 25-50 who are active on reading-focused social platforms",
+    "score": 7.0,
+    "rationale": "Readers are a highly active POD buying community, totes are the aspirational product type for this group, and the TBR pile humor is a widely understood in-group reference that drives community sharing and gifting"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My To-Be-Read List Is a Lifestyle\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a tall stack of 6 colorful books piled on top of each other, each book a different solid color block with a simple geometric spine stripe. Books are slightly tilted and offset for visual interest. Green and terracotta potted plants with bold leaf shapes grow organically from the top of the stack, reaching upward. Clean sharp edges throughout, no gradients or shading. Solid color palette: sage green, rust orange, cream, navy blue, warm mustard yellow. Single centered composition on a plain pale cream background with generous margins. Readable at 12x16 inches from across a room. Screen-print aesthetic with high contrast solid color blocks only.",
+    "text_on_design": "My To-Be-Read List Is a Lifestyle",
+    "style": "Bold rounded sans-serif lettering in navy blue, arced in a friendly curve above and around the book stack illustration. Friendly, approachable typeface with even letter spacing."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My To-Be-Read List Is a Lifestyle' is a generic, descriptive expression common in book and reading enthusiast communities. 'To-Be-Read' (TBR) is widely used colloquial language among readers and is not associated with any known registered trademark or protected slogan. The illustrated design concept of stacked books with plants is a common artistic motif with no specific IP concerns. No celebrity, brand, character, or protected mark is referenced or evoked."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text is malformed and does not correctly read 'My To-Be-Read List Is a Lifestyle'. The word 'MY' is split as 'MY BE-' on one book and 'TO-BEA' (misspelled) on another, 'IS' appears duplicated on two separate books, making the complete phrase garbled and incorrect."
+  }
+}

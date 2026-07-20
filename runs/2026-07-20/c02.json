@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Back to School Teacher",
+    "product_type": "mug",
+    "concept": "Bold typographic design listing teacher superpowers in a fun stacked layout: 'Patience. Creativity. Caffeine. Repeat.' with a small mortarboard icon",
+    "audience": "Teachers and teacher gift-givers shopping for back-to-school season",
+    "score": 7.5,
+    "rationale": "Mugs are the number one gifted item for teachers, this concept works for both self-purchase and gifting, and the August buying window for back-to-school aligns perfectly with a 6-8 week lead time from late July"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Patience. Creativity. Caffeine. Repeat.\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, bold stacked typographic design for a mug. Four lines of text in large bold sans-serif, each word or phrase on its own line, centered and slightly varying in size for visual rhythm: 'Patience' 'Creativity' 'Caffeine' 'Repeat'. Above the text stack, a small minimalist mortarboard icon (graduation cap) rendered as a simple solid shape with clean geometric edges. Color palette: deep navy, bright gold, charcoal gray, white. Solid color blocks, no gradients, no shadows, no photorealism. Single centered composition on a plain light cream background. All elements connected as one cohesive unit, generous white space around margins. High contrast, screen-print aesthetic, readable at small scale on ceramic.",
+    "text_on_design": "Patience. Creativity. Caffeine. Repeat.",
+    "style": "Flat vector illustration, bold sans-serif stacked typography with small mortarboard icon above. High contrast, screen-print aesthetic, solid colors only (navy, gold, charcoal, white on cream background). Clean sharp edges, no gradients or effects."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Patience. Creativity. Caffeine. Repeat.' is a generic, descriptive humor construction common in teacher-themed merchandise. It uses ordinary dictionary words in a straightforward list format with no reference to trademarks, brands, celebrities, characters, or protected slogans. The mortarboard icon is a generic educational symbol. No known registered trademark conflicts identified for this specific phrase combination."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'PATIENCE. CREATIVITY. CAFFEINE. REPEAT.' \u2014 correctly spelled and complete. The graduation cap icon is a generic motif with no IP concerns. Clean black-on-light composition with no artifacts, mockups, or anatomy. Suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Teacher Superpowers Mug | Back to School Gift",
+    "tags": [
+      "teacher appreciation mug",
+      "back to school gift",
+      "teacher coffee mug",
+      "teacher superpowers",
+      "classroom humor",
+      "teacher caffeine mug",
+      "education gift",
+      "funny teacher mug",
+      "teacher thank you gift",
+      "school supplies gift",
+      "patience creativity design",
+      "mortarboard mug",
+      "teacher fuel"
+    ],
+    "description": "Celebrate what teachers do best with this bold typographic mug listing the essential superpowers: Patience. Creativity. Caffeine. Repeat. The fun stacked layout features a small mortarboard icon, making it the perfect companion for grading papers, lesson planning, or surviving the school day. Dishwasher and microwave safe ceramic. A thoughtful back-to-school gift for teachers, or give it to show appreciation for the educators in your life."
+  },
+  "products": {
+    "shopify": "6a5e45970cc7c73f1b0b5cfc"
+  }
+}
