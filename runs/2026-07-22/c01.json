@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Introverted Librarian",
+    "product_type": "mug",
+    "concept": "Stack of books forming a fortress wall with a person peeking over the top and 'Do Not Disturb: Currently Elsewhere' in elegant script",
+    "audience": "Librarians, archivists, and bookish introverts who prize solitude and reading",
+    "score": 7.6,
+    "rationale": "Librarian identity merchandise consistently outperforms expectations; humorous self-aware concepts in this niche get shared organically and purchased as gifts year-round"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Do Not Disturb: Currently Elsewhere\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a fortress wall made from stacked colorful books in solid color blocks. Books are arranged in alternating heights creating a castle-like battlement silhouette. A small human figure peeks over the top center, smiling with just head and shoulders visible. Single centered composition on a plain light cream background. Bold simple shapes, clean sharp edges, screen-print aesthetic, high contrast. Limited palette: forest green, burgundy red, mustard yellow, navy blue, cream background. No gradients, no shading, no photorealism. Readable at 12x16 inches. All elements connected and away from edges.",
+    "text_on_design": "Do Not Disturb: Currently Elsewhere",
+    "style": "Elegant flowing script in black, arched gracefully below the fortress illustration, approximately 1/6 the composition height"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Do Not Disturb: Currently Elsewhere' is a generic humorous expression with no known trademark associations. The visual concept of a book fortress with a person peeking over is an original creative illustration using common objects. No celebrity likenesses, brand names, character references, or protected slogans are involved. The elegant script styling is purely a design choice with no IP implications."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'DO NOT DISTURB: CURRENTLY ELSEWHERE' \u2014 correctly spelled and complete. The design features a generic cartoon character peeking over stacks of colorful books with a clean cream background. No IP concerns, no quality issues, text is clear and well-formed."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Introvert Librarian Mug | Do Not Disturb Book Fortress Design",
+    "tags": [
+      "librarian mug",
+      "introvert gift",
+      "book lover mug",
+      "do not disturb",
+      "reading gift",
+      "library worker",
+      "bookish mug",
+      "introvert humor",
+      "archivist gift",
+      "quiet time mug",
+      "cozy reading",
+      "book fortress",
+      "solitude gift"
+    ],
+    "description": "Perfect for librarians, archivists, and bookish introverts who treasure uninterrupted reading time. This mug features an illustrated fortress made of stacked books with a person peeking over the top and the elegant script message 'Do Not Disturb: Currently Elsewhere.' Ceramic construction keeps beverages at the perfect temperature for long reading sessions. Great for desk displays, break room moments, or gifting to colleagues who understand the value of a quiet corner and good literature. Celebrate introversion and literary sanctuary with every sip."
+  },
+  "products": {
+    "shopify": "6a60e61391a551725603edca"
+  }
+}

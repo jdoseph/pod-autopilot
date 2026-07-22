@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "t-shirt",
+    "concept": "An illustrated jar of starter with googly eyes and tiny arms labeled 'My Emotional Support Ferment' in quirky hand-lettered style",
+    "audience": "Home bakers aged 28-45 who treat their sourdough starter as a pet",
+    "score": 7.4,
+    "rationale": "Sourdough culture has a self-deprecating humor angle that performs well on apparel; buyers identify strongly with the identity and gift this category frequently"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Emotional Support Ferment\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass jar filled with bubbly sourdough starter, centered on plain cream background. The jar has two large googly eyes with black pupils and white sclera, tiny stick arms extending from sides with simple three-finger hands. The starter inside is rendered as pale tan solid color with darker tan bubbles. Bold simple shapes, high contrast, screen-print aesthetic. Solid color palette: cream background, clear glass (light gray outline), pale tan starter, dark tan bubbles, black eyes and arms. No gradients, no shading, no photorealism. Single centered composition with generous margin on all sides, readable at 12x16 inches from across a room.",
+    "text_on_design": "My Emotional Support Ferment",
+    "style": "Quirky hand-lettered sans-serif, slightly playful and irregular baseline, curved above the jar in a gentle arch, solid black, approximately 20% of overall composition height"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Emotional Support Ferment' is a generic humorous play on the common colloquial concept of 'emotional support animals' and similar everyday expressions. It contains no references to registered trademarks, brand names, celebrities, characters, or protected slogans. The illustrated jar of starter with googly eyes is a common whimsical design trope with no specific IP associations. The sourdough/fermentation niche humor is well-established as generic community expression. This design appears safe to proceed."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'MY EMOTIONAL SUPPORT FERMENT' \u2014 correctly spelled and complete, split between the top text and the jar label. The artwork is a clean, original cartoon of an anthropomorphized fermentation jar with expressive eyes and raised hands on a plain cream background. No IP conflicts, no quality issues, no garbled text or anatomical problems."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Sourdough Starter Tee | My Emotional Support Ferment T-Shirt",
+    "tags": [
+      "sourdough shirt",
+      "baking gift",
+      "home baker",
+      "fermentation tee",
+      "starter culture",
+      "bread baker",
+      "food humor",
+      "kitchen apparel",
+      "artisan baker",
+      "sourdough lover",
+      "cooking gift",
+      "ferment humor",
+      "baker shirt"
+    ],
+    "description": "Wear your sourdough passion with this quirky tee featuring an illustrated jar of starter with googly eyes and tiny arms labeled 'My Emotional Support Ferment.' The hand-lettered style captures the humor of treating your starter like a beloved pet\u2014because serious bakers know their cultures deserve respect and personality. Soft cotton blend works for kitchen time, farmers market trips, or wearing with pride to baking classes. Perfect gift for home bakers who feed their starters daily, share starter cultures with friends, or have entire baking routines built around their ferments."
+  },
+  "products": {
+    "shopify": "6a60e637fd9b706bc40562f2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Chaotic Homeschool Parent",
+    "product_type": "tote",
+    "concept": "A tote overflowing with illustrated math books, science kits, snacks, and a coffee cup with 'Homeschool Educator: Certified Chaos Manager' in stamped typewriter font",
+    "audience": "Homeschooling parents entering the new academic year in August-September",
+    "score": 7.1,
+    "rationale": "Homeschooling community is large, identity-proud, and purchases merch and supplies heavily in late summer; functional humor with a relatable chaos angle resonates strongly and reduces comparison shopping"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Homeschool Educator: Certified Chaos Manager\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an overflowing canvas tote bag centered on a plain cream background. The tote is bursting with stacked illustrated math textbooks with geometric covers, colorful science kit boxes with beakers and molecules, scattered snacks like granola bars and apples, and a steaming coffee mug in the foreground. All elements are solid color blocks with clean sharp edges and high contrast. Bold simple shapes, no gradients, no shading, no photorealism. Limited palette: navy blue, bright yellow, warm red, forest green, charcoal gray, cream background. Single centered composition with generous margins. Readable at 12x16 inches from across a room. Screen-print aesthetic.",
+    "text_on_design": "Homeschool Educator: Certified Chaos Manager",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks: navy blue, bright yellow, warm red, forest green, charcoal gray. No gradients, no airbrush shading, no photorealism. Text in stamped typewriter font arched across the lower portion of the design."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Homeschool Educator: Certified Chaos Manager' is a generic humorous descriptor common in the novelty/gift market space. It contains no registered brand names, celebrity references, team names, song lyrics, character names, or distinctive protected slogans. The 'Chaos Manager' humor format is a widely used generic occupation-parody construction with no single ownable source. The illustrated elements (math books, science kits, snacks, coffee cup) are generic clip-art-style concepts with no IP-protected depictions specified. Overall risk is low, though a full USPTO search is recommended before large-scale production."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text misspelling detected: 'EDUCATOR' is rendered as 'EDUICATOR' (extra letter 'I'), which fails the exact text requirement."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Anxious Plant Parent",
+    "product_type": "mug",
+    "concept": "A drooping houseplant with a worried face and the text 'Did I Water You Too Much Or Not Enough \u2014 A Horror Story'",
+    "audience": "Millennial and Gen Z houseplant collectors who anthropomorphize their plants",
+    "score": 7.5,
+    "rationale": "Plant parent identity merchandise is proven with strong gifting patterns; horror-story framing adds fresh humor angle not saturated in current market listings"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Did I Water You Too Much Or Not Enough \u2014 A Horror Story\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a potted houseplant with drooping wilted leaves, featuring a simple worried face with wide anxious eyes and a concerned mouth expression. The plant sits in a ceramic pot. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: sage green leaves, terracotta pot, cream face, dark charcoal details, on a plain white background. Single centered composition with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Did I Water You Too Much Or Not Enough \u2014 A Horror Story",
+    "style": "Bold retro sans-serif, black text, arched in two lines below the plant illustration"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Did I Water You Too Much Or Not Enough \u2014 A Horror Story' is original, descriptive humor with no known trademark associations. The concept of a worried drooping houseplant is a generic illustration idea with no connection to any protected character, brand, celebrity, or slogan. The 'A Horror Story' framing is a common comedic device applied broadly and is not associated with any specific protected property in this context. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'DID I WATER YOU TOO MUCH OR NOT ENOUGH \u2014 A HORROR STORY', correctly spelled and complete. The artwork is a clean, original cartoon of a drooping potted plant with a worried face on a plain background \u2014 no IP concerns, no quality issues, suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Plant Parent Mug | Funny Houseplant Watering Anxiety Design",
+    "tags": [
+      "plant parent gift",
+      "houseplant mug",
+      "plant lover mug",
+      "anxiety humor",
+      "funny plant mug",
+      "millennial gardening",
+      "plant collector",
+      "watering guide",
+      "succulent gift",
+      "indoor plant",
+      "plant care humor",
+      "gen z gift",
+      "plant themed"
+    ],
+    "description": "For every houseplant collector who's agonized over watering schedules, this mug speaks the truth: 'Did I Water You Too Much Or Not Enough \u2014 A Horror Story.' Features a drooping houseplant with a worried expression that perfectly captures the plant parent experience. Ceramic dishwasher-safe design works great for your morning coffee or tea before plant check-ins. Perfect for gifting to friends with thriving plant collections, apartment gardeners, or anyone who talks to their plants. Combines millennial humor with genuine plant care relatability."
+  },
+  "products": {
+    "shopify": "6a60e625c4dc99d3d503ce07"
+  }
+}

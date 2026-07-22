@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market Regulars",
+    "product_type": "tote",
+    "concept": "Watercolor illustration of seasonal summer-to-fall vegetables arranged in an overflowing basket with 'Local First' stamped in linen-texture block lettering",
+    "audience": "Farmers market shoppers and locavore food movement participants aged 28-55",
+    "score": 7.8,
+    "rationale": "Tote is the perfect product type for this audience who literally need bags at markets; seasonal timing with fall harvest aligns to 6-8 week buying window and gifting occasion"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"LOCAL FIRST\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an overflowing wicker basket brimming with seasonal vegetables: corn, tomatoes, squash, carrots, leafy greens, and peppers. Bold simple shapes with clean sharp edges, solid color blocks, no gradients, no airbrush shading, no photorealism, screen-print aesthetic. Limited palette: warm golden tan, deep forest green, bright orange, rich red, cream white. Single centered composition on a plain solid light gray background with generous margin. All artwork elements connected and away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "LOCAL FIRST",
+    "style": "Bold block lettering with linen texture treatment, stamped effect, positioned below the basket in solid deep forest green"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Local First' is a generic, common-use expression associated with local food movements and community purchasing principles. It does not appear to be a distinctive registered trademark in the produce, apparel, or print-on-demand space. The artistic elements \u2014 watercolor seasonal vegetables, overflowing basket, linen-texture block lettering \u2014 are all generic illustrative styles with no identifiable IP concerns. No celebrity likenesses, brand references, team logos, or protected characters are present. The combination is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'LOCAL FIRST' in bold, correctly spelled lettering overlaid on a illustrated vegetable basket. Text is complete, legible, and accurate. No IP concerns, no quality issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Local First Farmers Market Tote | Seasonal Vegetables Watercolor Bag",
+    "tags": [
+      "farmers market tote",
+      "local food bag",
+      "seasonal produce",
+      "watercolor illustration",
+      "reusable market bag",
+      "locavore gift",
+      "sustainable shopping",
+      "vegetable print",
+      "eco-friendly tote",
+      "farmers market canvas",
+      "food movement gift",
+      "sustainable lifestyle",
+      "market day bag"
+    ],
+    "description": "Celebrate your commitment to local food with this vibrant tote featuring a watercolor illustration of overflowing seasonal vegetables arranged in a bountiful basket. The 'Local First' message in linen-texture lettering makes it perfect for weekly farmers market trips or gifting to fellow locavores. Durable canvas construction handles full loads of fresh produce, greens, and bulk items. Ideal for food lovers, sustainability enthusiasts, and anyone building relationships with local farmers. Works as a statement piece for grocery shopping, farmers market days, or farmers market gifts for the season."
+  },
+  "products": {
+    "shopify": "6a60e60191a551725603edbd"
+  }
+}

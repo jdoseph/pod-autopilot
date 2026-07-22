@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cottage Witch Aesthetic",
+    "product_type": "tote",
+    "concept": "Dense moonlit forest illustration with foraging herbs, jars of dried flowers, and a single candle under the phrase 'Gathering Ingredients' in thin serif lettering",
+    "audience": "Witchcore and cottagecore aesthetic enthusiasts aged 18-35 on Etsy and TikTok",
+    "score": 7.4,
+    "rationale": "Cottage witch aesthetic has sustained momentum especially heading into fall and Halloween season which aligns perfectly with the 6-8 week window; tote bags are a core purchase category for this demographic"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Gathering Ingredients\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a dense moonlit forest scene in a single centered composition. Tall dark pine trees frame the composition with a full moon visible between branches at top center. In the foreground, an arrangement of foraged herbs (wild mushrooms, ferns, flowering plants) scattered organically around three glass jars filled with dried flowers and herbs, and a single lit candle with a warm flame. All elements are solid color blocks with no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges, high contrast screen-print aesthetic. Limited palette: deep forest green, warm cream, soft gold, charcoal gray, pale silver. Plain solid cream background, generous margin on all sides, artwork elements stay connected and centered away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Gathering Ingredients",
+    "style": "Thin serif lettering in charcoal gray, arched above the forest illustration in elegant condensed arrangement, integrated into the composition without floating"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Gathering Ingredients' is a generic, descriptive common phrase with no known trademark associations, celebrity ties, or IP-protected origins. The visual elements described \u2014 moonlit forest, foraging herbs, dried flower jars, and a candle \u2014 are all generic illustrative motifs common in the cottage/apothecary aesthetic with no identifiable protected characters, logos, or brand imagery. No trademark concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'GATHERING INGREDIENTS' correctly spelled and complete. The artwork is a clean, original flat-style illustration featuring a forest scene with mason jars, mushrooms, wildflowers, herbs, and a candle \u2014 all generic motifs with no IP concerns. Text is legible, anatomy/objects are well-formed, and the composition is suitable for garment printing against a neutral background."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Cottage Witch Tote | Moonlit Forest Foraging Gathering Bag",
+    "tags": [
+      "cottagecore tote",
+      "witch aesthetic",
+      "foraging bag",
+      "moonlit forest",
+      "witchcore gift",
+      "herbal tote",
+      "aesthetic bag",
+      "witchy gift",
+      "forest illustration",
+      "cottage aesthetic",
+      "plant bag",
+      "reusable tote",
+      "alternative fashion"
+    ],
+    "description": "Step into the cottagecore and witchcore aesthetic with this enchanting tote featuring a dense moonlit forest filled with foraging herbs, jars of dried flowers, and a single glowing candle beneath the phrase 'Gathering Ingredients' in thin serif lettering. Perfect for carrying books, crystals, herbs, or whatever treasures you're collecting. The forest illustration brings woodland magic to weekly shopping, farmers market trips, or witchy gatherings. Ideal gift for TikTok-inspired aesthetic enthusiasts, herbalists, craft lovers, and anyone drawn to moody forest imagery and cozy cottage vibes."
+  },
+  "products": {
+    "shopify": "6a60e64ed94240b5ea07a98d"
+  }
+}

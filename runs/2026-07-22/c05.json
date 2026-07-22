@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Beekeeping",
+    "product_type": "mug",
+    "concept": "A beekeeper in full suit holding a coffee cup with bees circling it and 'Protecting the Queens (Both of Them)' as the tagline",
+    "audience": "Hobbyist and small-scale commercial beekeepers who drink coffee during morning hive checks",
+    "score": 7.3,
+    "rationale": "Beekeeping is a growing hobby with strong community pride; dual-meaning wordplay about queen bees creates shareable moment that drives organic discovery"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Protecting the Queens (Both of Them)\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a beekeeper in full protective suit and veil, centered, holding a steaming coffee mug with both hands. Six stylized bees with segmented bodies circle the mug in a clockwise motion. The beekeeper's posture is calm and grounded. Solid color blocks with no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Limited palette: deep honey gold, crisp white, charcoal gray, warm tan, and bright yellow. Plain solid light cream background, generous margin around the entire composition. All artwork elements connected and away from the edges.",
+    "text_on_design": "Protecting the Queens (Both of Them)",
+    "style": "Bold retro serif, arched above the beekeeper illustration"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Protecting the Queens (Both of Them)' is a generic humorous double entendre referencing queen bees and coffee (or the beekeeper themselves), with no apparent trademark conflicts. The imagery of a beekeeper in a suit with bees and a coffee cup is entirely generic and descriptive. No celebrity, brand, team, character, or protected slogan is evoked. The wordplay is original and common in nature without referencing any known protected intellectual property."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'PROTECTING THE QUEENS (BOTH OF THEM)' \u2014 correctly spelled and complete. The illustration shows a generic beekeeping figure in protective suit holding a coffee mug, surrounded by honeybees. Clean vector-style art with no IP concerns, no anatomical issues, light background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Beekeeper Coffee Mug | Protecting the Queens Design",
+    "tags": [
+      "beekeeper gift",
+      "bee keeper mug",
+      "apiary mug",
+      "bee mug",
+      "beekeeping coffee",
+      "bee lover gift",
+      "hobby beekeeper",
+      "queen bee",
+      "bee humor",
+      "beekeeping apparel",
+      "coffee lover gift",
+      "bee culture",
+      "hive keeper"
+    ],
+    "description": "For beekeepers who start every morning with coffee before hive checks, this mug celebrates your dedication with the message 'Protecting the Queens (Both of Them).' Features an illustration of a beekeeper in full suit holding a coffee cup while bees circle overhead. Ceramic construction keeps your morning coffee warm while you prepare for another day protecting your colonies. Perfect gift for hobbyist beekeepers, small-scale commercial operations, or anyone passionate about bee conservation and urban apiary work. Combines bee humor with genuine appreciation for beekeeping life."
+  },
+  "products": {
+    "shopify": "6a60e65e5b986241120c0209"
+  }
+}
