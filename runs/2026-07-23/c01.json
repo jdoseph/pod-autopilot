@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Back to School Teacher Appreciation",
+    "product_type": "tote",
+    "concept": "Illustrated open book morphing into a lightbulb with the text 'A Good Teacher Plants Seeds That Grow Forever' in a botanical hand-lettered style.",
+    "audience": "Teachers, school staff, and parents buying teacher gifts for school year start",
+    "score": 7.6,
+    "rationale": "Totes are practical, high-use teacher gifts and this sentimental-but-not-saccharine framing fills a gap between overly cheesy and too minimalist. Back-to-school buying window is active now. Strong gifting and self-purchase dual appeal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"A Good Teacher Plants Seeds That Grow Forever\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an open book transforming into a lightbulb, with botanical leaf and vine elements growing from the pages and bulb. Single centered composition. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes, clean sharp edges, screen-print aesthetic, high contrast. Limited palette: forest green, warm gold, cream, deep charcoal, sage green. Plain solid cream background, generous margin, artwork centered and away from edges. Text in botanical hand-lettered style arched gracefully above the book-to-bulb illustration. Readable at 12x16 inches from across a room.",
+    "text_on_design": "A Good Teacher Plants Seeds That Grow Forever",
+    "style": "Botanical hand-lettered serif, arched above illustration, warm gold and forest green"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'A Good Teacher Plants Seeds That Grow Forever' is a generic inspirational sentiment about teaching and growth. It does not reference any known trademark, brand, celebrity, sports team, character, or protected slogan. The botanical hand-lettered illustration concept combining a book and lightbulb is a common generic visual metaphor with no identifiable IP concerns. The design is safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "All required text is present and correctly spelled across the design: 'A GOOD TEACHER' arched at top, 'PLANTS SEEDS' in the bulb, and 'THAT GROW FOREVER' below. The composition is clean with a lightbulb, open book, and laurel branches \u2014 all generic motifs with no IP concerns. Text is legible, anatomy/objects are well-formed, and the background is plain and print-ready."
+  },
+  "listing": {
+    "index": 1,
+    "title": "A Good Teacher Plants Seeds That Grow Forever Tote Bag",
+    "tags": [
+      "teacher appreciation gifts",
+      "back to school gifts",
+      "teacher thank you bag",
+      "inspirational teacher tote",
+      "school staff gifts",
+      "lightbulb book design",
+      "botanical lettering",
+      "educator gifts",
+      "new school year",
+      "teacher supplies bag",
+      "meaningful teacher gift",
+      "school year start gift",
+      "parent teacher gift"
+    ],
+    "description": "Honor educators with this thoughtful tote featuring an illustrated open book morphing into a lightbulb with the message 'A Good Teacher Plants Seeds That Grow Forever' in beautiful botanical hand-lettered style. Ideal for back-to-school season, teacher appreciation events, or expressing gratitude to school staff. Spacious and sturdy for carrying lesson plans, books, and supplies. A meaningful gift that celebrates the lasting impact teachers have on their students' lives."
+  },
+  "products": {
+    "shopify": "6a623a7e7aeae9f66502c270"
+  }
+}

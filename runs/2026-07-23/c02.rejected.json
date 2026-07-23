@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Autumn Book Lovers",
+    "product_type": "tote",
+    "concept": "Silhouette of a person reading under a tree with falling leaves and the text 'Chapters and Cider Season' arched above in warm-toned typography.",
+    "audience": "Bookish community members who celebrate autumn aesthetics, predominantly women 20-45",
+    "score": 7.4,
+    "rationale": "BookTok and reading community content shifts to autumn themes in August, driving purchasing intent. Totes are ideal for bookstore trips and library runs. The seasonal phrase is specific enough to feel premium and timely rather than generic."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Chapters and Cider Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration: silhouette of a person sitting cross-legged reading an open book beneath a large tree with a full canopy. Leaves falling in various sizes around the figure and tree. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: warm burnt orange, deep forest green, cream, mustard yellow, chocolate brown. Single centered composition on a solid cream background with generous margin. High contrast, screen-print aesthetic, bold simple shapes, clean sharp edges. All elements connected and away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Chapters and Cider Season",
+    "style": "Bold retro serif typeface arched above the illustration in warm burnt orange, uppercase, slightly condensed letter spacing"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Chapters and Cider Season' is a generic, descriptive combination of common words evoking autumn reading themes. No known trademarks, brand associations, celebrity references, song lyrics, or protected IP are evoked. The visual elements (reading silhouette, tree, falling leaves) are generic and widely used in commercial art without IP concerns. The warm typography and seasonal theme are entirely original in composition."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text layout is malformed: 'CIDER' appears split across lines with a stray 'IER' fragment showing separately, making the text incomplete and incorrectly rendered. The design does not cleanly display 'Chapters and Cider Season' as required."
+  }
+}

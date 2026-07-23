@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Night Shift Workers",
+    "product_type": "t-shirt",
+    "concept": "Dark-background design with a crescent moon and bold text 'I Work While You Sleep \u2014 Don't Talk to Me Before Noon' in block typography.",
+    "audience": "Night shift nurses, factory workers, and service industry employees",
+    "score": 7.0,
+    "rationale": "Night shift worker identity is an underserved niche with a tight-knit community. Strong gifting angle from coworkers. Evergreen with no seasonal dependency, and the humor resonates deeply with a loyal, vocal audience."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I WORK WHILE YOU SLEEP\nDON'T TALK TO ME BEFORE NOON\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a crescent moon in pale cream, tilted slightly to the right, centered on a solid charcoal background. Bold geometric block sans-serif text reading 'I WORK WHILE YOU SLEEP' arched in a subtle curve above the moon, and 'DON'T TALK TO ME BEFORE NOON' in matching block letters below, all in white. Three solid color blocks only: charcoal background, cream moon, white text. No gradients, no shading, no photorealism. Single centered composition with clean sharp edges and generous margins. High contrast, screen-print aesthetic, readable from 12 feet away.",
+    "text_on_design": "I WORK WHILE YOU SLEEP\nDON'T TALK TO ME BEFORE NOON",
+    "style": "Flat vector illustration, bold geometric block typography, screen-print aesthetic, solid color blocks only, no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Work While You Sleep \u2014 Don't Talk to Me Before Noon' is a generic humorous sentiment commonly found in novelty merchandise. It references no trademarks, brand names, celebrities, characters, or protected slogans. The crescent moon graphic is a generic design element. The block typography style is standard. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "All required text is present and correctly spelled: 'I WORK WHILE YOU SLEEP' arched around a crescent moon graphic, and 'DON'T TALK TO ME BEFORE NOON' below. Clean vector-style design with no IP concerns, no quality issues, and no extraneous elements. Black background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "I Work While You Sleep Night Shift Worker T-Shirt",
+    "tags": [
+      "night shift worker shirt",
+      "graveyard shift tee",
+      "funny night shift apparel",
+      "nurse shift gift shirt",
+      "factory worker shirt",
+      "service industry gift",
+      "crescent moon design",
+      "funny work shirt",
+      "dont talk to me shirt",
+      "shift worker humor",
+      "healthcare worker gift",
+      "night shift humor tee",
+      "worker appreciation shirt"
+    ],
+    "description": "Perfect tee for those who own the night shift. Features bold block typography stating 'I Work While You Sleep \u2014 Don't Talk to Me Before Noon' with crescent moon accents on a dark background. Ideal for night shift nurses, factory workers, and service industry employees who live by a different schedule. Comfortable, durable fabric designed for comfort during long shifts. Great gift for healthcare workers, overnight staff, and anyone working unconventional hours who appreciates honest, relatable humor."
+  },
+  "products": {
+    "shopify": "6a623ad24c526e552b057984"
+  }
+}

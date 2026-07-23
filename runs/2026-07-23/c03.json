@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Witchy Fall Aesthetic",
+    "product_type": "mug",
+    "concept": "Hand-drawn crescent moon surrounded by herbs and crystals with the phrase 'I Am the Witch of Ordinary Things' in an elegant gothic font.",
+    "audience": "Spiritual, witchy, and pagan community members, predominantly women 20-40",
+    "score": 7.3,
+    "rationale": "The witchy niche surges hard in September-October as Halloween approaches, placing this perfectly in the buying window. The 'ordinary witch' angle is relatable and less overdone than generic spell/potion humor. Passionate repeat-buying audience."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Am the Witch of Ordinary Things\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a centered crescent moon in cream, surrounded by a circular wreath of botanical elements: sprigs of sage, lavender, and rosemary in forest green, interspersed with geometric crystals and stones in amethyst purple and silver. Solid color blocks with clean sharp edges, screen-print aesthetic, no gradients or shading. Composition is balanced and symmetrical. Plain solid black background with generous margin around all artwork elements. High contrast, readable at 12x16 inches.",
+    "text_on_design": "I Am the Witch of Ordinary Things",
+    "style": "Bold elegant gothic serif font, curved gracefully along the upper arc of the wreath, centered above the crescent moon. Cream color matching the moon. No other text or lettering anywhere on the design."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Am the Witch of Ordinary Things' appears to be an original, generic creative expression with no known trademark, brand association, celebrity connection, or protected IP. The visual elements (crescent moon, herbs, crystals, gothic font) are common in the witchcraft/spiritual aesthetic genre and are not distinctive to any particular brand or protected work. No song lyrics, character names, movie quotes, or registered slogans are implicated. The design concept is approvable as a general piece of folk/mystical themed merchandise."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'I Am the Witch of Ordinary Things' correctly spelled and complete. The composition features generic witchy/botanical motifs (crescent moon, crystals, herb sprigs, lavender) with no IP risk. Text is clean and legible, artwork is flat-design vector style suitable for garment printing, black background works well for POD."
+  },
+  "listing": {
+    "index": 3,
+    "title": "I Am the Witch of Ordinary Things Mug",
+    "tags": [
+      "witchy aesthetic mug",
+      "witch of ordinary things",
+      "fall spiritual gifts",
+      "pagan community gifts",
+      "crescent moon mug",
+      "crystal herb design",
+      "gothic font mug",
+      "spiritual gifts women",
+      "witchy home decor",
+      "alternative lifestyle gifts",
+      "meaningful spiritual mug",
+      "autumn witch aesthetic",
+      "empowerment gifts"
+    ],
+    "description": "Pour your favorite brew into this enchanting mug celebrating the magic of everyday life. Hand-drawn crescent moon surrounded by herbs and crystals frames the elegant message 'I Am the Witch of Ordinary Things' in sophisticated gothic lettering. Perfect for tea, coffee, or hot cider during fall. A meaningful gift for those in the spiritual and pagan communities who appreciate witchy aesthetics and empowering messages. Durable ceramic, dishwasher and microwave safe."
+  },
+  "products": {
+    "shopify": "6a623aa4c38802d77b00cc6d"
+  }
+}

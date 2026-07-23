@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween Pet Costume Culture",
+    "product_type": "tote",
+    "concept": "Illustrated ghost dog and ghost cat side by side with the text 'Trick or Treat Crew' in a playful spooky font with candy corn accents.",
+    "audience": "Pet owners who dress up their animals for Halloween, aged 25-45",
+    "score": 7.9,
+    "rationale": "Halloween pet content is one of the highest-engagement seasonal categories. The 6-8 week window places us right at peak buying for Halloween. Totes appeal as a cute seasonal accessory for pet parents. The dual-species design maximizes audience. High impulse-buy potential."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Trick or Treat Crew\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a friendly ghost dog and ghost cat standing side by side, centered composition. Ghost dog on left with floppy ear shapes, ghost cat on right with pointed ear silhouettes, both with simple round eyes and cheerful expressions. Three candy corn shapes (yellow-orange-white) scattered playfully around them. Bold retro serif text reading 'Trick or Treat Crew' arched above the pair. Solid color blocks: white (ghosts and background), black (outlines and details), orange (candy corn), purple (text and accents), no gradients, no shading, no photorealism. High contrast screen-print aesthetic. Plain solid black background, generous margins, single centered design readable at 12x16 inches.",
+    "text_on_design": "Trick or Treat Crew",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients or airbrush shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Trick or Treat Crew' is a generic seasonal Halloween expression combining common holiday vocabulary. No well-known trademark or registered slogan is associated with this phrase. The illustrated ghost dog and cat are original generic Halloween characters, not referencing any specific branded intellectual property (e.g., not Casper the Friendly Ghost or any named character). Candy corn is a generic Halloween motif. The overall design concept is original and relies entirely on common public domain Halloween themes with no identifiable IP concerns."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'TRICK OR TREAT CREW' is correctly spelled and complete, arched above a clean illustration of a cartoon dog and cat with candy corn accents on a black background. No IP risk detected \u2014 generic cartoon animals, no recognizable characters or brand elements. Anatomy and rendering are clean and suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Trick or Treat Crew Ghost Pet Halloween Tote Bag",
+    "tags": [
+      "halloween pet costumes",
+      "ghost dog cat design",
+      "pet owner gifts",
+      "trick or treat tote",
+      "spooky pet apparel",
+      "halloween pet lovers",
+      "funny pet tote bag",
+      "candy corn design",
+      "pet halloween accessories",
+      "costume party bags",
+      "seasonal pet gifts",
+      "illustrated animal tote",
+      "holiday pet fashion"
+    ],
+    "description": "Celebrate Halloween with your furry friends using this playful tote. Features an adorable illustrated ghost dog and ghost cat duo with 'Trick or Treat Crew' in a spooky playful font, accented with candy corn details. Perfect for pet owners who love dressing up their animals for the season. Spacious, durable design ideal for carrying Halloween supplies, treats, or everyday essentials. Makes a great gift for fellow pet costume enthusiasts and animal lovers."
+  },
+  "products": {
+    "shopify": "6a623a6d1cefc0beeb0b7e3f"
+  }
+}

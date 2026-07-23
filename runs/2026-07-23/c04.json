@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Back to School Teachers",
+    "product_type": "t-shirt",
+    "concept": "Bold retro-style graphic reading 'Fueled by Coffee and Controlled Chaos' with scattered school supply doodles around the text.",
+    "audience": "Elementary and middle school teachers preparing for the new school year",
+    "score": 7.2,
+    "rationale": "Back-to-school buying peaks in late August, placing us right in the purchasing window. Teacher identity shirts sell consistently with low design saturation for this specific phrase angle. Broad appeal, easy impulse buy."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fueled by Coffee and Controlled Chaos\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for print-on-demand t-shirt. Bold retro-style graphic with the text 'Fueled by Coffee and Controlled Chaos' in large, thick, slightly italic sans-serif letters, centered and prominent. Surround the text with scattered school supply doodles in a playful arrangement: pencils, erasers, apples, papers, paper clips, rulers, and open books\u2014all rendered as simple solid shapes with clean outlines. Use a limited palette of 4 colors: bright yellow, deep navy blue, cherry red, and white. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain solid light gray background. Generous margins around all artwork. Readable at 12x16 inches from across a room. Screen-print aesthetic, high contrast, flat vector with bold simple shapes and sharp clean edges. Do not include models, mockups, or garments.",
+    "text_on_design": "Fueled by Coffee and Controlled Chaos",
+    "style": "Flat vector illustration, bold retro sans-serif, screen-print aesthetic, solid color blocks (bright yellow, navy blue, cherry red, white), high contrast, no gradients, no shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled by Coffee and Controlled Chaos' is a generic humorous expression combining common everyday concepts. Neither 'fueled by coffee' nor 'controlled chaos' as standalone phrases, nor this specific combination, are associated with known registered trademarks or distinctive protected slogans to my knowledge. The retro graphic style and scattered school supply doodles are generic design elements. No celebrity, brand, character, team, or song lyric references are present. This concept reads as broadly relatable everyday humor appropriate for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'FUELED BY COFFEE AND CONTROLLED CHAOS' which matches the required phrase exactly with correct spelling. The design features clean bold typography surrounded by school-themed illustration elements (books, pencils, apples, rulers, paper clips) in a flat cartoon style. No IP risks, no anatomy issues, no rendering artifacts, and the gray background is clean and suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Fueled by Coffee Controlled Chaos Teacher T-Shirt",
+    "tags": [
+      "teacher appreciation shirt",
+      "back to school teacher gift",
+      "funny teacher tshirt",
+      "coffee chaos design",
+      "school supply doodles",
+      "retro teacher graphic",
+      "elementary teacher gift",
+      "teacher humor shirt",
+      "new school year shirt",
+      "middle school teacher gift",
+      "teacher apparel",
+      "classroom gift shirt",
+      "inspired teacher wear"
+    ],
+    "description": "Celebrate teacher life in this fun, relatable tee featuring bold retro-style graphics reading 'Fueled by Coffee and Controlled Chaos' surrounded by school supply doodles. Perfect for elementary and middle school teachers preparing for the new school year or as an appreciation gift. Comfortable unisex fit, durable fabric for daily classroom wear. Makes a great conversation starter and honest tribute to the energy teachers bring every day. Gift-ready for back-to-school season."
+  },
+  "products": {
+    "shopify": "6a623ab80e2d459e0c06e8ce"
+  }
+}
