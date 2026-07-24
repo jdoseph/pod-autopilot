@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Plant Parent Community",
+    "product_type": "mug",
+    "concept": "Illustration of a person nervously watching a houseplant with text 'Obsessively Checking For New Leaves' in botanical journal style",
+    "audience": "Houseplant collectors aged 22-45 active in plant communities on social platforms",
+    "score": 7.2,
+    "rationale": "Plant parent identity is strong and community-driven with active gifting culture, specific leaf-watching joke resonates as an inside reference, moderate competition in mug category"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Obsessively Checking For New Leaves\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a person in profile leaning toward a potted plant, eyes wide and focused, one hand reaching toward a single leaf. The person wears casual clothing. Behind them, a large magnifying glass emphasizes the leaf detail. Composition: centered figure with plant, plain sage green background. Style: bold simple shapes, clean sharp edges, screen-print aesthetic, high contrast. Color palette: deep forest green, warm cream, rust brown, charcoal gray, solid color blocks only\u2014no gradients, no shading, no photorealism. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Obsessively Checking For New Leaves",
+    "style": "flat vector illustration with bold retro serif text arched above the figure, screen-print ready, limited palette, solid color blocks, high contrast"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Obsessively Checking For New Leaves' is a generic, descriptive expression referencing common plant enthusiast behavior. It contains no registered trademarks, brand names, celebrity references, character likenesses, song lyrics, or protected slogans. The botanical journal illustration style is a common aesthetic with no IP concerns. This is original, relatable humor that poses minimal legal risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'OBSESSIVELY CHECKING FOR NEW LEAVES' \u2014 correctly spelled and complete. Artwork is a clean, original illustration of a person examining a potted plant with a magnifying glass in the background. No IP concerns, no anatomy issues, no rendering artifacts. Suitable for garment printing."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Plant Parent Leaf Check Mug - Houseplant Lover Gift",
+    "tags": [
+      "plant parent mug",
+      "houseplant gift",
+      "plant lover",
+      "botanical mug",
+      "plant anxiety humor",
+      "new leaves design",
+      "plant collector gift",
+      "green thumb gift",
+      "indoor plant lover",
+      "botanical journal style",
+      "plant obsessed",
+      "nature lover mug",
+      "plant community gift"
+    ],
+    "description": "For plant parents aged 22-45 who obsessively monitor every leaf. This mug features an illustration of a person nervously watching a houseplant with 'Obsessively Checking For New Leaves' in botanical journal style. Perfect gift for houseplant collectors active in plant communities who relate to daily leaf-checking rituals. Celebrate the joy and mild anxiety of nurturing your indoor garden with this relatable design. Ideal for morning coffee while tending to your botanical babies and connecting with fellow plant parents."
+  },
+  "products": {
+    "shopify": "6a638706a1493e22ca0a71e4"
+  }
+}

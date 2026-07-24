@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Introverted Dog Owners",
+    "product_type": "t-shirt",
+    "concept": "Cartoon of a person happily declining a party invitation via phone while hugging their dog, captioned 'Prior Commitments'",
+    "audience": "Introverted adults aged 25-45 who identify their dog as their social preference",
+    "score": 7.1,
+    "rationale": "Intersects two passionate audiences (introverts and dog lovers), relatable humor drives organic sharing, visual concept is distinctive enough to stand out"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"PRIOR COMMITMENTS\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a smiling person sitting on a couch, cradling a happy dog in their arms while holding a phone to their ear with one hand. The person has a content expression, the dog is relaxed and cheerful. Solid color blocks, no gradients, no shading, no photorealism. Limited palette: warm tan, deep navy blue, bright cream, and burnt orange. Single centered composition on a plain solid light gray background with generous margins. Bold screen-print aesthetic with clean sharp edges and high contrast. Readable at 12x16 inches from across a room.",
+    "text_on_design": "PRIOR COMMITMENTS",
+    "style": "Bold retro sans-serif, all caps, positioned below the illustration in deep navy blue, confident and straightforward letterform"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Prior Commitments' is a common, generic English expression with no known trademark associations in apparel or print-on-demand contexts. The cartoon concept depicts a relatable, original everyday scenario involving a person and a dog with no references to celebrities, branded characters, sports teams, song lyrics, or protected slogans. The humor is broadly generic and the imagery is wholly original in concept. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays exactly 'PRIOR COMMITMENTS' in two lines, correctly spelled and complete. The illustration shows a generic cartoon man on a couch holding a dog while on the phone \u2014 no IP, celebrity, or brand concerns. Clean vector-style art with a simple background suitable for garment printing. Text and anatomy are well-rendered with no artifacts."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Prior Commitments Dog Introvert Tee - Dog Lover Gift",
+    "tags": [
+      "introvert dog tee",
+      "dog owner shirt",
+      "funny introvert",
+      "dog parent gift",
+      "introverted humor",
+      "dog lover apparel",
+      "party decline shirt",
+      "social anxiety humor",
+      "pet owner tshirt",
+      "cozy introvert",
+      "cartoon design tee",
+      "dog friendship shirt",
+      "relatable humor"
+    ],
+    "description": "For introverted adults aged 25-45 who choose their dog over social obligations. This tee features a cartoon of a person happily declining a party invitation via phone while hugging their dog, captioned 'Prior Commitments.' Perfect for dog owners who identify their pup as their preferred companion. Relatable humor for introverts who've perfected the art of staying in, paired with a furry friend who completely understands. Gift this to anyone who'd rather have a quiet night with their dog than any party\u2014it speaks the truth."
+  },
+  "products": {
+    "shopify": "6a63871ee7270fd99b0e4b4b"
+  }
+}

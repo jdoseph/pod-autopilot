@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Thrift Store Shoppers",
+    "product_type": "tote",
+    "concept": "Collage-style design of vintage price tags and clothing labels arranged around the phrase 'Secondhand First' in mixed typography",
+    "audience": "Thrift and vintage shoppers aged 18-35 who see sustainable secondhand shopping as a core identity",
+    "score": 7.5,
+    "rationale": "Thrift identity culture is strong and growing, tote is a natural product fit for this audience, collage aesthetic matches thrift visual language, limited direct competition on POD"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Secondhand First\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of vintage price tags and clothing labels arranged in a circular composition around central text. Include 5-7 overlapping rectangular and circular tag shapes with numerical pricing details (like $0.99, $2.50), small serif numerals, and dotted border lines. Add 2-3 fabric care label rectangles with simplified symbols (hand wash icon, etc.). All elements in solid color blocks with clean sharp edges, no gradients or shading. Color palette: cream, forest green, burnt orange, navy blue, warm tan. Single centered composition on plain white background with 2-inch margin. Readable at 12x16 inches. Screen-print aesthetic, high contrast, zero photorealism.",
+    "text_on_design": "Secondhand First",
+    "style": "Bold sans-serif 'Secondhand' arched above smaller serif 'First' positioned in negative space between tags, mixed typography weights creating visual hierarchy"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Secondhand First' is a generic descriptive slogan promoting secondhand shopping and does not appear to reference any known registered trademark, brand, celebrity, character, or protected intellectual property. The collage of vintage price tags and clothing labels is a common aesthetic with no specific brand association. The mixed typography and thrift/resale theme are generic design elements. No significant IP risk identified."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The design contains garbled and nonsensical text on the price tag elements (e.g., 'CAND', 'HARK', '$ WAHN', 'VV\u00c9GSIT') that are malformed and half-formed. While the main 'SECONDHAND FIRST' text is correctly spelled, the surrounding decorative tags contain garbled/AI-artifact text that fails the quality standard requiring no garbled or half-formed lettering anywhere in the image."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Home Espresso Enthusiasts",
+    "product_type": "mug",
+    "concept": "Minimalist diagram of an espresso machine labeled with fake technical jargon like 'Happiness Extraction Chamber' and 'Regret Prevention Valve'",
+    "audience": "Coffee geeks who own home espresso machines and follow barista culture on social media",
+    "score": 7.8,
+    "rationale": "Coffee mug niche is crowded overall but espresso-machine-owner subculture is specific enough to cut through, diagram humor is visually interesting and giftable, strong year-round demand"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Happiness Extraction Chamber, Regret Prevention Valve, Pressure Anxiety Reducer, Temperature Serenity Dial, Flavor Liberation Nozzle\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist espresso machine shown in cross-section, bold simple geometric shapes with clean sharp edges, screen-print aesthetic. Labeled internal components with callout lines pointing to different parts. Color palette: deep espresso brown, bright white, warm cream, and charcoal gray. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain solid sage green background with generous margin around all artwork elements. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Happiness Extraction Chamber, Regret Prevention Valve, Pressure Anxiety Reducer, Temperature Serenity Dial, Flavor Liberation Nozzle",
+    "style": "Bold sans-serif labels in white and charcoal, positioned with thin callout lines to labeled machine parts, retro technical diagram aesthetic, no italics or flourishes"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design consists of original, invented pseudo-technical jargon applied humorously to a generic espresso machine diagram. None of the phrases ('Happiness Extraction Chamber,' 'Regret Prevention Valve,' 'Pressure Anxiety Reducer,' 'Temperature Serenity Dial,' 'Flavor Liberation Nozzle') correspond to known registered trademarks, brand names, slogans, characters, or other protected IP. The espresso machine depiction is generic and minimalist with no stylistic elements tied to a specific brand. The humor is based on common wordplay around coffee culture and emotional well-being, which is broadly generic. No celebrity likeness, team, lyric, or franchise reference is present. Risk is low."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Multiple text errors throughout the design. 'TRESURT' appears instead of 'REGRET', 'PREVENNTION' is misspelled, 'PRESSTE' instead of 'PRESSURE', 'TEMPERTION' instead of 'TEMPERATURE', 'ASXIENTY' instead of 'ANXIETY', 'REDUUCER' is malformed, and 'TEMPERATION' appears as a duplicate/garbled word. The required text is incomplete and contains numerous spelling errors and garbled words that make it unprintable."
+  }
+}

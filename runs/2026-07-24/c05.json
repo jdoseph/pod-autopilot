@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Retired Teachers",
+    "product_type": "mug",
+    "concept": "Bold vintage-style text reading 'Officially Tenured in Retirement' surrounded by red apple and ruler motifs in a badge illustration",
+    "audience": "Recently retired teachers and educators, often gifted by former colleagues or students",
+    "score": 7.3,
+    "rationale": "Retirement gifts spike in May-June but remain active through summer, teacher retirement is a passionate niche with strong gifting intent, badge framing feels premium and celebratory"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Officially Tenured in Retirement\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a circular badge with bold simple shapes and clean sharp edges, screen-print aesthetic. Center features thick sans-serif text reading 'Officially Tenured in Retirement' in an arc. Surrounding the text: a red apple with a green leaf on the left side, a wooden ruler with measurement marks on the right side, and a banner ribbon at the bottom. All elements are solid color blocks with no gradients, no shading, no photorealism. Color palette: red (apple), green (leaf), tan (ruler with dark brown marks), navy blue (text and badge border), cream (background). Single centered composition on a plain cream solid background with generous margin. High contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": "Officially Tenured in Retirement",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks only, no gradients, no shading. Limited palette: red, green, tan, dark brown, navy blue, cream. Circular badge design with centered arched text treatment."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Officially Tenured in Retirement' is a generic humorous wordplay phrase combining common educational and retirement concepts. No known trademark conflicts exist for this phrase. The design elements \u2014 red apples and rulers \u2014 are generic, widely used symbols associated with teaching and education, not distinctive to any particular brand. The vintage badge illustration style is a common design treatment. This concept presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Officially Tenured in Retirement' correctly spelled across the banner and badge elements. The artwork features generic teacher motifs (apple, ruler) with clean line art styling, no IP concerns, no anatomy issues, and a clean cream background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Officially Tenured in Retirement Mug - Teacher Gift",
+    "tags": [
+      "retirement mug",
+      "teacher gift",
+      "retired educator",
+      "tenured retirement",
+      "apple motif",
+      "red apple design",
+      "teacher appreciation",
+      "retirement celebration",
+      "educator gift",
+      "vintage badge design",
+      "school themed gift",
+      "retirement keepsake",
+      "teacher farewell"
+    ],
+    "description": "Perfect gift for recently retired teachers and educators transitioning into their next chapter. This mug features bold vintage-style text 'Officially Tenured in Retirement' surrounded by red apple and ruler motifs in a classic badge illustration. Ideal for colleagues and former students to gift during retirement celebrations. A thoughtful keepsake that honors years of dedication while celebrating newfound freedom. Makes a meaningful retirement gift that acknowledges the educator's journey and new adventures ahead."
+  },
+  "products": {
+    "shopify": "6a6386f34a3e80ea0001c74d"
+  }
+}

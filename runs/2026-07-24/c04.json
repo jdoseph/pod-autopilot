@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking Hobbyists",
+    "product_type": "t-shirt",
+    "concept": "Illustrated sourdough starter jar with googly eyes labeled 'My Starter Has Separation Anxiety' in playful hand-lettered style",
+    "audience": "Home bakers obsessed with sourdough culture who follow bread-making communities online",
+    "score": 7.4,
+    "rationale": "Sourdough culture has a devoted community with inside-joke humor potential, starter personification is a genuine subculture trope, design competition is lower than generic baking shirts"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Starter Has Separation Anxiety\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass mason jar filled with bubbly sourdough starter, centered composition. The jar has two large googly eyes (circles with black pupils) positioned on the glass, giving it an anxious, worried expression. Inside the jar, show layering: dark tan starter at bottom, lighter bubbles and separation lines in the middle, clear liquid (hooch) at top. Solid color palette: warm cream (#F5E6D3), dark brown (#3D2817), black (#000000), pale gray (#E8E8E8). Solid color blocks only, no gradients, no shading, no photorealism. Clean bold outlines, screen-print aesthetic. Single jar centered on plain white background with generous margins. Keep jar elements away from edges, readable at 12x16 inches.",
+    "text_on_design": "My Starter Has Separation Anxiety",
+    "style": "Hand-lettered playful typography, slightly wonky and organic character, positioned arched below the jar in bold strokes, warm brown color matching the starter"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Starter Has Separation Anxiety' is an original, descriptive play on words referencing sourdough starter culture behavior. It does not reference any known trademark, brand, celebrity, character, song lyric, or protected slogan. The illustrated jar with googly eyes is a generic humorous design concept. The humor derives from common baking knowledge and relatable anxiety terminology, both of which are in the public domain as concepts. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'MY STARTER HAS SEPARATION ANXIETY' \u2014 correctly spelled and complete. The design features a clean, original cartoon illustration of a mason jar with a sourdough starter character (googly eyes on the dough). No IP conflicts, no anatomy issues, clean white background suitable for garment printing, and no rendering artifacts."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Sourdough Starter Anxiety Tee - Bread Baker Gift",
+    "tags": [
+      "sourdough tshirt",
+      "bread baking gift",
+      "starter jar humor",
+      "sourdough culture",
+      "home baker tee",
+      "googly eyes design",
+      "funny baking shirt",
+      "sourdough lover",
+      "bread community",
+      "playful baker gift",
+      "sourdough obsessed",
+      "baking hobby apparel",
+      "fermentation humor"
+    ],
+    "description": "For sourdough baking hobbyists obsessed with starter culture and bread-making communities. This tee features a charming illustrated starter jar with googly eyes labeled 'My Starter Has Separation Anxiety' in playful hand-lettered style. Perfect for home bakers who relate to the daily commitment of maintaining their prized cultures. Gift this to your fellow bread nerd who checks their starter multiple times daily and treats fermentation like an art form. Comfortable, relatable, and speaks the language of sourdough devotion."
+  },
+  "products": {
+    "shopify": "6a6386db99341cac3108ccf4"
+  }
+}

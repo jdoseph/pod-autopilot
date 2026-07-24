@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Fall Anticipators",
+    "product_type": "t-shirt",
+    "concept": "Skeleton hand holding a pumpkin spice latte cup with text 'Died Waiting for Fall' in spooky-cute lettering with falling leaves",
+    "audience": "People who vocally love autumn and begin celebrating it in late summer, typically women 20-40",
+    "score": 7.6,
+    "rationale": "Fall merchandise buying window opens now (6-8 weeks to September), skeleton-plus-fall-coffee is a fresh visual mashup, taps into pumpkin spice culture without IP risk, seasonal urgency boosts conversion"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Died Waiting for Fall\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a skeletal hand bone structure holding a coffee cup with a pumpkin spice latte (cream-colored drink with cinnamon swirl visible at top, cup in warm orange tone). The hand emerges from bottom center. Four or five autumn maple leaves in various sizes fall naturally around the composition. Solid color blocks with clean sharp edges, no gradients, no shading, no photorealism. Limited palette: bone white, pumpkin orange, coffee brown, leaf rust-red, and cream. Single centered composition on solid charcoal gray background with generous margin. Readable at 12x16 inches. Bold spooky-cute serif lettering arched above the cup in two lines. Screen-print aesthetic, high contrast, no drop shadows, no busy elements.",
+    "text_on_design": "Died Waiting for Fall",
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, high contrast, solid color blocks only, no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Died Waiting for Fall' is a generic humorous expression with no known trademark registration. The skeleton and pumpkin/fall imagery is common seasonal public domain territory. The cup design is generic and does not replicate any specific branded cup trade dress, logos, or identifiable brand elements. Falling leaves and spooky-cute aesthetics are widely used generic Halloween/autumn design conventions. No celebrity likenesses, character references, song lyrics, or protected slogans are present. Design appears clear for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'DIED WAITING FOR FALL' \u2014 correctly spelled and complete. Design features a clean skeleton hand holding a coffee cup with autumn leaves, all rendered in a crisp vector/illustration style. No IP concerns, no anatomy issues, no quality problems. Dark background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Skeleton Pumpkin Spice Latte Tee - Fall Season Shirt",
+    "tags": [
+      "pumpkin spice tee",
+      "fall fashion shirt",
+      "autumn lover gift",
+      "skeleton graphic tee",
+      "spooky cute shirt",
+      "psl shirt",
+      "fall season apparel",
+      "womens fall tshirt",
+      "autumn celebration tee",
+      "fall aesthetic shirt",
+      "seasonal graphic tee",
+      "coffee lover shirt",
+      "early fall fashion"
+    ],
+    "description": "For those who begin celebrating autumn in late summer, this tee captures the dedication of true fall devotees. Features a spooky-cute skeleton hand clutching a pumpkin spice latte with 'Died Waiting for Fall' lettering surrounded by delicate falling leaves. Perfect gift for women aged 20-40 who vocally champion the season and live for that first PSL. Celebrate your love of autumn with wearable humor that speaks to your season."
+  },
+  "products": {
+    "shopify": "6a6386a2e7270fd99b0e4ae9"
+  }
+}

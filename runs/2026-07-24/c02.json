@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Bookstore Loyalists",
+    "product_type": "tote",
+    "concept": "Illustrated independent bookstore facade at dusk with warm window glow and the text 'Support Your Local Story' in typographic harmony",
+    "audience": "Avid readers and bookstore advocates who actively champion independent shops",
+    "score": 7.6,
+    "rationale": "Book tote is a proven category, the indie bookstore framing adds specificity and emotional resonance beyond generic book lover products, giftable and functional, back-to-school adjacency helps late summer"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Support Your Local Story\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an independent bookstore facade at dusk. Centered composition featuring a storefront with large display windows glowing warm golden yellow from interior light, a dark teal door with brass handle, cream-colored brick walls, and small decorative awning overhead in deep burgundy. Stack of books visible in window display. Silhouettes of hanging plants frame the entrance. Simple stars beginning to appear in the dusky sky above. Solid color blocks only: cream, warm golden yellow, dark teal, deep burgundy, charcoal gray, no gradients or shading. Plain solid navy background with generous white margin around the design. Single centered composition, all elements connected and away from edges, readable at 12x16 inches from across a room.",
+    "text_on_design": "Support Your Local Story",
+    "style": "Bold sans-serif capitals, white, arched above the storefront in clean horizontal alignment"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Support Your Local Story' is a generic, descriptive slogan encouraging community engagement with local bookstores. It does not reference any known trademark, brand, celebrity, character, or protected intellectual property. The illustrated independent bookstore facade concept is wholly original and evocative of a common cultural scene. No elements of the design raise IP concerns."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'SUPPORT YOUR LOCAL STORY' is correctly spelled and complete. The design features a clean flat-illustration style bookshop storefront with warm lighting, books in the window, hanging plants, and decorative stars. No IP risks, no quality issues, no garbled text, no anatomical elements, and no product mockup. Clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Independent Bookstore Tote - Support Local Stories",
+    "tags": [
+      "book lover tote",
+      "independent bookstore bag",
+      "bookstore shopper gift",
+      "literary tote bag",
+      "support local books",
+      "reader gift",
+      "bookstore aesthetic",
+      "book community tote",
+      "sustainable book bag",
+      "book advocate gift",
+      "warm illustration design",
+      "dusk bookstore art",
+      "bookish accessories"
+    ],
+    "description": "Designed for bookstore loyalists and avid readers who champion independent shops. This beautiful tote features an illustrated independent bookstore facade at dusk with warm glowing windows and 'Support Your Local Story' in thoughtful typography. Perfect gift for book lovers who actively advocate for local businesses and invest in their community's literary spaces. Carry this bag proudly while supporting the stores you love and spreading the message that bookstores matter."
+  },
+  "products": {
+    "shopify": "6a6386ba4a3e80ea0001c732"
+  }
+}
