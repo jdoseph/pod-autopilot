@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market & Cottagecore",
+    "product_type": "tote",
+    "concept": "Hand-drawn botanical illustration of seasonal vegetables and herbs with 'Locally Obsessed' in vintage stamp lettering",
+    "audience": "Farmers market regulars and cottagecore lifestyle enthusiasts",
+    "score": 8.2,
+    "rationale": "Totes are the ideal functional product for this audience who literally uses them at markets. Fall harvest season is peak farmers market attendance. The design concept is aesthetically strong, giftable, and competition is surprisingly low for this specific angle."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"LOCALLY OBSESSED\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of seasonal vegetables and herbs arranged in a balanced circular composition: tomatoes, carrots, basil leaves, zucchini, bell peppers, and rosemary sprigs. Bold simple shapes with clean sharp edges, solid color blocks only\u2014no gradients, no shading, no photorealism. Limited palette: sage green, rust orange, deep burgundy, cream, and charcoal. Single centered design on a plain solid white background with generous margin. Screen-print aesthetic with high contrast. Readable at 12\u00d716 inches from across a room.",
+    "text_on_design": "LOCALLY OBSESSED",
+    "style": "Bold vintage stamp lettering in charcoal, circular worn-ink texture effect, positioned in an arc below the vegetable arrangement. Flat vector, no drop shadows."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Locally Obsessed' is a generic descriptive expression with no known trademark conflicts in common use. Hand-drawn botanical illustrations of vegetables and herbs are classic, non-proprietary artistic elements. Vintage stamp lettering is a widely used generic design style. No celebrity, brand, character, lyric, or protected slogan is referenced. The combination is original and low-risk for print-on-demand use, though a formal USPTO search is recommended before large-scale production."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'LOCALLY OBSESSED' in two lines, correctly spelled and complete. The typography is clean and bold, surrounded by generic vegetable/produce illustrations (tomato, carrots, peppers, zucchini, lettuce, herbs) in a flat design style. No IP risk, no quality issues, no anatomical elements, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Locally Obsessed Farmers Market Tote - Seasonal Vegetables Botanical",
+    "tags": [
+      "farmers market tote",
+      "cottagecore bag",
+      "botanical illustration",
+      "seasonal vegetables",
+      "canvas tote bag",
+      "vintage stamp design",
+      "herbs garden",
+      "local produce",
+      "eco-friendly market bag",
+      "gardening gift",
+      "farmhouse style",
+      "sustainable shopping",
+      "cottage aesthetic"
+    ],
+    "description": "Carry your weekly haul in style with this charming tote featuring hand-drawn seasonal vegetables and herbs accented with vintage 'Locally Obsessed' stamp lettering. Perfect for farmers market trips, CSA pickups, or anyone who loves celebrating local agriculture. Durable canvas construction holds groceries and farmers market finds. Makes a thoughtful gift for gardeners, foodies, and cottagecore enthusiasts who champion seasonal eating."
+  },
+  "products": {
+    "shopify": "6a64d1e741e69fa80900d1fb"
+  }
+}

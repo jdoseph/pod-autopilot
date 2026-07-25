@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Plant Parent",
+    "product_type": "t-shirt",
+    "concept": "Illustration of overflowing houseplants with text 'I Came, I Saw, I Bought More Plants' in botanical hand-lettered style",
+    "audience": "Millennial and Gen Z houseplant collectors",
+    "score": 7.4,
+    "rationale": "Plant parent identity is a strong sustained POD niche with passionate repeat buyers. Humor-driven plant content consistently outperforms generic botanical designs. Low brand risk and easy to differentiate with strong typography."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Came, I Saw, I Bought More Plants\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an overflowing potted plant arrangement. Central composition shows stacked terracotta and ceramic pots of varying sizes with trailing vines, large leafy plants, and cascading foliage bursting outward in all directions. Plants include monstera leaves, pothos vines, snake plant spikes, and flowering stems. Bold simple shapes, clean sharp edges, solid color blocks, no gradients, no shading. Color palette: sage green, cream, terracotta orange, deep forest green, charcoal. Plain cream background, generous margin around composition, all plant elements centered and away from edges. Screen-print aesthetic, high contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": "I Came, I Saw, I Bought More Plants",
+    "style": "Bold hand-lettered botanical serif script arched above the plant illustration, integrated into upper portion of composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Came, I Saw, I Bought More Plants' is a humorous adaptation of the common historical paraphrase 'I came, I saw, I conquered' (veni, vidi, vici), which is a well-known ancient expression in the public domain and not protectable as a trademark in its generic form. The plant-themed variation is a widely used style of generic consumer humor with no specific known trademark registration. The botanical illustration concept is entirely generic. No celebrity, brand, character, or protected slogan is referenced. Low IP risk overall."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'I CAME, I SAW, I BOUGHT MORE PLANTS' \u2014 correctly spelled and complete, split across three sections of the design. The illustration features generic potted houseplants in a clean flat/vector style with no IP concerns, no recognizable characters, no real persons, and no quality issues. The light background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 6,
+    "title": "I Came I Saw I Bought More Plants - Plant Parent Tee",
+    "tags": [
+      "plant parent shirt",
+      "houseplant tee",
+      "plant lover gift",
+      "botanical shirt",
+      "funny plant tee",
+      "plant collector",
+      "millennial gift",
+      "indoor plants",
+      "graphic tee",
+      "plant humor",
+      "botanical design",
+      "gardening gift",
+      "plant enthusiast"
+    ],
+    "description": "Own your plant-buying habits with this fun tee featuring an illustration of overflowing houseplants and the text 'I Came, I Saw, I Bought More Plants' in botanical hand-lettered style. The humorous design resonates with houseplant collectors who always leave nurseries with more than planned. Perfect for millennial and Gen Z plant parents who take pride in their indoor jungle. Comfortable fit for everyday wear or gifting to fellow plant lovers."
+  },
+  "products": {
+    "shopify": "6a64d2543739605d0f0db4a6"
+  }
+}

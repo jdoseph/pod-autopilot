@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Hiking & Trail Running",
+    "product_type": "t-shirt",
+    "concept": "Minimalist mountain ridgeline silhouette with the phrase 'The Trail Does Not Care About Your Excuses'",
+    "audience": "Outdoor enthusiasts and trail runners aged 25-45",
+    "score": 7.1,
+    "rationale": "Outdoor recreation continues strong growth. Late summer is peak hiking season. Motivational trail humor has proven evergreen appeal and this design concept is clean enough for gifting and self-purchase alike."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"THE TRAIL DOES NOT CARE ABOUT YOUR EXCUSES\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist mountain ridgeline silhouette composed of bold geometric peaks in solid charcoal gray, centered on a plain cream background with generous margin. Single continuous horizon line forming 5-7 sharp angular peaks of varying heights, clean crisp edges, no gradients or shading. Readable at 12x16 inches from across a room. Limited palette: charcoal gray, cream background only. Screen-print aesthetic, solid color blocks, no photorealism or detail. Text appears as bold sans-serif capital letters in solid charcoal gray, arched in a slight curve above the mountain peaks, max 6 words.",
+    "text_on_design": "THE TRAIL DOES NOT CARE ABOUT YOUR EXCUSES",
+    "style": "Flat vector illustration, bold simple geometric shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients, no shading, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'The Trail Does Not Care About Your Excuses' is a generic motivational outdoor/hiking sentiment with no known trademark registration or association with a specific brand, celebrity, or protected IP. It follows a common grammatical pattern seen in general fitness and outdoor culture ('X does not care about Y') but is not a recognized slogan tied to any particular company or product. The minimalist mountain ridgeline silhouette is a widely used generic design motif in the outdoor apparel space and does not replicate any distinctive protected trade dress. Combined, the design presents low IP risk and is suitable for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text is garbled and incorrectly arranged. Instead of reading 'THE TRAIL DOES NOT CARE ABOUT YOUR EXCUSES' in the correct order, the words are broken up and rearranged along the arc, reading 'TRAIL DOES NOT / THE CARE ABOUT YOUR EXCUSES' \u2014 'THE' is misplaced at the start of the second arc line rather than at the beginning of the phrase. The text is incomplete and incorrectly ordered compared to the required copy."
+  }
+}

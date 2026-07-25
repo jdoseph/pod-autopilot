@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Librarian and Book Lover",
+    "product_type": "tote",
+    "concept": "Stack of illustrated classic-style books with spines showing fun fake titles and text 'One More Book Won't Hurt (It Will)'",
+    "audience": "Librarians, voracious readers, and book club members",
+    "score": 8.0,
+    "rationale": "Book lovers buying totes is one of the highest-converting POD combinations since it's a natural use case. Fall is peak reading and book club season. Humor about book addiction is highly shareable. Strong gifting potential for National Read a Book Day (September)."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"One More Book Won't Hurt (It Will)\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a stack of 5 classic hardcover books tilted slightly, each spine showing bold retro lettering with humorous fake titles like 'The Procrastination Handbook', 'Coffee & Chapters', 'Just One More Page', 'Reading in Bed Until 3am', and 'Stack Overflow'. Books rendered in solid color blocks: deep navy, forest green, burgundy red, mustard yellow, and charcoal gray. Clean sharp edges, screen-print aesthetic, high contrast. Single centered composition on a crisp white background with generous margin all around. No gradients, no shading, no photorealism. Text 'One More Book Won't Hurt (It Will)' in bold retro serif typeface, arched below the stack, all caps. Readable from 12x16 inches across a room.",
+    "text_on_design": "One More Book Won't Hurt (It Will)",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks only, high contrast, limited palette: navy, forest green, burgundy, mustard, charcoal on white background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'One More Book Won't Hurt (It Will)' is a generic humorous expression about bibliophile tendencies with no known trademark registrations or associations with specific brands, celebrities, or protected IP. The illustrated stack of books concept with fake titles is a common and widely used generic design trope in the bookish merchandise space. No character likenesses, real titles, song lyrics, or protected slogans are referenced. The humor is broadly relatable and not derivative of any specific protected work. Approved for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Garbled text on one of the book spines: 'READING IN BED UNTIIILO 3AM' contains malformed lettering ('UNTIIILO' instead of 'UNTIL'), which is a rendering artifact that fails quality standards for print-on-demand."
+  }
+}

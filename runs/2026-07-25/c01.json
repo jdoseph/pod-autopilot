@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Teacher Back to School",
+    "product_type": "mug",
+    "concept": "Chalkboard-style illustration of an apple, ruler, and pencil border around the text 'First I Drink the Coffee, Then I Do the Teaching'",
+    "audience": "Elementary and middle school teachers",
+    "score": 8.1,
+    "rationale": "Teacher mugs are a perennial bestseller and the back-to-school gifting season peaks exactly in this buying window. Coffee humor is the top-performing concept in teacher mugs. High conversion as both self-purchase and parent/student gift."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"First I Drink the Coffee, Then I Do the Teaching\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a chalkboard-style design for a mug. Center composition features a bold outlined apple, wooden ruler, and sharpened pencil arranged in a simple rectangular border frame. All elements have clean, crisp edges with a hand-drawn chalkboard aesthetic using solid color blocks. Color palette: cream, charcoal gray, apple red, and natural wood tan. No gradients, no shading, no texture. The border elements create a frame around negative space for text. Plain cream solid background, distinct from all artwork colors. All elements centered and away from edges, readable at small scale.",
+    "text_on_design": "First I Drink the Coffee, Then I Do the Teaching",
+    "style": "Flat vector illustration, bold chalkboard aesthetic, screen-print ready, solid color blocks, clean sharp edges, high contrast, limited 4-color palette (cream, charcoal, red, tan)"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'First I Drink the Coffee, Then I Do the Teaching' is a common generic humor sentiment widely used in the teacher gift market with no known trademark protection. The chalkboard aesthetic with apple, ruler, and pencil imagery is a generic educational motif. No celebrity references, brand names, or protected intellectual property detected. The phrase structure follows a well-established humorous template common to novelty items and does not appear to be a distinctive protected slogan."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'First I Drink the Coffee, Then I Do the Teaching' with correct spelling and complete text. The artwork features generic teacher-themed elements (apple, ruler, pencils) with no IP, trademark, or quality concerns. Clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "First I Drink Coffee Then I Teach - Teacher Appreciation Mug",
+    "tags": [
+      "teacher mug",
+      "back to school gift",
+      "chalkboard design",
+      "coffee mug",
+      "teacher appreciation",
+      "elementary teacher",
+      "classroom decor",
+      "personalized teacher",
+      "school supplies",
+      "end of year gift",
+      "teacher humor",
+      "educational gift",
+      "teaching profession"
+    ],
+    "description": "Start the school day right with this witty teacher mug featuring chalkboard-style illustrations of apples, rulers, and pencils framing the text 'First I Drink the Coffee, Then I Do the Teaching.' The relatable message resonates with educators managing classrooms all day. Ideal back-to-school gift for elementary and middle school teachers. Ceramic construction keeps coffee hot while adding personality to any classroom desk."
+  },
+  "products": {
+    "shopify": "6a64d1f7ea188a861b07f3b5"
+  }
+}

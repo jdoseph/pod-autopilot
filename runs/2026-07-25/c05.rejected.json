@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Introverted Bookworm",
+    "product_type": "mug",
+    "concept": "Cozy illustrated stack of books with a cat curled on top and text 'My Social Battery Is Charging (Please Leave a Message)'",
+    "audience": "Book lovers and self-identified introverts aged 18-40",
+    "score": 7.5,
+    "rationale": "Introvert humor and bookish identity are massive overlapping POD communities. Mugs are ideal format for desk use. Fall is reading season and this design benefits from seasonal coziness timing without being explicitly seasonal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Social Battery Is Charging (Please Leave a Message)\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a tall stack of 5 books in varying widths, rendered in solid color blocks with clean sharp edges. The books are stacked slightly askew in warm earth tones: burnt orange, sage green, cream, deep burgundy, and mustard yellow. On top of the stack, a cat is curled up sleeping, shown from above in charcoal gray with a cream belly, simple closed eyes, and pointed ears. Single centered composition on a plain pale cream background. No gradients, no shading, no photorealism. High contrast screen-print aesthetic. Readable from across a room at 12x16 inches.",
+    "text_on_design": "My Social Battery Is Charging (Please Leave a Message)",
+    "style": "Bold sans-serif, all caps, arranged in two curved lines wrapping above and below the book stack, black solid color, modern geometric lettering with clean edges"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Social Battery Is Charging (Please Leave a Message)' is a generic humorous expression combining common concepts of social introversion and answering machine etiquette. It does not reference any trademark, brand, celebrity, character, or protected slogan. The illustrated stack of books with a cat is a generic, widely-used decorative motif with no IP associations. The overall concept is original everyday humor suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text errors detected on the bottom two books. The yellow book reads '(PLEASE LEAVE A' which is incomplete/cut off, and the bottom red book reads '(PLAASE A MESSAGE)' which contains a misspelling ('PLAASE' instead of 'PLEASE') and is missing the word 'LEAVE'. The required text 'My Social Battery Is Charging (Please Leave a Message)' is not correctly and completely rendered."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Dog Mom Autumn Prep",
+    "product_type": "t-shirt",
+    "concept": "Cute illustrated dog wearing a tiny sweater surrounded by falling leaves and acorns with 'Sweater Weather Dog Mom' text",
+    "audience": "Female dog owners aged 28-50 who celebrate fall aesthetics",
+    "score": 7.6,
+    "rationale": "Fall buying window opens early September and dog mom is one of the highest-converting POD niches. Seasonal angle (sweater weather) adds urgency without limiting evergreen utility. Design is giftable and emotionally resonant."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Sweater Weather Dog Mom\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cute dog wearing a cozy knit sweater, centered composition. The dog has a friendly expression with simple geometric features. Surrounding the dog are stylized falling autumn leaves and acorns scattered in a balanced arrangement. Solid color blocks only: warm cream background, terracotta dog, sage green sweater, burnt orange and golden yellow leaves, dark brown acorns. No gradients, no shading, no photorealism. Bold screen-print aesthetic with clean sharp edges. High contrast. Single centered design with generous margins, readable at 12x16 inches from across a room. All elements connected and away from edges.",
+    "text_on_design": "Sweater Weather Dog Mom",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast screen-print aesthetic, solid color blocks only (cream, terracotta, sage green, burnt orange, golden yellow, dark brown), no gradients, no shading, no photorealism. Text in bold retro serif arched above the illustration."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Sweater Weather Dog Mom' is a generic descriptive combination of common words. 'Sweater Weather' is a widely used colloquial expression describing autumn weather and is not protectable as a trademark in this descriptive context. 'Dog Mom' is an extremely common generic phrase used broadly in pet merchandise. The illustrated design elements (dog in sweater, falling leaves, acorns) are all generic seasonal and pet-themed imagery with no specific character, brand, or IP association. No celebrity, team, brand, or protected mark is referenced. This is a low-risk original design suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'SWEATER WEATHER DOG MOM' correctly spelled and complete. The illustration features a generic cartoon dog in a sweater surrounded by autumn leaves and acorns \u2014 no IP, brand, or celebrity concerns. Anatomy is clean and well-rendered, text is clear and legible, and the composition is suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Sweater Weather Dog Mom - Autumn Fall Tee with Cute Dog",
+    "tags": [
+      "dog mom shirt",
+      "fall apparel",
+      "autumn tee",
+      "dog lover gift",
+      "sweater weather",
+      "cute dog design",
+      "pet parent",
+      "fall fashion",
+      "women's graphic tee",
+      "dog mom apparel",
+      "seasonal shirt",
+      "pet aesthetic",
+      "gift for dog owners"
+    ],
+    "description": "Celebrate cozy season with your pup in this adorable tee featuring a cute illustrated dog wearing a tiny sweater, surrounded by falling leaves and acorns. The text 'Sweater Weather Dog Mom' perfectly captures the autumn excitement dog-owning women feel. Soft, comfortable fit ideal for fall outings, dog park days, or casual everyday wear. Makes a delightful gift for female dog owners who embrace fall aesthetics and love showing off their furry companions."
+  },
+  "products": {
+    "shopify": "6a64d22dea188a861b07f3ea"
+  }
+}

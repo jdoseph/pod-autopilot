@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging & Cottagecore",
+    "product_type": "tote",
+    "concept": "Detailed scientific-illustration-style mushroom varieties arranged in a grid with 'Field Notes: Fungi Edition' in academic label typography",
+    "audience": "Foragers, nature lovers, and cottagecore enthusiasts aged 22-45",
+    "score": 7.9,
+    "rationale": "Mushroom aesthetic has strong sustained momentum across Pinterest and Instagram. Fall is peak foraging season directly in the buying window. Tote is perfect functional fit for foraging trips. Scientific illustration style is trendy and premium-feeling."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"FIELD NOTES: FUNGI EDITION\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of six mushroom varieties arranged in a 2\u00d73 grid, each mushroom rendered as a simple bold silhouette with clean outlines and flat solid color blocks. Include a classic morel, a spotted fly agaric, a chanterelle, a button mushroom cross-section, a shelf fungus, and a puffball. Each specimen sits on a thin horizontal line like a specimen label. Solid color palette: forest green, cream, rust orange, deep brown, charcoal gray. No gradients, no shading, no photorealistic detail, no busy backgrounds. Single centered composition on a plain solid pale beige background with generous margins. Screen-print aesthetic with high contrast bold shapes and sharp edges. Text label at top in academic serif typography reading 'FIELD NOTES: FUNGI EDITION'",
+    "text_on_design": "FIELD NOTES: FUNGI EDITION",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Field Notes: Fungi Edition' is generic descriptive language commonly used in naturalist and scientific illustration contexts. No trademark conflicts are identified with this phrase in the context of decorative print-on-demand goods. Scientific illustration-style mushroom artwork is a well-established generic art style with no character, brand, or IP associations. The design concept is wholly original in expression and does not evoke any protected marks, characters, or slogans."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'FIELD NOTES: FUNGI EDITION' \u2014 correctly spelled and complete. The design features six distinct mushroom illustrations in a clean flat/retro style on a plain cream background. No IP concerns, no anatomy issues, no rendering artifacts. Clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Field Notes Fungi - Mushroom Foraging Tote Scientific Illustration",
+    "tags": [
+      "mushroom foraging",
+      "fungi illustration",
+      "field guide tote",
+      "nature lover bag",
+      "cottagecore tote",
+      "scientific illustration",
+      "forager gift",
+      "botanical canvas",
+      "academic design",
+      "mycology",
+      "woodland aesthetic",
+      "sustainable bag",
+      "nature enthusiast"
+    ],
+    "description": "Explore the forest floor with confidence carrying this striking tote featuring detailed scientific-illustration-style mushroom varieties arranged in a grid layout. Academic label typography reading 'Field Notes: Fungi Edition' adds an educational touch perfect for foragers and nature lovers. The sophisticated design appeals to cottagecore enthusiasts and anyone fascinated by fungi. Durable canvas bag ideal for foraging trips, nature walks, or everyday carry."
+  },
+  "products": {
+    "shopify": "6a64d21a3739605d0f0db483"
+  }
+}
