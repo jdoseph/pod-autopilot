@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking Enthusiasts",
+    "product_type": "mug",
+    "concept": "Illustrated sourdough loaf cross-section with scientific-style labels and text 'The Daily Bread Report' in newspaper typography",
+    "audience": "Serious home bakers who follow fermentation science and artisan bread culture",
+    "score": 7.0,
+    "rationale": "Mugs are a natural fit for the morning baker routine; clever newspaper framing adds uniqueness; baking community actively purchases themed kitchenware; evergreen with no direct competition spike concern"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"The Daily Bread Report\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a sourdough loaf cross-section showing the crumb structure with distinct air holes and layers. Scientific-style labels point to key features: 'gluten matrix', 'fermentation gas', 'crust formation', 'starter activity'. Bold simple shapes, clean sharp edges, screen-print aesthetic. Limited palette: deep brown, cream, forest green, charcoal gray on white background. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition with generous margins. Readable at 12x16 inches. The artwork is a technical diagram style illustration suitable for mug wrap, all elements contained away from edges.",
+    "text_on_design": "The Daily Bread Report",
+    "style": "Bold newspaper masthead typography, centered below the loaf cross-section illustration, classic serif font with slight condensed letterform weight"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'The Daily Bread Report' is a generic descriptive combination of common words ('daily bread' being a biblical common phrase, 'report' being generic) with no known trademark registration or strong association with a specific brand. The illustrated sourdough cross-section with scientific labels is original artistic expression. Newspaper-style typography is a generic design convention. No celebrity, character, trademarked brand, logo, or protected slogan is referenced. The concept is a straightforward food-themed design with low IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The design contains additional text beyond the required 'The Daily Bread Report' \u2014 specifically 'Gluten Matrix Gas', 'Fermentation Gas', 'Crust Formation', and 'Starter Activity' are also present in the artwork. The required text itself is correctly spelled and present, but the design does not display 'exactly this text and nothing else' as specified."
+  }
+}

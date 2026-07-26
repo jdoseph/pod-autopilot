@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market Regulars",
+    "product_type": "tote",
+    "concept": "Block-print style illustration of heirloom vegetables and herbs arranged in a grid with text 'Local First, Always' in stamp lettering",
+    "audience": "Farmers market shoppers, locavore food culture followers, and sustainable living advocates",
+    "score": 7.2,
+    "rationale": "Tote bags are functionally used at farmers markets making the niche-format match excellent; late summer harvest season peaks August-September aligning with the buying window; block-print aesthetic appeals to the artisan sensibility of this audience"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Local First, Always\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector block-print illustration of heirloom vegetables and herbs arranged in a 3\u00d73 grid: tomato, carrot, basil leaf, beet, lettuce, thyme sprig, pepper, kale, and radish. Each item is a bold simple silhouette with clean sharp edges, solid color blocks, no gradients or shading. Color palette: deep forest green, burnt orange, deep red, cream, and charcoal. Single centered composition on a plain cream background with generous margin. High contrast, screen-print aesthetic, readable from across a room. Text 'Local First, Always' in bold stamp-style serif lettering arched across the bottom of the grid. No photorealism, no busy backgrounds, no drop shadows.",
+    "text_on_design": "Local First, Always",
+    "style": "Flat vector block-print, bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks only, high contrast, stamp lettering"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Local First, Always' is a generic sentiment promoting local sourcing with no known trademark associations. Block-print heirloom vegetable illustrations are a common folk-art style with no IP concerns. The overall concept uses generic farming and locavore themes without referencing any brand, character, celebrity, or protected slogan."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'LOCAL FIRST, ALWAYS' is correctly spelled and complete, matching the required phrase. The design features clean, generic vegetable illustrations (tomato, carrot, beet, lettuce, basil, herbs, pepper, kale) in a flat graphic style with no IP concerns, no anatomical elements, and a clean cream background suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Local First Farmers Market Heirloom Vegetables Block Print Tote",
+    "tags": [
+      "farmers market tote",
+      "local food bag",
+      "heirloom vegetables",
+      "block print design",
+      "sustainable living bag",
+      "locavore gift",
+      "farmers market regular",
+      "eco-friendly tote",
+      "produce shopping bag",
+      "sustainable fashion",
+      "herbs vegetables design",
+      "local first movement",
+      "farmers market essential"
+    ],
+    "description": "Make a statement about your food values with this block-print style tote celebrating local, seasonal eating. Heirloom vegetables and herbs arranged in a beautiful grid with 'Local First, Always' in authentic stamp lettering. Perfect for weekly farmers market runs, supporting local agriculture, and sustainable food shopping. A durable, reusable bag that shows your commitment to locavore living and community food systems."
+  },
+  "products": {
+    "shopify": "6a6623e5e989124c1100e1ce"
+  }
+}

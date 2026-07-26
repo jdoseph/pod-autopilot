@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Back to School Teachers",
+    "product_type": "mug",
+    "concept": "Classic teacher's desk aesthetic with a pencil-border frame and text 'Day 1 of Many: Let's Do This' with a coffee steam illustration",
+    "audience": "First-year and returning teachers starting the fall semester",
+    "score": 7.4,
+    "rationale": "Mugs are the default teacher-gift item; back-to-school gifting window is strong in late July and August; sentiment is universally relatable; school start dates nationally cluster in this buying window making timing ideal"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Day 1 of Many: Let's Do This\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a classic wooden teacher's desk viewed from above, centered composition. Desktop shows an open notebook, a stack of books, and a steaming coffee mug. Surround the entire scene with a bold rectangular pencil-border frame made of alternating sharpened pencil illustrations pointing inward. Single coffee steam curl illustration rising from the mug, simple curved lines. Solid color blocks only, no gradients, no shading. Color palette: warm tan desktop, deep forest green for books and frame accents, cream for paper, rich brown for wood details, white steam. Plain solid light cream background, generous margin around all artwork elements. Readable at 12x16 inches. Screen-print aesthetic, high contrast, sharp clean edges.",
+    "text_on_design": "Day 1 of Many: Let's Do This",
+    "style": "Bold retro serif typeface, split into two lines, centered below the desk illustration, integrated into the composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Day 1 of Many: Let's Do This' is a generic motivational expression with no known trademark associations. The design elements \u2014 pencil border, teacher's desk aesthetic, and coffee steam illustration \u2014 are all common generic visual motifs in the education and teacher-appreciation merchandise space. No celebrity, brand, character, team, or protected slogan references are present. This combination is original enough to proceed safely for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'DAY 1 OF MANY: LET'S DOO' \u2014 the word 'THIS' is missing entirely and 'DO' appears to be misspelled/truncated as 'DOO'. The required text 'Day 1 of Many: Let's Do This' is incomplete and contains an error."
+  }
+}

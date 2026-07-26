@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cottage Core Autumn Lifestyle",
+    "product_type": "tote",
+    "concept": "Illustrated scene of a wicker basket overflowing with apples, sunflowers, and pine cones with text 'Harvest Everything' in vintage serif",
+    "audience": "Cottagecore and farmhouse aesthetic followers who shop seasonally",
+    "score": 7.5,
+    "rationale": "Tote bags serve a practical harvest-season function resonating deeply with this audience; visual is giftable and shareable; fall buying window is exactly now for September delivery; harvest theme is universally appealing without being clich\u00e9"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Harvest Everything\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a wicker basket overflowing with red apples, golden sunflowers, and brown pine cones. Basket rendered with simple crosshatch line pattern. Apples scattered organically around the basket rim. Sunflowers with bold circular centers and simple petal shapes. Pine cones with geometric stacked texture. Solid color blocks, no gradients, no airbrush shading, no photorealism. High contrast screen-print aesthetic. Centered composition on plain cream background. Limited palette: cream background, rich burgundy red apples, golden yellow sunflowers, warm tan basket weave, forest green stems and leaves, natural brown pine cones. Bold simple shapes with clean sharp edges. Readable at 12x16 inches. All elements connected in center, generous margin around edges.",
+    "text_on_design": "Harvest Everything",
+    "style": "Flat vector illustration, bold retro serif type arched above the basket arrangement, screen-print aesthetic, high contrast, limited solid color palette, no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Harvest Everything' is a generic descriptive expression with no known trademark associations. The illustrated elements (wicker basket, apples, sunflowers, pine cones) are common generic harvest imagery. The vintage serif styling is a widely used aesthetic. No celebrity, brand, character, team, or protected slogan references are present. The overall concept is original and presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'HARVEST EVERYTHING' in bold white lettering, correctly spelled and matching the required text exactly. The artwork features a clean harvest basket composition with sunflowers, apples, and pine cones in a flat illustration style. No IP concerns, no anatomy issues, clean rendering suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Harvest Everything Apples Sunflowers Farmers Market Tote",
+    "tags": [
+      "farmers market bag",
+      "harvest tote",
+      "cottagecore bag",
+      "apple design bag",
+      "sustainable shopping bag",
+      "vintage aesthetic tote",
+      "farmhouse style bag",
+      "seasonal produce bag",
+      "sunflower tote",
+      "reusable market bag",
+      "apples sunflowers tote",
+      "seasonal decoration tote",
+      "cottage core lifestyle bag"
+    ],
+    "description": "Shop the farmers market or seasonal farm stands with this stunning vintage-inspired tote overflowing with fresh apples, golden sunflowers, and pine cones. The 'Harvest Everything' message in classic serif lettering captures that cottagecore farmhouse spirit. Spacious enough for weekly farmers market hauls, farmers market visits, or seasonal autumn decorating. Celebrate locavore living and seasonal abundance with style."
+  },
+  "products": {
+    "shopify": "6a6623bd24004c89f50ffe4b"
+  }
+}

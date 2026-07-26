@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cottage Core Autumn Lifestyle",
+    "product_type": "t-shirt",
+    "concept": "Illustrated mushroom cluster surrounded by falling leaves with the phrase 'Autumn is My Religion' in hand-lettered style",
+    "audience": "Cottagecore and dark academia followers on social media aged 18-30",
+    "score": 7.1,
+    "rationale": "Fall season begins aligning with the September buying window; cottagecore audience is highly merchandise-oriented; mushroom motifs trend consistently; relatively low saturation with quality illustrated designs"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Autumn is My Religion\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a centered mushroom cluster with 5-7 varying heights, solid color blocks only, no gradients. Surround with 8-12 falling autumn leaves in different shapes and sizes, all connected within the composition. Use a limited palette of 4 solid colors: deep burgundy, mustard yellow, forest green, and cream. Bold simple shapes with sharp clean edges, screen-print aesthetic. Single centered composition on a plain solid charcoal background with generous margin. The text 'Autumn is My Religion' appears in hand-lettered serif style arched above the mushroom cluster, integrated into the design as one cohesive piece. No photorealism, no gradients, no airbrush shading, no drop shadows, no busy backgrounds. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Autumn is My Religion",
+    "style": "Flat vector illustration, bold simple shapes, screen-print aesthetic, solid color blocks, hand-lettered serif text"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Autumn is My Religion' is a generic seasonal sentiment with no known trademark registration or association with a specific brand, celebrity, or protected IP. The illustrated mushroom and falling leaves motif is a common decorative theme. The hand-lettered style description is generic. No identifiable trademark, character, lyric, or slogan concerns are present."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'AUTUMN IS MY RELIGION' correctly spelled and complete, matching the required text exactly. The artwork features generic autumn mushrooms and fall leaves in a clean, flat illustration style with no IP concerns, no anatomical issues, and no rendering artifacts. The light background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Autumn is My Religion Mushroom Cottage Core T-Shirt",
+    "tags": [
+      "cottagecore tshirt",
+      "autumn fashion",
+      "mushroom design tee",
+      "fall aesthetic shirt",
+      "hand-lettered tshirt",
+      "dark academia fashion",
+      "nature lover clothing",
+      "seasonal tshirt",
+      "cozy fashion",
+      "alternative fashion tee",
+      "autumn statement shirt",
+      "falling leaves design",
+      "mushroom illustration tee"
+    ],
+    "description": "Express your devotion to autumn with this nature-inspired tee featuring a lush mushroom cluster surrounded by falling leaves. The hand-lettered 'Autumn is My Religion' phrase resonates with cottagecore, dark academia, and autumn-obsessed communities. Comfortable everyday wear for layering through fall, pairing with vintage finds, or just celebrating the season you love most. Perfect for social media aesthetic enthusiasts."
+  },
+  "products": {
+    "shopify": "6a6623fcf0ea5bdb1c068737"
+  }
+}
