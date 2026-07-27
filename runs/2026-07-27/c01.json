@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Witchy Fall Aesthetics",
+    "product_type": "mug",
+    "concept": "Dark botanical illustration of dried herbs and moon phases with text 'Brewing Something Wicked' on a wrap-around design",
+    "audience": "Cottagecore and witchy aesthetic fans anticipating autumn and Halloween season",
+    "score": 8.1,
+    "rationale": "Halloween buying window opens now; witchy mug buyers are extremely passionate repeat purchasers; botanical art style is trending and highly giftable at under $20"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Brewing Something Wicked\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for mug wrap-around design: centered vertical composition of dried botanical elements (sage bundles, thistle, mugwort, dried roses) arranged symmetrically on left and right sides with crescent moons and full moon circles interspersed between plant stems. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: deep charcoal gray, cream white, dusty sage green, and dark plum purple. Bold simple shapes with clean sharp edges, screen-print aesthetic. Single plain solid cream background clearly distinct from all artwork colors. All botanical and moon elements connected and clustered in center, away from edges. Design flows vertically to wrap around mug without depending on background.",
+    "text_on_design": "Brewing Something Wicked",
+    "style": "Bold retro serif typeface in charcoal gray, positioned vertically in the center between left and right botanical clusters, uppercase letters"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brewing Something Wicked' is a common generic play on words combining everyday brewing culture with a colloquial use of 'wicked,' not a registered trademark or protected slogan. The botanical and moon phase illustration elements are generic gothic/witchy aesthetic staples with no identifiable IP ties to specific brands, characters, or franchises. No celebrity, team, song lyric, or distinctive protected mark is evoked. Design is cleared for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'Brewing Something Wicked' with correct spelling and no extraneous text. The artwork features generic botanical elements (thistles, roses, leaves) and crescent moon symbols in a clean, flat illustration style. No IP concerns, no quality issues, and the light background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Brewing Something Wicked Witchy Mug | Dark Botanical Moon Phases Design",
+    "tags": [
+      "witchy mug",
+      "botanical mug",
+      "moon phases design",
+      "cottagecore aesthetic",
+      "witchy fall mug",
+      "dark botanical art",
+      "witch gifts",
+      "autumn mug",
+      "dried herbs design",
+      "halloween mug",
+      "pagan aesthetic",
+      "cozy witchy gifts",
+      "celestial design mug"
+    ],
+    "description": "Sip your morning brew from this moody botanical mug that celebrates witchy aesthetics and autumn anticipation. Wrap-around design features detailed illustrations of dried herbs and celestial moon phases with an enchanting spell-themed message. Perfect for tea lovers, tarot enthusiasts, and anyone drawn to dark cottagecore vibes. The midnight color palette and intricate botanical details make it an ideal gift for witchy aesthetic fans preparing for fall. Dishwasher safe and generously sized for generous pours of coffee or herbal tea. A conversation piece for your office desk or kitchen cabinet."
+  },
+  "products": {
+    "shopify": "6a6787023ef32eb5c803878d"
+  }
+}

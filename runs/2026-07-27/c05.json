@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Fungi / Mushroom Obsessives",
+    "product_type": "mug",
+    "concept": "Detailed scientific illustration of five forest mushroom varieties arranged in a semicircle with text 'Forage Responsibly'",
+    "audience": "Mycology hobbyists, foragers, and cottagecore enthusiasts who treat fungi as an identity",
+    "score": 7.6,
+    "rationale": "Mushroom aesthetic has exploded and shows no signs of slowing; scientific illustration style is premium-feeling and gifts well; foraging community is highly engaged"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Forage Responsibly\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five distinct forest mushroom varieties arranged in a semicircle, each rendered as simple geometric shapes with clean outlines. Include a classic button mushroom, an oyster mushroom, a chanterelle, a porcini, and a morel\u2014each instantly recognizable by silhouette alone. Use solid color blocks with no gradients or shading: cream background, mushroom caps in deep forest green, burnt orange, and dark brown, stems in tan and sage green. Bold simple shapes, high contrast, screen-print aesthetic. Single centered composition with generous margins, readable at 12x16 inches. No photorealistic detail, no busy elements, no drop shadows.",
+    "text_on_design": "Forage Responsibly",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks only: cream, forest green, burnt orange, dark brown, tan, sage green. No gradients, no airbrush shading, no photorealism."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design features generic scientific illustrations of forest mushrooms with no reference to trademarks, brands, characters, or protected IP. The phrase 'Forage Responsibly' is a common instructional/nature-safety expression in the foraging community, not a registered trademark to my knowledge, and follows the pattern of generic responsible-use slogans. No celebrity, team, lyric, or fictional character references are present. Design is cleared for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'FORAGE RESPONSIBLY' correctly spelled and complete, matching the required text exactly. The artwork features clean flat-style mushroom illustrations in an earthy color palette above the text, with no IP concerns, no quality issues, and a clean light background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Forage Responsibly Mug | Detailed Mushroom Illustration Scientific Design",
+    "tags": [
+      "mushroom mug",
+      "mycology gift",
+      "fungi illustration",
+      "foraging mug",
+      "cottagecore mug",
+      "scientific illustration",
+      "nature lover gift",
+      "fungi enthusiast",
+      "forest design",
+      "mushroom collection",
+      "naturalist gift",
+      "botanical mug",
+      "outdoor enthusiast"
+    ],
+    "description": "Celebrate mushroom passion with this beautifully detailed mug featuring five distinct forest mushroom varieties arranged in scientific illustration style. The 'Forage Responsibly' message appeals to mycology hobbyists, foragers, and cottagecore enthusiasts who treat fungi identification as a genuine hobby and lifestyle. Perfect for mushroom hunting season preparation and year-round appreciation of fungi diversity. The intricate botanical artwork rivals field guide quality and sparks conversation with fellow fungal enthusiasts. Ideal gift for nature lovers, foragers, and anyone building their mushroom identification knowledge. Durable ceramic construction in a generous mug size for morning coffee, afternoon tea, or foraging expedition hydration."
+  },
+  "products": {
+    "shopify": "6a678755482271edee0a1d14"
+  }
+}

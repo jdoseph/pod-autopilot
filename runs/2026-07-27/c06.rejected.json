@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Dog Moms / Autumn Anticipation",
+    "product_type": "t-shirt",
+    "concept": "Silhouette of a golden retriever surrounded by falling leaves with text 'Basic and Proud of It'",
+    "audience": "Dog owners who lean into autumn aesthetics and cozy season culture",
+    "score": 7.5,
+    "rationale": "Fall is 6-8 weeks out which is exactly the buying window; golden retriever plus pumpkin spice season self-aware humor is extremely giftable and searchable"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Basic and Proud of It\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a golden retriever silhouette in profile facing right, centered composition. Surrounded by 8-10 falling autumn leaves in various sizes and angles. Solid color blocks, no gradients, no airbrush shading, no photorealism. Color palette: warm golden yellow, burnt orange, deep rust red, cream, and charcoal black. Bold retro sans-serif text arched above the dog reading 'Basic and Proud of It' in black. Plain cream solid background, generous margins all around, all artwork elements centered and away from edges, high contrast screen-print aesthetic with clean sharp edges.",
+    "text_on_design": "Basic and Proud of It",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, limited palette of warm golden yellow, burnt orange, rust red, cream, and charcoal black, solid color blocks only"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Basic and Proud of It' is a common generic expression playing on the colloquial use of 'basic' as a pop culture adjective. It does not reference any known registered trademark, brand, character, celebrity, or protected slogan. The golden retriever silhouette with falling leaves is a generic illustration concept with no IP concerns. The combination is original and presents low commercial risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'BASIC AND PROUD IT' \u2014 the word 'OF' is missing. The required text is 'Basic and Proud of It', making this design non-compliant with the specified copy."
+  }
+}

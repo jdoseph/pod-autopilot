@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market Regulars",
+    "product_type": "tote",
+    "concept": "Illustrated grid of seasonal produce \u2014 heirloom tomatoes, corn, peaches \u2014 with text 'Sunday Ritual' in hand-lettered style",
+    "audience": "Urban and suburban farmers market devotees who shop locally as a lifestyle statement",
+    "score": 7.9,
+    "rationale": "Late summer produce peak is right now; farmers market shopping is heavily identity-driven; tote is the literal tool of the audience making this extremely functional and giftable"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Sunday Ritual\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a 3x3 grid of seasonal produce: heirloom tomatoes (red, striped varieties), fresh corn (yellow kernels, green husks), ripe peaches (orange-blush), arranged in equal squares with bold black dividing lines creating a clean grid. Each produce item is simplified into flat solid shapes with crisp outlines. Above the grid, hand-lettered text reads 'Sunday Ritual' in a loose, organic serif style with slight stroke variation, appearing confident but not decorative. Color palette: deep burgundy red, golden yellow, warm peach orange, forest green, and black outlines. Solid color blocks only, no gradients, no airbrush shading, no photorealism. Centered composition on a cream solid background with generous margin. Single centered composition, readable at 12x16 inches.",
+    "text_on_design": "Sunday Ritual",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, limited 5-color palette (burgundy red, golden yellow, peach orange, forest green, black), solid color blocks only, no gradients, no photorealism."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Sunday Ritual' is a generic, descriptive term combining a common day of the week with a common noun. It does not reference any known registered trademark, brand, celebrity, character, slogan, or other protected IP. The illustrated seasonal produce imagery (heirloom tomatoes, corn, peaches) is generic and non-infringing. Hand-lettered styling is a common design approach. No notable trademark conflicts are identified from general knowledge. Design is approved for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'SUNDAY RITUAL' \u2014 correctly spelled, complete, and nothing else. The artwork features clean vector-style illustrations of vegetables/fruits (tomato, corn, peach/pumpkin) in a grid layout with retro earth tones. No IP concerns, no quality issues, clear background suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Sunday Ritual Farmers Market Tote | Seasonal Produce Illustration Bag",
+    "tags": [
+      "farmers market tote",
+      "produce design",
+      "seasonal vegetables",
+      "local shopping",
+      "farmers market bag",
+      "sustainable tote",
+      "sunday market",
+      "heirloom tomatoes",
+      "farm fresh aesthetic",
+      "eco-conscious gift",
+      "farmers market lifestyle",
+      "hand-lettered design",
+      "market day bag"
+    ],
+    "description": "Carry your farmers market finds in style with this beautifully illustrated tote celebrating seasonal produce and local shopping rituals. Features a grid of heirloom tomatoes, corn, and peaches in a charming botanical aesthetic with hand-lettered Sunday Ritual text. Perfect for urban and suburban farmers market devotees who view weekly market trips as lifestyle statements and community connection. The spacious design accommodates overflowing bags of fresh vegetables, eggs, and seasonal treasures. Makes a thoughtful gift for locavores, gardening enthusiasts, and anyone committed to shopping seasonally and supporting local agriculture. Durable enough for weekly market adventures and sturdy enough for daily errands."
+  },
+  "products": {
+    "shopify": "6a678721647bc9c7bb0e72ec"
+  }
+}

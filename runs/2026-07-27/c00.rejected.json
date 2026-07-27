@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Spooky Season Early Adopters",
+    "product_type": "tote",
+    "concept": "Retro 1970s horror movie poster aesthetic with a haunted house silhouette and text 'Halloween Starts Now \u2014 Argue With The Ghosts'",
+    "audience": "Halloween maximalists who decorate in August and treat the season as a months-long lifestyle",
+    "score": 8.3,
+    "rationale": "Buying window for Halloween totes opens immediately; early-Halloween identity is a strong passionate micro-community; retro horror aesthetic is trending on Pinterest and Etsy right now"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"HALLOWEEN STARTS NOW \u2014 ARGUE WITH THE GHOSTS\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a haunted house silhouette centered on plain cream background. House has steep angular roof with sharp peak, glowing window squares in mustard yellow, crooked door frame in deep burgundy, bare gnarled tree branches extending from roofline. Three ghost shapes floating around house in off-white, simple rounded forms with dark eyeholes. Bold retro 1970s horror movie poster aesthetic. Solid color blocks only\u2014no gradients, no shading, no photorealism. Limited palette: cream background, charcoal black house silhouette, mustard yellow windows, burgundy door, off-white ghosts, forest green accents on branches. All elements centered with generous margin, readable from 12 feet away. Screen-print aesthetic with high contrast and clean sharp edges.",
+    "text_on_design": "HALLOWEEN STARTS NOW \u2014 ARGUE WITH THE GHOSTS",
+    "style": "Bold retro serif lettering in charcoal black, arched in two lines above the haunted house illustration, all caps, distressed slightly at edges to match 70s horror poster authenticity"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Halloween Starts Now \u2014 Argue With The Ghosts' appears to be an original, generic humorous expression with no known trademark associations. 'Halloween' is a common generic holiday term, not protectable on its own in this context. The haunted house silhouette is a generic visual motif. The retro 1970s horror poster aesthetic is a broadly used style not tied to any specific protected IP. No celebrity likenesses, character references, song lyrics, movie titles, or registered slogans are present. The overall combination reads as original seasonal humor merchandise suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text does not match the required exact phrase. The design reads 'HALLOWEEN STARTS NOW / ARGUE WITH THE GHOSTS' but is missing the em dash separator '\u2014' between the two phrases as specified. Additionally, the phrase is split across the design in a way that omits the required connecting punctuation. The text content itself is otherwise correctly spelled and the artwork quality is clean, but the exact required text format is not met."
+  }
+}

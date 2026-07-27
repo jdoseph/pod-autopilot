@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Back to School Teachers",
+    "product_type": "t-shirt",
+    "concept": "Minimalist chalkboard design reading 'Fueled by Coffee and Controlled Chaos' with tiny apple and pencil icons",
+    "audience": "K-12 teachers preparing for fall semester starting late August",
+    "score": 7.2,
+    "rationale": "Back-to-school season is peak buying window right now; teacher niche is passionate and gift-heavy, low saturation on chaos-themed humor variants"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fueled by Coffee and Controlled Chaos\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist chalkboard design. Center composition: a simple rectangular chalkboard shape with clean sharp edges in dark charcoal gray with a thin white border outline. Inside the chalkboard, hand-drawn style chalk lettering in white. Below the text, two tiny icon symbols in white: a simple apple outline on the left and a pencil outline on the right, each about 1 inch tall, solid color no details. The chalkboard sits on a plain cream solid background with generous margins. Single bold centered composition, readable at 12x16 inches. Solid color blocks only: charcoal gray, white, cream background. No gradients, no shading, no photorealism, no drop shadows, no texture.",
+    "text_on_design": "Fueled by Coffee and Controlled Chaos",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: charcoal gray, white, cream. Solid color blocks only, no gradients, no airbrush shading, no photorealism."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled by Coffee and Controlled Chaos' is a generic humorous expression with no known trademark registration or association with a specific brand, celebrity, or protected work. The accompanying apple and pencil icons are common generic clipart symbols with no inherent trademark concern when used in a minimalist illustrative context rather than as logos mimicking specific brand marks (e.g., the design does not replicate Apple Inc.'s stylized apple logo). The overall concept falls within common print-on-demand humor in the teacher/professional lifestyle niche and presents low IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays the exact required text 'Fueled by Coffee and Controlled Chaos' correctly spelled and complete. The chalkboard motif with apple and pencil icons is a common generic design with no IP concerns. Text is clean and legible, composition is suitable for garment printing with a plain background."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Fueled by Coffee and Controlled Chaos Teacher T-Shirt | Back to School",
+    "tags": [
+      "teacher gift",
+      "back to school shirt",
+      "teacher appreciation",
+      "classroom tee",
+      "coffee teacher shirt",
+      "funny teacher gift",
+      "teacher humor",
+      "fall semester shirt",
+      "educator gift",
+      "school supply",
+      "chalkboard design",
+      "teaching profession",
+      "motivational teacher"
+    ],
+    "description": "Help educators kick off the new school year with this relatable teacher shirt capturing the reality of classroom life. Minimalist chalkboard design reads 'Fueled by Coffee and Controlled Chaos' with tiny apple and pencil icons perfect for K-12 teachers preparing for late August semester launch. The honest messaging resonates with educators juggling lesson planning, student relationships, and administrative demands. Soft, breathable cotton blend ideal for long teaching days and back-to-school planning marathons. Makes an excellent appreciation gift for teachers, staff gifts for school departments, or personal morale-boosting purchase for educators entering a new academic year. Perfect worn on professional development days, planning periods, or casual Fridays throughout the school year."
+  },
+  "products": {
+    "shopify": "6a6787773ef32eb5c8038802"
+  }
+}

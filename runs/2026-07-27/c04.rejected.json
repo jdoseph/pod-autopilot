@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Introverted Homebodies",
+    "product_type": "mug",
+    "concept": "Cozy armchair illustration with a cat and stack of books, text reads 'My Plans Got Cancelled \u2014 Best Day Ever'",
+    "audience": "Self-identified introverts who celebrate staying home and rejecting social obligations",
+    "score": 7.8,
+    "rationale": "Introvert identity merch is evergreen with proven demand; cancelled plans humor has strong meme culture backing; mug is perfect format for this lifestyle identity"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Plans Got Cancelled \u2014 Best Day Ever\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a plush armchair in warm cream with a tabby cat curled on the seat, a tall stack of colorful books beside the chair (spines showing reds, blues, yellows, greens), a steaming mug on the armrest, and a cozy reading lamp behind. Solid color blocks, no gradients, no photorealism, no drop shadows. Limited palette: cream, warm brown, burnt orange, forest green, mustard yellow, black outlines. Single centered composition on a plain pale gray background with generous margins. Clean sharp edges, screen-print aesthetic, readable at 12x16 inches.",
+    "text_on_design": "My Plans Got Cancelled \u2014 Best Day Ever",
+    "style": "Bold sans-serif, uppercase, arched below the illustration in black, high contrast against the pale background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The illustration concept features generic elements (armchair, cat, books) with no trademarked characters or branded imagery. The phrase 'My Plans Got Cancelled \u2014 Best Day Ever' is a common relatable humor sentiment. While 'Best Day Ever' has been used in various contexts including a SpongeBob SquarePants song title, the full combined phrase is sufficiently distinct and the overall expression reads as generic everyday humor rather than an evocation of any specific protected property. No celebrity, brand, team, or clearly identifiable IP is referenced. Risk is low."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'MY PLANS GOT CANCELLED, BEST DAY \u2013 EVER' using a comma and en-dash instead of the required em-dash (\u2014), and the punctuation/formatting differs from the exact required string 'My Plans Got Cancelled \u2014 Best Day Ever'. The required text must match exactly, and this punctuation deviation constitutes a mismatch."
+  }
+}
