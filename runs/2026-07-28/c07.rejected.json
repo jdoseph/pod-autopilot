@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Introverted Book Lovers",
+    "product_type": "t-shirt",
+    "concept": "Simple illustration of an open book with a 'Do Not Disturb' door hanger hanging off the corner and minimal text 'Currently Elsewhere'.",
+    "audience": "Adult fiction readers and literary-minded introverts aged 20-40",
+    "score": 7.0,
+    "rationale": "Books and introvert identity is a proven evergreen niche with strong community. Design concept is clever and shareable. Slight oversaturation in the broader 'bookish' tee space keeps the score from higher."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Currently Elsewhere\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an open book viewed from above, pages spread wide, with a small rectangular 'Do Not Disturb' door hanger hanging from the top right corner of the book. The hanger features a simple silhouette of a sleeping figure on one side. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: cream, forest green, charcoal gray, and burnt orange. Single centered composition on a solid white background with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Currently Elsewhere",
+    "style": "Bold sans-serif, lowercase, positioned directly below the book illustration in charcoal gray, 4-5 words max, simple and clean typography"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Currently Elsewhere' is a generic, descriptive expression with no known trademark associations. The visual concept of an open book with a door hanger is a common, unprotectable illustration style. No celebrity likenesses, brand names, team references, song lyrics, or protected characters are involved. The combination is original and presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The design displays 'CURRENTLY ELSEWHERE' and also includes the additional text 'DO NOT DISTURB' on the door hanger tag. The required text is present and correctly spelled, but extra text ('DO NOT DISTURB') appears in the design beyond what was specified. Per instructions, the design must display exactly the specified text and nothing else."
+  }
+}

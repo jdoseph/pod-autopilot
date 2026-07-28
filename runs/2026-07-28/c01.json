@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Back to School Mom",
+    "product_type": "tote",
+    "concept": "Illustrated open backpack spilling out school supplies with the text 'Unpaid Logistics Manager' in a bold sans-serif font.",
+    "audience": "Parents, especially mothers, managing back-to-school prep for multiple children",
+    "score": 7.6,
+    "rationale": "Back-to-school timing is spot-on. Moms frequently buy identity-statement totes. The 'Unpaid Logistics Manager' phrase is funny, relatable, and shareable. Tote as a product is functional for school-run errands, reinforcing purchase logic."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Unpaid Logistics Manager\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an open backpack tilted and spilling out school supplies. Show a large backpack in the center with straps splayed open, pencils, notebooks, scissors, glue sticks, and erasers cascading out in a dynamic pile below. Use solid color blocks: navy blue backpack, bright yellow pencils, red scissors, white notebooks, orange erasers. Plain cream background. No gradients, no shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Single centered composition with generous margins, readable at 12x16 inches from across a room.",
+    "text_on_design": "Unpaid Logistics Manager",
+    "style": "Bold sans-serif font, all caps, positioned in a straight horizontal line below the spilled supplies, solid black lettering, no shadow or effects"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Unpaid Logistics Manager' is a generic humorous expression commonly used to describe parenting or caregiving roles. It does not reference any known trademark, brand, celebrity, character, or protected slogan. The illustrated school supplies backpack concept is generic clip-art style imagery with no IP-protected elements. The combination presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'UNPAID LOGISTICS MANAGER' \u2014 correctly spelled and complete. The illustration shows a generic blue backpack spilling school supplies (books, pencils, scissors, eraser) with no IP concerns. Clean cartoon style on a plain cream background suitable for garment printing. No anatomy issues, no brand logos, no recognizable characters or persons."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Back to School Mom Tote - Unpaid Logistics Manager",
+    "tags": [
+      "back to school tote",
+      "mom tote bag",
+      "funny parent gift",
+      "school supply bag",
+      "mothers day gift",
+      "back to school gift",
+      "logistics manager tote",
+      "parent appreciation gift",
+      "school organization bag",
+      "teacher appreciation tote",
+      "funny mom tote",
+      "back to school supplies",
+      "parent humor gift"
+    ],
+    "description": "For the parent juggling school schedules, supply lists, and endless logistics\u2014this tote celebrates your superpower. The 'Unpaid Logistics Manager' design with spilling backpack illustration is a humorous nod to managing back-to-school prep for multiple children. Durable and spacious, it's perfect for carrying supplies, books, and all the essentials. Great gift for moms, dads, and teachers tackling the back-to-school season."
+  },
+  "products": {
+    "shopify": "6a68d45114072e07d2018d76"
+  }
+}

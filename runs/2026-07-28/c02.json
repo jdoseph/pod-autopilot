@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Fall Hiking / Leaf Peeping",
+    "product_type": "t-shirt",
+    "concept": "Typographic arch design reading 'Peak Foliage Season' surrounded by illustrated maple, oak, and birch leaves in autumn colors.",
+    "audience": "Hikers and nature lovers in the Northeast and Midwest anticipating fall foliage season",
+    "score": 7.5,
+    "rationale": "Fall foliage season buying window aligns almost perfectly with the 6-8 week lead time from late July. Leaf peeping is a genuine hobby with passionate followers. Seasonal urgency drives conversions. Solid niche."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Peak Foliage Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration with bold simple shapes and clean sharp edges in screen-print aesthetic. Centered composition featuring the text 'Peak Foliage Season' in a bold arched retro serif typeface positioned at top-center. Below and surrounding the text: stylized maple leaves with pointed lobes, oak leaves with rounded lobes, and birch leaves with serrated edges, all in solid color blocks arranged in a symmetrical wreath-like formation. Color palette: deep burnt orange, golden yellow, rich burgundy red, forest green, and warm cream. Solid color blocks only\u2014no gradients, no airbrush shading, no photorealism, no drop shadows. All elements connected and centered with generous margin on plain solid tan background. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Peak Foliage Season",
+    "style": "Flat vector illustration, bold retro serif arched text, screen-print aesthetic, solid color blocks, high contrast, limited palette of burnt orange, golden yellow, burgundy, forest green, and cream."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Peak Foliage Season' is a generic descriptive term referring to the time of year when autumn leaves are at their most colorful. It carries no trademark associations, is not tied to any brand, celebrity, team, character, or protected slogan. The accompanying illustrated maple, oak, and birch leaves in autumn colors are common natural imagery with no IP concerns. This is a straightforward seasonal nature design suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'PEAK FOLIAGE SEASON' correctly spelled and complete, surrounded by clean autumn leaf illustrations in fall colors on a plain background. No IP risks, no quality issues, text is legible and well-rendered."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Peak Foliage Season T-Shirt - Fall Hiking & Autumn Leaves",
+    "tags": [
+      "fall foliage shirt",
+      "hiking t-shirt",
+      "autumn leaves tee",
+      "northeast hiking gear",
+      "fall fashion tee",
+      "leaf peeping shirt",
+      "nature lover gift",
+      "outdoor apparel",
+      "seasonal t-shirt",
+      "foliage season tee",
+      "hiking gift men women",
+      "fall apparel gift",
+      "autumn nature shirt"
+    ],
+    "description": "Celebrate peak foliage season with this typographic arch design reading 'Peak Foliage Season' surrounded by illustrated maple, oak, and birch leaves in autumn colors. Perfect for fall hikes, nature walks, and leaf-peeping adventures through the Northeast and Midwest. This tee combines your love of hiking with seasonal style. Ideal gift for hikers, nature enthusiasts, and anyone anticipating those brilliant autumn colors."
+  },
+  "products": {
+    "shopify": "6a68d468e83a17693b0f955a"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market Regulars",
+    "product_type": "tote",
+    "concept": "Block-print style illustration of vegetables, herbs, and a reusable bag with the text 'Locally Obsessed' in a bold earthy typeface.",
+    "audience": "Urban and suburban shoppers aged 25-50 who shop farmers markets and prioritize local food",
+    "score": 7.4,
+    "rationale": "Totes are the canonical farmers market product making this a perfect format match. Late summer is peak farmers market season. The 'Locally Obsessed' identity hook resonates with values-driven buyers. High utility drives repeat impressions."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Locally Obsessed\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, block-print style, bold simple shapes with clean sharp edges. Centered composition: a sturdy reusable canvas tote bag in the middle, overflowing with fresh vegetables and herbs \u2014 carrots with leafy tops, tomatoes, lettuce, basil sprigs, radishes, bell peppers, and fresh herbs. All elements rendered in solid color blocks, no gradients, no shading, no photorealism. Limited palette: sage green, rust orange, deep charcoal, cream white, and warm terracotta. Single solid cream background, generous margins, all artwork elements centered and connected, nothing near edges. High contrast, screen-print aesthetic, readable from across a room at 12x16 inches.",
+    "text_on_design": "Locally Obsessed",
+    "style": "Block-print flat vector illustration, bold retro serif typeface arched above the tote bag composition, earthy and grounded, limited solid color palette with no gradients or photorealistic detail"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Locally Obsessed' is a generic descriptive expression commonly used in the farm-to-table and sustainability space with no widely known trademark association. The block-print vegetable and herb illustration is a common artistic style with no IP concerns. The reusable bag motif is generic. No celebrity, brand, character, or protected slogan references are present. The overall concept is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'LOCALLY OBSESSED' correctly spelled and complete. The artwork features a clean tote bag illustration with vegetables (carrots, tomatoes, lettuce, beet, pepper) in a flat graphic style. No IP concerns, no anatomy issues, no rendering artifacts, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Farmers Market Tote Bag - Locally Obsessed Design",
+    "tags": [
+      "farmers market tote",
+      "reusable grocery bag",
+      "local food shopping",
+      "farmers market gift",
+      "sustainable tote",
+      "eco-friendly bag",
+      "vegetable print tote",
+      "farmers market lover",
+      "local food advocacy",
+      "block print tote",
+      "market day bag",
+      "earthy home gift",
+      "sustainable shopping"
+    ],
+    "description": "For the shopper committed to local sourcing and farmers market runs, this tote celebrates your values. Featuring a beautiful block-print style illustration of vegetables, herbs, and a reusable bag with 'Locally Obsessed' text, it's both functional and stylish. Perfect for weekly market trips, grocery shopping, or gifting to the urban and suburban locavores in your life. Durable design built for carrying fresh produce and supporting local growers."
+  },
+  "products": {
+    "shopify": "6a68d47e3c34af63920b712b"
+  }
+}

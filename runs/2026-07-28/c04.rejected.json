@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Introverted Readers / Book Clubs",
+    "product_type": "tote",
+    "concept": "Stacked books illustration with a cat resting on top and the text 'Antisocial but Well-Read' in a vintage library typeface.",
+    "audience": "Adult book lovers, library visitors, and bookstore regulars who identify as introverts",
+    "score": 7.3,
+    "rationale": "Bookish totes are a proven bestseller in the POD space. The cat plus books combo appeals to a well-defined and overlapping demographic. Antisocial humor is popular in this community. The tote is the ideal product format since it's literally used to carry books."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Antisocial but Well-Read\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a stack of five books in varying widths, tilted slightly at different angles, in solid color blocks: deep forest green, burnt orange, cream, navy blue, and burgundy. No gradients, no airbrush shading, no photorealism. On top of the stack, a sleeping black cat with simple closed eyes and a content expression, rendered in bold solid shapes with clean sharp edges. Single centered composition on a plain pale gray background with generous margin. Screen-print aesthetic with high contrast and bold simple shapes. Readable at 12x16 inches from across a room. No drop shadows, no busy details, no photorealistic texture.",
+    "text_on_design": "Antisocial but Well-Read",
+    "style": "Bold vintage library serif typeface, arched above the book and cat illustration in deep navy blue, maximum 6 words, clean sharp letterforms with no flourishes beyond period-appropriate structure"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Antisocial but Well-Read' is a generic humorous expression that does not appear to be a registered trademark or distinctive protected slogan. The visual elements \u2014 stacked books, a resting cat, and a vintage library typeface \u2014 are all common, generic design tropes with no association to a specific brand, character, or IP. No celebrity, athlete, team, fictional character, song lyric, or movie/TV/game reference is present. The combination is an original, low-risk design suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text displayed across the book spines reads 'ANTISOCIAL / BUT / WELL-READ', which matches the required phrase in content but is split across multiple books and missing the word 'but' being part of the continuous phrase presentation. More critically, the required text should read 'Antisocial but Well-Read' as a complete phrase \u2014 the design splits it across separate book spines with 'BUT' on a separate line/book, making it incomplete as a unified text element. Additionally, the text is fragmented and not presented as a single cohesive text element as required."
+  }
+}

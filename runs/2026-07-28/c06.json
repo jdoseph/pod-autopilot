@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Retirement Celebration",
+    "product_type": "mug",
+    "concept": "Bold celebratory text 'Officially Out of Meetings Forever' with a small confetti burst illustration and a checkmark on a to-do list.",
+    "audience": "Recent retirees and colleagues buying farewell gifts for retiring coworkers",
+    "score": 7.1,
+    "rationale": "Retirement is a perennial gifting occasion not tied to one season. The office-humor angle is relatable and shareable. Mugs are a top retirement gift format. The concept is specific enough to feel personal without being over-customized."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"OFFICIALLY OUT OF MEETINGS FOREVER\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, bold screen-print aesthetic. Centered composition on solid cream background. Top: large bold retro sans-serif text 'OFFICIALLY OUT OF MEETINGS FOREVER' arched in a confident curve. Below: a simple to-do list checkbox with a thick checkmark in solid green. To the right of the checkbox, a burst of confetti shapes\u2014stars, circles, and triangles in solid colors scattered outward. Color palette: forest green, gold, navy blue, cream background. Solid color blocks only, no gradients, no shading, no photorealism. All elements connected and centered with generous margins. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "OFFICIALLY OUT OF MEETINGS FOREVER",
+    "style": "Flat vector illustration, bold screen-print, limited palette (forest green, gold, navy, cream), solid shapes only, high contrast, no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Officially Out of Meetings Forever' is a generic celebratory retirement/workplace humor expression with no known trademark registration or association with a specific brand, celebrity, or protected property. The accompanying design elements (confetti burst, checkmark on to-do list) are common generic illustrations. The concept reads as original evergreen humor with no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'OFFICIALLY OUT OF MEETINGS FOREVER' \u2014 correctly spelled and complete. No IP risk: generic retirement/humor sentiment, original composition with a checkbox graphic and celebratory confetti elements. Clean flat design suitable for garment printing on a plain background. No quality issues detected."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Retirement Celebration Mug - Officially Out of Meetings Forever",
+    "tags": [
+      "retirement gift mug",
+      "retirement party gift",
+      "farewell gift coworker",
+      "retirement celebration",
+      "retirement humor",
+      "work goodbye gift",
+      "retired life mug",
+      "office humor gift",
+      "funny retirement gift",
+      "employee appreciation gift",
+      "leaving job gift",
+      "milestone celebration",
+      "retirement keepsake"
+    ],
+    "description": "Toast to a well-earned retirement. This mug features bold celebratory text 'Officially Out of Meetings Forever' with a confetti burst and a checkmark on a to-do list\u2014the ultimate retirement victory. Perfect for recent retirees or as a farewell gift for colleagues starting their next chapter. A humorous, heartfelt way to celebrate the milestone moment. Pair with coffee or tea as they enjoy their newfound freedom."
+  },
+  "products": {
+    "shopify": "6a68d4b56c808ce66710015b"
+  }
+}

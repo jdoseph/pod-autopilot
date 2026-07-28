@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Back to School Teacher",
+    "product_type": "t-shirt",
+    "concept": "Bold text design reading 'Fueled by Caffeine and Controlled Chaos' with a scattered classroom doodle border of pencils, rulers, and apples.",
+    "audience": "Elementary and middle school teachers heading back to school in late August",
+    "score": 7.2,
+    "rationale": "Back-to-school season lands perfectly in the 6-8 week buying window. Teachers are a passionate, gift-receiving niche. Design avoids IP issues and has strong gifting potential. Competitive but not saturated with this specific angle."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"FUELED BY CAFFEINE AND CONTROLLED CHAOS\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for a t-shirt. Center composition: bold retro sans-serif text reading 'FUELED BY CAFFEINE AND CONTROLLED CHAOS' in all caps, arranged in three stacked lines, thick weight, centered. Surrounding the text in a scattered border frame: simple geometric flat vector icons \u2014 pencils (yellow with black tips), wooden rulers (tan with black markings), red apples (solid shapes). Icons distributed evenly around all four sides, 1\u20132 inches from text, never touching edges. Solid color blocks only, no gradients, no shading, no photorealism. High contrast, screen-print ready. Limited palette: deep navy blue text, bright yellow pencils, tan rulers, red apples, cream background. Plain solid cream background, uniform and unbroken, clearly distinct from all artwork colors. Single centered composition on plain background with generous margin. Readable from across a room at 12\u00d716 inches.",
+    "text_on_design": "FUELED BY CAFFEINE AND CONTROLLED CHAOS",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks, no gradients, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled by Caffeine and Controlled Chaos' is a generic humorous expression combining common concepts (caffeine, chaos) without referencing any known trademark, brand, celebrity, or protected intellectual property. The classroom doodle border elements (pencils, rulers, apples) are generic illustrative icons not associated with any specific protected brand or character. This type of teacher/educator humor apparel is a well-established generic category. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'FUELED BY CAFFEINE AND CONTROLLED CHAOS' \u2014 correctly spelled and complete. No IP risk: generic teacher/school motif with pencils, rulers, and apples. Clean flat illustration style, no malformed elements, no mockup background, suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Teacher Back to School T-Shirt - Caffeine & Controlled Chaos",
+    "tags": [
+      "teacher appreciation shirt",
+      "back to school teacher",
+      "funny teacher tee",
+      "classroom gift",
+      "teacher gift idea",
+      "educator apparel",
+      "teacher humor shirt",
+      "school staff gift",
+      "teacher thank you",
+      "back to school gift teacher",
+      "elementary school tee",
+      "middle school teacher",
+      "teaching profession shirt"
+    ],
+    "description": "For educators fueled by caffeine and embracing the beautiful chaos of the classroom\u2014this tee is your anthem. Bold text reading 'Fueled by Caffeine and Controlled Chaos' with a scattered classroom doodle border of pencils, rulers, and apples perfectly captures the back-to-school energy. Comfortable and relatable, it's a great gift for elementary and middle school teachers heading into the new academic year. Celebrate the teachers who keep it all running."
+  },
+  "products": {
+    "shopify": "6a68d49f9015f88d170d3457"
+  }
+}
