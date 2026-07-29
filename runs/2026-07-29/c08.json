@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Night Shift Nurse",
+    "product_type": "t-shirt",
+    "concept": "Bold graphic of a moon and IV drip with 'Running on Spite and Night Shift' in edgy sans-serif typography",
+    "audience": "Night shift nurses and healthcare workers aged 22-40 seeking relatable dark-humor apparel",
+    "score": 7.0,
+    "rationale": "Healthcare worker identity merch is evergreen with loyal repeat buyers. Night shift specifically is underserved versus general nurse designs. Dark humor tone differentiates from standard nurse hearts-and-stethoscopes designs."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"RUNNING ON SPITE AND NIGHT SHIFT\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for print-on-demand apparel. Centered composition: large crescent moon in upper left, connected by bold geometric lines to an IV drip bag in lower right. The IV bag is a solid trapezoid shape with a single horizontal line representing the fluid level. A thin vertical line flows down to represent the tubing, ending in a small circle (drip point). All elements are simple, flat shapes with sharp edges. Color palette: deep navy blue, bright white, charcoal gray, and electric yellow. Solid color blocks only, no gradients, no shading, no photorealism. Bold screen-print aesthetic. Plain solid light cream background, distinct from all artwork colors. Generous margins on all sides. Readable at 12x16 inches from across a room. Text integrated above and below the graphic in edgy modern sans-serif (described separately). No drop shadows, no busy elements, no photographic detail.",
+    "text_on_design": "RUNNING ON SPITE AND NIGHT SHIFT",
+    "style": "Bold edgy sans-serif, all caps, split across top and bottom of composition, geometric letter spacing, integrated with the moon and IV drip illustration"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Running on Spite and Night Shift' is an original, generic humorous expression combining common words. It does not reference any known trademark, brand, celebrity, character, or protected slogan. The visual elements (moon and IV drip) are generic imagery commonly used in nurse/night shift humor merchandise. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'RUNNING ON SPITE AND NIGHT SHIFT' \u2014 correctly spelled and complete. The design features a clean composition with a crescent moon and IV bag illustration on a neutral background. No IP conflicts, no anatomy issues, no rendering artifacts. Clear, print-ready artwork suitable for garment printing."
+  },
+  "listing": {
+    "index": 8,
+    "title": "Night Shift Nurse T-Shirt - Running on Spite Healthcare Worker",
+    "tags": [
+      "nurse shirt",
+      "night shift shirt",
+      "healthcare worker gift",
+      "nurse humor",
+      "dark humor",
+      "medical professional",
+      "IV drip design",
+      "moon graphic",
+      "edgy typography",
+      "nurse appreciation",
+      "shift worker",
+      "funny medical shirt",
+      "nurse gift"
+    ],
+    "description": "A bold tribute to the night shift grind. This t-shirt features an edgy graphic of a moon and IV drip with the text 'Running on Spite and Night Shift' in strong sans-serif typography. Premium cotton blend for comfort during long shifts and after-hours wear. Celebrates the dark humor and resilience of night shift nurses and healthcare workers. Perfect gift for medical professionals, emergency room staff, or anyone powering through overnight shifts with determination and attitude."
+  },
+  "products": {
+    "shopify": "6a6a22c4033e0ae0330d067f"
+  }
+}

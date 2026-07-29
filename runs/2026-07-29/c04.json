@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market Regular",
+    "product_type": "tote",
+    "concept": "Loose watercolor illustration of mixed heirloom vegetables with 'I Came for the Tomatoes, I Stayed for Everything' hand-lettered below",
+    "audience": "Farmers market shoppers aged 28-50, predominantly women, who bring their own bags and value local produce",
+    "score": 7.4,
+    "rationale": "Late summer is peak farmers market season perfectly aligning with the buying window. Totes are the most natural product for this audience. Watercolor vegetable art is aesthetically on-brand. Dedicated community with high purchase intent."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Came for the Tomatoes, I Stayed for Everything\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of heirloom vegetables arranged in a loose, organic cluster: a large beefsteak tomato with visible ridges, purple carrots, yellow bell pepper, green beans, red onion, and basil leaves. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism, no watercolor texture. Limited palette: deep burgundy, golden yellow, forest green, purple, cream. Single centered composition on a plain solid warm white background with generous margins. All elements connected and away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "I Came for the Tomatoes, I Stayed for Everything",
+    "style": "Bold hand-lettered serif, curved and organic, positioned below the vegetable illustration, integrated into the composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Came for the Tomatoes, I Stayed for Everything' appears to be an original, generic humorous expression with no known trademark associations, celebrity connections, or ties to protected IP. The watercolor heirloom vegetable illustration concept is a common and generic artistic style. No brand names, characters, slogans, or protected elements are present. The phrase reads as natural, colloquial garden humor unlikely to infringe on any existing marks."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'I CAME FOR THE TOMATOES, I STAYED FOR EVERYTHING' \u2014 correctly spelled and complete. The artwork features clean vector-style vegetables (tomato, carrot, bell pepper, onion, green beans, herbs) on a plain cream background. No IP risk, no quality issues, no malformed elements."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Farmers Market Tote Bag - Watercolor Heirloom Vegetables",
+    "tags": [
+      "farmers market bag",
+      "reusable grocery tote",
+      "vegetable design",
+      "watercolor art",
+      "heirloom produce",
+      "eco-friendly bag",
+      "shopping tote",
+      "farmers market lover",
+      "hand-lettered",
+      "local produce",
+      "farmers market regular",
+      "garden tote",
+      "organic lifestyle"
+    ],
+    "description": "Carry home your farmers market finds in style. This tote features loose watercolor illustrations of mixed heirloom vegetables with hand-lettered text reading 'I Came for the Tomatoes, I Stayed for Everything.' Durable fabric construction designed for regular use. Celebrates the joy of seasonal shopping and supporting local growers. Perfect for the weekly market visitor, gardeners, or anyone passionate about fresh, local produce. A practical gift for sustainable shoppers."
+  },
+  "products": {
+    "shopify": "6a6a227e52fc9c877707ee66"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Season Early Adopter",
+    "product_type": "mug",
+    "concept": "Minimalist black illustrated haunted house silhouette with crescent moon and text 'It Is Always Halloween in My Heart'",
+    "audience": "Halloween enthusiasts aged 18-45 who begin celebrating in early fall and identify year-round with spooky aesthetics",
+    "score": 7.6,
+    "rationale": "Halloween buying window opens in late August, exactly 6-8 weeks out. This audience shops early and spends heavily. Year-round identity framing gives the mug evergreen legs beyond the holiday. Low competition for minimalist illustration style."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"It Is Always Halloween in My Heart\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, screen-print aesthetic. Centered composition: minimalist haunted house silhouette in solid black with sharp pointed roof, two small rectangular windows, arched doorway. Crescent moon in solid white positioned upper right, partially overlapping the roofline. Clean bold shapes, no gradients, no shading, no photorealistic detail. Limited palette: black, white, cream background. Solid color blocks only. Design readable at 12x16 inches. Single centered image on plain cream background with generous margins, all elements connected and away from edges.",
+    "text_on_design": "It Is Always Halloween in My Heart",
+    "style": "Bold modern sans-serif, white text, arched above the house silhouette in a clean retro treatment, approximately 15% of total composition height"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'It Is Always Halloween in My Heart' is a generic, sentiment-based Halloween expression with no known trademark registration or association with a specific brand, celebrity, or IP holder. The visual elements (haunted house silhouette, crescent moon) are common Halloween motifs in the public domain. No registered trademarks, brand names, characters, or protected slogans are referenced or evoked. The design concept is original and generic enough to proceed."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'It Is Always Halloween In My Heart' \u2014 all words present, correctly spelled, and complete. The design features a clean black silhouette of a haunted house with a crescent moon on a plain cream background. No IP concerns, no quality issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Halloween Mug - Haunted House Spooky Season Year-Round",
+    "tags": [
+      "spooky mug",
+      "halloween mug",
+      "haunted house",
+      "gothic aesthetic",
+      "halloween decor",
+      "coffee mug halloween",
+      "spooky gift",
+      "crescent moon design",
+      "minimalist mug",
+      "fall vibes",
+      "halloween enthusiast",
+      "spooky season",
+      "illustrated halloween"
+    ],
+    "description": "Celebrate spooky season whenever your heart desires. This minimalist mug features a black silhouette of a haunted house beneath a crescent moon with 'It Is Always Halloween in My Heart.' Premium ceramic for daily sipping. Perfect for early autumn mornings, Halloween season, or gifting to the year-round spooky enthusiast who refuses to put away the aesthetic. Captures the mood for horror fans, gothic lovers, and anyone who believes October lasts twelve months."
+  },
+  "products": {
+    "shopify": "6a6a2249887f076a1808cf3e"
+  }
+}

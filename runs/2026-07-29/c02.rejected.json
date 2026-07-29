@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Dog Mom Identity",
+    "product_type": "tote",
+    "concept": "Illustrated silhouette of a generic mixed-breed dog with 'My Dog Saw Me Grab This Bag and Now I Have to Take Him Everywhere' in small print below",
+    "audience": "Dog owners aged 22-45, predominantly women, who anthropomorphize their pets and buy dog-themed lifestyle products",
+    "score": 7.6,
+    "rationale": "Dog identity products are evergreen top performers in POD with massive passionate audience. Narrative humor style is differentiated from standard paw-print designs. Tote is highly functional for this audience. Generic silhouette avoids breed-specific design complexity."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Dog Saw Me Grab This Bag and Now I Have to Take Him Everywhere\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a generic mixed-breed dog silhouette in solid black, sitting upright with alert posture, head slightly tilted, simple geometric shapes for body and head with clean sharp edges. Dog is centered on a plain cream background with generous margin. Screen-print aesthetic, bold simple shapes, high contrast, no gradients or shading. Readable at 12x16 inches. Single solid black dog shape only, no background detail, no drop shadows.",
+    "text_on_design": "My Dog Saw Me Grab This Bag and Now I Have to Take Him Everywhere",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color palette: black dog, cream background. Single centered composition. Text in small bold sans-serif, horizontally centered below the dog illustration. No gradients, no airbrush shading, no photorealism, no busy backgrounds."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase is a humorous observational statement about a relatable dog owner experience. It does not reference any known trademark, brand, celebrity, character, or protected slogan. The generic mixed-breed dog silhouette avoids any breed-specific branding concerns. Common humorous pet-themed phrases of this nature are generally considered generic expression. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text is garbled and incorrect. Missing the word 'GRAB' before 'THIS BAG', 'NOW' is rendered as 'HAW' with a duplicate 'I HAVE' overlapping, making the quote incomplete and misspelled. Does not match the required text exactly."
+  }
+}

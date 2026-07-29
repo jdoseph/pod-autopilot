@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Homeschool Parent",
+    "product_type": "t-shirt",
+    "concept": "Illustrated stack of books with a coffee cup on top and text 'Principal, Teacher, Janitor, and Lunch Lady \u2014 All Day Every Day'",
+    "audience": "Homeschooling parents, predominantly mothers aged 28-45, who share identity humor online",
+    "score": 7.5,
+    "rationale": "Homeschool community is passionate, tight-knit, and underserved in POD. Multi-role humor resonates deeply. Back-to-season timing boosts relevance. Strong shareability in Facebook homeschool groups."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Principal, Teacher, Janitor, and Lunch Lady \u2014 All Day Every Day\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a tall stack of four books in solid color blocks, stacked slightly off-center with varied widths and heights, in deep navy, warm mustard yellow, sage green, and burnt orange. A steaming coffee mug sits on top of the stack, rendered in cream with a dark brown handle and three simple steam lines rising above. Single bold serif text arched above reads 'Principal, Teacher, Janitor, and Lunch Lady \u2014 All Day Every Day' in black, maximum 5 words per line. All elements centered on a plain pale cream background with 2-inch margins on all sides. High contrast, clean sharp edges, screen-print aesthetic, solid color blocks only, no gradients, no shading, no photorealism. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Principal, Teacher, Janitor, and Lunch Lady \u2014 All Day Every Day",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients, no airbrush shading, no photorealism. Color palette: navy, mustard yellow, sage green, burnt orange, cream, black. Single centered composition on plain pale cream background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The illustrated design features generic imagery (stacked books and coffee cup) with no trademark concerns. The phrase 'Principal, Teacher, Janitor, and Lunch Lady \u2014 All Day Every Day' is a descriptive, original expression referencing common school roles. It does not reference any known registered trademark, brand, celebrity, sports team, character, or protected slogan. The phrase 'All Day Every Day' is a common colloquial expression not exclusively owned by any single entity. This concept reads as generic occupational humor or appreciation apparel with no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text in the image reads 'PRINCIPAL, TEACHER, JANITOR AD AND LUNCH \u2013 ALL EVERY DAY' which differs from the required text 'Principal, Teacher, Janitor, and Lunch Lady \u2014 All Day Every Day'. Specifically: 'JANITOR AD' appears to be a truncation/error of 'JANITOR, AND', 'LUNCH LADY' is missing entirely, and 'ALL EVERY DAY' should be 'ALL DAY EVERY DAY'. The text is incomplete and incorrect."
+  }
+}

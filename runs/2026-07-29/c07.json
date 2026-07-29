@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Anxious Plant Parent",
+    "product_type": "mug",
+    "concept": "Illustrated drooping houseplant with a speech bubble saying 'Same' and the caption 'We're Both Just Trying Our Best'",
+    "audience": "Millennial and Gen Z plant enthusiasts aged 22-38 who relate humor about mental health and plant care",
+    "score": 7.1,
+    "rationale": "Plant parent and mental health crossover niche is growing and highly engaged online. Relatable low-energy humor drives shares and purchases. Mug suits the aesthetic perfectly. Low design competition for this specific angle."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Same\n\nWe're Both Just Trying Our Best\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a drooping potted houseplant with wilted leaves hanging downward, simple geometric pot in solid color. Plant has a speech bubble above it with the word 'Same' inside. Below the plant and pot, centered text reads 'We're Both Just Trying Our Best'. Color palette: sage green, warm beige, charcoal gray, cream white. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition on a plain solid background with generous margin. Bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Same\n\nWe're Both Just Trying Our Best",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: sage green, warm beige, charcoal gray, cream white. Solid color blocks, no gradients, no airbrush shading, no photorealism."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design features a generic illustrated drooping houseplant with a relatable humor concept. The phrase 'Same' is a common colloquial expression with no distinctive trademark association. The caption 'We're Both Just Trying Our Best' is a generic, sentiment-based phrase with no known trademark registration, brand association, celebrity connection, or protected slogan status. The overall concept falls within the realm of common everyday humor and does not reference any IP-protected material."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'SAME / WE'RE BOTH JUST TRYING OUR BEST.' matching the required copy with correct spelling. The illustration is a generic wilting potted plant in a clean cartoon style with no IP concerns. Composition is clean with a plain background suitable for garment printing. No anatomy issues, artifacts, or quality problems detected."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Plant Parent Mug - Anxious Drooping Plant Humor Design",
+    "tags": [
+      "plant parent mug",
+      "plant lover gift",
+      "funny plant mug",
+      "houseplant humor",
+      "self-care mug",
+      "millennial gift",
+      "mental health humor",
+      "plant enthusiast",
+      "drooping plant design",
+      "relatable humor",
+      "gen z gift",
+      "plant care",
+      "coffee mug"
+    ],
+    "description": "For everyone who relates to their plants a little too much. This mug features an illustrated drooping houseplant with a speech bubble saying 'Same' and the caption 'We're Both Just Trying Our Best.' Ceramic construction perfect for daily coffee or tea. Celebrates the emotional bond between plant parents and their green friends while embracing humor about mental health and self-care. Ideal gift for millennials and Gen Z plant enthusiasts, or anyone navigating the beautiful chaos of plant parenthood."
+  },
+  "products": {
+    "shopify": "6a6a22b3177ea8e56908aea0"
+  }
+}

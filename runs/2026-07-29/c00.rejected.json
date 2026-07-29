@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Back to School Teacher",
+    "product_type": "mug",
+    "concept": "Illustrated coffee cup inside a coffee cup with text 'I Need a Bigger Classroom Budget and a Stronger Coffee'",
+    "audience": "K-12 teachers returning to school in late August who drink coffee heavily during the school year",
+    "score": 7.8,
+    "rationale": "Mugs are the top POD gift for teachers. Budget frustration is a universal teacher pain point with high humor resonance. August buying window aligns perfectly with back-to-school gifting by parents and admin."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Need a Bigger Classroom Budget and a Stronger Coffee\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a large coffee mug in the foreground containing a smaller coffee mug nested inside it, both rendered in bold simple shapes with clean sharp edges. The nested mug has steam wisps rising from it in soft curved lines. Solid color blocks only: use navy blue for the outer mug, cream for the inner mug, warm brown for the coffee, and white for steam and highlights. No gradients, no shading, no photorealism. High contrast screen-print aesthetic. Single centered composition on a solid warm beige background with generous margins. All artwork elements connected and away from the edges.",
+    "text_on_design": "I Need a Bigger Classroom Budget and a Stronger Coffee",
+    "style": "Bold sans-serif, white text, arranged in two centered lines arched below the nested coffee cups illustration. Clean, readable at 12x16 inches from across a room."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Need a Bigger Classroom Budget and a Stronger Coffee' is an original, generic humorous expression commonly associated with teacher lifestyle sentiment. It does not reference any known trademark, brand, celebrity, character, or protected slogan. The illustrated coffee cup imagery is generic. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text is incomplete/incorrect. The image reads 'I NEED BIGGER CLASSROOM BUDGET AND A STRONGER COFFEE' but the required text is 'I Need a Bigger Classroom Budget and a Stronger Coffee'. The word 'a' is missing between 'NEED' and 'BIGGER'."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Back to School Teacher",
+    "product_type": "t-shirt",
+    "concept": "Retro-style bold typography reading 'Fueled by Coffee and Controlled Chaos' with scattered pencil and apple doodles",
+    "audience": "Elementary and middle school teachers preparing for the fall semester starting late August",
+    "score": 7.2,
+    "rationale": "Teachers actively shop for classroom personality gear in late July through August. Low design competition for hand-drawn doodle style, evergreen with seasonal spike. Avoids IP issues entirely."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fueled by Coffee and Controlled Chaos\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, screen-print aesthetic. Bold retro sans-serif typography reading 'Fueled by Coffee and Controlled Chaos' centered and arched slightly. Scattered around the text: simple geometric pencil shapes (yellow with black outline), red apple silhouettes, and small coffee cup outlines. All elements in solid color blocks with clean sharp edges, high contrast, no gradients or shading. Limited palette: black, bright red, golden yellow, warm brown, cream. Single centered composition on plain cream background with generous margin. Readable from across a room at 12x16 inches. Professional screen-print ready design.",
+    "text_on_design": "Fueled by Coffee and Controlled Chaos",
+    "style": "Flat vector illustration, bold retro sans-serif, screen-print aesthetic, solid color blocks, high contrast, no gradients"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled by Coffee and Controlled Chaos' is a generic humorous expression combining common concepts. No known trademark protection exists for this specific phrase. Coffee-themed humor and 'controlled chaos' are widely used generic expressions in everyday language. The accompanying pencil and apple doodles are generic clipart-style imagery with no brand association. No celebrity, brand, character, team, or protected slogan references are present. The design is approvable as a common phrase product."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'FUELED BY COFFEE AND CONTROLLED CHAOS' which matches the required phrase exactly (case-insensitive). All words are correctly spelled and complete. The design features clean typography with generic teacher-themed illustrations (pencils, apples, coffee cups) on a plain background. No IP risks, no anatomy issues, no rendering artifacts detected."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Teacher T-Shirt - Retro Fueled by Coffee and Controlled Chaos",
+    "tags": [
+      "teacher shirt",
+      "back to school gift",
+      "funny teacher tee",
+      "coffee and chaos",
+      "classroom humor",
+      "teacher humor",
+      "retro typography",
+      "apple design",
+      "pencil doodles",
+      "teacher essentials",
+      "teaching career",
+      "bold graphic tee",
+      "gift for teachers"
+    ],
+    "description": "Perfect for educators ready to embrace the beautiful chaos of a new school year. This t-shirt features retro-style bold typography reading 'Fueled by Coffee and Controlled Chaos' with scattered pencil and apple doodles. Soft, durable cotton for comfortable all-day wear. Designed for elementary and middle school teachers who appreciate humor about classroom life. Great gift for new teachers, experienced educators, or anyone prepping for fall semester starting late August."
+  },
+  "products": {
+    "shopify": "6a6a22a1033e0ae0330d0663"
+  }
+}
