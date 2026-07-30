@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Bookish Fall Aesthetic",
+    "product_type": "tote",
+    "concept": "Stack of illustrated autumn-hued books with falling leaves and the phrase 'Autumn Reading Hours Are Non-Negotiable' in warm serif type",
+    "audience": "Book lovers and reading community members who treat fall as prime reading season",
+    "score": 8.0,
+    "rationale": "BookTok and reading communities are massive gift buyers, tote is a beloved book community product, fall reading is a strong seasonal identity trigger in the buying window"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Autumn Reading Hours Are Non-Negotiable\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a centered stack of 5 books in autumn colors\u2014burnt orange, deep burgundy, golden yellow, rust brown, and terracotta\u2014with bold simple rectangular shapes and clean sharp edges. Books are slightly offset and tilted for dynamic composition. Scattered falling leaves in matching warm palette float around and between the books, using simple leaf silhouettes. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain cream background with generous margin. Design readable at 12x16 inches. Screen-print aesthetic with high contrast.",
+    "text_on_design": "Autumn Reading Hours Are Non-Negotiable",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette of burnt orange, deep burgundy, golden yellow, rust brown, terracotta, and cream background. Solid color blocks, no gradients, no airbrush shading, no photorealism. Text in warm serif type arched above the book stack. Single centered composition on plain solid background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Autumn Reading Hours Are Non-Negotiable' is a generic, descriptive expression of personal sentiment with no known trademark associations, celebrity ties, or protected IP connections. The illustrated autumn books and falling leaves concept is a common seasonal design motif. The warm serif typography styling is generic. No brand names, characters, slogans, or protected elements are present. This is a safe, original design concept suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Autumn Reading Hours Are Non-Negotiable' with correct spelling and complete text. The artwork features a clean stack of books with autumn leaves in seasonal colors on a plain background. No IP risks, no anatomy issues, no rendering artifacts, and text is fully legible and properly formed."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Bookish Fall Tote - Autumn Reading Books & Leaves Design",
+    "tags": [
+      "book tote bag",
+      "autumn reading tote",
+      "fall aesthetic bag",
+      "literary gift bag",
+      "book lover tote",
+      "reader gift bag",
+      "fall book bag",
+      "illustrated tote",
+      "bookworm bag",
+      "seasonal tote bag",
+      "literature gift",
+      "cozy fall bag",
+      "book community tote"
+    ],
+    "description": "Celebrate your reading season with this charming tote featuring stacked autumn-hued books and falling leaves. Perfect for library trips, book clubs, or carrying your current reads. Spacious design holds groceries, books, and essentials. Warm serif typography celebrates the joy of autumn reading hours. Ideal gift for book lovers, students, and anyone who treats fall as prime reading time. Canvas construction offers durability for everyday use."
+  },
+  "products": {
+    "shopify": "6a6b741ebf9c512ee8025e58"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Back to School Teacher Humor",
+    "product_type": "t-shirt",
+    "concept": "Bold retro font reads 'Survived Summer, Now I Teach' with a worn-out sun graphic fading into a school bell",
+    "audience": "K-12 teachers returning to school in late August",
+    "score": 7.2,
+    "rationale": "Teachers buy heavily in August before school starts, humor resonates strongly, low design complexity, evergreen with seasonal spike"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Survived Summer, Now I Teach\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, screen-print aesthetic. Center composition on solid cream background. Bold retro sans-serif text reading 'Survived Summer, Now I Teach' arched across the top in deep navy blue. Below: a large worn-out sun graphic in mustard yellow with rough, weathered edges and sparse rays, positioned left-center. The sun gradually dissolves into abstract shapes that transform into a school bell in forest green on the right side, connected through flowing lines. All elements in solid color blocks with sharp edges, no gradients or shading. Limited palette: navy blue, mustard yellow, forest green, cream background. High contrast, readable from across a room, generous margins, no background elements or decorative details. Screen-print ready flat design.",
+    "text_on_design": "Survived Summer, Now I Teach",
+    "style": "Flat vector illustration, bold retro sans-serif, screen-print aesthetic, solid color blocks, high contrast, sharp edges"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Survived Summer, Now I Teach' is a generic humorous expression with no known trademark registration, celebrity association, or protected IP connection. It follows a common 'survived X, now I do Y' template widely used in novelty teacher merchandise. The sun and school bell graphics are generic public domain imagery. No brand names, characters, slogans, or protected elements are present. Safe to print."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'SURVIVED SUMMER, NOW I TEACH' which matches the required text exactly. The design features a clean golden sun and dark green school bell illustration on a light background with no IP concerns, no anatomy issues, and no rendering artifacts. Text is clearly legible and correctly spelled."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Teacher T-Shirt - Back to School Survival Graphic Tee",
+    "tags": [
+      "teacher shirt",
+      "back to school tee",
+      "teacher appreciation gift",
+      "school staff gift",
+      "funny teacher shirt",
+      "educator tee",
+      "classroom humor",
+      "teacher humor gift",
+      "back to school gift",
+      "teacher morale shirt",
+      "education gift",
+      "summer to school shirt",
+      "teacher survival gear"
+    ],
+    "description": "A humorous celebration of the teacher's journey from summer break back to the classroom. Bold retro font paired with a worn-out sun graphic fading into a school bell captures the seasonal transition perfectly. Soft, durable cotton blend suitable for the staffroom or casual wear. Relatable gift for K-12 teachers navigating late August transitions. Show appreciation for educators with this witty, comfortable design that resonates with those balancing summer freedom and fall responsibilities."
+  },
+  "products": {
+    "shopify": "6a6b7486c004ce6c410efed7"
+  }
+}

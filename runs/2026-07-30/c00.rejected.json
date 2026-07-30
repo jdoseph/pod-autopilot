@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Fall Morning Coffee Ritual",
+    "product_type": "mug",
+    "concept": "Hand-drawn illustration of misty autumn trees reflected in a coffee cup surface with the text 'This Is My Whole Personality Until November'",
+    "audience": "Fall-obsessed coffee drinkers who lean into seasonal aesthetics",
+    "score": 8.1,
+    "rationale": "Mugs and fall coffee culture are near-perfect product-niche fit, buying window aligns with September-October gifting, high impulse purchase potential"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"This Is My Whole Personality Until November\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a ceramic coffee mug viewed from above at a slight angle. Inside the mug, a simple stylized reflection shows bare autumn trees with minimal foliage in solid shapes, misty and layered. The mug body is clean and minimal. Solid color palette: warm cream, deep rust orange, muted charcoal gray, soft sage green, black. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain white background with generous margins. Bold screen-print aesthetic with clean sharp edges and high contrast.",
+    "text_on_design": "This Is My Whole Personality Until November",
+    "style": "Bold retro sans-serif, all caps, arched in a gentle curve below the mug illustration, integrated as part of the single centered composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'This Is My Whole Personality Until November' is a generic humorous expression referencing seasonal autumn/coffee culture with no known trademark registration. It does not reference any brand, character, celebrity, team, or protected slogan. The hand-drawn autumn trees and coffee cup illustration concept is entirely generic. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "medium",
+    "reason": "The design is rendered as a product mockup (a coffee mug illustration), not standalone artwork. Print-on-demand garment designs should be standalone graphics, not depictions of another product. Additionally, the text appears partially obscured/overlapping with the tree illustration, making 'PERSONALITY' and 'UNTIL' partially cut off by design elements."
+  }
+}

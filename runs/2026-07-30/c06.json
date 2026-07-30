@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Fall Hiking Enthusiasts",
+    "product_type": "t-shirt",
+    "concept": "Minimal line-art of a mountain ridge with falling leaves and text 'Peak Season' in earthy autumn tones",
+    "audience": "Outdoor hikers who specifically chase fall foliage trails",
+    "score": 7.5,
+    "rationale": "Fall hiking is peaking in September-October, this buys in the 6-8 week window perfectly, broad appeal without being generic"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Peak Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist mountain ridge with sharp angular peaks in burnt orange and deep rust brown. Single continuous flowing line forms the ridge silhouette. Scattered falling leaves in solid blocks of burnt orange, mustard yellow, and deep brown scattered across the composition. Clean geometric shapes, no gradients, no shading, no photorealism. Solid color blocks only. Centered on plain cream background with generous margins. Screen-print ready aesthetic with high contrast and bold simple shapes. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Peak Season",
+    "style": "Bold retro sans-serif, all caps, arched above the mountain ridge in deep rust brown, 6 words maximum"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Peak Season' is a common generic expression used in everyday language to describe a period of high activity or optimal timing. It does not reference any known registered trademark, brand, celebrity, character, or protected slogan. The design concept uses generic nature imagery (mountain ridge, falling leaves) in a minimal line-art style with earthy autumn tones, none of which evoke proprietary IP. The combination is sufficiently generic and descriptive to pose minimal intellectual property risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'PEAK SEASON' in bold, correctly spelled text with no extra words or placeholders. The composition features a clean mountain silhouette with falling autumn leaves on a neutral background \u2014 all original, generic motifs with no IP concerns. Typography is crisp and well-formed with no artifacts or quality issues."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Fall Hiking T-Shirt - Mountain Ridge & Foliage Design",
+    "tags": [
+      "hiking shirt",
+      "fall foliage shirt",
+      "mountain t-shirt",
+      "outdoor enthusiast",
+      "fall hiking gift",
+      "trail shirt",
+      "nature lover shirt",
+      "autumn outdoor shirt",
+      "minimal design tee",
+      "peak season shirt",
+      "earth tone shirt",
+      "outdoor adventure gift",
+      "seasonal hiking tee"
+    ],
+    "description": "Designed for those who chase peak foliage on the trails. Minimal line-art mountain ridge with falling leaves celebrates autumn hiking season in earthy tones. Soft cotton blend offers comfort during long hikes and cool weather adventures. Lightweight and breathable for layering. Perfect gift for outdoor enthusiasts who treat fall as the ultimate hiking season. Durable construction withstands trail wear."
+  },
+  "products": {
+    "shopify": "6a6b7472bf9c512ee8025eab"
+  }
+}

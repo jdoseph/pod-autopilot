@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Amateur Astronomy Enthusiasts",
+    "product_type": "mug",
+    "concept": "Deep navy mug design showing a steaming coffee cup that transitions into a galaxy spiral with the text 'Fueled By Dark Matter'",
+    "audience": "Stargazers, astronomy hobbyists, and science nerds aged 25-55",
+    "score": 7.6,
+    "rationale": "Passionate niche with strong buying identity, wordplay creates delight, dark space aesthetics photograph well for Etsy listings"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fueled By Dark Matter\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration: centered coffee mug with steam wisps transforming into a spiral galaxy. The mug body is solid deep navy blue, the spiral galaxy emerging from steam is composed of solid blocks in bright white, golden yellow, and electric purple. Stars scattered throughout as simple circles and dots. Clean sharp edges, bold simple shapes, screen-print aesthetic, no gradients or shading. Solid color blocks only. Plain solid light gray background, generous margin around design, all elements centered and away from edges.",
+    "text_on_design": "Fueled By Dark Matter",
+    "style": "Bold modern sans-serif, uppercase, positioned in a curved arc below the mug illustration, solid white text, approximately 5-6 words"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled By Dark Matter' is a generic science-humor wordplay on the astrophysics term 'dark matter' combined with a common 'fueled by coffee' trope. Neither the phrase nor its components appear to be registered trademarks of note. The visual concept of a coffee cup transitioning into a galaxy spiral is a common generic design style with no specific IP associations. No celebrity, brand, character, team, or protected slogan is referenced. The design is approvable as original generic humor merchandise."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'FUELED BY DARK MATTER' correctly spelled and complete. The artwork is a clean, original composition featuring a coffee mug with a galaxy/space steam motif in purple, gold, and black. No IP risks detected \u2014 no brand logos, recognizable characters, celebrities, or protected artwork. Text is clean and legible, artwork is well-rendered with no quality issues."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Galaxy Coffee Mug - Dark Matter Design | Astronomy Gift",
+    "tags": [
+      "astronomy mug",
+      "galaxy mug",
+      "science mug",
+      "coffee lover gift",
+      "dark matter mug",
+      "stargazer mug",
+      "space science mug",
+      "astronomy enthusiast",
+      "educational mug",
+      "science nerd gift",
+      "stellar design mug",
+      "midnight blue mug",
+      "cozy science gift"
+    ],
+    "description": "Fuel your curiosity with this stunning deep navy mug where steaming coffee transitions into a galaxy spiral. Perfect for astronomy hobbyists, stargazers, and science enthusiasts. The elegant design merges your love of coffee with cosmic wonder. Durable ceramic construction keeps beverages warm during late-night observations. Meaningful gift for anyone fascinated by space, science, or the mysteries of dark matter. Available in 11oz capacity."
+  },
+  "products": {
+    "shopify": "6a6b7462ff297cecbe0540f5"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Introverted Autumn Lovers",
+    "product_type": "t-shirt",
+    "concept": "A cozy armchair surrounded by falling leaves and books with the phrase 'My Plans This Fall: None' in serif typography",
+    "audience": "Introverts and homebody culture enthusiasts who celebrate autumn",
+    "score": 7.8,
+    "rationale": "Introvert humor combined with fall seasonality hits the buying window perfectly, very giftable, strong emotional resonance with large audience"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Plans This Fall: None\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cozy wingback armchair centered on the composition, rendered in solid color blocks with no gradients or shading. Surround the chair with falling autumn leaves in various sizes scattered organically around it. Stack 3-4 open books leaning against the chair base and scattered nearby. Use a limited palette of warm rust orange, forest green, cream, chocolate brown, and deep burgundy for the chair upholstery, leaves, book covers, and accents. All shapes have clean sharp edges with high contrast. Plain cream background filling the entire space behind the design. Keep all design elements centered and away from edges, readable from across a room at 12x16 inches. No gradients, no airbrush shading, no photorealism, no drop shadows.",
+    "text_on_design": "My Plans This Fall: None",
+    "style": "Bold serif typography arched above the armchair illustration, using the same chocolate brown color as primary text elements, maintaining clean letterforms with no decorative flourishes"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Plans This Fall: None' is a generic humorous expression with no known trademark registrations, celebrity associations, or brand affiliations. The design elements (armchair, falling leaves, books) are entirely generic and decorative. The seasonal humor concept is common and unprotected. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'MY PLANS THIS FALL: NONE' \u2014 correctly spelled and complete. The design features a clean flat-illustration style with an armchair, autumn leaves, and stacked books on a light background. No IP conflicts, no anatomical issues, no rendering artifacts, and no mockup elements. Suitable for print-on-demand."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Introvert Fall T-Shirt - Cozy Armchair & Books Graphic",
+    "tags": [
+      "introvert t-shirt",
+      "fall shirt",
+      "cozy graphic tee",
+      "autumn introvert",
+      "homebody shirt",
+      "fall aesthetic shirt",
+      "book lover shirt",
+      "comfort shirt",
+      "relaxation tee",
+      "seasonal graphic shirt",
+      "introverted gift",
+      "fall weather shirt",
+      "comfort culture tee"
+    ],
+    "description": "Celebrate staying in this fall with a comfortable graphic tee featuring a cozy armchair surrounded by falling leaves and books. Perfect for introverts and homebody culture enthusiasts who find joy in autumn downtime. Soft, breathable cotton blend suitable for layering or wearing alone. Warm serif typography makes a relatable statement. Great gift for anyone who prefers indoor autumn adventures. Available in classic fall colors."
+  },
+  "products": {
+    "shopify": "6a6b743fbf9c512ee8025e7d"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market Regulars",
+    "product_type": "tote",
+    "concept": "Loose illustrated vegetables and herbs spilling out of a basket graphic with the text 'I Came For The Tomatoes I Stayed For The Gossip'",
+    "audience": "Farmers market devotees and local food culture enthusiasts aged 30-55",
+    "score": 7.7,
+    "rationale": "Tote is the functionally perfect product for this audience, humor resonates strongly, fall harvest season drives farmers market attendance in September"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Came For The Tomatoes I Stayed For The Gossip\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a woven basket tipped over on its side, spilling out loosely-drawn vegetables and fresh herbs in a dynamic scattered composition. Include tomatoes, leafy greens, carrots, peppers, basil sprigs, and zucchini rendered as simple bold shapes with clean edges. Basket weave pattern shown with minimal linear detail. Solid color palette: cream, deep forest green, bright red, warm orange, and charcoal gray. No gradients, no shading, no photorealism\u2014screen-print aesthetic with solid color blocks only. Single centered composition on a plain pale cream background, generous white margin around all artwork elements, nothing touching the edges. Design must read clearly at 12x16 inches from across a room.",
+    "text_on_design": "I Came For The Tomatoes I Stayed For The Gossip",
+    "style": "Bold retro sans-serif, weight 700, arched in two lines below the basket spill, centered, solid charcoal gray color, no drop shadow or outline"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Came For The Tomatoes I Stayed For The Gossip' is a generic humorous expression with no known trademark registration, no association with a specific brand, celebrity, team, or protected IP. The illustrated vegetable basket graphic is a common folk-art style design. No trademark conflicts identified. The humor is original and generic in nature, suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'I CAME FOR THE TOMATOES I STAYED FOR THE GOSSIP' \u2014 correctly spelled and complete. The illustration is a clean, original cartoon of a tipped-over wicker basket spilling vegetables, rendered in a retro flat style with no IP, anatomy, or quality issues. Light background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Farmers Market Tote Bag - Vegetables & Gossip Design",
+    "tags": [
+      "farmers market tote",
+      "market bag",
+      "grocery tote",
+      "local food bag",
+      "vegetable print tote",
+      "farmers market gift",
+      "community market bag",
+      "reusable grocery bag",
+      "illustrated market tote",
+      "local food lover",
+      "weekend market bag",
+      "fresh produce tote",
+      "community gatherings gift"
+    ],
+    "description": "A witty companion for your farmers market adventures. This spacious tote features loose illustrations of fresh vegetables and herbs spilling from a basket, celebrating the real reason we visit\u2014the social ritual. Perfect for carrying weekly produce and sharing laughs with fellow market regulars. Sturdy canvas handles and durable construction withstand fresh-from-the-farm weight. Ideal gift for local food enthusiasts and community-minded shoppers aged 30-55."
+  },
+  "products": {
+    "shopify": "6a6b7452b52b16219a00053a"
+  }
+}
