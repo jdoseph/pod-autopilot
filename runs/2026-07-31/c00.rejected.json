@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Spooky Season and Halloween Lovers",
+    "product_type": "mug",
+    "concept": "A black mug with minimalist ghost illustrations and the text 'This Witch Runs on Black Coffee and Autumn Vibes' in an elegant spooky font.",
+    "audience": "Halloween enthusiasts and fall-loving adults who celebrate spooky season starting in September",
+    "score": 8.1,
+    "rationale": "Halloween is precisely 13 weeks out but buying peaks in September, falling right in the 6-8 week window from today. Witch identity mugs are a top-performing POD category. Original phrase, no IP, strong seasonal urgency."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"This Witch Runs on Black Coffee and Autumn Vibes\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of three minimalist ghosts arranged vertically in center composition, simple rounded shapes with two dots for eyes, no mouth. Solid color blocks, no gradients, no shading. Color palette: cream, charcoal gray, deep purple, black. Single centered design on solid warm cream background with generous margin. High contrast screen-print aesthetic, bold simple shapes, clean sharp edges. 12x16 inch readable scale. No text, no background details, artwork only.",
+    "text_on_design": "This Witch Runs on Black Coffee and Autumn Vibes",
+    "style": "Bold elegant spooky serif font, arched above and below the ghost illustrations in charcoal gray and deep purple, integrated with the centered composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'This Witch Runs on Black Coffee and Autumn Vibes' is a generic, descriptive seasonal humor expression with no known trademark associations. It does not reference any brand names, celebrities, characters, teams, or protected slogans. The minimalist ghost illustration concept is generic Halloween imagery. The combination of witch, coffee, and autumn themes is a well-established common trope in seasonal print-on-demand with no specific IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text contains a spelling error: 'BLACCK' should be 'BLACK'. The word 'black' has been misspelled with a double 'C', which fails the quality check for correctly spelled text."
+  }
+}

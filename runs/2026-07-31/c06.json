@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging and Mycology Enthusiasts",
+    "product_type": "tote",
+    "concept": "A botanical illustration-style tote featuring hand-drawn wild mushroom varieties with the text 'Fungi Finder' in an elegant nature journal font.",
+    "audience": "Foragers, mycology hobbyists, and cottagecore nature enthusiasts",
+    "score": 7.5,
+    "rationale": "Mushroom foraging season peaks in autumn, aligning with the buying window. The mycology niche is passionate, growing, and under-served in quality POD design. 'Fungi Finder' is an original, charming phrase with broad community appeal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fungi Finder\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five botanical mushroom varieties arranged in a balanced circular composition: a delicate fairy ring mushroom, a bold puffball, a detailed oyster mushroom with layered caps, a small woodland toadstool with white spots, and a tall chanterelle. Each mushroom rendered with clean outlines and simple internal details\u2014no gradients, no shading, solid color blocks only. Palette: forest green, warm cream, deep brown, dusty rose, charcoal black. Single centered composition on plain pale ivory background with 2-inch margins. Artwork elements clustered in center, no elements touching edges. Bold elegant serif text 'Fungi Finder' arched gracefully above the mushroom cluster in the same retro journal typography style. Screen-print aesthetic, sharp edges, high contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": "Fungi Finder",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: forest green, warm cream, deep brown, dusty rose, charcoal black. Solid color blocks, no gradients, no airbrush shading, no photorealism, no drop shadows."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fungi Finder' is a generic descriptive term combining common English words with no known trademark associations. Botanical illustration-style mushroom artwork is a well-established generic art style with no IP concerns. The overall concept does not reference any protected brands, characters, celebrities, or slogans. The design is original and commercially safe for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'FUNGI FINDER' correctly spelled and arched above a clean illustration of various mushroom types (chanterelle, amanita, etc.) with small grass accents. Text is clear and legible, artwork is well-rendered with no malformed elements, no IP concerns, and the composition is suitable for garment printing."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Fungi Finder Tote | Botanical Mushroom Foraging Bag",
+    "tags": [
+      "mushroom tote",
+      "foraging bag",
+      "mycology gift",
+      "botanical design",
+      "nature journal",
+      "wild mushroom",
+      "cottagecore tote",
+      "fungi illustration",
+      "nature lover gift",
+      "foraging aesthetic",
+      "naturalist gift",
+      "educational tote",
+      "plant lover"
+    ],
+    "description": "Celebrate your love of fungi with this beautifully illustrated tote featuring hand-drawn wild mushroom varieties in botanical style with 'Fungi Finder' lettering. Perfect for foraging trips, mushroom hunts, or displaying your mycology passion. The elegant nature journal design appeals to herbalists, naturalists, and cottagecore enthusiasts. Durable canvas carries field guides, collected specimens, or everyday essentials. Thoughtful gift for foragers, biology students, and anyone fascinated by fungi."
+  },
+  "products": {
+    "shopify": "6a6cc8663c3447437e0a0069"
+  }
+}

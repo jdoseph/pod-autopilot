@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Night Shift Nurses",
+    "product_type": "t-shirt",
+    "concept": "A dark-themed design with a crescent moon, coffee cup, and stethoscope illustration captioned 'I Work While the World Sleeps' in bold sans-serif.",
+    "audience": "Nurses and hospital workers on overnight shifts",
+    "score": 7.2,
+    "rationale": "Healthcare workers are a massive, underserved POD audience with strong identity and gifting culture. Night shift pride is a specific emotional hook. Original concept, no IP issues, and Nurses Week follow-up gifting still resonates year-round."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Work While the World Sleeps\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a crescent moon, steaming coffee cup, and stethoscope arranged in a vertical centered stack, single-line geometric style. Solid color blocks, no gradients, no shading. Color palette: midnight blue, white, charcoal gray, and warm cream. Bold simple shapes with clean sharp edges, screen-print aesthetic. Plain solid black background. High contrast, readable from across a room at 12x16 inches. All elements centered with generous margins, never touching edges.",
+    "text_on_design": "I Work While the World Sleeps",
+    "style": "Bold modern sans-serif, all caps, positioned below the stacked illustration elements, centered"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Work While the World Sleeps' is a generic descriptive statement commonly associated with night shift workers, medical professionals, and similar occupations. It does not reference any known registered trademark, brand, celebrity, character, or protected slogan. The visual elements (crescent moon, coffee cup, stethoscope) are all generic iconography with no brand association. The combination is original enough for print-on-demand use with low IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'I [moon] WORK THILE WORLD SLEEPS' \u2014 'WHILE' is misspelled as 'THILE' and 'THE' is missing entirely. The required text 'I Work While the World Sleeps' is not correctly rendered."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Season and Halloween Lovers",
+    "product_type": "tote",
+    "concept": "A bold black tote with a minimalist haunted house illustration and the text 'Trick or Tote' in a playful Halloween font.",
+    "audience": "Halloween enthusiasts who use totes for trick-or-treating, party shopping, or seasonal aesthetic",
+    "score": 8.0,
+    "rationale": "'Trick or Tote' is a clever original pun that delivers immediate product-occasion alignment. Halloween totes are functional for the holiday itself and aesthetic enough for September display. High-urgency seasonal buying window matches perfectly."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Trick or Tote\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist haunted house centered on solid cream background. Simple geometric shapes: tall rectangular house silhouette in solid black, peaked roof forming sharp triangle, two small square windows and one rectangular door in solid bright orange, bare leafless tree beside house in solid black, three small ghost shapes floating above in solid white with minimal detail. Bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks only\u2014black, orange, white, cream. No gradients, no shading, no photorealism. Single centered composition with generous margins, readable at 12x16 inches from across a room.",
+    "text_on_design": "Trick or Tote",
+    "style": "Bold playful Halloween serif font, arched above the haunted house illustration in solid black, maximum 6 words."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "'Trick or Tote' is a generic Halloween pun playing on the well-known phrase 'trick or treat,' which is a common cultural expression not owned by any single entity. The phrase itself is an original wordplay variation with no known trademark registrations. The minimalist haunted house illustration is a generic Halloween motif with no association to any specific branded IP. The overall design concept uses no celebrity likenesses, team logos, brand names, or protected characters. This is a safe, original Halloween-themed design suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'Trick or Tote' correctly spelled across three lines. The Halloween-themed typography with haunted houses, bats, and a bare tree is a clean, original composition with no IP concerns. Text is fully legible, well-formed, and suitable for garment printing against the plain cream background."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Trick or Tote Halloween Bag | Black Haunted House Design",
+    "tags": [
+      "halloween tote bag",
+      "trick or treat",
+      "haunted house design",
+      "black tote",
+      "spooky season",
+      "halloween shopping",
+      "trick or treat bag",
+      "party tote",
+      "reusable halloween",
+      "october bag",
+      "minimalist halloween",
+      "seasonal tote",
+      "halloween gift"
+    ],
+    "description": "Carry Halloween spirit in this bold black tote featuring a minimalist haunted house illustration and playful 'Trick or Tote' lettering. Ideal for trick-or-treating candy hauls, party shopping, or everyday use during spooky season. Sturdy canvas construction handles full bags while the fun design makes it perfect for Halloween events, costume parties, or decorating your seasonal aesthetic. Great for families, party hosts, and anyone who loves making Halloween memorable."
+  },
+  "products": {
+    "shopify": "6a6cc7ff2b18472d3600a3a3"
+  }
+}

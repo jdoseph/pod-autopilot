@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Astrology and Virgo Season",
+    "product_type": "mug",
+    "concept": "A celestial illustrated mug featuring the Virgo constellation with botanicals and the phrase 'Virgo Season: Organized Chaos With Aesthetic Standards'.",
+    "audience": "Astrology enthusiasts, particularly those who identify as Virgos, born late August through September",
+    "score": 7.6,
+    "rationale": "Virgo season starts August 23, squarely in the 6-8 week window. Astrology merch is a proven high-engagement niche. Virgo-specific humor around perfectionism is instantly relatable to the audience and drives gifting and self-purchase."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Virgo Season: Organized Chaos With Aesthetic Standards\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of the Virgo constellation connected by clean geometric lines forming the maiden figure, surrounded by botanical elements: wheat stalks, lavender sprigs, and geometric leaves in solid shapes. Central composition on plain cream background. Color palette: deep indigo, sage green, warm gold, cream, and charcoal black. Solid color blocks only, no gradients, no shading, no photorealism. High contrast screen-print aesthetic with bold simple shapes and sharp edges. Design centered with generous margins, readable at 12x16 inches from across a room.",
+    "text_on_design": "Virgo Season: Organized Chaos With Aesthetic Standards",
+    "style": "Bold modern sans-serif, all caps, arched in a semi-circle above the constellation illustration, charcoal black, no outline or shadow"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Virgo Season: Organized Chaos With Aesthetic Standards' is an original, descriptive expression combining a common astrological season reference with generic humor about Virgo personality traits. No known trademarks exist on this specific phrase or its components in this combination. 'Virgo Season' is widely used as a generic cultural/astrological term, and 'organized chaos' is a well-established common idiom in the public domain. The celestial and botanical illustration concept is a generic design category with no IP concerns. The combination is sufficiently original and non-infringing to approve for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'VIRGO SEASON: ORGANIZED CHAOS WITH AESTHETIC STANDARDS' \u2014 correctly spelled and complete. The design features generic botanical/floral elements (wheat, leaves, lavender) and a simple constellation graphic, all common motifs with no IP risk. Clean composition suitable for garment printing with a neutral background. No anatomical elements, no brand logos, no recognizable characters or persons."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Virgo Season Celestial Mug | Astrology Constellation Design",
+    "tags": [
+      "virgo mug",
+      "astrology mug",
+      "zodiac gift",
+      "constellation design",
+      "virgo season",
+      "september gift",
+      "botanical astrology",
+      "zodiac coffee",
+      "virgo gift",
+      "astrology aesthetic",
+      "celestial design",
+      "birth chart gift",
+      "virgo astrology"
+    ],
+    "description": "Celebrate your Virgo identity with this celestial mug featuring the Virgo constellation surrounded by delicate botanicals. The phrase 'Virgo Season: Organized Chaos With Aesthetic Standards' captures the essence of late August through September born perfectionists. Ideal for astrology enthusiasts, gift exchanges with fellow Virgos, or anyone who loves zodiac aesthetics. The elegant celestial design makes it perfect for morning coffee or tea while planning your perfectly organized day."
+  },
+  "products": {
+    "shopify": "6a6cc837d6601813530ee83e"
+  }
+}

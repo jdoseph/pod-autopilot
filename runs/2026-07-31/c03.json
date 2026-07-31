@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn Cottagecore and Cozy Aesthetics",
+    "product_type": "mug",
+    "concept": "An illustrated mug covered in mushrooms, acorns, and fall leaves with the phrase 'Hibernation Mode: Activated' in a cozy serif font.",
+    "audience": "Cottagecore aesthetic enthusiasts and introverts who celebrate fall as a season to stay home",
+    "score": 7.8,
+    "rationale": "Cottagecore and cozy autumn aesthetics are trending hard each fall. 'Hibernation Mode' is an original phrase with broad relatability. Fall seasonal buying is 6-8 weeks out and this audience purchases heavily for self-gifting and home atmosphere."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Hibernation Mode: Activated\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of autumn botanicals arranged in a loose circular wreath composition: mushrooms with rounded caps in cream and rust, acorns with caps in tan and brown, maple leaves in burnt orange and golden yellow, scattered oak leaves in deep burgundy. Solid color blocks only, no gradients, no shading, clean sharp edges, screen-print aesthetic. Centered on a plain solid cream background with generous margin. All elements connected and clustered in the center, away from edges. High contrast, bold simple shapes, readable at 12x16 inches.",
+    "text_on_design": "Hibernation Mode: Activated",
+    "style": "Bold serif font arched across the center of the botanical wreath, warm earthy typeface treatment typical of cottagecore design"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Hibernation Mode: Activated' is a generic, commonly used humorous expression referencing the concept of hibernation and is not associated with any known registered trademark, brand, celebrity, or protected IP. The illustrated design elements (mushrooms, acorns, fall leaves) are entirely generic nature motifs. The combination presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'HIBERNATION MODE: ACTIVATED' \u2014 correctly spelled and complete. Design features generic autumn motifs (leaves, mushrooms, acorns) in a clean flat-illustration style with no IP concerns, no anatomy issues, no rendering artifacts, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Hibernation Mode Mug | Cottagecore Fall Mushroom Design",
+    "tags": [
+      "cottagecore mug",
+      "autumn mug",
+      "mushroom design",
+      "cozy aesthetic",
+      "fall mug",
+      "hibernation mode",
+      "introverted gift",
+      "autumn leaves",
+      "acorn design",
+      "cozy season",
+      "nature illustration",
+      "seasonal drinkware",
+      "cottage core"
+    ],
+    "description": "Settle into cozy season with this beautifully illustrated mug showcasing mushrooms, acorns, and fall leaves paired with 'Hibernation Mode: Activated' in warm serif lettering. Celebrate the cottagecore aesthetic and autumn comfort. Perfect for fall days spent reading indoors, sipping tea, or embracing slower living. Ideal for introverts, nature lovers, and anyone who views fall as an excuse to stay cozy at home. Makes a thoughtful gift for cottage-core enthusiasts."
+  },
+  "products": {
+    "shopify": "6a6cc822fa08cc14430a0814"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Dog Mom Fall Season",
+    "product_type": "t-shirt",
+    "concept": "An illustrated golden retriever sitting in a pile of autumn leaves with the text 'My Therapist Has Paws and Charges in Treats' below.",
+    "audience": "Dog owners, particularly women 28-50 who identify as 'dog moms'",
+    "score": 7.5,
+    "rationale": "Dog niche is evergreen and enormous; pairing it with fall seasonal imagery and an original witty phrase creates strong emotional resonance. Gift season approach starts now, and this hits multiple buyer motivations."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Therapist Has Paws and Charges in Treats\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a golden retriever sitting centered in a pile of autumn leaves. The dog has a simple, friendly expression facing forward. Leaves in warm fall colors surround the dog in solid color blocks. Composition: dog centered, leaves arranged organically around it, all elements connected and away from edges. Style: bold flat vector, screen-print aesthetic, solid color blocks only, no gradients, no shading, no photorealism, high contrast, clean sharp edges. Color palette: golden tan, burnt orange, deep red, forest green, cream. Plain pale gray background, clearly distinct from all artwork colors. Single centered composition, no background patterns, readable at 12x16 inches from across a room.",
+    "text_on_design": "My Therapist Has Paws and Charges in Treats",
+    "style": "Bold retro sans-serif, black lettering, positioned directly below the illustration in a horizontal line, approximately 2-3 inches wide, high contrast with the pale background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The illustrated golden retriever in autumn leaves is a generic, non-distinctive animal depiction with no reference to any specific character, brand, or protected work. The phrase 'My Therapist Has Paws and Charges in Treats' is a humorous, original-feeling expression using common everyday words. It does not replicate any known registered slogan, song lyric, movie quote, or brand tagline. The concept and phrasing fall within the range of generic pet humor that is widely accepted in print-on-demand. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly the required text 'My Therapist Has Paws and Charges in Treats' correctly spelled and complete. The illustration features a clean, generic golden retriever dog surrounded by autumn leaves on a light background. No IP risks detected \u2014 no recognizable characters, logos, celebrities, or protected artwork. The composition is clean and suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Dog Mom Fall Tee | Golden Retriever Autumn Leaves Shirt",
+    "tags": [
+      "dog mom shirt",
+      "dog lover tee",
+      "golden retriever",
+      "autumn dog",
+      "fall leaves",
+      "dog mom gift",
+      "pet lover apparel",
+      "funny dog shirt",
+      "golden retriever art",
+      "dog therapist",
+      "pet owner gift",
+      "dog parent tee",
+      "comfort apparel"
+    ],
+    "description": "Show your dog mom pride this fall with this charming tee featuring a golden retriever lounging in autumn leaves and 'My Therapist Has Paws and Charges in Treats.' Perfect for women who treat their pups as family. Soft, comfortable fabric ideal for casual days, dog park visits, or cozy autumn outings. A thoughtful gift for dog moms, pet lovers, and anyone who considers their furry friend their best therapist. Celebrates the special bond between dogs and their devoted owners."
+  },
+  "products": {
+    "shopify": "6a6cc84f3c3447437e0a0059"
+  }
+}
