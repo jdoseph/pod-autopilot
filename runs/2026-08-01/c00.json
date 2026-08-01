@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging and Cottagecore",
+    "product_type": "tote",
+    "concept": "A botanical illustration tote featuring six foraged mushrooms with handwritten labels and a banner reading 'Forage Responsibly'",
+    "audience": "Foragers, nature enthusiasts, and cottagecore followers who actually use totes on outdoor outings",
+    "score": 8.1,
+    "rationale": "Tote is functionally ideal \u2014 foragers literally carry bags. Timing is perfect for fall foraging season. Botanical illustration style is premium and photograph well. Niche is passionate and underserved on totes specifically. High perceived value design."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Forage Responsibly\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of six foraged mushrooms arranged in a balanced circular composition. Each mushroom has a distinct silhouette: chanterelle, porcini, oyster, morel, shiitake, and lion's mane. Solid color blocks, no gradients, no airbrush shading, no photorealistic detail. Clean sharp edges, high contrast, screen-print aesthetic. Delicate hand-lettered labels below each mushroom in a simple serif font. A curved banner ribbon underneath the arrangement. Limited palette: forest green, burnt orange, cream, charcoal, and warm tan. Single centered composition on a plain solid white background with generous margins. Readable at 12x16 inches from across a room. No busy details, no drop shadows, no photorealism.",
+    "text_on_design": "Forage Responsibly",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, limited palette of solid colors, no gradients, no airbrush shading, no photorealism. Bold retro serif text arched on a curved banner below the mushroom arrangement."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Botanical mushroom illustrations are a well-established generic art style with no IP concerns. The phrase 'Forage Responsibly' is a common-sense instructional phrase in the style of generic safety slogans (similar to 'Drive Responsibly' or 'Hunt Responsibly') with no known trademark associations. Handwritten scientific-style labels for foraged mushrooms are generic educational content. No celebrity likenesses, brand names, character references, or protected slogans are present. Design is clear for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'FORAGE RESPONSIBLY' correctly spelled and complete, matching the required text exactly. The artwork features a clean composition of illustrated mushrooms (chanterelle, morel, bolete, etc.) in a flat design style with a ribbon banner element. No IP risks, no anatomical issues, no rendering artifacts, and the text is clear and legible. Suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Forage Responsibly Mushroom Tote Bag | Botanical Illustration",
+    "tags": [
+      "mushroom foraging tote",
+      "cottagecore tote bag",
+      "botanical illustration tote",
+      "nature lover gift",
+      "forager gift",
+      "wildflower tote",
+      "outdoor adventure bag",
+      "woodland aesthetic",
+      "reusable market tote",
+      "illustrated nature tote",
+      "fall foraging bag",
+      "cottagecore gift",
+      "sustainable tote"
+    ],
+    "description": "Carry your foraged finds in style with this botanical-inspired tote featuring six detailed mushroom illustrations with handwritten labels. Perfect for farmers markets, nature walks, or displaying your love of ethical foraging. Sturdy construction handles groceries, books, and outdoor gear. Great for nature enthusiasts, foragers, and cottagecore admirers who value quality and sustainability."
+  },
+  "products": {
+    "shopify": "6a6e0b9911c488d4d70d1c3c"
+  }
+}

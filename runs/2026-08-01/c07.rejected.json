@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Amateur Astronomy",
+    "product_type": "mug",
+    "concept": "A black mug with a minimalist gold-foil-style illustration of a star chart and text 'I Was Up at 3am and It Was Worth It'",
+    "audience": "Backyard stargazers and amateur astronomers who sacrifice sleep for clear-sky nights",
+    "score": 7.3,
+    "rationale": "Astronomy passion community buys merchandise that validates their hobby dedication. Dark mug with gold aesthetic photographs exceptionally well. Gifting appeal is high as the holiday window approaches. Niche enough to feel special."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I WAS UP AT 3AM AND IT WAS WORTH IT\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist star chart with connected constellation lines and stars arranged in a circular pattern, centered composition. Solid color blocks: deep navy blue background, bright gold stars and constellation lines, crisp sharp edges, screen-print aesthetic, no gradients or shading. Bold retro sans-serif text reading 'I WAS UP AT 3AM AND IT WAS WORTH IT' arched below the star chart in gold. Plain solid cream background surrounding the entire design with generous margin. High contrast, readable at 12x16 inches, professional print-on-demand artwork.",
+    "text_on_design": "I WAS UP AT 3AM AND IT WAS WORTH IT",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, limited palette (navy blue, gold, cream), solid color blocks, no gradients, no photorealism, screen-print aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Was Up at 3am and It Was Worth It' is a generic, relatable humorous statement with no known trademark registration, brand association, celebrity tie-in, or protected cultural reference. The star chart illustration is a generic astronomical motif. The overall concept presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text in the design reads 'I WAS UP AT 3AM AND IT S WORTH IT' (missing 'WA' \u2014 renders as 'IT S' instead of 'IT WAS'), which does not match the required text 'I WAS UP AT 3AM AND IT WAS WORTH IT'. The word 'WAS' is missing from the second line, making the text incorrect and incomplete."
+  }
+}

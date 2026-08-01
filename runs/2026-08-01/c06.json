@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Fall Hiking",
+    "product_type": "tote",
+    "concept": "A sturdy tote featuring a topographic map illustration of a mountain with 'Peak Leaf Season' written in trail-marker typography",
+    "audience": "Hikers and outdoor enthusiasts who use totes for farmers markets and trail-adjacent activities",
+    "score": 7.4,
+    "rationale": "Totes are a natural fit for the outdoor-adjacent lifestyle. Seasonal specificity is perfectly timed. Topographic aesthetic is trendy and underused on totes. Dual use as grocery and adventure bag broadens purchase occasions."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Peak Leaf Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a mountain rendered as concentric topographic contour lines in earth tones. Center composition showing a single peak with radiating circular elevation rings in decreasing detail toward the base. A small leaf silhouette sits at the summit. Solid color blocks only: burnt orange, sage green, cream, and charcoal gray on a plain white background. No gradients, no shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Design centered with generous margins, readable at 12x16 inches.",
+    "text_on_design": "Peak Leaf Season",
+    "style": "Bold sans-serif text in charcoal gray arranged in a curved trail-marker style arc above the mountain peak, mimicking wooden hiking signage. All artwork elements connected and away from edges."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Peak Leaf Season' is a generic descriptive term combining common words related to autumn foliage and mountain hiking. It does not reference any known trademark, brand, celebrity, team, character, or protected slogan. The topographic map illustration style is a widely used generic design motif in outdoor/nature merchandise. Trail-marker typography is a common aesthetic with no specific IP owner. The overall concept is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'PEAK LEAF SEASON' correctly spelled across three lines. The typography is clean and legible with decorative nature-themed fill patterns (wavy lines, tree rings, leaf motifs) in autumn colors. No IP concerns, no quality issues, clean light background suitable for garment printing."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Peak Leaf Season Hiking Tote | Mountain Map Bag",
+    "tags": [
+      "hiking tote bag",
+      "fall hiking gift",
+      "topographic map tote",
+      "mountain tote",
+      "outdoor activity bag",
+      "trail bag",
+      "fall hiking bag",
+      "nature lover tote",
+      "reusable market bag",
+      "adventure tote",
+      "hiker gift",
+      "mountain lover gift",
+      "sustainable tote"
+    ],
+    "description": "Designed for hikers and outdoor enthusiasts who embrace autumn adventures. This sturdy tote features a topographic mountain illustration with 'Peak Leaf Season' in authentic trail-marker typography. Perfect for carrying gear to the trailhead, farmers market trips, or everyday use. Durable construction and spacious design make it ideal for anyone celebrating fall hiking season and outdoor exploration."
+  },
+  "products": {
+    "shopify": "6a6e0bfb96c48b9e620c07e3"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "mug",
+    "concept": "A hand-lettered mug reading 'Fueled by Starter and Spite' with a tiny illustrated jar of bubbling sourdough below the text",
+    "audience": "Dedicated home bakers who wake up early to tend their starter and bake before work",
+    "score": 7.4,
+    "rationale": "Mugs are a top gifting vehicle and sourdough bakers are morning-routine people making this product contextually perfect. Humor lands well on mugs. Approaching holiday gifting window boosts relevance significantly."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fueled by Starter and Spite\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for print-on-demand mug design. Centered composition on solid white background. Hand-lettered style text reading 'Fueled by Starter and Spite' in bold retro serif, arched above a small illustrated glass jar with bubbling sourdough starter inside \u2014 bubbly foam overflowing slightly from the jar rim, simple steam wisps rising. Jar has a clean outline with 2-3 bubbles floating up. Limited palette: charcoal black, warm cream, burnt orange, and sage green. Solid color blocks, no gradients, no airbrush shading, no photorealism. Screen-print aesthetic with crisp sharp edges and high contrast. Generous margins around all elements. Single centered composition, readable at 12x16 inches from across a room.",
+    "text_on_design": "Fueled by Starter and Spite",
+    "style": "Flat vector illustration, bold hand-lettered serif text, screen-print aesthetic, limited palette (charcoal black, cream, burnt orange, sage green), solid color blocks only, no gradients or shading, clean sharp edges, high contrast, centered single composition on solid white background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled by Starter and Spite' is an original, generic humorous expression with no known trademark registration or association with any brand, celebrity, team, or protected IP. The sourdough starter jar illustration is a common, generic depiction of a widely understood baking concept. The 'fueled by' construction is a common colloquial pattern used broadly in novelty merchandise and does not reference any specific protected slogan. No trademark conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads 'FUELED BY STARTER AND SPITE' \u2014 correctly spelled and complete. The illustration is a generic mason jar with sourdough starter bubbling over, a common motif with no IP concerns. Clean composition on a plain background, suitable for garment printing. No anatomy, no recognizable characters, no brand elements."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Fueled by Starter and Spite Mug | Sourdough Baker Gift",
+    "tags": [
+      "sourdough mug",
+      "baker gift mug",
+      "funny baker mug",
+      "bread baking mug",
+      "sourdough starter mug",
+      "coffee mug baker",
+      "home baking gift",
+      "humorous kitchen mug",
+      "artisan bread mug",
+      "kitchen humor mug",
+      "morning routine mug",
+      "baker appreciation",
+      "sourdough enthusiast"
+    ],
+    "description": "For the dedicated home baker who tends their starter before dawn. This hand-lettered mug celebrates the commitment to sourdough baking with personality and humor. Features an illustrated bubbling starter jar. Perfect for morning coffee while planning your daily feedings and bakes. Ideal gift for sourdough enthusiasts, home bakers, and anyone who's adopted a starter as part of their daily ritual."
+  },
+  "products": {
+    "shopify": "6a6e0bec96c48b9e620c07cf"
+  }
+}

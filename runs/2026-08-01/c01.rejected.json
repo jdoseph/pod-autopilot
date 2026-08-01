@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Autumn Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "A detailed botanical-style grid of eight foraged mushrooms with their Latin names and a banner reading 'Season of the Fungi'",
+    "audience": "Foragers, cottagecore enthusiasts, and nature lovers preparing for fall foraging season",
+    "score": 7.8,
+    "rationale": "Fall foraging peaks September-October which aligns perfectly with 6-8 week buying window from August. Mushroom aesthetic has sustained cultural momentum. Botanical art style differentiates from generic mushroom designs."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Season of the Fungi\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of eight foraged mushrooms arranged in a 2x4 grid, each mushroom a bold simple silhouette with clean sharp edges. Include varieties: fly agaric (red with white spots), chanterelle (golden), porcini (brown), oyster (gray), morel (tan with honeycomb), shiitake (dark), death cap (pale with ring), and puffball (round). Solid color blocks only, no gradients, no shading, no photorealism. Color palette: forest green, cream, rust orange, deep brown, burgundy. Single Latin name label centered below each mushroom in small bold sans-serif. Centered composition on solid white background with 2-inch margin on all sides. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Season of the Fungi",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks only\u2014no gradients, no airbrush shading, no photorealism. Text: bold sans-serif banner arched above the grid. Limited palette: forest green, cream, rust orange, deep brown, burgundy on white background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design is a generic botanical-style illustration featuring foraged mushrooms with Latin scientific names. The phrase 'Season of the Fungi' is a descriptive, common-language phrase with no known trademark association. Latin scientific nomenclature for mushroom species is in the public domain. The botanical grid style is a well-established generic art form. No celebrity likenesses, brand names, protected characters, song lyrics, or registered slogans are present. This design presents low IP risk and is appropriate for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The main headline 'Season of the Fungi' is correctly spelled, but the design contains misspelled mushroom labels: 'OYSTEL' (should be 'OYSTER') and 'SHITAK' (should be 'SHIITAKE'). These text errors are a quality failure per screening criteria."
+  }
+}

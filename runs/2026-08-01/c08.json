@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "t-shirt",
+    "concept": "A vintage-style illustration of a sourdough starter jar labeled 'My Discard Baby' with decorative wheat stalks surrounding it",
+    "audience": "Home bakers and sourdough enthusiasts aged 25-45 who treat their starter like a pet",
+    "score": 7.2,
+    "rationale": "Sourdough culture remains strong with a passionate community. Gift-buying season approaching fall means bakers are active. Low design competition for clever starter-specific humor. Evergreen but with seasonal gifting spike."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Discard Baby\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass mason jar with a cloth-tied lid containing bubbly sourdough starter, centered composition. Decorative wheat stalks arranged symmetrically on both sides of the jar, some crossing behind. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks only: cream, rust brown, sage green, charcoal gray, and warm white. No gradients, no airbrush shading, no photorealism. Plain solid cream background with generous margin. All artwork elements connected and centered, away from edges. High contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": "My Discard Baby",
+    "style": "Bold retro serif, curved arched above the jar, integrated into the composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Discard Baby' is a colloquial, descriptive term used in home baking communities referring to sourdough starter discard. It does not reference any known registered trademark, brand, celebrity, character, or protected slogan. The vintage sourdough jar illustration with wheat stalks is generic folk-art imagery with no identifiable IP concerns. The combination is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'MY DISCARD BABY' correctly spelled and complete on a mason jar illustration with wheat stalks. Text is legible, clean, and matches the required phrase exactly. No IP concerns, no quality issues, clean background suitable for garment printing."
+  },
+  "listing": {
+    "index": 8,
+    "title": "My Discard Baby Sourdough T-Shirt | Baker Gift",
+    "tags": [
+      "sourdough t-shirt",
+      "baker shirt",
+      "bread baking shirt",
+      "funny baker tee",
+      "sourdough starter shirt",
+      "artisan bread shirt",
+      "home baker gift",
+      "kitchen humor shirt",
+      "baking enthusiast tee",
+      "vintage baker style",
+      "discard recipe shirt",
+      "sourdough culture",
+      "bread lover gift"
+    ],
+    "description": "Celebrate your special relationship with your sourdough starter. This vintage-style tee features an illustrated starter jar labeled 'My Discard Baby' surrounded by decorative wheat stalks. Perfect for home bakers aged 25-45 who treat their culture like a beloved pet. Comfortable fit for wearing while baking or casual daily wear. Ideal gift for sourdough enthusiasts and anyone passionate about artisan bread baking."
+  },
+  "products": {
+    "shopify": "6a6e0c176034b672c903b88f"
+  }
+}

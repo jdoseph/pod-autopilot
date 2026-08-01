@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Book Club and Reading Culture",
+    "product_type": "tote",
+    "concept": "A minimalist tote with stacked illustrated book spines forming a skyline and text 'My Emotional Support Stack'",
+    "audience": "Avid readers and book club members who carry books everywhere and identify strongly with their reading habit",
+    "score": 7.7,
+    "rationale": "Readers famously use totes for book transport making this contextually excellent. 'Emotional support' phrasing is culturally resonant right now. Skyline concept is visually fresh in the book niche. Holiday gifting window makes book-themed gifts spike in fall."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Emotional Support Stack\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist book skyline: 8-10 stacked book spines of varying widths and heights arranged side-by-side to form a city skyline silhouette. Each spine is a solid color block with a thin contrasting horizontal line representing the book title area. Use a limited palette of 4 colors: charcoal gray, burnt orange, forest green, and cream. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain white background with generous margin around all edges. Design reads clearly at 12\u00d716 inches from across a room. All artwork elements connected and away from the edges. Below the skyline, centered text in bold retro serif typeface. No other elements, no busy backgrounds, no drop shadows.",
+    "text_on_design": "My Emotional Support Stack",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks only: charcoal gray, burnt orange, forest green, cream. No gradients, no airbrush shading, no photorealism."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Emotional Support Stack' is a generic humorous construction playing on the popular 'emotional support [item]' meme format, which is a common colloquial expression rather than a protected trademark or slogan. The illustrated book spines skyline concept is a widely used generic artistic motif with no specific IP association. No known registered trademarks exist for this exact phrase, and it does not reference any specific book titles, characters, brands, or celebrity likenesses. The design concept is sufficiently original and generic to pose minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'MY EMOTIONAL SUPPORT STACK' correctly spelled and complete. The illustration shows a clean row of stylized books in muted earth tones (navy, terracotta, cream, green) with a simple flat/line art style. No IP risk, no quality issues, no garbled text, no anatomical elements, and the plain light background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "My Emotional Support Stack Tote | Book Lover Bag",
+    "tags": [
+      "book tote bag",
+      "book club gift",
+      "reader tote",
+      "book lover gift",
+      "literary tote bag",
+      "bookworm gift",
+      "reading gift",
+      "minimalist book tote",
+      "book spine design",
+      "literary gift",
+      "book collection tote",
+      "reader appreciation",
+      "book nerd gift"
+    ],
+    "description": "The perfect companion for book lovers who carry their reading everywhere. This tote features an illustrated book spine skyline with 'My Emotional Support Stack' text, capturing the joy of curating your personal library. Durable construction holds heavy books and daily essentials. Ideal gift for book club members, avid readers, and anyone who identifies their emotional state by their current read."
+  },
+  "products": {
+    "shopify": "6a6e0bbb6034b672c903b81c"
+  }
+}

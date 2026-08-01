@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Fall Hiking",
+    "product_type": "t-shirt",
+    "concept": "A silhouette of a lone hiker on a ridge surrounded by illustrated falling leaves with text 'Gone to the Mountains, Back Never'",
+    "audience": "Outdoor hikers and trail runners who specifically celebrate autumn hiking season",
+    "score": 7.5,
+    "rationale": "Perfect 6-8 week timing alignment with fall hiking season peaking September-October. Seasonal specificity creates urgency. Hiking apparel is a proven POD category. Sentiment resonates deeply with the audience identity."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Gone to the Mountains, Back Never\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a solitary hiker silhouette standing on a mountain ridge, arms raised in celebration. Surround the figure with 12-15 stylized falling leaves of varying sizes scattered throughout the composition. Use solid color blocks with no gradients or shading. Color palette: deep forest green, burnt orange, golden yellow, charcoal black, and cream. All elements centered and unified in the middle of the composition with generous white margin. Plain cream solid background. Screen-print aesthetic with bold simple shapes and sharp clean edges. High contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": "Gone to the Mountains, Back Never",
+    "style": "Bold retro sans-serif arched above the hiker silhouette, integrated into the composition as a single unified design element, not floating separately"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The silhouette of a lone hiker with falling leaves is a generic outdoor/nature illustration with no reference to specific brands, characters, or protected imagery. The phrase 'Gone to the Mountains, Back Never' is a humorous twist on the common colloquial expression 'gone to the mountains, back never' or variations thereof, and does not appear to be a registered trademark or protected slogan. It evokes general outdoor adventure sentiment without referencing any specific brand, celebrity, team, or licensed property. The design concept is fully original and low risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'Gone to the Mountains, Back Never' \u2014 correctly spelled and complete. The design features clean typography, generic autumn leaf motifs, a silhouetted hiker figure, and a neutral background suitable for garment printing. No IP concerns, no quality issues."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Gone to the Mountains T-Shirt | Autumn Hiking Tee",
+    "tags": [
+      "hiking t-shirt",
+      "fall hiking gift",
+      "mountain shirt",
+      "autumn adventure tee",
+      "trail runner shirt",
+      "outdoor lover gift",
+      "hiking gift",
+      "fall leaves shirt",
+      "mountains tee",
+      "adventure shirt",
+      "seasonal hiking gift",
+      "nature lover tee",
+      "trail enthusiast"
+    ],
+    "description": "Capture the essence of autumn trail adventures with this striking hiking tee. Features a lone silhouette on a mountain ridge surrounded by falling leaves, perfect for celebrating your passion for fall hiking season. Comfortable fit ideal for wearing on the trail or around town. Great gift for hikers, trail runners, and outdoor enthusiasts who embrace the mountains during peak leaf season."
+  },
+  "products": {
+    "shopify": "6a6e0bdc96c48b9e620c07c5"
+  }
+}
