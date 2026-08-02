@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "mushroom foraging",
+    "product_type": "mug",
+    "concept": "Hand-illustrated chanterelle mushroom with morning dew drops and the text 'Golden Hour Forager' in earthy serif type",
+    "audience": "Foragers and cottagecore aesthetic fans who enjoy slow-living morning routines",
+    "score": 7.6,
+    "rationale": "Chanterelles are peak fall fungi and highly recognizable, the golden color of chanterelles ties visually to morning coffee, cottagecore audience buys mugs as aesthetic objects, good seasonal timing, illustration style commands premium positioning"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Golden Hour Forager\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a single chanterelle mushroom centered on composition. The mushroom features a golden-yellow cap with bold orange accent stripes, a cream-colored stem, and 3-4 small dewdrops in light blue scattered across the cap. Simple circular shapes for dewdrops with crisp edges. Solid color blocks only, no gradients, no shading, no photorealism. Limited palette: golden yellow, burnt orange, cream, light blue, forest green. Plain warm beige background, uniform and distinct from all artwork colors. Generous margins around the mushroom. Design readable at 12x16 inches from across a room. Screen-print aesthetic with bold simple shapes and high contrast.",
+    "text_on_design": "Golden Hour Forager",
+    "style": "Bold earthy serif type, arched above the mushroom illustration in burnt orange, maximum 6 words, crisp edges matching screen-print aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Golden Hour Forager' is a descriptive, generic combination of common English words with no known trademark associations. Chanterelle mushroom illustration with dew drops is generic nature art. No celebrity, brand, character, sports team, lyric, or protected slogan elements are present. The earthy serif typography direction is stylistic and non-infringing. Overall concept is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'GOLDEN HOUR FORAGER' correctly spelled across four lines. The mushroom illustration is a clean, original cartoon-style design with no IP concerns. Text is legible, anatomy of the mushroom is well-rendered, and the cream background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Golden Hour Forager Chanterelle Mushroom Mug",
+    "tags": [
+      "mushroom foraging mug",
+      "chanterelle illustration",
+      "cottagecore mug",
+      "forager gift",
+      "morning ritual mug",
+      "slow living aesthetic",
+      "wild mushroom art",
+      "golden hour design",
+      "nature illustration mug",
+      "earthy home decor",
+      "foraging hobby gift",
+      "botanical mug",
+      "mycology enthusiast"
+    ],
+    "description": "Lovely ceramic mug showcasing a hand-illustrated chanterelle mushroom with delicate morning dew drops and 'Golden Hour Forager' text in earthy serif typography. Captures the peaceful essence of dawn foraging and slow-living mornings. Ideal for cottagecore enthusiasts, foragers, and nature lovers who appreciate honest, beautiful design and morning rituals. Everyday ceramic that doubles as d\u00e9cor."
+  },
+  "products": {
+    "shopify": "6a6f5dcc61c536d9a50c1ec1"
+  }
+}

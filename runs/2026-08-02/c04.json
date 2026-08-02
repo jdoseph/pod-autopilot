@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "sourdough baking",
+    "product_type": "mug",
+    "concept": "A cartoon personified sourdough starter jar with eyes and arms labeled 'My Other Child' in hand-lettered script",
+    "audience": "Obsessive home bakers who treat their sourdough starter like a pet or family member",
+    "score": 7.8,
+    "rationale": "This mug targets the extremely specific and self-aware humor of sourdough enthusiasts who openly joke about nurturing their starter, gifting potential is high, the personification angle is charming and distinct, less saturated than shirt equivalents in this niche"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Other Child\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cheerful personified sourdough starter jar with a round glass body, centered composition. The jar has two large circular eyes with bold black pupils, a small curved smile, and two arms raised in a friendly wave. The jar contains visible bubbly starter culture shown as simple white circles. Solid color palette: cream jar body, warm tan starter interior, black eyes and smile, terracotta arms. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold screen-print aesthetic with clean sharp edges and high contrast. Plain solid light gray background, artwork centered with generous margins, all elements connected and away from edges.",
+    "text_on_design": "My Other Child",
+    "style": "Hand-lettered script in black, curved along the top of the jar in a warm, personal style. Bold retro serif aesthetic."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Other Child' is a common generic humorous expression and does not appear to be a registered trademark. The cartoon personified sourdough jar concept is an original creative illustration with no references to protected characters, brands, or slogans. The hand-lettered script styling is a common design approach. No identifiable IP risks detected."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'MY OTHER CHILD' correctly spelled across the composition (MY above the jar, OTHER CHILD on the jar body). The artwork is a clean, original cartoon illustration of an anthropomorphized sourdough starter jar with expressive eyes and raised hands \u2014 a common novelty/humor motif with no IP concerns. Text is clear and legible, anatomy is stylized but intentional, and the composition is suitable for garment printing against a simple background."
+  },
+  "listing": {
+    "index": 4,
+    "title": "My Other Child Sourdough Starter Mug",
+    "tags": [
+      "sourdough baking mug",
+      "starter culture gift",
+      "baker humor mug",
+      "sourdough lover gift",
+      "fermentation enthusiast",
+      "home baker mug",
+      "baking hobby mug",
+      "cottage baker gift",
+      "personified starter design",
+      "bread baker accessory",
+      "kitchen humor mug",
+      "artisan baker gift",
+      "baking community"
+    ],
+    "description": "Whimsical ceramic mug features a cartoon personified sourdough starter jar with eyes and arms labeled 'My Other Child' in playful hand-lettered script. Perfect for obsessive home bakers who nurture their starters like family members. Whether you're tracking feeding schedules, perfecting your levain, or just celebrating your sourdough obsession, this mug speaks to the baker's heart. Daily-use ceramic."
+  },
+  "products": {
+    "shopify": "6a6f5dbd61c536d9a50c1eb9"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "fall farmers market",
+    "product_type": "tote",
+    "concept": "Illustrated collage of autumn harvest items including pumpkins, apples, dried flowers, and honey jars with the text 'Market Haul Season' in hand-lettered script",
+    "audience": "Farmers-market shoppers, homesteaders, and slow-living lifestyle followers who attend weekend markets",
+    "score": 7.9,
+    "rationale": "Totes are the native product for farmers-market shoppers making this audience-product fit exceptionally strong, fall harvest illustration is seasonally timed perfectly, this crowd actively seeks aesthetic functional bags, gifting appeal is high for the September-October window"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Market Haul Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of autumn harvest items arranged in a balanced circular composition: two orange pumpkins with dark green stems, three red apples scattered throughout, dried wheat stalks and seedpod branches, two amber glass honey jars with cork lids, and a woven basket element. Solid color blocks with clean sharp edges, no gradients, no shading, no photorealism. Limited palette: burnt orange, deep forest green, warm honey gold, cream, and charcoal gray. All elements centered on a plain solid cream background with generous margins. Single-color screen-print aesthetic, readable at 12x16 inches from across a room.",
+    "text_on_design": "Market Haul Season",
+    "style": "Bold hand-lettered script in charcoal gray, arched below the harvest illustration, 5-6 inches wide, flowing and organic but legible, complementing the vintage farmers-market aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Market Haul Season' is a generic descriptive expression combining common everyday words with no known trademark associations. The illustrated harvest imagery (pumpkins, apples, dried flowers, honey jars) consists of generic seasonal motifs not tied to any specific brand, character, or protected creative work. No celebrity likenesses, team logos, song lyrics, or recognizable IP elements are present. The overall concept is a straightforward seasonal harvest theme that poses minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'MARKET HAUL SEASON' in three lines, correctly spelled and complete. The artwork features generic fall/harvest motifs (pumpkins, apples, wheat, mason jars) in a clean flat illustration style with no IP concerns, no anatomical issues, no artifacts, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Market Haul Season Fall Harvest Tote Bag",
+    "tags": [
+      "farmers market tote",
+      "fall harvest bag",
+      "autumn farmers market",
+      "market haul tote",
+      "homesteader gift",
+      "slow living bag",
+      "seasonal market gear",
+      "illustrated harvest tote",
+      "weekend market essential",
+      "pumpkin apple design",
+      "honey jar illustration",
+      "local market shopper",
+      "sustainable tote"
+    ],
+    "description": "Charming illustrated collage tote packed with autumn harvest imagery\u2014pumpkins, apples, dried flowers, and honey jars\u2014brought together with hand-lettered 'Market Haul Season' script. Essential for weekend farmers-market shoppers, homesteaders, and slow-living lifestyle followers. Spacious enough for full market baskets while celebrating the joy of seasonal local shopping. Perfect weekend companion."
+  },
+  "products": {
+    "shopify": "6a6f5dad9e3aa014f20a82e2"
+  }
+}

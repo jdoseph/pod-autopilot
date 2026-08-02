@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "astronomy and stargazing",
+    "product_type": "t-shirt",
+    "concept": "Dark-background shirt with a detailed hand-drawn Orion constellation map and the phrase 'I Stay Up Late for This' beneath it",
+    "audience": "Amateur astronomers and night-sky enthusiasts who attend star parties and use backyard telescopes",
+    "score": 7.1,
+    "rationale": "Orion becomes prominent in fall skies making this seasonally timed, the humor resonates with the niche's identity, dark shirts with star art have strong visual appeal on product mockups, astronomy communities are passionate buyers"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Stay Up Late for This\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of the Orion constellation map with bold geometric star points connected by clean straight lines forming the classic hunter figure. Use 4 solid colors: bright white stars, light cyan connecting lines, deep navy background, and one accent color in gold for the brightest stars (Betelgeuse and Rigel). Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a deep navy solid background with generous margins. The constellation lines form a connected unified shape in the center. All elements stay away from edges. Design reads clearly at 12x16 inches from across a room. Screen-print aesthetic with sharp clean edges and high contrast.",
+    "text_on_design": "I Stay Up Late for This",
+    "style": "Bold sans-serif, all caps, solid white, positioned directly below the constellation in a horizontal line, simple and legible"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The Orion constellation is a public domain astronomical subject with no trademark concerns. The phrase 'I Stay Up Late for This' is a generic humorous expression commonly used in everyday language and does not appear to reference any known trademark, slogan, brand, celebrity, or protected intellectual property. The combination of a star map with this casual observational humor is a common genre in astronomy-themed apparel and presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'I STAY UP LATE FOR THIS' which matches the required phrase exactly (case-insensitive). Text is clean, correctly spelled, and complete. The constellation graphic is a generic astronomical motif with no IP concerns. Clean dark background suitable for garment printing. No quality issues detected."
+  },
+  "listing": {
+    "index": 7,
+    "title": "I Stay Up Late Orion Constellation Stargazing T-Shirt",
+    "tags": [
+      "astronomy t-shirt",
+      "stargazing gift",
+      "constellation shirt",
+      "Orion map design",
+      "night sky enthusiast",
+      "amateur astronomer",
+      "star party tee",
+      "telescope hobby shirt",
+      "astrology lover gift",
+      "star chart illustration",
+      "night sky art tee",
+      "backyard astronomy",
+      "celestial enthusiast"
+    ],
+    "description": "Eye-catching t-shirt featuring a detailed hand-drawn Orion constellation map against a dark background with 'I Stay Up Late for This' text below. Perfect for amateur astronomers, backyard telescope observers, and night-sky enthusiasts who attend star parties and midnight viewing sessions. The beautiful constellation artwork appeals to those who find magic in dark skies and celestial observation. High-quality, comfortable daily wear."
+  },
+  "products": {
+    "shopify": "6a6f5ded9e3aa014f20a8321"
+  }
+}

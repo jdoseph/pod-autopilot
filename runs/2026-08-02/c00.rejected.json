@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "mushroom foraging",
+    "product_type": "tote",
+    "concept": "Large-format botanical illustration of a wicker foraging basket filled with wild mushrooms, ferns, and acorns with the text 'Sunday Foraging Co.' in vintage stamp style",
+    "audience": "Foragers, cottagecore shoppers, and farmers-market regulars who use totes as a lifestyle accessory",
+    "score": 8.4,
+    "rationale": "A foraging tote is literally functional for the target activity, autumn foraging season aligns perfectly with the buying window, the vintage stamp branding style feels premium and giftable, farmers-market and nature communities overlap heavily here, strong visual impact on a tote format"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Sunday Foraging Co.\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a wicker foraging basket centered on a cream background. The basket is filled with wild mushrooms in cream, rust, and sage green, interspersed with fern fronds in forest green and acorns in tan and brown. Basket weave shown with clean geometric lines. Solid color blocks only, no gradients, no shading, no photorealism. High contrast, screen-print aesthetic. Bold simple shapes with sharp clean edges. Composition is single centered with generous margins, readable at 12x16 inches from across a room. All elements connected and away from edges. Background is plain uniform cream, distinctly separate from all artwork colors.",
+    "text_on_design": "Sunday Foraging Co.",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: cream, rust, sage green, forest green, tan, brown. Solid color blocks, no gradients, no airbrush shading, no photorealism. Text in vintage stamp style serif font, arched below the basket illustration."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The botanical illustration elements (wicker basket, wild mushrooms, ferns, acorns) are generic nature imagery with no IP concerns. The text 'Sunday Foraging Co.' appears to be a generic descriptive business name combining a common day of the week with a generic activity and the word 'Co.' \u2014 no known trademark conflict identified. The vintage stamp style treatment is a common design aesthetic not protected by IP. No celebrity likenesses, brand references, character IP, song lyrics, or distinctive protected slogans are present. Low risk overall."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text 'SUNDAY' is split into 'SUN' and 'DAY' by the basket handle, making it read as two separate words rather than the single word 'SUNDAY' as required. The text does not display exactly as specified."
+  }
+}

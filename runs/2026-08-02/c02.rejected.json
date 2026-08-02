@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "bird watching",
+    "product_type": "mug",
+    "concept": "Scientific-illustration style panel of five backyard bird species with the text 'Morning Flock Report' across the top",
+    "audience": "Birdwatchers and nature lovers who enjoy morning coffee rituals and garden wildlife observation",
+    "score": 8.1,
+    "rationale": "Birding is a massive and growing hobby with an older demographic that buys gifts readily, scientific illustration style has proven POD appeal, the 'morning report' framing perfectly ties the hobby to mug use, autumn migration season adds timely relevance, low direct competition at this specific angle"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Morning Flock Report\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five backyard bird species arranged in a horizontal panel, scientific-illustration style with clean line work and solid color blocks. Left to right: American Robin with red breast, Black-capped Chickadee with white cheeks, Northern Cardinal with crest, Blue Jay with bold markings, and Mourning Dove with spotted wings. Each bird shown in profile or three-quarter view, anatomically simple but recognizable, bold outlines, no gradients or shading. Palette: warm tan, forest green, robin red, steel blue, charcoal black, white. Single centered composition on solid cream background with generous margins, all birds connected in a cohesive row, readable at 12x16 inches from across a room.",
+    "text_on_design": "Morning Flock Report",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks only, no gradients, no airbrush shading, no photorealism, scientific illustration line work"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Morning Flock Report' is a generic, descriptive expression with no known trademark associations. Scientific illustration style depictions of common backyard bird species are factual/naturalistic representations not tied to any protected IP. No celebrity, character, brand, team, or lyric references are present. The overall concept is original and low-risk for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'MORNING F**K REPORT' \u2014 the middle letters of 'FLOCK' are obscured by the birds, rendering it as 'F_CK' rather than the required complete word 'FLOCK'. The text as displayed is incomplete/missing letters and does not clearly read 'Morning Flock Report' as required."
+  }
+}
