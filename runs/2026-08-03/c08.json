@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn hiking",
+    "product_type": "mug",
+    "concept": "A wraparound illustration of a foggy forest trail in fall colors with the text 'Coffee First, Trail Next' on the handle side.",
+    "audience": "Hikers and outdoor lovers who also cherish their morning coffee ritual",
+    "score": 7.0,
+    "rationale": "Combining coffee culture with fall hiking creates a strong seasonal gifting product. Mugs are a top gift category, and this hits the buying window for both fall and early holiday shoppers."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Coffee First, Trail Next\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a foggy forest trail in autumn. Centered composition showing a winding path disappearing into mist, flanked by stylized evergreen trees and bare deciduous trees with fall foliage. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: deep forest green, burnt orange, warm cream, charcoal gray, and soft white. Single bold shape composition with generous margins on plain solid light gray background. Clean sharp edges, screen-print aesthetic, readable at 12x16 inches.",
+    "text_on_design": "Coffee First, Trail Next",
+    "style": "Bold sans-serif, all caps, positioned along the right edge of the mug handle area in charcoal gray, 0.75 inches tall, tracking slightly loose for readability on the curve."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Coffee First, Trail Next' is a generic, descriptive expression of a common sentiment combining coffee culture and hiking. It does not reference any known trademark, brand, celebrity, team, character, or protected slogan. The foggy autumn forest trail illustration is a generic nature scene with no IP-protected elements. The combination is original and presents minimal IP risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Coffee First, Trail Next' with correct spelling and no extra text. The illustration features a clean forest trail scene with evergreen and deciduous trees, suitable for garment printing. No IP concerns, no quality issues."
+  },
+  "listing": {
+    "index": 8,
+    "title": "Autumn Hiking Mug - 'Coffee First, Trail Next' Foggy Forest Wrap",
+    "tags": [
+      "hiking mug",
+      "outdoor lover mug",
+      "coffee hiker gift",
+      "fall trail mug",
+      "camping mug",
+      "forest design mug",
+      "autumn outdoor mug",
+      "nature lover coffee",
+      "hiking gift",
+      "trail aesthetic mug",
+      "outdoor enthusiast gift",
+      "foggy forest design",
+      "adventure morning mug"
+    ],
+    "description": "For hikers who cherish morning coffee rituals. This mug wraps a foggy forest trail in rich fall colors around the design, with 'Coffee First, Trail Next' on the handle side. Perfect for outdoor lovers, hikers, and nature enthusiasts who understand that coffee and adventure go hand-in-hand. Ideal for gifts to hiking friends, preparing for seasonal trail season, or daily reminders of favorite outdoor memories. A functional companion for pre-dawn hiking preparations and cozy evenings reviewing the day's adventures."
+  },
+  "products": {
+    "shopify": "6a70c35a5f59d247b60d4127"
+  }
+}

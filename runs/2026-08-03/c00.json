@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween witchy aesthetic",
+    "product_type": "mug",
+    "concept": "A black mug design featuring a cauldron filled with steam swirling into star and moon shapes with the text 'Brew of Choice' in gothic lettering.",
+    "audience": "Fans of witchy aesthetics, cottagecore, and Halloween decor who use seasonal mugs",
+    "score": 7.8,
+    "rationale": "Halloween is in the buying window and witchy aesthetic has massive sustained appeal. A seasonal mug is a high-impulse purchase and gift. The design is clean, timeless within the niche, and avoids any IP."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Brew of Choice\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a bubbling cauldron centered in composition, with swirling steam rising upward transforming into crescent moons and five-pointed stars. Bold simple shapes, solid color blocks, no gradients, no shading. Limited palette: charcoal black, deep purple, cream white, silver gray. Clean sharp edges, screen-print aesthetic, high contrast. Single centered design on plain cream background with generous margins. All elements connected and away from edges. Readable at 12x16 inches. No photorealism, no busy details.",
+    "text_on_design": "Brew of Choice",
+    "style": "Gothic serif lettering, bold weight, arched above the cauldron illustration in charcoal black"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brew of Choice' is a generic, descriptive expression with no known trademark associations. The cauldron, steam, stars, and moon imagery are common generic Halloween and witchy aesthetic elements not tied to any specific brand, character, or IP. Gothic lettering is a widely used font style with no proprietary associations. No celebrity, team, character, lyric, or registered slogan is evoked. The design appears safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'BREW OF CHOICE' correctly spelled and complete on a witch's cauldron with purple steam, stars, and a crescent moon. No IP risks, no quality issues, clean vector-style artwork suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Black Witchy Cauldron Mug - 'Brew of Choice' Gothic Steam Design",
+    "tags": [
+      "witchy mug",
+      "Halloween cauldron mug",
+      "gothic aesthetic mug",
+      "cottagecore drinkware",
+      "witchcraft themed gift",
+      "seasonal Halloween mug",
+      "moon star mug",
+      "dark academia mug",
+      "witch kitchen decor",
+      "spooky coffee mug",
+      "Halloween home decor",
+      "autumn witchy gift",
+      "black ceramic mug"
+    ],
+    "description": "Perfect for witchy aesthetic lovers and Halloween enthusiasts. This black mug features an enchanting cauldron design with steam swirling into celestial moon and star shapes, paired with 'Brew of Choice' in atmospheric gothic lettering. Great for morning coffee rituals, seasonal collections, or gifts for cottagecore fans. Ideal for Halloween decor, witchcraft enthusiasts, and anyone who celebrates spooky season year-round."
+  },
+  "products": {
+    "shopify": "6a70c2a1a18758a3e202869e"
+  }
+}

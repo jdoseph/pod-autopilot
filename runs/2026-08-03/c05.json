@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom foraging",
+    "product_type": "t-shirt",
+    "concept": "A detailed illustration of various wild mushroom species arranged in a botanical-chart style with the caption 'Amateur Mycologist' in serif font.",
+    "audience": "Foragers, cottagecore enthusiasts, and nature hobbyists who are passionate about fungi",
+    "score": 7.2,
+    "rationale": "Mushroom foraging has sustained cultural momentum. The botanical chart aesthetic is widely loved and broadly appealing beyond just foragers. Low direct design competition with this specific framing."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Amateur Mycologist\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of six wild mushroom species arranged in a symmetrical botanical chart layout. Each mushroom shows cap, stem, and gills in simple geometric forms. Species include: fly agaric with red cap and white spots, chanterelle in golden yellow, morel with honeycomb texture, puffball in cream, oyster mushroom in gray, and shiitake in dark brown. Solid color blocks, no gradients, no airbrush shading, no photorealistic detail. Bold simple shapes with clean sharp edges. Limited palette: cream, deep forest green, burnt sienna, golden yellow, dusty rose. Centered composition on a plain pale cream background with generous margins. Screen-print aesthetic, high contrast.",
+    "text_on_design": "Amateur Mycologist",
+    "style": "Bold serif font, arched above the mushroom arrangement in deep forest green, under 6 words total"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Amateur Mycologist' is a generic descriptive term referring to a hobbyist who studies fungi. It is not a known registered trademark, brand name, celebrity reference, or protected slogan. The botanical-chart illustration style featuring wild mushroom species is a common artistic approach with no identifiable IP concerns. The design concept is wholly original in its combination and presents negligible IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'AMATEUR MYCOLOGIST' \u2014 correctly spelled and complete. The design features clean, well-rendered flat-style mushroom illustrations (amanita, chanterelle, morel, button mushrooms, etc.) with no IP concerns, no anatomical issues, no artifacts, and a clean light background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Mushroom Foraging Shirt - 'Amateur Mycologist' Botanical Chart Tee",
+    "tags": [
+      "mushroom shirt",
+      "foraging tee",
+      "mycologist shirt",
+      "botanical design",
+      "nature lover shirt",
+      "cottagecore clothing",
+      "fungal species shirt",
+      "outdoor enthusiast gift",
+      "nature hobby apparel",
+      "illustrated mushroom",
+      "educational nature tee",
+      "forager gift",
+      "autumn nature shirt"
+    ],
+    "description": "For fungi enthusiasts and foragers. This tee showcases a detailed botanical-chart style illustration of various wild mushroom species with 'Amateur Mycologist' in elegant serif lettering. Perfect for nature hobbyists, foragers, and cottagecore lovers who are passionate about mycology. Makes a thoughtful gift for friends exploring mushroom identification or celebrating their connection to nature. Combines education and style for anyone fascinated by woodland fungi."
+  },
+  "products": {
+    "shopify": "6a70c3145f59d247b60d410b"
+  }
+}

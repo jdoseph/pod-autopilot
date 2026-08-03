@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Bookish fall readers",
+    "product_type": "tote",
+    "concept": "An illustration of a person buried in a pile of autumn leaves reading a book, surrounded by the text 'Currently Unavailable \u2014 Please Leave A Book Recommendation'.",
+    "audience": "Avid readers who love autumn and carry books and library hauls in tote bags",
+    "score": 7.1,
+    "rationale": "Totes are the canonical accessory for book lovers. Combining fall aesthetics with bookish humor in a seasonal tote is timely and functional. Strong gift purchase potential ahead of the holiday season."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Currently Unavailable \u2014 Please Leave A Book Recommendation\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a person sitting cross-legged, partially buried in a large pile of autumn leaves in warm oranges, deep reds, and golden yellows, reading an open book held in their hands. The figure is simplified with bold geometric shapes\u2014clean lines for the body, solid color blocks for clothing in warm earth tones. Autumn leaves in 4-5 distinct colors cascade around them in overlapping layers. Centered composition with generous white margins on all sides. Solid warm cream background. Single-color, high-contrast screen-print aesthetic with no gradients, no shading, no photorealism. Readable at 12\u00d716 inches from across a room.",
+    "text_on_design": "Currently Unavailable \u2014 Please Leave A Book Recommendation",
+    "style": "Bold sans-serif, all caps, arranged in two curved lines arching around the top and bottom of the illustration in a deep charcoal or forest green color, integrated into the composition without overwhelming the central figure."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Currently Unavailable \u2014 Please Leave A Book Recommendation' is a generic, descriptive expression of everyday humor with no association to any known trademark, brand, celebrity, character, or protected slogan. The illustration concept of a person reading in autumn leaves is a common, generic artistic trope with no IP concerns. No registered marks or protected elements are present in either the text or imagery."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'CURRENTLY UNAVAILABLE, PLEASE LEAVE A BOOK RECOMMENDATION' \u2014 the em dash (\u2014) is replaced by a comma, and the word 'A' appears lowercase-equivalent in context but more critically the punctuation differs from the required exact text which specifies an em dash. The required text must display exactly as specified including the em dash separator, not a comma."
+  }
+}

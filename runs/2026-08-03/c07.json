@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Night shift nurses",
+    "product_type": "t-shirt",
+    "concept": "A tired-looking crescent moon wearing scrubs and a stethoscope with the text 'Keeping The World Alive While You Sleep'.",
+    "audience": "Night shift healthcare workers, particularly nurses and CNAs, who bond over their unconventional schedule",
+    "score": 7.0,
+    "rationale": "Healthcare worker apparel is a consistently strong POD niche. Night shift identity is a passionate sub-identity with strong community belonging. The moon imagery is charming and avoids clich\u00e9s."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Keeping The World Alive While You Sleep\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a crescent moon character with tired, droopy eyes and a gentle expression, wearing blue medical scrubs and a stethoscope draped around its neck. The moon has a simple curved shape with minimal facial features. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: pale yellow moon, royal blue scrubs, silver-gray stethoscope, black eyes and mouth, white background. Single centered composition on plain white background with generous margin. Bold screen-print aesthetic with clean sharp edges and high contrast. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Keeping The World Alive While You Sleep",
+    "style": "Bold sans-serif block letters arched below the moon illustration in black, all caps, maximum 6 words"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The crescent moon in scrubs with stethoscope is a generic illustrative concept with no association to protected characters or brands. The phrase 'Keeping The World Alive While You Sleep' is a descriptive, original-sounding nursing/healthcare sentiment with no known trademark registration or strong association with a specific brand, song, or media property. Generic occupational humor and pride slogans of this nature are common in the print-on-demand space and do not raise significant IP concerns. No celebrity likeness or protected imagery is involved."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'KEEPING THE WORLD ALIVE WHILE YOU SLEEP' \u2014 correctly spelled and complete. The artwork features a generic cartoon crescent moon character with a stethoscope, a common motif with no IP concerns. Clean composition suitable for garment printing with no quality issues."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Night Shift Nurse Shirt - 'Keeping The World Alive' Moon Scrubs Tee",
+    "tags": [
+      "nurse shirt",
+      "night shift tee",
+      "healthcare worker apparel",
+      "nurse appreciation gift",
+      "funny nurse shirt",
+      "hospital worker tee",
+      "scrubs graphic shirt",
+      "CNA shirt",
+      "medical professional tee",
+      "tired moon design",
+      "night shift humor",
+      "healthcare gift",
+      "medical appreciation"
+    ],
+    "description": "Made for night shift heroes. This tee features a tired-looking crescent moon wearing scrubs and a stethoscope with 'Keeping The World Alive While You Sleep' \u2014 a tribute to healthcare workers' unconventional schedules. Perfect for nurses, CNAs, and medical professionals who bond over their dedication. An ideal gift for coworkers, self-appreciation wear, or recognizing the unique sacrifice of night shift work. Combines humor with genuine respect for round-the-clock care."
+  },
+  "products": {
+    "shopify": "6a70c33c9edaef50c5065c71"
+  }
+}

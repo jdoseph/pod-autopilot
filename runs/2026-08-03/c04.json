@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cozy autumn mornings",
+    "product_type": "mug",
+    "concept": "A minimalist illustration of rain on a window with fall leaves outside and the text 'Rainy Day, Warm Cup, No Plans' in a soft hand-written font.",
+    "audience": "People who romanticize slow autumn mornings and cozy domestic life, active on Pinterest and Instagram",
+    "score": 7.3,
+    "rationale": "Deeply seasonal and hitting the buying window precisely. The sentiment is highly shareable and taps into the massive 'cozy autumn' aesthetic community. Strong gifting and self-purchase appeal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Rainy Day, Warm Cup, No Plans\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a window pane with rain droplets and streaks in soft blue-gray. Outside the window, simplified autumn leaves in burnt orange, golden yellow, and deep rust red float and fall. A steaming mug silhouette in warm cream sits in the lower left corner of the window interior. Solid color blocks, no gradients, no photorealism, no drop shadows. Centered composition on a pale cream background with generous margins. Screen-print aesthetic with clean sharp edges and high contrast.",
+    "text_on_design": "Rainy Day, Warm Cup, No Plans",
+    "style": "Soft hand-written script font, curved organic letterforms, positioned in a gentle arc below the window illustration, in warm charcoal gray. Bold enough to read at 12x16 inches from across a room."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Rainy Day, Warm Cup, No Plans' is a generic, descriptive expression of a common cozy lifestyle sentiment with no known trademark associations. The individual components are everyday words, and the combination does not reference any brand, celebrity, character, slogan, or protected intellectual property. The minimalist illustration of rain, window, and fall leaves is entirely generic visual imagery. This design presents low IP risk and is suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'RAINY DAY, WARM CUP, NO PLANS' which matches the required text exactly (case-insensitive). The design is a clean, flat-style illustration featuring autumn leaves, a rainy window scene, and a mug \u2014 all generic motifs with no IP concerns. No anatomical elements, no brand logos, no recognizable characters or real persons. Text is clearly legible and correctly spelled. Composition is suitable for garment printing with a simple cream background."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Rainy Autumn Mug - 'Warm Cup, No Plans' Cozy Fall Design",
+    "tags": [
+      "cozy autumn mug",
+      "rainy day mug",
+      "fall morning coffee",
+      "minimalist fall design",
+      "slow living mug",
+      "autumn aesthetic mug",
+      "cottagecore coffee mug",
+      "self-care gift mug",
+      "window rain design",
+      "leaf aesthetic",
+      "hygge mug",
+      "autumn home decor",
+      "seasonal cozy gift"
+    ],
+    "description": "Embrace the romance of slow autumn mornings with this minimalist mug. A gentle illustration of rain on a window with fall leaves outside pairs with 'Rainy Day, Warm Cup, No Plans' in soft, flowing lettering. Perfect for Pinterest-inspired autumn aesthetics, meditation mornings, or cozy domestic routines. Ideal for gifts to friends who cherish hygge culture, self-care rituals, and seasonal home decor. Capture that peaceful 'do nothing' energy in your daily routine."
+  },
+  "products": {
+    "shopify": "6a70c3049edaef50c5065c57"
+  }
+}

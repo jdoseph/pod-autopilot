@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers market shoppers",
+    "product_type": "tote",
+    "concept": "A hand-illustrated arrangement of autumn vegetables \u2014 squash, apples, kale, and pears \u2014 framing the text 'Locally Loved' in an earthy serif font.",
+    "audience": "People who regularly shop at farmers markets and identify with sustainable, local food culture",
+    "score": 7.4,
+    "rationale": "Totes are the ideal product type for this audience by function and identity. Autumn produce makes it seasonally timely. Strong overlap with food, sustainability, and slow-living communities."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Locally Loved\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of autumn harvest vegetables and fruit arranged in a circular wreath composition: butternut squash, red apples, curly kale leaves, and pears in solid color blocks. Center features bold serif text 'Locally Loved' in earthy brown. Color palette: rust orange, forest green, deep burgundy red, warm golden yellow, cream. No gradients, no shading, no photorealism. Single centered composition on solid warm cream background with 1-inch margin all around. Screen-print aesthetic with clean sharp edges and high contrast. All elements connected, readable at 12x16 inches.",
+    "text_on_design": "Locally Loved",
+    "style": "flat vector illustration, bold simple shapes, screen-print aesthetic, solid color blocks only, no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Locally Loved' is a generic, descriptive expression commonly used in farm-to-table and agricultural contexts with no widely known trademark associations. The illustrated autumn vegetables (squash, apples, kale, pears) are generic natural subjects with no IP concerns. The earthy serif font styling is a common design choice. No celebrity, brand, character, team, or protected slogan references are present. Note: USPTO search was not performed, so a formal clearance search is recommended before large-scale production, but overall risk appears low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'LOCALLY LOVED' correctly spelled and complete. The artwork features a clean wreath-style arrangement of flat-illustrated fruits, vegetables, and leaves in warm autumn tones on a plain cream background. No IP risks, no anatomy issues, no rendering artifacts, and the text is clear and well-formed."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Farmers Market Tote - 'Locally Loved' Autumn Vegetables Bag",
+    "tags": [
+      "farmers market tote",
+      "sustainable shopping bag",
+      "local food tote",
+      "autumn vegetable design",
+      "eco-friendly bag",
+      "reusable grocery tote",
+      "farmers market gift",
+      "sustainable lifestyle",
+      "cottagecore tote",
+      "farm fresh shopping",
+      "locally sourced bag",
+      "fall produce design",
+      "earth-toned tote"
+    ],
+    "description": "Celebrate your commitment to local food culture with this charming tote. Featuring a beautiful autumn arrangement of squash, apples, kale, and pears framing 'Locally Loved' in earthy serif lettering. Designed for regular farmers market shoppers, garden lovers, and sustainable living enthusiasts. Perfect for carrying weekly hauls, gifts for earth-conscious friends, or anyone who values locally-sourced, seasonal produce. The natural color palette complements any wardrobe."
+  },
+  "products": {
+    "shopify": "6a70c2ec9b35fe95130343b8"
+  }
+}

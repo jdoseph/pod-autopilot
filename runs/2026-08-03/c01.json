@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween trick-or-treat",
+    "product_type": "tote",
+    "concept": "A bold graphic of a black cauldron overflowing with candy and ghosts with the text 'Haul of Horrors' in a playful spooky font.",
+    "audience": "Parents of young children and Halloween enthusiasts who want a festive and functional candy bag alternative",
+    "score": 7.6,
+    "rationale": "A tote as a trick-or-treat bag is an underserved functional angle for Halloween. Strong seasonal urgency with the holiday in the buying window. Parents and festive adults are impulse buyers in this category."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Haul of Horrors\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a large black cauldron centered in composition, overflowing with colorful candy (lollipops, wrapped candies, candy corn in bright reds, oranges, yellows, and purples) spilling over the rim and sides. Three playful white ghost shapes with simple black dot eyes float around the cauldron. Solid color blocks with no gradients, no shading, no photorealism. Limited palette: black cauldron, white ghosts, bright candy red, bright orange, bright yellow, bright purple. Bold simple shapes with clean sharp edges, screen-print aesthetic. Centered on a plain solid cream background with generous margins. Single connected composition, all elements away from edges. Artwork only, no mockup. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Haul of Horrors",
+    "style": "Bold playful spooky serif font, arched above the cauldron illustration, integrated into composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Haul of Horrors' is a common Halloween pun playing on 'Hall of Horrors' and 'trick-or-treat haul.' It does not reference any known registered trademark, brand, celebrity, character, or protected slogan. The graphic elements \u2014 a cauldron, candy, and generic ghosts \u2014 are all generic Halloween imagery with no IP associations. The overall concept is original generic Halloween merchandise suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'HAUL OF HORRORS' correctly spelled across the cauldron. The artwork is original, featuring a generic Halloween cauldron filled with candy, cartoon ghosts, and festive elements. No IP concerns, no quality issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Halloween Trick-or-Treat Tote - Cauldron Candy 'Haul of Horrors' Bag",
+    "tags": [
+      "Halloween tote bag",
+      "trick or treat bag",
+      "candy collection tote",
+      "Halloween party favor",
+      "cauldron graphic tote",
+      "spooky ghost design",
+      "reusable candy bag",
+      "family Halloween gear",
+      "trick or treat alternative",
+      "Halloween event tote",
+      "kids Halloween gift",
+      "seasonal party tote",
+      "festive Halloween bag"
+    ],
+    "description": "A fun and functional alternative to traditional candy bags. This tote features a bold graphic of a black cauldron overflowing with candy and playful ghosts, with 'Haul of Horrors' in spooky lettering. Perfect for Halloween parties, trick-or-treating adventures, or festive autumn outings. Parents and Halloween enthusiasts love the playful design combined with practical reusable functionality. Makes a memorable gift for kids and families celebrating Halloween."
+  },
+  "products": {
+    "shopify": "6a70c2b39edaef50c5065c24"
+  }
+}

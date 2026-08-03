@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween cat lovers",
+    "product_type": "t-shirt",
+    "concept": "A black cat sitting inside a carved jack-o-lantern with the phrase 'This Is My Costume' written below in a spooky serif font.",
+    "audience": "Cat owners who celebrate Halloween and enjoy humorous pet-themed apparel",
+    "score": 7.5,
+    "rationale": "Halloween is 8-9 weeks from today, hitting the buying window perfectly. Cat plus Halloween is evergreen but the humorous self-referential twist adds differentiation. High gift purchase potential."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"This Is My Costume\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cat sitting inside a carved jack-o-lantern pumpkin. The cat's silhouette is solid black with two bright yellow circular eyes glowing from within the pumpkin. The pumpkin is bright orange with a classic carved face (triangular eyes, triangular nose, wide grin). Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks only: black, bright orange, yellow, and cream. No gradients, no shading, no photorealism. Single centered composition on a plain cream background with generous margins. The design is self-contained and readable from across a room at 12x16 inches.",
+    "text_on_design": "This Is My Costume",
+    "style": "Bold spooky serif font arched below the pumpkin illustration, uppercase, high contrast with the cream background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'This Is My Costume' is a common generic humorous expression with no known trademark associations. The visual elements \u2014 a black cat inside a jack-o-lantern \u2014 are entirely generic Halloween imagery not associated with any specific brand, character, or IP. The spooky serif font styling is a common design convention for Halloween themes. No celebrity likenesses, brand names, registered characters, or protected slogans are present. This design poses minimal IP risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads 'THIS IS MY COSTUME' exactly as required, correctly spelled and complete. The artwork is a clean, original illustration of a black cat sitting inside a jack-o'-lantern pumpkin \u2014 a generic Halloween motif with no IP concerns. The illustration style is flat vector with no anatomical issues, no garbled elements, no artifacts, and a clean light background suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Black Cat Halloween Shirt - 'This Is My Costume' Jack-O-Lantern Tee",
+    "tags": [
+      "cat Halloween shirt",
+      "Halloween cat tee",
+      "jack-o-lantern shirt",
+      "pet lover clothing",
+      "funny cat shirt",
+      "Halloween costume shirt",
+      "cat owner gift",
+      "spooky cat apparel",
+      "Halloween humor tee",
+      "fall cat lover shirt",
+      "black cat design",
+      "seasonal pet shirt",
+      "Halloween gift for cat lovers"
+    ],
+    "description": "A witty pick for cat lovers who celebrate Halloween. Featuring a black cat cozily nestled inside a carved jack-o-lantern with the phrase 'This Is My Costume' below, this tee combines pet humor with seasonal charm. Perfect as a Halloween costume alternative, gift for cat owners, or festive daily wear during autumn months. The spooky serif font adds playful character without trying too hard."
+  },
+  "products": {
+    "shopify": "6a70c2cda029633c6a0f9054"
+  }
+}
