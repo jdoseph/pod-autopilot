@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Spooky Season Cats",
+    "product_type": "mug",
+    "concept": "A large black cat sitting inside a jack-o-lantern with steam rising styled as ghosts and the text 'Pumpkin Spice and Everything Spooky'",
+    "audience": "Cat-loving Halloween enthusiasts who are heavy mug purchasers",
+    "score": 8.3,
+    "rationale": "Mugs are top Halloween gift items; this buying window is ideal; cat plus pumpkin spice is highly searchable; original phrase avoids IP; gift-ready aesthetic boosts conversion"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Pumpkin Spice and Everything Spooky\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a large black cat sitting inside a carved jack-o-lantern with glowing orange face. Steam rises from the pumpkin's opening, styled as simple white ghost shapes floating upward. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges and high contrast screen-print aesthetic. Limited palette: black cat, orange pumpkin, white ghosts, yellow glowing eyes, cream background. Single centered composition on plain cream background with generous margins. Design readable at 12x16 inches from across a room. All artwork elements connected and away from edges.",
+    "text_on_design": "Pumpkin Spice and Everything Spooky",
+    "style": "Flat vector illustration, bold retro sans-serif, text arched in a gentle curve above the jack-o-lantern composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Pumpkin Spice and Everything Spooky' is a generic seasonal play on the common nursery rhyme phrase 'sugar and spice and everything nice,' which is in the public domain. No specific brand, trademark, celebrity, character, or protected slogan is referenced. The visual elements described (black cat, jack-o-lantern, ghost-styled steam) are all generic Halloween imagery with no identifiable IP attachments. The design concept is cleared for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text is garbled and incomplete. Instead of 'Pumpkin Spice and Everything Spooky', the design shows 'PUMPKIN SPICE AND EVERYT SPTNG SP' \u2014 the words 'Everything' and 'Spooky' are truncated and malformed, with letters missing and text cut off by the pumpkin illustration."
+  }
+}

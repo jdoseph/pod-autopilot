@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Witchcraft Practitioners",
+    "product_type": "tote",
+    "concept": "A celestial illustration of an open grimoire, crystals, and dried herbs with 'What's In My Bag Is None Of Your Business' in spooky serif type",
+    "audience": "Modern witches and occult-curious shoppers who use totes as everyday carry",
+    "score": 8.4,
+    "rationale": "Halloween window is ideal; the humorous privacy phrase subverts expectations and creates shareability; witchcraft community actively seeks identity accessories; tote is perfect use case"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"What's In My Bag Is None Of Your Business\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an open grimoire centered in composition, pages glowing with mystical symbols, surrounded by geometric crystals in sharp angular forms and bundles of dried herbs tied with thin lines. Solid color blocks: deep purple, gold, sage green, cream, and black. No gradients, no airbrush shading, no photorealism. Single centered design on plain cream background with generous margin. High contrast screen-print aesthetic with bold simple shapes and clean sharp edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "What's In My Bag Is None Of Your Business",
+    "style": "Bold spooky serif typeface arched above the grimoire illustration, all capitals, high contrast against background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'What's In My Bag Is None Of Your Business' is a generic humorous expression of personal privacy with no known trademark registration or association with a specific brand, celebrity, or protected IP. The celestial grimoire and crystal illustration concept uses common witchy aesthetic elements that are widely used in the public domain. No trademarks, brand references, celebrity likenesses, character IP, or protected slogans are present. The design concept is cleared for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text rendering error: the book pages display 'YOOF YOUR' instead of 'OF YOUR', making the full phrase read incorrectly. The required text 'What's In My Bag Is None Of Your Business' is not correctly rendered."
+  }
+}

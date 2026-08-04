@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Season Cats",
+    "product_type": "t-shirt",
+    "concept": "A silhouette of three cats sitting on a crescent moon surrounded by bats with 'Familiar Energy' in gothic lettering",
+    "audience": "Cat owners who heavily celebrate Halloween starting in September",
+    "score": 8.1,
+    "rationale": "Halloween buying window opens exactly now (6-8 weeks out); cat plus Halloween is perennial top performer; familiar energy phrase is original and witchy without IP risk"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"FAMILIAR ENERGY\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of three cat silhouettes sitting together on a crescent moon, surrounded by 8-10 flying bats in a circular composition. Solid color blocks, no gradients, no airbrush shading, no photorealism. Color palette: deep purple, charcoal black, pale cream, burnt orange. All elements unified and centered with generous margin on plain solid cream background. Screen-print aesthetic with bold simple shapes and clean sharp edges. Single centered composition readable at 12x16 inches from across a room.",
+    "text_on_design": "FAMILIAR ENERGY",
+    "style": "Bold gothic serif lettering arched below the moon and cats, all caps, integrated into the composition without floating elements"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Familiar Energy' is a generic, descriptive phrase combining common words with no known trademark registration or strong association with a specific brand, product, or IP holder. The visual elements \u2014 cat silhouettes, crescent moon, and bats \u2014 are all generic Halloween/witchy aesthetic components widely used in public domain folk art and decorative design. Gothic lettering is a common typographic style. No celebrity likenesses, sports teams, movie characters, song lyrics, or registered brand names are referenced. The concept as a whole is an original combination of generic elements with low IP conflict risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'FAMILIAR ENERGY' correctly spelled and complete. The artwork features generic Halloween motifs (cat silhouettes, bats, crescent moon) with no IP concerns. Text is clean and legible, composition is well-executed with no quality issues."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Three Cats Crescent Moon T-Shirt - Gothic Familiar Energy",
+    "tags": [
+      "cat moon t-shirt",
+      "Halloween cat shirt",
+      "gothic cat design",
+      "familiar energy tee",
+      "black cat silhouette",
+      "spooky cat apparel",
+      "crescent moon cat",
+      "bat design shirt",
+      "witch cat fashion",
+      "occult cat tee",
+      "goth cat clothing",
+      "seasonal cat shirt",
+      "cat owner gift"
+    ],
+    "description": "Embrace your inner familiar with this gothic tee featuring three black cat silhouettes perched on a crescent moon surrounded by bats. Bold 'Familiar Energy' lettering in gothic typeface completes the mystical aesthetic. Perfect for cat owners who celebrate Halloween year-round, starting in September. Comfortable everyday wear that works as a casual statement piece or gift for witchy friends. Great for Halloween parties, spooky season outings, cat cafes, or layering with your favorite jacket. Ideal present for goth fashion lovers, cat enthusiasts, occult-curious individuals, and anyone who embodies that magical, feline energy."
+  },
+  "products": {
+    "shopify": "6a7210adf4ccc71d6801ef38"
+  }
+}

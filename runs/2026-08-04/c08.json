@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn Hiking",
+    "product_type": "t-shirt",
+    "concept": "A worn vintage-style illustration of a forest trail with falling leaves and the text 'Find Me Where the Leaves Fall'",
+    "audience": "Outdoor enthusiasts and hikers who celebrate fall season trails",
+    "score": 7.2,
+    "rationale": "Fall hiking gear purchases peak in September; passionate niche with consistent search volume, low design saturation for trail-specific autumn themes"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Find Me Where the Leaves Fall\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a forest trail winding through tall pine trees, with autumn leaves scattered and falling across the composition. Bold simple shapes with clean sharp edges, screen-print aesthetic. Limited color palette: forest green, burnt orange, warm tan, and deep charcoal. Solid color blocks only, no gradients, no airbrush shading, no photorealism. Single centered composition on a plain cream background with generous margins. Artwork elements connected and away from edges. Worn vintage look achieved through slightly irregular line weights and solid color blocking. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Find Me Where the Leaves Fall",
+    "style": "Bold condensed sans-serif, all caps, arched above the trail illustration in charcoal, maintaining the vintage worn aesthetic with slightly rough edges to match the illustration's character"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Find Me Where the Leaves Fall' is a generic poetic expression with no known trademark associations, celebrity connections, or protected IP. The vintage forest trail illustration concept is a common aesthetic in print-on-demand with no distinctive protected elements. The combination of natural imagery and this original phrase poses minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Find Me Where The Leaves Fall' \u2014 correctly spelled and complete. The typography is clean and legible, the autumn forest illustration is original and generic, no IP concerns, no anatomy issues, no artifacts. Clean cream background suitable for garment printing."
+  },
+  "listing": {
+    "index": 8,
+    "title": "Autumn Forest Trail Hiking Shirt - Vintage Falling Leaves",
+    "tags": [
+      "autumn hiking shirt",
+      "fall trail t-shirt",
+      "forest hiking apparel",
+      "vintage outdoor design",
+      "leaf fall tee",
+      "outdoor enthusiast shirt",
+      "seasonal trail shirt",
+      "hiking gift apparel",
+      "nature path design",
+      "forest illustration",
+      "fall fashion hiking",
+      "outdoor adventure shirt",
+      "seasonal apparel gift"
+    ],
+    "description": "Celebrate autumn trails with this vintage-style hiking tee. Features a worn, atmospheric illustration of a forest trail lined with falling leaves and the text 'Find Me Where the Leaves Fall.' Perfect for outdoor enthusiasts, hikers, and anyone who treats fall season as the ultimate adventure window. Comfortable everyday wear that transitions from trail days to casual outings. Ideal gift for hiking friends, outdoor adventure lovers, fall celebrants, or anyone who marks time by seasonal trail conditions. Great for hiking clubs, outdoor skill-sharing events, or motivating autumn adventures. Works as a perfect layer under jackets or standalone for mild fall days."
+  },
+  "products": {
+    "shopify": "6a7211032ae1dd52910b4e2d"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "A detailed botanical-style illustration of five foraged mushrooms labeled by species with 'Field Notes' as the header",
+    "audience": "Mycology hobbyists and foragers who treat the craft seriously",
+    "score": 7.6,
+    "rationale": "Mushroom foraging has surged as a hobby; fall is prime foraging season aligning with the buying window; botanical aesthetic commands premium perceived value"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"FIELD NOTES\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five foraged mushrooms arranged in a vertical line down the center, each mushroom rendered as simple bold geometric shapes with clean sharp edges. Each mushroom has a distinct silhouette: one tall thin chanterelle, one round puffball, one classic fly agaric with spots, one shelf fungus, one delicate coral mushroom. Solid color blocks only, no gradients or shading. Color palette: cream, forest green, rust orange, deep burgundy, charcoal black. Plain cream background with generous margins on all sides. All mushrooms connected and clustered in center composition, away from edges. High contrast, screen-print aesthetic, readable from across a room at 12x16 inches.",
+    "text_on_design": "FIELD NOTES",
+    "style": "Bold retro serif lettering centered above the mushroom illustrations in charcoal black. Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks with no gradients, no photorealistic detail, no drop shadows."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Botanical-style illustration of generic foraged mushroom species is purely educational/decorative artwork with no IP concerns. 'Field Notes' is a common generic phrase used descriptively in naturalist and scientific contexts. While Field Notes is a brand of notebooks, the phrase itself is a common descriptive term and its use here as a header for a botanical illustration is a distinct non-trademark use unlikely to cause confusion. The mushroom species labels would be standard scientific/common names which are not protectable. Overall composition presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "high",
+    "reason": "The text 'FIELD NOTES' directly references the well-known 'Field Notes' brand (a popular notebook/stationery brand with registered trademarks). This design appears to evoke or trade on that brand identity, presenting a significant IP risk."
+  }
+}

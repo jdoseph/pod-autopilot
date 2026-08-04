@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Independent Bookshops",
+    "product_type": "tote",
+    "concept": "An illustrated row of mismatched book spines with the text 'My Wallet Is Empty. My Shelf Is Full. No Regrets.'",
+    "audience": "Bibliophiles and indie bookshop regulars who use totes as their primary bag",
+    "score": 8.2,
+    "rationale": "Bookish tote is one of the highest-converting POD niches; the self-aware humor is original; no IP risk; tote is the canonical bibliophile accessory; fall reading season boosts relevance now"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Wallet Is Empty. My Shelf Is Full. No Regrets.\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of seven colorful mismatched book spines standing upright in a row, each spine a different solid color and width with simple geometric shapes representing book titles and author names in minimal text. Books lean and tilt at slightly different angles suggesting a lived-in shelf. Solid color blocks only, no gradients, no shading, no photorealism. High contrast screen-print aesthetic with bold simple shapes and clean sharp edges. Centered composition on a plain solid cream background with generous margins. Design readable at 12x16 inches from across a room. All book spines connected and away from edges.",
+    "text_on_design": "My Wallet Is Empty. My Shelf Is Full. No Regrets.",
+    "style": "Bold sans-serif type, all caps, arched in a gentle curve below the row of books. Single solid color contrasting with background, approximately 20% of total composition height."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Wallet Is Empty. My Shelf Is Full. No Regrets.' is a generic humorous sentiment about book collecting with no known trademark associations. It does not reference any brand, character, celebrity, lyric, or protected slogan. The illustrated book spines concept is a common generic design motif. 'No Regrets' alone is a common short phrase used widely across many contexts and is not exclusively associated with any single protected mark in this combination. The full phrase as constructed appears original and low-risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text on the book spines is garbled, misspelled, and malformed \u2014 showing nonsensical strings like 'MY WALLLEETSI', 'WIEE ELIVIS', 'MET AOIHER\u0422', 'NE S ISUHLIS', 'SSHEEL FELIT', 'U MII HUI IMBH', 'NN NY SASHEATA', 'W8NHRIIIH' \u2014 none of which correctly render the required phrase 'My Wallet Is Empty. My Shelf Is Full.' The only legible text is 'NO REGRETS.' at the bottom. The design fails the text accuracy requirement."
+  }
+}

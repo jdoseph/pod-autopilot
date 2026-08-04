@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "tote",
+    "concept": "A botanical field-guide style illustration of a wicker basket filled with foraged mushrooms and the text 'Certified Fungal Enthusiast'",
+    "audience": "Mycology hobbyists who carry field bags on foraging walks and shop at nature stores",
+    "score": 7.9,
+    "rationale": "Tote is functionally perfect for foragers; fall is peak mushroom season aligning with the buying window; field-guide aesthetic is distinctive; phrase is humorous and original"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Certified Fungal Enthusiast\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a wicker basket overflowing with foraged mushrooms in botanical field-guide style. The basket is woven with simple geometric crosshatch pattern in tan and brown. Mushrooms include various species: tall chanterelles, rounded puffballs, delicate caps with gills showing underneath, some with spots. Arrangement is symmetrical and centered. Color palette: warm tan, forest green, cream, burnt orange, charcoal gray. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain cream background with 2-inch margin on all sides. Artwork elements contained away from edges. Clean sharp edges, screen-print aesthetic, bold simple shapes, high contrast.",
+    "text_on_design": "Certified Fungal Enthusiast",
+    "style": "Bold retro serif, arched above the basket illustration, charcoal gray, all caps, confident and authoritative"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Certified Fungal Enthusiast' is a generic humorous descriptor with no known trademark associations. The botanical field-guide illustration style featuring a wicker basket with foraged mushrooms is a common artistic genre. No celebrity likenesses, brand references, team logos, song lyrics, or protected characters are involved. The design is wholly original in concept and presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'CERTIFIED FUNGAL ENTHUSIAST' correctly spelled across three lines. The illustration features a clean wicker basket filled with various mushroom types and foliage in a retro flat-design style. No IP concerns, no anatomical issues, text is fully legible and accurate, clean cream background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Foraged Mushrooms Tote - Certified Fungal Enthusiast Bag",
+    "tags": [
+      "mushroom foraging tote",
+      "fungal enthusiast bag",
+      "botanical field guide",
+      "mycology canvas tote",
+      "mushroom illustration",
+      "forager carrier bag",
+      "nature enthusiast tote",
+      "field bag mushrooms",
+      "basket design tote",
+      "foraging supplies bag",
+      "botanical print tote",
+      "mycology gift",
+      "outdoor activity bag"
+    ],
+    "description": "Carry your foraged treasures in style with this botanical field-guide inspired tote. Features a wicker basket filled with detailed mushroom illustrations and bold text declaring 'Certified Fungal Enthusiast.' Durable canvas construction handles repeated hikes, mushroom expeditions, and nature store runs. Spacious interior accommodates foraging equipment, field journals, and basket loads of seasonal finds. Perfect for serious mycology hobbyists, mushroom foragers, nature educators, and anyone who treats fungi documentation as a passion. Ideal gift for mycology students, foraging course graduates, nature lovers, or mushroom enthusiasts preparing for field season. Great for farm visits, botanical gardens, and outdoor adventures."
+  },
+  "products": {
+    "shopify": "6a7210d3400498937a0f7bf7"
+  }
+}
