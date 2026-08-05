@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky season cat lovers",
+    "product_type": "t-shirt",
+    "concept": "A black cat silhouette perched on a crescent moon surrounded by tiny stars and the phrase 'Midnight Familiar' in gothic-lite lettering.",
+    "audience": "Cat owners, Halloween enthusiasts, witchy aesthetic fans aged 18-40",
+    "score": 8.1,
+    "rationale": "Halloween buying window starts late August through October. Cat plus spooky aesthetic is a proven evergreen combo with a very passionate gifting audience. Early positioning gives a sales runway advantage."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Midnight Familiar\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cat silhouette sitting upright on a white crescent moon, facing left. Surround the moon with 12-15 small five-pointed stars of varying sizes scattered around the composition. Solid color blocks, no gradients, no airbrush shading, no photorealism. Color palette: black cat and stars, white crescent moon, deep purple solid background. Single centered composition with generous margins. Clean sharp edges, high contrast, screen-print aesthetic. Bold simple shapes. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Midnight Familiar",
+    "style": "Bold gothic-lite serif lettering, arched below the moon and cat composition, uppercase, solid black, integrated with the illustration."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Midnight Familiar' is a generic evocative term combining a common time reference with a general term from witchcraft folklore. No widely known registered trademark, brand, celebrity association, or protected creative work is strongly associated with this phrase. The visual elements \u2014 black cat silhouette, crescent moon, and stars \u2014 are classic, generic Halloween and witchcraft motifs in the public domain. The gothic-lite lettering style is a common design choice with no specific IP association. Overall, this design presents low IP risk and is suitable for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'MIDNIGHT FAMILIAR' correctly spelled and complete. The artwork features a clean black cat silhouette on a crescent moon with stars \u2014 a generic witchy/Halloween motif with no IP concerns. Typography is clean and legible with no rendering artifacts. Solid purple background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Midnight Familiar Black Cat Moon T-Shirt",
+    "tags": [
+      "midnight familiar shirt",
+      "black cat t-shirt",
+      "crescent moon design",
+      "witchy graphic tee",
+      "spooky season shirt",
+      "gothic cat apparel",
+      "halloween outfit",
+      "cat lover clothing",
+      "stars moon graphic",
+      "fall fashion tee",
+      "witch aesthetic shirt",
+      "cat parent gift",
+      "spooky apparel"
+    ],
+    "description": "Channel your inner familiar with this striking design. Black cat silhouette perched on a crescent moon surrounded by tiny stars with 'Midnight Familiar' in gothic-lite lettering. Perfect for cat owners, Halloween enthusiasts, and witchy aesthetic fans. Great for Halloween parties, fall festivals, everyday wear, or as a gift. Comfortable tee that expresses your love for cats and the enchanting season."
+  },
+  "products": {
+    "shopify": "6a735f86c02c2d991d0e62f1"
+  }
+}

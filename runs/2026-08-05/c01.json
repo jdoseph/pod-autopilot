@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky season cat lovers",
+    "product_type": "tote",
+    "concept": "A large illustration of a cat sitting inside a jack-o-lantern with the text 'Familiar on Board' in playful spooky lettering on a black canvas tote.",
+    "audience": "Cat owners, Halloween lovers, witchy aesthetic fans, gift shoppers aged 18-40",
+    "score": 8.2,
+    "rationale": "Cat owners are prolific buyers of cat-themed merchandise. Halloween urgency plus evergreen cat appeal creates strong demand. Totes are practical and photogenic for social sharing, aiding organic discovery."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Familiar on Board\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cat sitting inside a carved jack-o-lantern pumpkin. The cat's body fills the interior, with pointed ears visible above the pumpkin rim and glowing yellow eyes. The pumpkin has a classic carved grin and triangle nose. Bold simple shapes, solid color blocks, no gradients, no shading, no photorealism, screen-print aesthetic with clean sharp edges and high contrast. Limited palette: black cat, bright orange pumpkin, golden yellow glow, deep purple background. Single centered composition on solid deep purple background with generous margins. All elements connected and away from edges, readable at 12x16 inches from across a room.",
+    "text_on_design": "Familiar on Board",
+    "style": "Bold playful spooky serif lettering, arched below the illustration in golden yellow with slight theatrical swash, distressed edges for witchy aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Familiar on Board' is a clever original play on the generic 'Baby on Board' style phrasing applied to a witch's familiar concept. It does not reference any known registered trademark, brand, celebrity, sports team, character, or protected slogan. The cat-in-jack-o-lantern illustration is a generic Halloween motif with no distinctive IP associations. The overall concept is original seasonal humor suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'FAMILIAR ON BOARD' correctly spelled and complete. The artwork is a clean, original Halloween-themed illustration of a black cat peeking out of a jack-o'-lantern pumpkin. No IP concerns, no quality issues, solid linework with good contrast on a flat purple background suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Familiar on Board Halloween Cat Tote Bag",
+    "tags": [
+      "halloween cat tote",
+      "jack-o-lantern design",
+      "spooky season bag",
+      "witchy tote bag",
+      "black canvas bag",
+      "cat lover gift",
+      "halloween shopping bag",
+      "familiar witch bag",
+      "gothic cat design",
+      "fall seasonal tote",
+      "cat parent gift",
+      "halloween party favor",
+      "reusable shopping bag"
+    ],
+    "description": "Celebrate spooky season with style. This large black canvas tote features a charming illustration of a cat sitting inside a jack-o-lantern with 'Familiar on Board' in playful spooky lettering. Perfect for cat owners, Halloween lovers, and witchy aesthetic fans. Use for trick-or-treat, costume parties, holiday shopping, or everyday carry. Makes an excellent gift for anyone who loves cats and embraces the Halloween spirit."
+  },
+  "products": {
+    "shopify": "6a735f708931ee6bcb0954c9"
+  }
+}

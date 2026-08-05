@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween book lover crossover",
+    "product_type": "tote",
+    "concept": "An illustrated stack of spooky books with cobwebs and a raven perched on top and the text 'Too Many Books, Not Enough Haunted Houses' in whimsical lettering.",
+    "audience": "Book lovers, Halloween enthusiasts, bookstore shoppers, library regulars aged 20-45",
+    "score": 7.6,
+    "rationale": "Books plus Halloween is an enthusiastic crossover niche with high purchasing intent. Tote is the perfect functional product for book carrying. Humorous relatable phrasing drives shareability. Strong gifting appeal heading into the season."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Too Many Books, Not Enough Haunted Houses\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a centered stack of four books with varying spine widths in solid color blocks. Books are stacked at slight angles, each a different solid color: deep purple, forest green, burnt orange, and black. A black raven with simplified geometric wings perches on top of the stack, facing forward. Delicate cobweb strands connect between the books and raven using thin lines, with small solid-color spiders. No gradients, no shading, no photorealism. Single bold line work for cobweb details. High contrast, screen-print aesthetic. Plain cream background, generous margin around the entire composition. Artwork sized to remain readable at 12\u00d716 inches from across a room.",
+    "text_on_design": "Too Many Books, Not Enough Haunted Houses",
+    "style": "Whimsical hand-drawn serif lettering, flowing and slightly curved, arched below the book stack. Bold weight, deep purple solid color. No drop shadows, no outline effects."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Too Many Books, Not Enough Haunted Houses' is an original, generic humorous expression with no known trademark registration or association with any specific brand, celebrity, or protected IP. The illustrated elements \u2014 stacked books, cobwebs, and a raven \u2014 are common generic Halloween/gothic imagery not tied to any specific trademarked character or franchise. The raven, while associated with Edgar Allan Poe's poem, is a generic bird symbol used broadly in gothic art and does not constitute a protectable character or trademark concern on its own. The whimsical lettering style is a design choice with no IP implications. This concept is suitable for print-on-demand production."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays the exact required text 'Too Many Books, Not Enough Haunted Houses' correctly spelled and complete. The artwork features generic Halloween motifs (stacked books, crow, spider webs, spiders) in a clean flat illustration style with no IP concerns. No quality issues detected."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Too Many Books Haunted Houses Halloween Tote",
+    "tags": [
+      "book lover tote",
+      "halloween books bag",
+      "spooky library tote",
+      "bookworm gift",
+      "raven cobweb design",
+      "literary tote bag",
+      "bookstore shopping bag",
+      "halloween book lover",
+      "whimsical lettering",
+      "reading gift",
+      "fall book fair",
+      "library regular",
+      "book club gift"
+    ],
+    "description": "For readers who can never have enough spooky stories. This tote features an illustrated stack of spooky books with cobwebs and a raven perched on top, with 'Too Many Books, Not Enough Haunted Houses' in whimsical lettering. Perfect for book lovers, Halloween enthusiasts, bookstore shoppers, and library regulars. Ideal for carrying your literary collection, visiting book sales, or sharing your passion for reading and the supernatural."
+  },
+  "products": {
+    "shopify": "6a735fd292cf72929f0fdb19"
+  }
+}

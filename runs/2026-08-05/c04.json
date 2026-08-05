@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Introverted bookworm fall culture",
+    "product_type": "mug",
+    "concept": "Cozy illustrated stack of books beside a steaming cup with falling leaves and the text 'Cancelled Plans, Perfect Autumn' in a warm hand-lettered style.",
+    "audience": "Bookworms, introverts, hygge lifestyle followers aged 25-45",
+    "score": 7.9,
+    "rationale": "Book-lover mugs are perennial bestsellers and the introvert-cancel-plans humor has proven virality. Fall framing makes it seasonally urgent while keeping the design evergreen enough for year-round sales."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Cancelled Plans, Perfect Autumn\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cozy autumn scene: a stack of four books tilted slightly to the left in warm earth tones (rust, ochre, deep burgundy, cream), beside a ceramic mug with steam rising in soft curved lines, surrounded by falling maple leaves in burnt orange and golden yellow. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition on a plain warm beige background with generous margin. Bold simple shapes, clean sharp edges, screen-print aesthetic, high contrast. All elements connected and away from edges.",
+    "text_on_design": "Cancelled Plans, Perfect Autumn",
+    "style": "Hand-lettered sans-serif with organic flowing letterforms, warm brown color, curved arched treatment positioned below the illustration, under 6 words, readable at 12x16 inches from across a room"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Cancelled Plans, Perfect Autumn' is a generic, original expression capturing a common relatable sentiment with no known trademark associations. The illustrated elements (stacked books, steaming cup, falling leaves) are entirely generic and widely used in seasonal cozy-themed art. No celebrity, brand, character, lyric, or protected slogan references are present. The hand-lettered autumn aesthetic is a common design style with no IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'CANCELLED PLANS, PERFECT AUTUMN' \u2014 correctly spelled and complete. The illustration features a clean, generic autumn composition (stacked books, hot mug, fall leaves) with no IP concerns, no identifiable characters or brands, no anatomy issues, and clean linework suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Cancelled Plans Perfect Autumn Coffee Mug",
+    "tags": [
+      "introvert autumn mug",
+      "cozy coffee mug",
+      "bookworm gift",
+      "fall hygge design",
+      "cancelled plans mug",
+      "autumn book lover",
+      "lazy fall day",
+      "introvert humor gift",
+      "warm lettering design",
+      "fall aesthetic mug",
+      "cozy season drinkware",
+      "library lover gift",
+      "autumn home decor"
+    ],
+    "description": "Embrace cozy autumn moments with this charming mug. Features a cozy illustrated stack of books beside a steaming cup with falling leaves and 'Cancelled Plans, Perfect Autumn' in warm lettering. Ideal for bookworms, introverts, and hygge lifestyle followers. Perfect for fall mornings, reading nooks, or gift-giving to anyone who loves quiet autumn rituals. Celebrate your favorite season with comfort and style."
+  },
+  "products": {
+    "shopify": "6a735fa992cf72929f0fdae9"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn hiking & trail culture",
+    "product_type": "t-shirt",
+    "concept": "Minimalist line-art of a mountain ridge covered in fall foliage with the phrase 'The Trail Knows' in a clean sans-serif below.",
+    "audience": "Hikers, outdoor adventurers, fall foliage chasers aged 22-50",
+    "score": 7.1,
+    "rationale": "Fall hiking peaks in September-October. Motivational trail phrases resonate with a loyal community. Design is clean and wearable; competition exists but quality execution stands out."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"The Trail Knows\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a minimalist mountain ridge silhouette with fall foliage in solid color blocks. Single jagged ridge line with triangular pine trees interspersed, some trees filled with burnt orange, deep amber, and rust red solid colors representing autumn leaves. Clean sharp edges, no gradients, no shading. Limited palette: charcoal gray for ridge outline and some trees, burnt orange, amber, rust red, and cream. Centered composition on plain white background with generous margin. High contrast, screen-print aesthetic, bold simple shapes. Below the mountain, text 'The Trail Knows' in clean modern sans-serif, lowercase, solid charcoal gray. All elements connected and away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "The Trail Knows",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks, no gradients, no airbrush shading, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'The Trail Knows' is a generic, evocative outdoor expression with no known trademark associations, celebrity ties, or brand affiliations. The minimalist mountain ridge fall foliage artwork is a common generic nature illustration style. No registered trademarks, protected slogans, character likenesses, or IP concerns are identified. The combination is original and safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'THE TRAIL KNOWS' correctly spelled and complete. The artwork features generic pine trees and mountain silhouettes in autumn colors \u2014 a common outdoor/hiking motif with no IP concerns. Text is clean and legible, composition is simple and suitable for garment printing."
+  },
+  "listing": {
+    "index": 8,
+    "title": "The Trail Knows Minimalist Fall Mountain T-Shirt",
+    "tags": [
+      "hiking trail shirt",
+      "fall foliage tee",
+      "mountain adventure",
+      "outdoor apparel",
+      "nature lover shirt",
+      "minimalist design",
+      "trail culture",
+      "fall hiking gift",
+      "ridge line graphic",
+      "outdoor enthusiast",
+      "autumn hiker",
+      "adventure clothing",
+      "nature quote shirt"
+    ],
+    "description": "Perfect for trail lovers and fall adventurers. This tee features minimalist line-art of a mountain ridge covered in fall foliage with 'The Trail Knows' in clean sans-serif lettering. Ideal for hikers, outdoor adventurers, and fall foliage chasers. Great for weekend hikes, autumn outdoor activities, or everyday wear for those who feel called by the mountains. Comfortable, versatile, and meaningful for nature enthusiasts."
+  },
+  "products": {
+    "shopify": "6a735ff35a19f210cc0f96ea"
+  }
+}

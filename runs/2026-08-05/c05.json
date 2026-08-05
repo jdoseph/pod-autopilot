@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn mushroom foraging",
+    "product_type": "mug",
+    "concept": "A wrap-around illustration of a misty forest floor with illustrated chanterelles and oyster mushrooms and the text 'Good Morning, Mycelium' on the front.",
+    "audience": "Foragers, nature lovers, cottagecore coffee drinkers",
+    "score": 7.8,
+    "rationale": "Mugs are the top gifting product for hobbyist niches. Mushroom aesthetic is highly giftable heading into fall and the holiday gifting window. Humorous morning greeting angle adds mass appeal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Good Morning, Mycelium\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a misty forest floor with golden chanterelle mushrooms and cream-colored oyster mushrooms sprouting from dark soil and moss. Composition shows mushrooms at various heights creating depth, with delicate mist wisps in soft gray-white. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: forest green, deep charcoal gray, golden yellow, cream white, and soft fog gray. Single centered composition on plain pale cream background with generous margin. Design readable at 12x16 inches from across a room. All artwork elements connected and away from edges.",
+    "text_on_design": "Good Morning, Mycelium",
+    "style": "Bold retro sans-serif, arched above the mushroom illustration, solid forest green color matching the palette"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Good Morning, Mycelium' is a generic, playful greeting combined with a common scientific term for fungal networks. It does not reference any known trademark, brand, celebrity, character, song lyric, or protected slogan. The illustrated chanterelle and oyster mushrooms are common species with no proprietary association. The overall concept is original and presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Good Morning, Mycelium' with correct spelling and punctuation. The illustration features generic mushroom artwork with grass and atmospheric clouds on a clean cream background. No IP risk detected \u2014 no recognizable characters, logos, celebrities, or protected artwork. Text is clean and legible, anatomy of mushrooms is well-rendered, and the composition is suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Good Morning Mycelium Mushroom Forest Mug",
+    "tags": [
+      "mushroom foraging mug",
+      "chanterelle oyster design",
+      "cottagecore coffee mug",
+      "nature lover gift",
+      "botanical mug design",
+      "forest floor illustration",
+      "fall foraging theme",
+      "mycelium art",
+      "misty woodland mug",
+      "autumn nature drinkware",
+      "outdoor enthusiast gift",
+      "herbalist mug",
+      "woodland aesthetic"
+    ],
+    "description": "Start your morning with a touch of nature. This mug features a wrap-around illustration of a misty forest floor with chanterelles and oyster mushrooms and 'Good Morning, Mycelium' on the front. Perfect for foragers, nature lovers, and cottagecore coffee drinkers. Celebrate your connection to the forest and your love of fungi-filled mornings. Great gift for anyone exploring nature's bounty."
+  },
+  "products": {
+    "shopify": "6a735fbce9a7431c1a017c2d"
+  }
+}

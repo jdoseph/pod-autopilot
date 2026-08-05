@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween trick-or-treat & candy culture",
+    "product_type": "tote",
+    "concept": "A vintage candy wrapper collage illustration with jack-o-lanterns and the text 'Haul Season' in retro bold lettering across the front.",
+    "audience": "Halloween enthusiasts, parents doing trick-or-treat, candy lovers, fall market shoppers",
+    "score": 8.0,
+    "rationale": "Totes are highly functional for trick-or-treat and fall market shopping. Halloween totes are an under-served segment versus apparel. 6-8 week window is ideal for Halloween purchasing. Dual-purpose gifting and utility drives conversions."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Haul Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a vintage candy wrapper collage with three jack-o-lantern faces made from simplified geometric shapes, surrounded by stylized wrapped candy pieces with bold retro patterns like stripes and polka dots. Each candy wrapper features distinct solid colors and simple geometric folds. Jack-o-lanterns have triangular eyes and curved mouths. All elements arranged in a balanced, centered composition with generous margins. Use solid color blocks only, no gradients, no shading, no photorealism. Color palette: orange, deep purple, cream, forest green, and black. Plain pale cream background, completely uniform and distinct from all artwork colors. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Haul Season",
+    "style": "Bold retro condensed sans-serif lettering, arched and centered above the candy wrapper collage, all caps, solid black with cream inline stroke for vintage pop effect"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "'Haul Season' is a generic colloquial phrase referencing Halloween candy collecting with no known trademark claims. The vintage candy wrapper collage style with jack-o-lanterns is a common decorative approach using generic Halloween imagery. No celebrity likenesses, brand names, team logos, song lyrics, or protected characters are referenced. The design concept is sufficiently original and generic to pose minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'HAUL SEASON' in two lines, correctly spelled and complete. The artwork features generic Halloween motifs (jack-o-lanterns, wrapped candies) in a clean flat illustration style with no IP concerns. Text is legible, anatomy/objects are well-formed, and the composition is suitable for garment printing against a plain light background."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Haul Season Halloween Candy Vintage Tote Bag",
+    "tags": [
+      "haul season tote",
+      "halloween candy bag",
+      "trick-or-treat tote",
+      "vintage candy design",
+      "halloween shopping bag",
+      "fall seasonal gift",
+      "retro halloween tote",
+      "family trick-or-treat",
+      "jack-o-lantern print",
+      "candy lover gift",
+      "reusable halloween bag",
+      "fall market tote",
+      "party favor bag"
+    ],
+    "description": "Capture the joy of Halloween candy season. This canvas tote features a vintage candy wrapper collage illustration with jack-o-lanterns and 'Haul Season' in retro bold lettering. Perfect for trick-or-treating, Halloween parties, candy exchanges, or fall market shopping. Ideal gift for parents, candy lovers, and Halloween enthusiasts. Durable and spacious for carrying all your seasonal treasures and treats."
+  },
+  "products": {
+    "shopify": "6a735f971014b4af8308f4c2"
+  }
+}

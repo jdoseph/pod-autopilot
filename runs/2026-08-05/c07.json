@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn mushroom foraging",
+    "product_type": "t-shirt",
+    "concept": "A vintage botanical illustration of various wild mushrooms arranged in a circular wreath with the text 'Seek & Spore' in earthy serif lettering.",
+    "audience": "Foragers, cottagecore enthusiasts, nature hobbyists aged 25-45",
+    "score": 7.4,
+    "rationale": "Foraging content explodes every September-October; mushroom aesthetics have sustained momentum on social platforms. Low IP risk, passionate community, 6-8 weeks puts us right in peak fall buying window."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Seek & Spore\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a circular wreath made of various wild mushrooms in silhouette and bold simple shapes. Include 8-10 different mushroom varieties: toadstools with spotted caps, delicate chanterelles, shelf fungi, puffballs, and morels arranged in a complete ring composition. Center is empty white space. Solid color blocks only, no gradients, no shading, no photorealism. High contrast screen-print aesthetic with clean sharp edges. Limited palette: deep forest green, warm terracotta, cream, dark charcoal brown, and pale sage. Single centered composition on a solid warm cream background with generous margin all around. Readable and impactful at 12x16 inches.",
+    "text_on_design": "Seek & Spore",
+    "style": "Bold earthy serif lettering arched along the top inner curve of the wreath, integrated into the circular composition without floating outside the design boundaries."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Seek & Spore' appears to be an original wordplay construction with no known trademark conflicts. The vintage botanical mushroom wreath illustration concept is a generic artistic style with no protected IP associations. The earthy serif lettering is a common design choice. No celebrity, brand, character, lyric, or slogan references are present. The overall concept is original and commercially safe for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'SEEK & SPORE' correctly spelled and complete. The artwork features a clean circular arrangement of illustrated mushrooms in earthy tones with bold dark green typography on a plain cream background. No IP concerns, no quality issues, no anatomical problems, and the text is fully legible and accurate."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Seek & Spore Botanical Mushroom T-Shirt",
+    "tags": [
+      "mushroom foraging shirt",
+      "seek spore tee",
+      "botanical illustration",
+      "cottagecore shirt",
+      "nature lover apparel",
+      "forager gift",
+      "woodland graphic tee",
+      "autumn nature shirt",
+      "vintage mushroom print",
+      "earthy design",
+      "nature enthusiast gift",
+      "fall outdoor wear",
+      "herbalist apparel"
+    ],
+    "description": "Celebrate your foraging adventures with this nature-inspired design. Features a vintage botanical illustration of various wild mushrooms arranged in a circular wreath with 'Seek & Spore' in earthy serif lettering. Perfect for foragers, cottagecore enthusiasts, and nature hobbyists. Ideal for sharing your passion for mushroom hunting, nature walks, or simply expressing your love of outdoor exploration. Comfortable and stylish year-round."
+  },
+  "products": {
+    "shopify": "6a735fe3dd8f554c470eb6f5"
+  }
+}

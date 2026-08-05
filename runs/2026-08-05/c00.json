@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween coffee ritual",
+    "product_type": "mug",
+    "concept": "A black mug design featuring a steaming cauldron graphic with the text 'Brewing Something Wicked' in dripping spooky lettering.",
+    "audience": "Halloween enthusiasts, coffee lovers, gothic aesthetic fans aged 20-45",
+    "score": 8.3,
+    "rationale": "Halloween mug gifting is a massive print-on-demand category. Coffee plus Halloween crossover has enormous audience overlap. Strong seasonal urgency with 6-8 week lead time hitting peak demand perfectly."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"BREWING SOMETHING WICKED\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cauldron centered on page, wide stance with three chunky legs, steam rising in bold swirling curves above the rim. Color palette: black cauldron, white steam wisps, deep purple background, acid green accent highlights on steam edges. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold retro serif letters arched above cauldron reading 'BREWING SOMETHING WICKED' in dripping style with sharp angular drips extending downward like melting wax. Single centered composition on uniform acid green solid background, generous margin on all sides, all elements connected and away from edges, high contrast screen-print aesthetic, readable at 12x16 inches from across a room.",
+    "text_on_design": "BREWING SOMETHING WICKED",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette: black, white, deep purple, acid green on solid acid green background. Bold retro serif dripping lettering."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brewing Something Wicked' is a common generic Halloween/witchcraft-themed expression. While it alludes to the well-known Shakespearean phrase 'something wicked this way comes,' it does not directly quote or reproduce it, and short common phrases of this nature are generally not protectable. The cauldron graphic is a generic Halloween symbol. No known registered trademarks on this specific phrase were identified. Overall IP risk is low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'BREWING SOMETHING WICKED' \u2014 correctly spelled and complete. The artwork features a generic witch's cauldron with steam/smoke, clean bold typography, and a simple green background. No IP concerns, no quality issues, text is fully legible and accurate."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Brewing Something Wicked Halloween Coffee Mug",
+    "tags": [
+      "halloween coffee mug",
+      "spooky cauldron design",
+      "gothic coffee cup",
+      "halloween drinkware",
+      "witchy kitchen gift",
+      "fall coffee mug",
+      "black cauldron mug",
+      "halloween barista gift",
+      "seasonal coffee lover",
+      "gothic aesthetic mug",
+      "halloween home decor",
+      "spooky kitchen essentials",
+      "coffee ritual gift"
+    ],
+    "description": "Perfect for your Halloween coffee ritual. This black ceramic mug features a steaming cauldron graphic with 'Brewing Something Wicked' in dripping spooky lettering. Ideal gift for Halloween enthusiasts, gothic aesthetic fans, and anyone who loves their coffee with a supernatural twist. Great for October entertaining, Halloween parties, or year-round spooky vibes. Makes a memorable gift for coffee lovers who embrace the darker side of fall."
+  },
+  "products": {
+    "shopify": "6a735f54e9a7431c1a017c05"
+  }
+}
