@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Season Enthusiasts",
+    "product_type": "mug",
+    "concept": "A black mug with orange illustrated haunted house, bats, and full moon that reveals a ghost when hot liquid is added, described as 'Appears When Hot' design concept with 'It's That Time of Year' text.",
+    "audience": "Halloween decoration lovers and spooky aesthetic fans",
+    "score": 8.1,
+    "rationale": "Halloween is the single biggest POD event in this buying window. Color-changing mugs are a proven bestseller format. The spooky reveal mechanic creates a gifting story that sells itself. Broad appeal with low IP risk."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"It's That Time of Year\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a haunted house scene for a color-change mug design. Show a spooky two-story house with pointed roof and crooked windows in orange, surrounded by bare twisted trees in orange, with a large full moon in pale cream behind the house. Add 3-4 bats flying across the moon in black. Below the house, illustrate a ghost figure in cream/white that will be hidden under the orange elements \u2014 position it so the ghost emerges as the dominant focal point when revealed by heat. Use solid color blocks only: orange, cream, black, and pale yellow for moon glow. No gradients, no shading, no photorealism. Bold simple shapes with sharp clean edges, screen-print aesthetic. Single centered composition on a solid dark gray background with 2-inch margin on all sides. Design must read clearly at 12x16 inches from across a room. All elements connected, nothing touching the edges.",
+    "text_on_design": "It's That Time of Year",
+    "style": "Flat vector illustration, bold simple shapes, screen-print aesthetic, solid color blocks only (orange, cream, black, pale yellow), no gradients, no shading, no photorealism, sharp clean edges, high contrast. Text in bold retro serif, arched above the haunted house composition."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'It's That Time of Year' is a generic, common seasonal expression not associated with any known registered trademark. The design elements \u2014 haunted house, bats, full moon, and ghost \u2014 are all generic Halloween iconography in the public domain. The heat-reveal ghost mechanic is a product feature, not a protected IP element. No celebrity likenesses, brand names, character references, song lyrics, or distinctive protected slogans are present. The overall concept is a straightforward seasonal novelty mug with no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'IT'S THAT TIME OF YEAR' (with 'of' in smaller caps), which matches the required phrase correctly spelled and complete. The illustration features generic Halloween motifs (haunted house, ghost, bats, bare trees, full moon) with no IP concerns. Artwork is clean, well-rendered, and suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Color Changing Halloween Mug | Hot Haunted House Reveals Ghost",
+    "tags": [
+      "color changing mug",
+      "Halloween coffee mug",
+      "haunted house mug",
+      "thermochromic mug",
+      "spooky season",
+      "ghost reveal design",
+      "hot beverage mug",
+      "Halloween gifts",
+      "seasonal mug",
+      "spooky aesthetic",
+      "it's that time of year",
+      "autumn drink wear",
+      "festive coffee cup"
+    ],
+    "description": "This black mug features an orange illustrated haunted house, bats, and full moon that transforms when filled with hot liquid\u2014revealing a hidden ghost design. Text reads 'It's That Time of Year.' Perfect for Halloween enthusiasts who love spooky season decorating and festive atmosphere. Great for October coffee, hot apple cider, or warm beverages throughout the season. Ideal Halloween gifts for spooky aesthetic fans and seasonal decoration lovers who embrace all things autumn and spooky."
+  },
+  "products": {
+    "shopify": "6a75f307b95c5e348d0bfda7"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "mug",
+    "concept": "A hand-lettered mug reading 'Fed My Starter Before I Fed Myself' with a small illustrated jar of bubbling sourdough.",
+    "audience": "Dedicated sourdough bakers who treat their starter as a pet",
+    "score": 7.6,
+    "rationale": "This taps directly into a real, widely-shared joke within the sourdough community. Mugs are the #1 gifting item for this demographic. The concept requires zero explanation for the target audience and photographs well for social sharing."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fed My Starter Before I Fed Myself\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass jar with a metal lid containing bubbling sourdough starter, positioned center-left. The jar shows active fermentation with 3-4 large white bubbles emerging from tan dough. Above and wrapping around the jar in a bold retro sans-serif typeface, the text 'Fed My Starter Before I Fed Myself' arches gently. Solid color palette: cream (#F5E6D3), dark brown (#2C1810), white (#FFFFFF), and warm gray (#8B7355). Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain solid light gray background with generous margins. Design elements grouped tightly together, away from edges. Screen-print aesthetic with clean sharp edges and high contrast.",
+    "text_on_design": "Fed My Starter Before I Fed Myself",
+    "style": "Bold retro sans-serif, arched above and around the jar illustration"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fed My Starter Before I Fed Myself' is a generic humorous expression referencing the common sourdough baking hobby and does not reference any known trademark, brand, celebrity, character, or protected slogan. The accompanying illustrated sourdough jar is a generic depiction with no brand-specific elements. This type of relatable baking humor is broadly considered common expression in the print-on-demand space and presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text is garbled and incorrect. Instead of 'Fed My Starter Before I Fed Myself', the design reads 'FEBBED MY STARTER I YBSELF' with missing words, misspellings, and malformed lettering. The required text is incomplete and corrupted."
+  }
+}

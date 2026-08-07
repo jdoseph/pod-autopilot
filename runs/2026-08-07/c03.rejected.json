@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "Detailed botanical-illustration style artwork of six wild mushroom varieties arranged in a grid with the text 'Field Notes' beneath.",
+    "audience": "Amateur mycologists, foragers, and nature lovers",
+    "score": 7.8,
+    "rationale": "Fall is prime mushroom foraging season, landing perfectly in the buying window. This niche is extremely passionate with strong community identity. Botanical illustration style is trending and differentiates from cartoon mushroom saturation."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Field Notes\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of six different wild mushroom varieties arranged in a 2x3 grid, each mushroom shown with stem, cap, and underside details in solid silhouettes. Simple bold outlines, no gradients or shading. Solid color blocks only. Color palette: forest green, cream, rust orange, deep brown, charcoal gray. Plain cream background with generous margins. Single centered composition. The word 'Field Notes' in bold retro serif typeface centered below the grid, arched slightly. High contrast, screen-print aesthetic, professionally designed, readable from across a room at 12x16 inches.",
+    "text_on_design": "Field Notes",
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, solid color blocks, no gradients, high contrast, screen-print aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Botanical illustration style artwork of wild mushrooms is a well-established generic art genre with no trademark concerns. The phrase 'Field Notes' is a common generic term used broadly in naturalist and scientific contexts. While a journal/notebook company named Field Notes Brand exists with trademark registrations, that mark is associated specifically with notebooks and stationery products; the risk of confusion on a print-on-demand apparel or poster design depends on product category, but the combination with original botanical mushroom illustration is sufficiently distinct in concept. However, given our conservative posture and the existence of the registered 'Field Notes' brand trademark, this warrants a medium risk classification rather than low, as the phrase alone could cause confusion on certain product types such as notebooks or journals. The artwork itself is original and non-infringing, but the text selection is the concern. Recommend either replacing 'Field Notes' with an alternative phrase such as 'Wild Specimens' or 'Forest Forage' to eliminate risk entirely, or confirming the product category does not overlap with stationery and notebooks before proceeding."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "medium",
+    "reason": "The text reads 'FIELD NOTES' in all caps, whereas the required text is 'Field Notes' with specific title case capitalization. The design does not display the text exactly as specified."
+  }
+}

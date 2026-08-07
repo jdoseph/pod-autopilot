@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "tote",
+    "concept": "A classic French-market style tote featuring a detailed engraving-style illustration of a wicker basket overflowing with wild mushrooms and the text 'Sunday Harvest' in understated serif font.",
+    "audience": "Foragers, farmers market regulars, and cottagecore lifestyle enthusiasts",
+    "score": 8.2,
+    "rationale": "Totes are the ideal product for foragers who literally carry things in the field. This design bridges the foraging niche and the broader farmers market aesthetic for wider appeal. Fall timing is perfect. The engraving style feels elevated and gift-worthy."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Sunday Harvest\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a wicker basket overflowing with wild mushrooms in engraving style. Center composition: woven basket rendered with thin parallel lines and hatching, filled with detailed mushroom varieties\u2014some spotted, some umbrella-shaped, some clustered. Solid color palette: cream, dark forest green, warm brown, and charcoal black. Solid color blocks only, no gradients, no shading, no photorealism, clean sharp edges like a woodcut. Plain cream background with generous margin around all elements. High contrast, screen-print aesthetic, readable at 12x16 inches.",
+    "text_on_design": "Sunday Harvest",
+    "style": "Flat vector illustration, engraving-style line work and hatching, bold simple shapes, high contrast, screen-print aesthetic, solid color blocks only"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design concept is entirely original and generic in nature. The engraving-style illustration of a wicker basket with mushrooms is a common decorative motif with no trademark associations. The phrase 'Sunday Harvest' is a simple, descriptive two-word combination referencing a day of the week and a common activity. It does not reference any known registered trademark, brand, celebrity, sports team, character, lyric, or protected slogan. The overall French-market aesthetic is a widely used generic style. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'SUNDAY HARVEST' correctly spelled across two lines, with clean bold typography. The illustration features a wicker basket filled with various colorful mushrooms and foliage \u2014 a common, generic motif with no IP concerns. No recognizable characters, logos, real persons, or protected artwork. Clean composition suitable for garment printing on a plain light background."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Sunday Harvest Mushroom Foraging Tote Bag | French Market Style",
+    "tags": [
+      "mushroom foraging tote",
+      "farmers market bag",
+      "cottagecore aesthetic",
+      "wild mushroom illustration",
+      "wicker basket design",
+      "sustainable shopping bag",
+      "forager gift",
+      "nature lover tote",
+      "reusable market bag",
+      "botanical print tote",
+      "sunday harvest",
+      "vintage style bag",
+      "weekend market tote"
+    ],
+    "description": "Carry your farmers market haul in style with this classic French-market tote featuring a detailed engraving-style illustration of a wicker basket overflowing with wild mushrooms. The understated serif text 'Sunday Harvest' adds timeless appeal. Perfect for foragers, market regulars, and cottagecore enthusiasts. Spacious enough for weekly shopping while celebrating your love of seasonal harvest and nature. A practical gift for anyone who frequents farmers markets or farmers market gifts, mushroom foraging gifts, or cottagecore home decor lovers."
+  },
+  "products": {
+    "shopify": "6a75f2f65fce657b0e026361"
+  }
+}

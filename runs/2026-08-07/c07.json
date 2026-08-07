@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn Hiking",
+    "product_type": "t-shirt",
+    "concept": "A minimalist mountain silhouette surrounded by falling orange and red leaves with the text 'Peak Season' in earthy typography.",
+    "audience": "Outdoor enthusiasts and hikers who love fall trail season",
+    "score": 7.2,
+    "rationale": "Fall hiking surges in September-October, squarely in the buying window. Low design saturation for autumn-specific hiking gear. 'Peak Season' is a clean double-meaning pun that resonates deeply with this crowd."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Peak Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a sharp angular mountain silhouette in dark charcoal gray, centered and tall. Surrounding the peak are 12-15 falling leaves in solid burnt orange and rust red, scattered organically around the mountain at varying heights and angles. Leaves are simple geometric shapes with clean edges. Single solid warm cream background filling the entire space with generous margins around all artwork elements. No gradients, no shading, no photorealism. High contrast, screen-print ready, bold simple shapes throughout.",
+    "text_on_design": "Peak Season",
+    "style": "Flat vector illustration, bold retro serif typography in warm tan-brown color, positioned in a curved arch below the mountain peak, solid color blocks only, screen-print aesthetic, high contrast, centered composition on plain uniform background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Peak Season' is a common generic expression used in everyday language to describe a period of high activity or optimal conditions. It does not reference any known registered trademarks, brands, celebrities, teams, characters, or protected slogans. The design elements \u2014 minimalist mountain silhouette with autumn leaves in orange and red \u2014 are generic nature motifs widely used in the public domain. The combination presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'PEAK SEASON' in bold, correctly spelled text. The composition features a clean mountain silhouette with autumn leaves on a cream background. No IP concerns, no quality issues, and the text matches the required phrase exactly."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Peak Season Hiking Shirt | Autumn Mountain Silhouette Tee",
+    "tags": [
+      "hiking t-shirt",
+      "mountain tee",
+      "autumn hiking",
+      "fall foliage shirt",
+      "outdoor enthusiast",
+      "trail shirt",
+      "nature graphic tee",
+      "peak season",
+      "hiking gift",
+      "autumn leaves print",
+      "mountain silhouette",
+      "outdoor lifestyle",
+      "seasonal hiking shirt"
+    ],
+    "description": "Minimalist mountain silhouette surrounded by falling orange and red leaves with 'Peak Season' in earthy typography. Perfect for outdoor enthusiasts and hikers who love fall trail season when foliage is at its peak and temperatures are ideal for exploring. Comfortable everyday wear celebrating your passion for hiking and nature. Makes an excellent gift for hikers, outdoor enthusiasts, birthday gifts for adventure lovers, or Christmas gifts for the trail-passionate person in your life."
+  },
+  "products": {
+    "shopify": "6a75f364ec4d44b9d801155e"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Witchy Wellness",
+    "product_type": "mug",
+    "concept": "Illustrated crescent moon with crystal cluster and botanicals, text reads 'Intentions Set. Crystals Charged. Coffee Ready.' in elegant script.",
+    "audience": "Women 25-45 interested in crystals, moon rituals, and spiritual wellness",
+    "score": 7.4,
+    "rationale": "Witchy aesthetic peaks in fall leading to Halloween and Samhain. This audience purchases heavily for seasonal rituals. The coffee ritual integration makes it a daily-use item with strong gifting appeal. Avoids oversaturated generic witch hat designs."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Intentions Set. Crystals Charged. Coffee Ready.\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a crescent moon in soft cream, with a geometric crystal cluster emerging from its curve in amethyst purple and rose gold. Delicate botanical elements\u2014eucalyptus leaves and small flowering sprigs\u2014arranged organically around the moon and crystals in sage green and dusty mauve. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition on a deep charcoal background with generous margin. High contrast, clean sharp edges, screen-print aesthetic. All artwork elements connected and away from edges.",
+    "text_on_design": "Intentions Set. Crystals Charged. Coffee Ready.",
+    "style": "Bold elegant script, lowercase flowing letters, arched gracefully beneath the illustration"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Intentions Set. Crystals Charged. Coffee Ready.' is a generic, common-style humor/lifestyle slogan combining wellness and coffee culture tropes. No known trademark on this specific phrase. The illustrated elements (crescent moon, crystal cluster, botanicals) are generic spiritual/witchy aesthetic motifs with no IP attachment to any specific brand, character, or protected work. The overall concept is a widely used genre of print-on-demand design with no identifiable trademark, celebrity, or IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text is garbled and incomplete. The word 'Crystals' is rendered as 'YSTALS' (missing the 'CR' prefix), making the text incorrect and incomplete. The required text 'Intentions Set. Crystals Charged. Coffee Ready.' is not displayed correctly."
+  }
+}

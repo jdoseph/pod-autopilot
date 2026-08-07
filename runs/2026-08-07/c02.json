@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Season Enthusiasts",
+    "product_type": "tote",
+    "concept": "An all-over print style tote featuring scattered black cats, moons, and candles on an orange background with text 'Trick or Treat Haul Bag' on the side panel.",
+    "audience": "Adults who go all-in on Halloween decor, costumes, and seasonal aesthetics",
+    "score": 7.9,
+    "rationale": "Totes as Halloween trick-or-treat or party supply carrying bags are an underserved but obvious use case. This buying window is precisely when this audience shops for Halloween accessories. Bold seasonal design encourages impulse purchasing."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Trick or Treat Haul Bag\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for tote bag all-over print. Scattered composition of black cats (sitting and walking poses), crescent moons, and tall pillar candles repeating across the entire design. Solid color blocks, no gradients, no shading. Limited palette: black cats and candles, white moons, burnt orange background. Clean sharp edges, screen-print aesthetic. Elements distributed evenly with breathing room, no busy clustering. Design works as seamless repeating pattern. Plain burnt orange background, uniform and solid.",
+    "text_on_design": "Trick or Treat Haul Bag",
+    "style": "Flat vector illustration, bold simple shapes, high contrast, screen-print aesthetic, limited solid color palette (black, white, burnt orange), no gradients, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design uses generic Halloween imagery (black cats, moons, candles) and a common seasonal phrase. 'Trick or Treat' is a well-known generic holiday expression not protectable as a trademark in this descriptive context, and 'Haul Bag' is purely functional/descriptive language. No celebrity likenesses, brand names, character IP, or distinctive protected slogans are present. The orange background with scattered Halloween motifs is a common seasonal aesthetic with no identifiable proprietary design association."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'TRICK OR TREAT HAUL BAG' \u2014 correctly spelled and complete. The design features generic Halloween motifs (black cats, candles, crescent moons) with no IP concerns. The artwork is clean, well-rendered, and suitable for print-on-demand. The orange background with black and white elements is appropriate for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Trick or Treat Haul Bag | Halloween Tote with Black Cats & Moons",
+    "tags": [
+      "trick or treat bag",
+      "Halloween tote",
+      "black cat print",
+      "orange canvas tote",
+      "spooky season bag",
+      "all-over print tote",
+      "moon and candles",
+      "costume accessory",
+      "Halloween shopping bag",
+      "seasonal canvas tote",
+      "adult Halloween decor",
+      "festive carry bag",
+      "autumn aesthetic tote"
+    ],
+    "description": "All-over print tote featuring scattered black cats, moons, and candles on an orange background with 'Trick or Treat Haul Bag' text on the side panel. This spacious bag is perfect for Halloween shopping, costume storage, or carrying treats throughout spooky season. Ideal for adults who go all-in on Halloween decor, costumes, and seasonal aesthetics. Makes a fantastic Halloween gift for seasonal enthusiasts and decoration lovers who celebrate the entire month of October in style."
+  },
+  "products": {
+    "shopify": "6a75f317b496c6ebde100046"
+  }
+}
