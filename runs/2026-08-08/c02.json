@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn Hiking",
+    "product_type": "mug",
+    "concept": "Watercolor illustration of a trail winding through peak-fall-foliage trees above the text 'Peak Conditions' in a camping-stamp font",
+    "audience": "Hikers and outdoor enthusiasts who celebrate fall foliage season aged 28-60",
+    "score": 7.8,
+    "rationale": "Timing is ideal \u2014 buyers will be searching in September for October hiking trips and fall gifts. Foliage hiking is emotionally resonant and the aesthetic translates beautifully to mugs. Seasonal specificity reduces evergreen value but maximizes near-term volume."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Peak Conditions\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a winding hiking trail cutting through a forest of tall trees with autumn foliage. Trees in solid blocks of burnt orange, deep red, golden yellow, and forest green. Trail rendered as a simple cream-colored curved path. Mountains visible in the background as solid color silhouettes in dusty blue. Single centered composition on a plain solid warm beige background with generous margins. Bold simple shapes, sharp edges, screen-print aesthetic, high contrast, no gradients, no shading, no photorealism. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Peak Conditions",
+    "style": "Bold retro stamp-style serif font arched above the illustration in solid dark brown"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Peak Conditions' is a generic descriptive term commonly used in outdoor and weather contexts with no known trademark conflicts. The watercolor trail and fall foliage illustration is a generic nature scene with no reference to specific brands, characters, celebrities, teams, or protected intellectual property. The camping-stamp font style is a common aesthetic in the outdoor apparel space and does not inherently reference any specific brand. Overall this design presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'PEAK CONDITIONS' correctly spelled and complete. The typography features a nature scene (mountains, trees, winding path) inside the letters 'PEAK', with 'CONDITIONS' in bold black below. No IP risks, no quality issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Peak Conditions Fall Foliage Hiking Mug",
+    "tags": [
+      "fall hiking mug",
+      "autumn foliage gift",
+      "outdoor enthusiast mug",
+      "watercolor hiking design",
+      "peak season coffee mug",
+      "trail hiking gift",
+      "autumn nature mug",
+      "outdoor adventure mug",
+      "hiking season gift",
+      "fall decorative mug",
+      "nature lover coffee",
+      "camping style mug",
+      "seasonal hiking gift"
+    ],
+    "description": "Celebrate peak foliage season with this watercolor illustrated mug featuring a winding trail through vibrant fall trees. 'Peak Conditions' stamped in camping-style font makes this essential for autumn hikers and outdoor enthusiasts. Warm ceramic holds your favorite beverage while you plan your next fall adventure. Perfect gift for anyone who times their hikes around peak color season."
+  },
+  "products": {
+    "shopify": "6a773f98c2e9d69957014aea"
+  }
+}

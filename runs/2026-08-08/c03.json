@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "mug",
+    "concept": "Illustration of a grumpy sourdough starter jar with eyes and the caption 'Feed Me First, Then We'll Talk'",
+    "audience": "Home bakers and fermentation hobbyists aged 28-50 who want quirky kitchen items",
+    "score": 7.6,
+    "rationale": "Character-driven mug designs perform exceptionally well. The starter-as-pet metaphor is deeply relatable to the sourdough community. Fall baking season boosts gift purchases. Low direct competition for this specific character concept."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Feed Me First, Then We'll Talk\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a grumpy anthropomorphic sourdough starter jar. The jar is a simple geometric cylinder shape with straight sides and a flat bottom, filled with bubbly starter shown as rounded organic shapes in the center. Two angry eyes with sharp downturned pupils glare outward from the jar's upper portion. A grumpy frown line curves below the eyes. The jar has a simple lid on top. Solid color blocks: cream jar body, dark brown starter bubbles, black eyes and mouth, tan lid. No gradients, no shading, no photorealism. Bold screen-print aesthetic with clean sharp edges and high contrast. Centered composition on a plain pale gray background with generous margin around all elements. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Feed Me First, Then We'll Talk",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: cream, dark brown, black, tan, pale gray background. Solid color blocks only, no gradients, no airbrush shading, no photorealism. Single centered composition on plain solid background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Feed Me First, Then We'll Talk' is a generic humorous expression with no known trademark associations. The sourdough starter jar illustration is an original concept referencing a common baking hobby. No celebrity likenesses, brand names, character references, or protected slogans are involved. The phrase structure is a common conversational idiom adapted for baking humor, presenting minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'FEED ME FIRST, THEN WE'LL TALK' which matches the required text exactly (case-insensitive). The design features a clean cartoon jar with an angry face, original composition, no IP concerns, clean linework, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Feed Me First Grumpy Sourdough Starter Mug",
+    "tags": [
+      "sourdough starter mug",
+      "funny baker gift",
+      "sourdough lover mug",
+      "kitchen humor mug",
+      "fermentation hobbyist gift",
+      "home baker mug",
+      "quirky coffee mug",
+      "starter jar illustration",
+      "baking themed mug",
+      "bread baker gift",
+      "fermentation gift",
+      "cute sourdough design",
+      "baker personality mug"
+    ],
+    "description": "For bakers who talk to their starter jar: a grumpy-faced sourdough illustration with the caption 'Feed Me First, Then We'll Talk.' Perfect for home bakers and fermentation enthusiasts with a sense of humor. Ceramic mug captures the quirky personality of sourdough baking. Ideal gift for serious bread makers, kitchen dwellers, and anyone whose morning routine includes feeding their starter before coffee."
+  },
+  "products": {
+    "shopify": "6a773fa79711502b7d00d4c4"
+  }
+}

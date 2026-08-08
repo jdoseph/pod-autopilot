@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Dog Mom / Senior Dog Appreciation",
+    "product_type": "tote",
+    "concept": "Minimalist line-art portrait of an old dog with grey muzzle and the phrase 'Grey Muzzle Gang' in handwritten script",
+    "audience": "Pet owners of senior dogs aged 28-55 who identify strongly with their aging pets",
+    "score": 7.5,
+    "rationale": "Senior dog content is emotionally viral online with dedicated Facebook groups and Instagram communities. 'Grey Muzzle' is an established community term giving built-in SEO. Totes appeal to this female-skewing, purchase-ready demographic. Emotionally resonant designs convert well."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Grey Muzzle Gang\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of an elderly dog's face in profile, minimalist line art style with bold clean strokes. Single continuous black outline forming the dog's head, drooping jowls, and floppy ears. Solid medium grey fill for the muzzle area only, sharp edge separating grey from white face. Minimal detail: two solid black dots for eye and nostril, no shading or gradients. Centered composition on clean cream background with 2-inch margin on all sides. High contrast, screen-print ready. Solid color blocks only: black line, medium grey, cream background.",
+    "text_on_design": "Grey Muzzle Gang",
+    "style": "Flat vector illustration, bold minimalist line art, solid color blocks (black outline, medium grey fill, cream background), no gradients or shading, screen-print aesthetic, high contrast, centered single composition with generous margin"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Grey Muzzle Gang' is a generic, descriptive expression referring to old dogs with greying muzzles. It does not reference any known trademark, brand, celebrity, sports team, character, or protected slogan. The minimalist line-art of an old dog is a common artistic style with no distinctive IP concerns. The combination is original and unlikely to conflict with protected intellectual property."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'GREY MUZZLE GANG' correctly spelled across three lines within a clean line-art dog face illustration. Text is clear and legible, no IP concerns, no quality issues, clean background suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Grey Muzzle Gang Senior Dog Tote Bag",
+    "tags": [
+      "senior dog gift",
+      "dog mom tote bag",
+      "grey muzzle appreciation",
+      "aging dog gift",
+      "pet owner tote",
+      "old dog lover bag",
+      "minimalist dog art",
+      "pet parent gift",
+      "dog line art tote",
+      "senior pet appreciation",
+      "dog parent gift",
+      "pet memorial tote",
+      "dog lover canvas bag"
+    ],
+    "description": "Celebrate the beauty of aging with this minimalist line-art portrait tote honoring senior dogs and their devoted owners. Features a gentle illustration of a grey-muzzled dog with handwritten script 'Grey Muzzle Gang' text. Canvas tote perfect for pet parents who identify deeply with their aging companions. Thoughtful gift for dog lovers, senior dog rescue supporters, and anyone who treasures their grey-faced best friend."
+  },
+  "products": {
+    "shopify": "6a773fbcf9e2ca7b670f3fbc"
+  }
+}

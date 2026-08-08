@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Cottage Core / Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "Detailed botanical illustration of three foraged mushroom varieties labeled in handwritten Latin script with 'Field Notes' banner",
+    "audience": "Cottagecore aesthetic fans and amateur foragers aged 18-38",
+    "score": 7.1,
+    "rationale": "Mushroom foraging surged as a hobby and the aesthetic audience buys apparel enthusiastically. Fall foraging season in September-October is peak interest. Illustration style is differentiating in a somewhat crowded niche."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Field Notes\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of three foraged mushroom varieties arranged vertically in a centered column. Top mushroom: a fly agaric with bold red cap and white spots. Middle: a chanterelle with golden-yellow funnel shape. Bottom: a morel with tan honeycomb texture. Each mushroom rendered in solid color blocks with clean sharp edges, no shading or gradients. Delicate linear stems and roots connecting all three specimens. Botanical accuracy in silhouette but simplified to bold flat shapes. Generous white margin around entire composition. Plain solid cream background. Screen-print ready, high contrast, professional botanical print aesthetic.",
+    "text_on_design": "Field Notes",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, solid color blocks only\u2014no gradients, no shading, no photorealism. Limited palette: cream background, deep red, golden yellow, tan, dark brown, sage green. Single centered composition on plain uniform background. Text: 'Field Notes' in delicate serif handwriting style arched as a banner above the three mushrooms. Readable at 12\u00d716 inches from across a room. Screen-print aesthetic."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Botanical illustration of generic foraged mushrooms with handwritten Latin scientific labels is a classic, generic artistic style with no IP concerns. The phrase 'Field Notes' is a common generic term used in naturalist and scientific contexts. While there is a well-known journal brand called 'Field Notes' (Field Notes Brand LLC, which sells notebooks), the usage here is descriptive and contextual rather than brand-identifying, and the overall design is clearly a botanical art piece rather than a competing stationery product. However, there is a minor residual risk if the design were applied to notebooks or journals that could compete directly with Field Notes Brand products. For general apparel or art prints, risk remains low."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'FIELD NOTES' in all caps, but the requirement specifies the text must display exactly 'Field Notes' (mixed case). The displayed text does not match the required exact formatting."
+  }
+}

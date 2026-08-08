@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cottage Core / Mushroom Foraging",
+    "product_type": "tote",
+    "concept": "Hand-drawn illustration of a wicker basket overflowing with foraged mushrooms, berries, and herbs with 'What the Woods Gave Me' text below",
+    "audience": "Cottagecore lifestyle fans, foragers, and farmers market regulars aged 18-40",
+    "score": 8.1,
+    "rationale": "Totes are the natural product for foragers \u2014 they literally use them. This audience shops farmers markets and co-ops where totes are seen daily. Illustration style is highly shareable on Pinterest and Instagram. Strong seasonal relevance heading into fall foraging."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"What the Woods Gave Me\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a wicker basket in the center, overflowing with foraged mushrooms in various shapes, wild berries, and herb sprigs. Basket weave pattern rendered with simple parallel lines. Mushrooms include toadstools, chanterelles, and button varieties in solid color blocks. Berries cluster in small groups. Herbs shown as simple leafy stems. Limited palette: warm tan, forest green, deep burgundy, cream, and burnt orange. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain cream background. Clean sharp edges, screen-print aesthetic. Design elements stay connected in center, away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "What the Woods Gave Me",
+    "style": "Bold retro serif typeface, arched below the basket illustration, same color palette as artwork, approximately 0.5 inches tall lettering"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'What the Woods Gave Me' is a generic, descriptive, and original-sounding expression with no known trademark associations, celebrity connections, or protected IP. The hand-drawn foraging illustration concept is a common folk/nature art style with no specific character or brand evocation. The combination presents minimal IP risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'WHAT THE WOODS GAVE ME' \u2014 correctly spelled and complete. The illustration features a forager's basket filled with mushrooms, berries, and foliage in a clean flat-design style with no IP concerns, no anatomy, no artifacts, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "What the Woods Gave Me Foraged Mushroom Tote Bag",
+    "tags": [
+      "cottagecore tote bag",
+      "mushroom foraging gift",
+      "farmers market bag",
+      "forest illustration tote",
+      "mushroom berry herb print",
+      "nature lover gift",
+      "woodland aesthetic bag",
+      "forager gift idea",
+      "canvas tote cottagecore",
+      "rustic wicker basket art",
+      "sustainable shopping tote",
+      "boho foraging tote",
+      "nature illustration bag"
+    ],
+    "description": "Carry your farmers market haul in style with this nature-inspired tote featuring a wicker basket overflowing with foraged mushrooms, berries, and herbs. Perfect for cottage core enthusiasts, foragers, and anyone who loves woodland aesthetics. Durable canvas construction handles groceries, books, or weekend adventures. Great gift for farmers market regulars and nature lovers who appreciate botanical art and sustainable living."
+  },
+  "products": {
+    "shopify": "6a773f765993eeb5300e9da7"
+  }
+}

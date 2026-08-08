@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Amateur Astronomy",
+    "product_type": "mug",
+    "concept": "Wrap-around deep-space watercolor print of Saturn and its rings with 'Morning Person \u2014 Just Not This Planet's Morning' on the front",
+    "audience": "Night-owl astronomy fans and space enthusiasts who drink coffee",
+    "score": 7.4,
+    "rationale": "Mugs are the top gifted POD item and astronomy fans are passionate gift recipients. The humor ties the product use to the niche perfectly. Wrap-around space art is visually striking in product mockups, improving conversion."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Morning Person \u2014 Just Not This Planet's Morning\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of Saturn centered on plain white background. Bold simple shapes, high contrast, screen-print aesthetic. Saturn's body is a solid burnt orange circle with a thick solid deep purple ring tilted diagonally across it. Add 3\u20134 smaller solid color bands (golden yellow, dark navy, rust red) as subtle rings close to the planet surface. Two small solid white circles as distant stars. Solid color blocks only, no gradients, no airbrush shading, no photorealism, no watercolor. Clean sharp edges throughout. Composition centered with generous margin on all sides, all elements connected and away from edges. Plain solid white background.",
+    "text_on_design": "Morning Person \u2014 Just Not This Planet's Morning",
+    "style": "Bold retro sans-serif, curved slightly in an arch below the Saturn illustration, solid black, uppercase, high legibility at distance"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Morning Person \u2014 Just Not This Planet's Morning' is a generic humorous expression with no known trademark registrations, celebrity associations, or protected IP. It is a straightforward play on a common idiom. The Saturn watercolor imagery is generic astronomical subject matter not tied to any specific franchise, game, or branded property. No trademark, copyright, or personality rights concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'MORNING PERSON \u2014 JUST NOT THIS PLANET'S MORNING', which matches the required phrase exactly (case difference only). The design is a clean, original retro-style Saturn illustration with no IP concerns, no anatomy issues, no rendering artifacts, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Morning Person Saturn Astronomy Mug - Space Coffee Gift",
+    "tags": [
+      "astronomy mug",
+      "space enthusiast gift",
+      "Saturn planet mug",
+      "night owl coffee mug",
+      "space lover gift",
+      "watercolor galaxy mug",
+      "astronomy humor mug",
+      "deep space design",
+      "stargazer coffee cup",
+      "planet illustration mug",
+      "space gift for astronomer",
+      "cosmic coffee mug",
+      "night shift mug"
+    ],
+    "description": "A wrap-around deep-space illustration featuring Saturn and its rings with the witty text 'Morning Person \u2014 Just Not This Planet's Morning.' Watercolor cosmos design wraps the ceramic mug. Perfect for night-owl astronomy fans, amateur astronomers, and coffee-loving space enthusiasts. Ideal gift for stargazers, planetarium regulars, and anyone who prefers observing the cosmos to early mornings."
+  },
+  "products": {
+    "shopify": "6a773fd2868c2df84900915d"
+  }
+}

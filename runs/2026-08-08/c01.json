@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Independent Bookshop Culture",
+    "product_type": "tote",
+    "concept": "Typographic design listing faux bookshelf categories ('Escapism', 'Crying on the Bus', 'Do Not Disturb') in a vintage library card catalog style",
+    "audience": "Avid readers, bookstore regulars, and literary community members aged 20-45",
+    "score": 7.9,
+    "rationale": "Book lovers are prolific tote buyers \u2014 it's practically their signature item. Fall is peak reading season and this design concept is witty without referencing any specific titles or IP. Strong gifting and self-purchase potential. Competition exists but concept is fresh."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"ESCAPISM\nCRYING ON THE BUS\nDO NOT DISTURB\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a vintage library card catalog with three visible wooden drawer fronts stacked vertically, centered on a cream background. Each drawer has a brass label holder with a white card inside. Top card reads 'ESCAPISM', middle card reads 'CRYING ON THE BUS', bottom card reads 'DO NOT DISTURB'. Draw simple bold serif typography on each card in black. The drawers are rendered in warm tan and dark brown solid color blocks with clean sharp edges, no gradients. Add minimal brass hardware details as solid shapes. Generous margins around all edges. Screen-print aesthetic, high contrast, professional library aesthetic.",
+    "text_on_design": "ESCAPISM\nCRYING ON THE BUS\nDO NOT DISTURB",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: cream, tan, dark brown, black, brass gold. Solid color blocks only, no gradients, no airbrush shading, no photorealism. Single centered composition on plain cream background with generous margin."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "All three phrases are generic, descriptive, and humorous expressions in common everyday use. None of them are associated with known registered trademarks, branded products, celebrities, or protected creative works. The vintage library card catalog typographic style is a well-established generic aesthetic. The combination is original and presents no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "All three lines of required text are present, correctly spelled, and complete: 'ESCAPISM', 'CRYING ON THE BUS', and 'DO NOT DISTURB'. The design depicts a vintage wooden card catalog/drawer unit with clean label slots. No IP risks, no anatomy, no brand resemblance, no artifacts. Clean composition suitable for garment printing on a plain background."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Literary Bookshelf Tote Bag - Vintage Library Card Catalog Design",
+    "tags": [
+      "bookshelf tote bag",
+      "literary gift tote",
+      "vintage library catalog",
+      "book lover gift",
+      "reading aesthetic bag",
+      "bookstore tote",
+      "book community gift",
+      "crying on the bus",
+      "escapism book design",
+      "book nerd tote",
+      "literary enthusiast bag",
+      "library card catalog art",
+      "indie bookshop tote"
+    ],
+    "description": "A typographic celebration of reading life for bookshop regulars and literary community members. Features faux library card catalog shelves with relatable categories like 'Escapism,' 'Crying on the Bus,' and 'Do Not Disturb' in vintage-inspired design. Canvas tote perfect for carrying books, book haul swaps, and bookstore visits. Ideal gift for avid readers, book club members, and anyone who lives in the pages of a good story."
+  },
+  "products": {
+    "shopify": "6a773f864d7f55af20098ef2"
+  }
+}
