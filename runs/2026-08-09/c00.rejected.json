@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Witchy autumn lifestyle",
+    "product_type": "mug",
+    "concept": "Black mug with gold foil-style crescent moon, dried herbs, and a mortar illustration, text 'My Brew Is Better Than Yours'",
+    "audience": "Witchcraft-curious, pagan, and spiritual women who celebrate the autumn equinox",
+    "score": 7.6,
+    "rationale": "The autumn equinox and Halloween buying window starts in September. This audience is deeply passionate, buys heavily in this season, and actively seeks unique aesthetic merchandise. Black mug with gold art is a visually distinctive SKU."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Brew Is Better Than Yours\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a crescent moon in metallic gold, positioned center-top, surrounded by dried herb sprigs (sage, mugwort, bay leaf) arranged in a loose circular wreath below. A stone mortar and pestle nestled at the bottom center, rendered in warm gray and tan solid color blocks. Bold simple shapes with clean sharp edges, screen-print aesthetic. Limited palette: metallic gold, warm gray, tan, sage green, and black. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain cream background with generous margins. Design elements connected and away from edges, readable at 12x16 inches from across a room.",
+    "text_on_design": "My Brew Is Better Than Yours",
+    "style": "Bold condensed sans-serif, all caps, arched in a gentle curve above the mortar, positioned between the herb wreath and moon, in black with subtle gold outline for foil effect"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Brew Is Better Than Yours' is a generic boastful humor construction with no known trademark associations. The visual elements (crescent moon, dried herbs, mortar and pestle illustration) are common generic imagery in the witchy/apothecary aesthetic space. No celebrity, brand, character, team, or protected slogan references are present. The overall concept is a standard witchcraft/herbalism novelty design with original phrasing that poses minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text is incomplete. The word 'THAN' appears but the full phrase as laid out reads 'MY BREW IS = BETTER THAN YOURS' with the crescent moon replacing/interrupting the flow, and the equals sign (=) appearing in place of content. The required text 'My Brew Is Better Than Yours' is not displayed correctly and completely as a clean, readable phrase \u2014 the layout is fragmented and an equals sign replaces expected text elements."
+  }
+}

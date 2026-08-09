@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn farmers market shoppers",
+    "product_type": "tote",
+    "concept": "Block-print style illustration of pumpkins, gourds, and sunflowers arranged in a harvest basket with text 'Market Day Every Saturday'",
+    "audience": "Farmers market regulars and local food advocates who shop seasonally",
+    "score": 7.3,
+    "rationale": "Totes are the natural product for this audience since they literally use them at markets. Fall farmers market season peaks in September-October. The folksy block-print style matches the aesthetic of this community perfectly."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Market Day Every Saturday\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a woven harvest basket overflowing with pumpkins, gourds, and sunflowers in bold block-print style. Basket rendered with clean parallel lines suggesting wicker texture. Pumpkins and gourds in varying sizes with simple curved shapes and minimal internal detail lines. Sunflowers with large circular heads and straight stems. All elements connected and contained in center composition. Solid color blocks only, no gradients, no shading, no photorealism. Limited palette: burnt orange, deep gold, forest green, cream, and charcoal. Plain warm cream background, generous margin around all artwork elements.",
+    "text_on_design": "Market Day Every Saturday",
+    "style": "Bold retro serif, arched above the basket in charcoal, compact tracking, caps only"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design features generic harvest imagery (pumpkins, gourds, sunflowers in a basket) in a block-print style with no reference to any brand, trademark, celebrity, or protected intellectual property. The phrase 'Market Day Every Saturday' is a common, descriptive generic phrase referencing a farmers market schedule and does not appear to be a registered trademark or distinctive protected slogan. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'MARKET DAY EVERY SATURDAY' \u2014 correctly spelled and complete. The artwork features a clean illustration of a harvest basket with pumpkins and sunflowers on a plain cream background. No IP risks, no quality issues, no garbled text, and no mockup elements detected."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Farmers Market Tote Bag | Harvest Basket Block Print Design",
+    "tags": [
+      "farmers market tote",
+      "block print bag",
+      "harvest illustration",
+      "reusable shopping bag",
+      "local food advocate",
+      "pumpkin gourd design",
+      "seasonal shopping",
+      "farmer's market regular",
+      "harvest basket art",
+      "autumn market bag",
+      "farmers market gift",
+      "sustainable shopping",
+      "seasonal produce tote"
+    ],
+    "description": "Your Saturday market companion features a charming block-print illustration of pumpkins, gourds, and sunflowers arranged in a rustic harvest basket. The 'Market Day Every Saturday' text celebrates your commitment to local, seasonal shopping. Durable canvas carries fresh vegetables, bulk items, and artisan finds from your favorite vendor stalls. Perfect gift for farmers market regulars, community-supported agriculture members, and anyone committed to eating seasonally and supporting local growers. Reusable and built to last through countless market trips."
+  },
+  "products": {
+    "shopify": "6a7891d8bf9f75441b00d1ba"
+  }
+}

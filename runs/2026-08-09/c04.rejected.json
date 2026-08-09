@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Remote workers and freelancers",
+    "product_type": "mug",
+    "concept": "Illustration of a home office desk covered in sticky notes, a wilting plant, and empty mugs, text 'Living the Dream, Allegedly'",
+    "audience": "Freelancers, remote employees, and self-employed people aged 25-45",
+    "score": 7.2,
+    "rationale": "Remote work identity is strong and the self-deprecating humor resonates with a large, digitally active audience. Gift-giving among work friends and partners is common. Design concept is specific enough to feel authentic without being overdone."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Living the Dream, Allegedly\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a home office desk from above, centered composition. A wooden desk surface with a computer monitor, keyboard, and mouse. Scattered across the desk: seven sticky notes in various positions (some crumpled), three empty coffee mugs in different sizes, and one potted plant with drooping leaves in the corner. All elements rendered in bold simple shapes with clean sharp edges, high contrast, screen-print aesthetic. Color palette: warm tan desk, white sticky notes with black text marks, muted sage green plant, cream and charcoal mugs, black monitor. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain pale cream background with generous margin around all elements.",
+    "text_on_design": "Living the Dream, Allegedly",
+    "style": "Bold retro sans-serif, all caps, arched above the desk illustration in charcoal gray"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Living the Dream, Allegedly' is a humorous, generic commentary on work-from-home life. 'Living the Dream' is a common colloquial expression in widespread everyday use and does not appear to be a distinctive registered trademark. The addition of 'Allegedly' is a common ironic qualifier that further distances it from any protected mark. The illustration elements (sticky notes, wilting plant, empty mugs) are entirely generic. No celebrity, brand, character, team, or protected IP is referenced or evoked. This design presents low IP risk and is approved for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'LIVING THE DREAM, ALLEGEDLY,' with an extra trailing comma after 'ALLEGEDLY' that is not part of the required text. The design must display exactly 'Living the Dream, Allegedly' with no additional punctuation."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough baking",
+    "product_type": "t-shirt",
+    "concept": "Retro badge design featuring a happy sourdough loaf with arms and text 'Fermentation is My Cardio'",
+    "audience": "Home bakers and sourdough hobbyists who identify strongly with the craft",
+    "score": 7.1,
+    "rationale": "Sourdough culture remains strong with a very vocal community online. Humor-based designs sell well year-round and gifting spikes heading into holiday season. Low seasonal dependency is a plus."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fermentation is My Cardio\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a happy anthropomorphic sourdough loaf with a round, chunky body and two stick arms raised in celebration. The loaf has a cheerful face with big round eyes and a smile. Surround the character with a bold retro circular badge outline and radiating lines creating a starburst effect behind it. Use a limited palette of warm golden-brown, cream white, deep forest green, and burnt orange. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition on a plain light cream background with generous margin. Screen-print aesthetic with bold simple shapes and clean sharp edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Fermentation is My Cardio",
+    "style": "Bold retro sans-serif, curved along the top of the badge in an arch, same golden-brown as the loaf character"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fermentation is My Cardio' is a generic humorous play on the common '[Activity] is My Cardio' phrase structure, which is itself a well-known colloquial expression not owned by any single entity. No specific trademark, brand, celebrity, character, or protected slogan is referenced. The anthropomorphized sourdough loaf is a generic illustration concept with no connection to a specific IP. The retro badge style is a common design motif. Overall risk is low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'FERMENTATION IS MY CARDIO' correctly spelled and complete. The artwork features a generic retro-style anthropomorphic bread loaf mascot with no IP conflicts, clean vector illustration with no artifacts, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Sourdough Baking T-Shirt | Fermentation is My Cardio",
+    "tags": [
+      "sourdough tee",
+      "baker t-shirt",
+      "fermentation humor",
+      "retro badge design",
+      "sourdough starter gift",
+      "baking enthusiast",
+      "happy bread character",
+      "home baker shirt",
+      "cottage core baking",
+      "artisan bread shirt",
+      "sourdough culture",
+      "baker lifestyle",
+      "funny baker gift"
+    ],
+    "description": "Celebrate your sourdough obsession with this retro badge-style design featuring an adorable, smiling loaf of bread with arms. The 'Fermentation is My Cardio' text humorously captures the dedication home bakers pour into their craft. Soft, comfortable everyday tee for kneading sessions, farmers market visits, or casual hangouts with fellow fermentation enthusiasts. Perfect for anyone who tends their starter like a pet, troubleshoots crust issues, and measures success by open crumb structure. Great gift for sourdough hobbyists and bread-obsessed home bakers."
+  },
+  "products": {
+    "shopify": "6a7891f30949be03da0dc785"
+  }
+}

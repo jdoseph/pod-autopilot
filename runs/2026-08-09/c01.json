@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween enthusiasts",
+    "product_type": "tote",
+    "concept": "Linocut-style illustration of a black cat, candle, and potion bottle arranged around text 'Trick or Treat Haul 2026'",
+    "audience": "Halloween-obsessed adults who decorate early and celebrate the full season",
+    "score": 7.5,
+    "rationale": "Halloween totes for adult trick-or-treating and seasonal errands have a passionate niche buyer. The 2026 date specificity creates urgency and collectibility. October buying window aligns perfectly with 6-8 week lead time from now."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"TRICK OR TREAT HAUL 2026\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, linocut aesthetic with bold black lines and solid color blocks. Central composition: a black cat sitting upright on the left, a lit candle with white flame in the center, and a potion bottle with cork stopper on the right. All three objects arranged in a balanced triangular composition. Text 'TRICK OR TREAT HAUL 2026' in bold sans-serif arched above the illustration. Color palette: black, cream, deep purple, forest green. Solid color blocks only, no gradients, no shading, no photorealism. Sharp clean edges throughout. Plain cream background, generous margin all around, all artwork elements connected and centered, readable at 12x16 inches from across a room.",
+    "text_on_design": "TRICK OR TREAT HAUL 2026",
+    "style": "flat vector illustration, linocut aesthetic, bold simple shapes, clean sharp edges, screen-print ready, limited solid color palette"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Trick or Treat Haul 2026' is a generic seasonal expression combining a common Halloween phrase with a colloquial term for collected candy. Neither the individual words nor the combination constitute a distinctive protected trademark to my knowledge. The design elements \u2014 black cat, candle, and potion bottle in a linocut style \u2014 are all generic Halloween imagery with no association to any specific brand, character, or franchise. The year '2026' simply personalizes the design. No celebrity, team, character, lyric, or registered slogan is referenced. Overall IP risk is low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'TRICK OR TREAT HAUL 2026' \u2014 correctly spelled and complete. The design features generic Halloween motifs (black cat, candle, potion bottle) with no IP risk, clean linework, and no quality issues. Suitable for print-on-demand."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Halloween Linocut Tote Bag | Trick or Treat Haul 2026",
+    "tags": [
+      "Halloween tote bag",
+      "linocut design",
+      "black cat tote",
+      "trick or treat bag",
+      "Halloween shoppers",
+      "potion bottle illustration",
+      "candle design",
+      "October aesthetic",
+      "spooky tote",
+      "reusable shopping bag",
+      "early Halloween decor",
+      "Halloween collector gift",
+      "seasonal festival bag"
+    ],
+    "description": "Carry your Halloween spirit year-round with this striking linocut-style tote featuring a black cat, glowing candle, and mysterious potion bottle. The 2026 date makes it a collector's piece for dedicated Halloween enthusiasts. Perfect for farmers market runs, library trips, or displaying as wall art during spooky season. Sturdy canvas construction handles your full season's worth of decorations, candy, and festive finds. Ideal for early decorators who can't wait for October."
+  },
+  "products": {
+    "shopify": "6a7891b68f1236e836015e2d"
+  }
+}

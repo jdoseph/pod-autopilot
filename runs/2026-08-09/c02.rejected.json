@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Mushroom foraging",
+    "product_type": "t-shirt",
+    "concept": "Botanical-style grid of hand-drawn wild mushroom varieties labeled in Latin with text 'Amateur Mycologist' across the chest",
+    "audience": "Nature foragers, cottagecore fans, and science-curious adults aged 20-40",
+    "score": 7.4,
+    "rationale": "Mushroom foraging has a devoted, growing subculture with strong gift-buying behavior. Botanical illustration style is on-trend and the Latin labeling adds an intellectual humor layer that resonates with this demographic."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"AMATEUR MYCOLOGIST\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a 3x3 grid of nine distinct wild mushroom species, each shown in simple bold silhouette with clean sharp edges. Each mushroom has a different recognizable form\u2014some tall and thin, some wide-capped, some with spots, some with gills visible as simple lines. Below each mushroom, a single line of small bold sans-serif Latin text labels (e.g. 'Amanita muscaria', 'Boletus edulis'). Solid color palette: deep forest green, cream, rust orange, charcoal gray, pale yellow. No gradients, no shading, no photorealism, no backgrounds within the grid\u2014only solid color blocks. The entire grid centered as one unified composition on a plain solid ivory background with generous white margin all around. Composition readable and bold from across a room. Screen-print aesthetic with high contrast.",
+    "text_on_design": "AMATEUR MYCOLOGIST",
+    "style": "Bold retro sans-serif text arched in a gentle curve above the mushroom grid; solid cream color; uppercase; approximately 0.75 inches tall when printed at 12x16 inches"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Amateur Mycologist' is a generic descriptive term referring to a hobbyist who studies fungi. It is not a known registered trademark, brand name, slogan, or affiliated with any celebrity, team, or protected IP. Botanical-style scientific illustration grids with Latin nomenclature are a well-established generic art style with no specific IP concerns. Wild mushroom species names in Latin are scientific taxonomy in the public domain. No elements of this design evoke any protected intellectual property."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "medium",
+    "reason": "The design contains additional text beyond 'AMATEUR MYCOLOGIST' (mushroom species labels in each panel), and one label contains a misspelling ('Ametu muscaria' instead of 'Amanita muscaria'). The requirement specifies the design must display exactly that text and nothing else."
+  }
+}
