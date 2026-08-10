@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "mug",
+    "concept": "A botanical-illustration grid of six common edible mushrooms labeled in Latin with 'The Weekend Forecast: Mostly Fungi' across the bottom.",
+    "audience": "Amateur foragers and mycology enthusiasts aged 28-50",
+    "score": 8.3,
+    "rationale": "Mushroom foraging is a rapidly growing hobby with a passionate buying audience; fall is peak foraging season; botanical style is on trend; the pun is niche-appropriate and not oversaturated; strong gift potential."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"The Weekend Forecast: Mostly Fungi\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a 2\u00d73 grid displaying six edible mushroom species in bold simple shapes with clean sharp edges. Each mushroom rendered as solid color blocks with high contrast, screen-print aesthetic. Top row: button mushroom (Agaricus bisporus), oyster mushroom (Pleurotus ostreatus), shiitake (Lentinula edodes). Bottom row: cremini (Agaricus bitorquis), chanterelle (Cantharellus cibarius), porcini (Boletus edulis). Each mushroom shown in cross-section and profile view with minimal detail, Latin binomial name in small bold sans-serif beneath each specimen. Solid color blocks, no gradients, no airbrush shading, no photorealism. Palette: cream, forest green, warm tan, burnt orange, charcoal gray. Single centered composition on plain white background with generous margin. Bold retro serif text reading 'The Weekend Forecast: Mostly Fungi' arched across the bottom of the grid in warm tan. All elements connected and away from edges, readable at 12\u00d716 inches from across a room.",
+    "text_on_design": "The Weekend Forecast: Mostly Fungi",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette (cream, forest green, warm tan, burnt orange, charcoal gray), solid color blocks, no gradients, no shading, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'The Weekend Forecast: Mostly Fungi' is a generic pun on common weather forecast language ('mostly cloudy/sunny') combined with a mycology play on 'fungi/fun.' No known trademark exists for this phrase, it references no brand, celebrity, team, character, or protected slogan. Botanical illustrations of common edible mushrooms with Latin scientific names are factual, public-domain subject matter. The overall concept is original, generic humor with no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Multiple misspelled and garbled text errors in mushroom scientific name labels: 'Pleirotus' (should be Pleurotus), 'Lentiakle Edodes' (garbled), 'Cantbarelus' (should be Cantharellus), and 'Boletn Edulis' (should be Boletus). These text quality issues fail the print-on-demand quality standard."
+  }
+}

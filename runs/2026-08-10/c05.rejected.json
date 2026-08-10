@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "t-shirt",
+    "concept": "A cross-section illustration of an open sourdough loaf with the words 'Wild & Cultured' arching over the top in a vintage badge style.",
+    "audience": "Home bakers obsessed with fermentation and artisan bread",
+    "score": 7.8,
+    "rationale": "Sourdough community remains large and passionate; double meaning of 'cultured' is clever; badge-style designs have strong retail appeal; competition is moderate but this framing is fresh."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Wild & Cultured\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a sourdough loaf cross-section showing interior crumb structure with large irregular holes, centered composition. Bold simple shapes with solid color blocks, no gradients, no shading, no photorealism. Color palette: warm cream, deep brown, golden tan, charcoal gray. Vintage circular badge frame arching above the bread slice with clean geometric lines. Plain solid white background, generous margin around all elements, design stays centered and away from edges.",
+    "text_on_design": "Wild & Cultured",
+    "style": "Flat vector, screen-print aesthetic, bold retro serif lettering arched within vintage badge frame above illustration, solid colors only, clean sharp edges, high contrast"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "'Wild & Cultured' is a descriptive, generic phrase commonly associated with sourdough and fermentation culture. It does not reference any known registered trademark, brand name, celebrity, character, or protected slogan. The vintage badge style with a sourdough cross-section illustration is a common aesthetic in artisan food branding and does not copy any distinctive protected trade dress. The phrase is a natural descriptor for wild yeast fermentation and cultured foods, making it low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text in the design reads 'WIILD & CUIED CULTURED' \u2014 'Wild' is misspelled as 'WIILD' and 'Cultured' in the arc is rendered as 'CUIED', which is garbled/misspelled text. The required text 'Wild & Cultured' is not correctly spelled or displayed."
+  }
+}

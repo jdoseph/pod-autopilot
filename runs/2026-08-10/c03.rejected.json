@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Kindergarten Teachers",
+    "product_type": "mug",
+    "concept": "A cheerful crayon bouquet illustration with the caption 'Fueled by Glitter, Glue, and This Coffee' in a bubbly hand-lettered font.",
+    "audience": "Early childhood educators returning to school in August-September",
+    "score": 8.1,
+    "rationale": "Teacher mugs are a proven bestseller category; kindergarten teachers are an extremely gift-targeted demographic; the August buying window is perfect; specific enough to stand out from generic teacher mugs."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fueled by Glitter, Glue, and This Coffee\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cheerful bouquet of crayons standing upright in a ceramic mug, centered composition. The crayons are simplified geometric cylinders in solid colors: bright yellow, hot pink, sky blue, lime green, and orange. Each crayon has a simple pointed tip and paper wrapper band. The mug is a warm cream solid color with a clean handle. Single solid navy blue background, generous margins around the design. Bold screen-print aesthetic, high contrast, no gradients, no shading, no photorealism. Readable at 12x16 inches.",
+    "text_on_design": "Fueled by Glitter, Glue, and This Coffee",
+    "style": "Bubbly hand-lettered font arched above the crayon bouquet, solid white text, playful and friendly, lettering integrated with the illustration in the upper portion of the design"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fueled by Glitter, Glue, and This Coffee' is an original, generic humorous expression with no known trademark conflicts. It evokes a common teacher or crafter archetype using everyday descriptive words. The crayon bouquet illustration concept is a widely used generic motif in the craft and education niche. No celebrity, brand, character, team, or protected slogan is referenced. The design is safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The mug text contains errors: a double comma after 'GLUE' ('GLUE,,') and a stray letter 'B' between 'BY' and 'GLITTER', making the text differ from the required 'Fueled by Glitter, Glue, and This Coffee'. Additionally, the crayon label text is garbled and illegible."
+  }
+}

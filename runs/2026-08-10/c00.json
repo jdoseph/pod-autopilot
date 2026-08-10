@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "School Librarians",
+    "product_type": "tote",
+    "concept": "A tote featuring a whimsical stack of books with tiny doors and windows cut into the spines, captioned 'Worlds to Carry' in hand-lettered script.",
+    "audience": "Librarians, reading teachers, and book club members",
+    "score": 8.4,
+    "rationale": "Librarians actively use and gift totes; the book-as-architecture concept is visually distinctive and emotionally resonant; back-to-school timing is ideal; concept is original and not widely executed in POD; strong word-of-mouth shareability."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Worlds to Carry\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a whimsical stack of five books tilted slightly, each book spine featuring tiny cut-out doors and arched windows in solid color blocks. The doors and windows are small geometric shapes (rectangles and rounded arches) creating a storybook-house effect. Books are stacked at gentle angles showing front covers and spines with bold geometric patterns and simple line details. Limited palette: deep navy, warm cream, forest green, burnt orange, and light gray. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition on a solid white background with generous margin. Design elements stay connected and away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Worlds to Carry",
+    "style": "Hand-lettered script in warm cream, positioned in an arc above the book stack, flowing organic letterforms with natural line variation but crisp edges, no decorative flourishes"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Worlds to Carry' is a generic, descriptive expression with no known trademark associations. The whimsical book stack illustration with tiny doors and windows is an original creative concept that does not reference any specific copyrighted characters, brands, or protected intellectual property. Hand-lettered script styling is a common design treatment. This concept presents minimal IP risk and is suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'Worlds to Carry' is fully and correctly spelled across the stacked books. The design is a clean, original flat-illustration style with no IP concerns, no malformed elements, and a clean background suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Worlds to Carry Book Tote for Librarians & Readers",
+    "tags": [
+      "library tote bag",
+      "book lover gift",
+      "reading teacher appreciation",
+      "book club tote",
+      "librarian gift",
+      "literary tote bag",
+      "school librarian gear",
+      "reader accessory",
+      "book themed bag",
+      "library staff gift",
+      "book illustration tote",
+      "teachers appreciation",
+      "book nerd gift"
+    ],
+    "description": "Canvas tote for book lovers, librarians, and reading teachers. Features a whimsical illustrated stack of books with tiny windows and doors cut into the spines. Perfect for carrying your next stack of stories. Makes a thoughtful gift for educators, library staff, and book club members who celebrate the magic of stories. Roomy main pocket ideal for books, work essentials, and daily needs."
+  },
+  "products": {
+    "shopify": "6a79e9043506a047e2071e4f"
+  }
+}

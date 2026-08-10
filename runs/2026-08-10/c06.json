@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "School Librarians",
+    "product_type": "t-shirt",
+    "concept": "A stack of books morphing into a cup of coffee with the tagline 'Overdue for a Break' in hand-lettered type.",
+    "audience": "K-12 librarians and library staff heading back to school",
+    "score": 7.5,
+    "rationale": "Back-to-school season buying window aligns perfectly; librarians are a tight-knit, merch-buying community; the pun is niche-specific and not widely used on competing designs."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Overdue for a Break\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration: a centered stack of three books in solid colors (navy blue, burnt orange, forest green) with crisp rectangular shapes and clean edges, morphing seamlessly at the top into a steaming cup of coffee in warm cream with a solid dark brown handle. The steam wisps are simple curved lines in the same dark brown. Single solid pale cream background with generous margins. Screen-print aesthetic with bold simple shapes, high contrast, no gradients, no shading, no photorealism. The composition is unified and centered, readable at 12x16 inches from across a room.",
+    "text_on_design": "Overdue for a Break",
+    "style": "Hand-lettered script in dark brown, curved and flowing, positioned beneath the book-to-coffee illustration with generous spacing. Bold and organic letterforms, readable and confident."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Overdue for a Break' is a generic, descriptive common expression using everyday language with no known trademark associations. The visual concept of books morphing into a coffee cup is an original illustrative idea that does not reference any protected characters, brands, or properties. Hand-lettered type styling is a common design treatment. No celebrity, team, brand, or IP concerns are present. This design is suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'OVERDUE FOR A BREAK' correctly spelled and complete, split across the coffee cup and below the stacked books. The artwork is a clean, original composition featuring a hot coffee cup on stacked books with no IP concerns, no anatomical elements, no recognizable characters or logos, and no rendering artifacts. The retro illustration style is generic and suitable for print-on-demand."
+  },
+  "listing": {
+    "index": 6,
+    "title": "School Librarian T-Shirt | Overdue for a Break Coffee Design",
+    "tags": [
+      "librarian tshirt",
+      "library staff gift",
+      "back to school shirt",
+      "school librarian apparel",
+      "teacher appreciation gift",
+      "library humor tee",
+      "book lover shirt",
+      "school staff clothing",
+      "librarian gift",
+      "kindergarten librarian",
+      "coffee lover librarian",
+      "education tee",
+      "reading professional"
+    ],
+    "description": "Comfortable t-shirt perfect for K-12 librarians and library staff returning to school. Features a clever illustration of books transforming into a coffee cup with 'Overdue for a Break' text. Soft, quality fabric ideal for back-to-school season and year-round wear. Acknowledges the rewarding yet demanding nature of library work with humor and heart. Makes a thoughtful gift for librarians managing new school year chaos. Great icebreaker in staff rooms and library spaces."
+  },
+  "products": {
+    "shopify": "6a79e98d670eb173a70516b1"
+  }
+}
