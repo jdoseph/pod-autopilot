@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Spooky Literary / Book Lovers Halloween",
+    "product_type": "tote",
+    "concept": "A stack of gothic novel spines illustrated in moody purples and blacks with the text 'Currently Reading: Something Ominous' in spidery lettering.",
+    "audience": "Book lovers who particularly enjoy gothic, horror, and dark fiction genres, aged 20-40",
+    "score": 7.3,
+    "rationale": "The literary Halloween niche is passionate and highly active on social platforms like BookTok. October is peak season for horror reading. A tote for book hauls is extremely functional. The phrase is clever and specific enough to drive tribal identification."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Currently Reading: Something Ominous\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a vertical stack of five gothic novel spines, slightly fanned and overlapping, centered on a cream background. Spines feature ornate vintage book designs with decorative borders, serif typography, and gothic motifs including small skulls, thorns, and crescent moons. Color palette: deep purple, black, dark burgundy, and pale cream highlights. Solid color blocks with no gradients, no shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Below the book stack, spidery serif lettering in black reads 'Currently Reading: Something Ominous' in a delicate, elegant arc. All elements centered with generous margin on uniform cream background. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Currently Reading: Something Ominous",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: deep purple, black, dark burgundy, pale cream. Solid color blocks, no gradients, no airbrush shading, no photorealism. Spidery delicate serif lettering in black, arched below the illustration."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Currently Reading: Something Ominous' is a generic, original humorous expression with no association to any known trademark, brand, celebrity, or protected intellectual property. The gothic novel spine illustration concept is a common aesthetic trope not tied to any specific protected work. The spidery lettering style is a general design choice. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The main tagline text reads 'Currently Reading; Something Ominous' with a semicolon instead of the required colon after 'Reading'. Additionally, the book spine text is garbled and illegible with nonsensical lettering. The design fails the exact text requirement due to the punctuation error."
+  }
+}

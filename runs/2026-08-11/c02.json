@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging / Cottagecore",
+    "product_type": "tote",
+    "concept": "A detailed botanical-style illustration of mixed wild mushrooms (chanterelle, oyster, hen of the woods) with the text 'Forage Responsibly' in understated serif type.",
+    "audience": "Foragers, cottagecore enthusiasts, and nature-to-table food people, aged 25-45",
+    "score": 7.2,
+    "rationale": "Mushroom foraging is a growing passionate niche with strong community identity. A tote is the perfect functional product for actual foraging trips. Botanical illustration style is on-trend and premium-feeling. Lower competition than the broader cottagecore category."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Forage Responsibly\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of three wild mushrooms arranged in a balanced triangular composition: a chanterelle with funnel-shaped cap on the left, oyster mushroom with layered shelves in the center, and hen of the woods with frilly clustered caps on the right. Each mushroom shown from the side with visible stems and gills rendered as simple parallel lines. Solid color blocks, no gradients, no airbrush shading, no photorealism, no botanical details beyond basic gill/cap structure. Bold simple shapes with clean sharp edges. Limited palette: cream, sage green, warm tan, deep brown, charcoal. Single centered composition on a plain solid white background with generous margin on all sides. Readable at 12x16 inches from across a room. Screen-print aesthetic.",
+    "text_on_design": "Forage Responsibly",
+    "style": "Bold understated serif type, centered below the mushroom illustration, occupying minimal visual space, classic proportions"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The botanical mushroom illustration features only common wild mushroom varieties (chanterelle, oyster, hen of the woods) with no trademarked characters, brand references, or protected imagery. The phrase 'Forage Responsibly' is a generic advisory statement with no known trademark associations, following the common pattern of responsibility-themed slogans. The serif typography treatment is understated and non-distinctive. No celebrity, team, lyric, or IP concerns identified. Design is cleared for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'FORAGE RESPONSIBLY' correctly spelled and complete, matching the required text exactly. The artwork features clean, original mushroom illustrations in a retro style with no IP concerns, no anatomical issues, no rendering artifacts, and a simple light background suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Mushroom Foraging Tote - Forage Responsibly Botanical Design",
+    "tags": [
+      "mushroom foraging tote",
+      "cottagecore tote bag",
+      "botanical mushroom design",
+      "forage responsibly bag",
+      "wild mushroom tote",
+      "nature lover gift bag",
+      "farm to table tote",
+      "chanterelle oyster mushroom",
+      "nature illustration tote",
+      "cottage core fashion",
+      "forager gift idea",
+      "botanical print tote",
+      "sustainable lifestyle bag"
+    ],
+    "description": "A beautiful tote celebrating the foraging lifestyle with detailed botanical-style illustrations of chanterelles, oyster mushrooms, and hen of the woods. The understated 'Forage Responsibly' serif text reflects the ethics of ethical wild harvesting. Perfect for farmers' market trips, mushroom hunts, or everyday carry. The muted, natural color palette appeals to cottagecore enthusiasts and nature-to-table food lovers. Durable, practical canvas construction. A thoughtful gift for foragers, gardeners, and anyone passionate about sustainable food sourcing and nature connection."
+  },
+  "products": {
+    "shopify": "6a7b3a45e6d13099f407c588"
+  }
+}

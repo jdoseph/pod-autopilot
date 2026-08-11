@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Anxious Dog Moms / Halloween",
+    "product_type": "t-shirt",
+    "concept": "An illustrated nervous-looking dog in a hotdog costume with text reading 'I Did Not Consent to This Costume' in hand-lettered style.",
+    "audience": "Dog owners who dress up their pets for Halloween, primarily women 25-40",
+    "score": 7.1,
+    "rationale": "Dog costume humor for Halloween is a proven seller. The consent angle is fresh and viral-adjacent. Broad dog-owner audience overlaps with Halloween shoppers perfectly in the buying window. Mid-level competition."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Did Not Consent to This Costume\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a small nervous dog wearing a hotdog costume, centered on plain cream background. Dog has wide anxious eyes, furrowed brow, and slightly open mouth expressing reluctance. Body is wrapped in a simple bun shape (tan and brown solid blocks) with a red hotdog sausage body beneath. Four thin legs visible below costume, standing stiffly. Minimize detail: use bold simple shapes, clean sharp edges, solid color blocks only\u2014no gradients, no shading, no texture. Limited palette: cream background, tan, brown, red, black, white. High contrast screen-print aesthetic. Single centered composition with generous margins, readable at 12x16 inches from across a room.",
+    "text_on_design": "I Did Not Consent to This Costume",
+    "style": "Hand-lettered style, loosely irregular capitals and lowercase mix, arched in a slight curve above the dog illustration, black ink solid color, playful but legible, no drop shadows or effects"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The illustrated nervous dog in a hotdog costume is a generic, original concept with no reference to specific trademarks, brands, characters, celebrities, or protected properties. The phrase 'I Did Not Consent to This Costume' is a natural, conversational expression of generic humor commonly associated with pet costume culture. It does not match any known registered slogans or protected marks. The hand-lettered style is a common design treatment. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'I DID NOT CONSENT TO THIS COSTUME' \u2014 correctly spelled and complete. The illustration is a generic cartoon dog in a hot dog costume, an original and common humorous motif with no IP concerns. Clean vector-style art, clear background suitable for garment printing, no anatomy issues, no artifacts."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Anxious Dog Halloween T-Shirt - Did Not Consent Hotdog Costume Tee",
+    "tags": [
+      "dog owner halloween shirt",
+      "funny dog costume tee",
+      "dog mom halloween shirt",
+      "hotdog costume humor",
+      "dog lover graphic tshirt",
+      "pet costume funny shirt",
+      "halloween dog tee women",
+      "anxious dog lover gift",
+      "dog parent apparel",
+      "novelty pet shirt",
+      "halloween costume shirt",
+      "dog themed tshirt",
+      "dog humor fashion"
+    ],
+    "description": "A humorous tee that speaks to every dog parent who's wrestled their pup into a Halloween costume. The illustrated nervous-looking dog in a hotdog costume says it all: 'I Did Not Consent to This Costume' in charming hand-lettered style. Relatable for dog owners who love dressing up their pets despite their obvious reluctance. Comfortable and soft for everyday wear or Halloween festivities. Makes a great gift for dog moms and anyone who appreciates pet humor and the reality of costume season. Perfect conversation starter at dog parks and Halloween parties."
+  },
+  "products": {
+    "shopify": "6a7b3a5cadea7c67ab04809b"
+  }
+}

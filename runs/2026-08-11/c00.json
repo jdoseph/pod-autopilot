@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cat Owners / Halloween",
+    "product_type": "t-shirt",
+    "concept": "A black cat sitting inside a jack-o-lantern with glowing eyes and the text 'Already in Costume' in spooky serif font.",
+    "audience": "Cat owners who celebrate Halloween enthusiastically, primarily women 25-45",
+    "score": 7.4,
+    "rationale": "Halloween is the primary upcoming holiday in the buying window. Cat + Halloween is a perennial bestselling combo. The joke lands immediately, drives impulse buys. Competitive category but this exact concept is under-exploited."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Already in Costume\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration: a black cat sitting inside a carved jack-o-lantern. The cat's eyes glow bright yellow-green, staring forward. The pumpkin has a classic triangular nose and jagged mouth carved out, also glowing yellow-green from within. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Limited palette: black, bright yellow-green, burnt orange, charcoal gray. Single centered composition on a plain cream background with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Already in Costume",
+    "style": "Bold spooky serif font arched above the jack-o-lantern illustration, integrated into the composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Already in Costume' is a common generic humorous expression with no known trademark registration or association with a specific brand, celebrity, or IP holder. The visual elements \u2014 a black cat inside a jack-o-lantern with glowing eyes \u2014 are generic Halloween imagery not tied to any specific protected character, franchise, or brand. The spooky serif font style is a common design choice for seasonal merchandise. No identifiable IP risks detected."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'ALREADY IN COSTUME' is correctly spelled and complete. The illustration features a generic black cat sitting inside a jack-o'-lantern pumpkin \u2014 a common Halloween motif with no IP concerns. The artwork is clean, well-rendered with clear linework, no artifacts, and a simple background suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Black Cat Halloween T-Shirt - Already in Costume Jack-o-Lantern Tee",
+    "tags": [
+      "cat owner halloween shirt",
+      "black cat jack-o-lantern tee",
+      "halloween costume cat lover",
+      "spooky cat graphic tshirt",
+      "women's halloween apparel",
+      "cat themed holiday shirt",
+      "funny halloween cat tee",
+      "glowing eyes pumpkin shirt",
+      "october halloween fashion",
+      "cat owner gift idea",
+      "halloween party shirt women",
+      "cute spooky cat clothing",
+      "novelty halloween tshirt"
+    ],
+    "description": "Celebrate Halloween as a cat owner with this clever graphic tee featuring a black cat nestled inside a glowing jack-o-lantern. The 'Already in Costume' text in spooky serif font captures the humor every cat parent knows\u2014felines are naturally mysterious and spooky. Perfect for Halloween parties, trick-or-treat nights, or everyday October wear. Soft, comfortable fit ideal for layering with jackets as temperatures drop. Great gift for women who love cats and embrace the spooky season with style."
+  },
+  "products": {
+    "shopify": "6a7b3a21adea7c67ab04806b"
+  }
+}
