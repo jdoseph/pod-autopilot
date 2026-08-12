@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "Botanical-style scientific illustration of three edible wild mushrooms labeled in Latin with 'Field Notes' as a header",
+    "audience": "Foragers and mycology enthusiasts who hunt mushrooms in autumn",
+    "score": 7.9,
+    "rationale": "Mushroom foraging is peak September-October, timing is perfect; mycology community is extremely passionate and active on social media; botanical illustration style is aesthetically strong and relatively underrepresented compared to cute cartoon mushroom designs"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"FIELD NOTES\nCantharellus cibarius\nBoletus edulis\nPleurotus ostreatus\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of three edible wild mushrooms arranged vertically in scientific style. Top mushroom: chanterelle with funnel cap and ridged underside. Middle mushroom: porcini with round cap and porous underside. Bottom mushroom: oyster mushroom with fan-shaped clustered caps. Each mushroom shown from side view with cross-section detail of gills or pores. Clean bold outlines, solid color blocks, no gradients or shading. Limited palette: burnt orange, forest green, cream, dark brown, warm tan. Single centered composition on plain cream background with 1.5 inch margin all around. Artwork elements connected and away from edges. High contrast, screen-print ready, readable at 12x16 inches.",
+    "text_on_design": "FIELD NOTES\nCantharellus cibarius\nBoletus edulis\nPleurotus ostreatus",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks only\u2014no gradients, no airbrush shading, no photorealism. Limited palette: burnt orange, forest green, cream, dark brown, warm tan on cream background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design contains no trademarks, brand names, celebrity likenesses, or protected intellectual property. 'Field Notes' is a generic descriptive phrase commonly used in naturalist and scientific contexts. The Latin binomial nomenclature (Cantharellus cibarius, Boletus edulis, Pleurotus ostreatus) are standard scientific taxonomy names in the public domain. The botanical illustration style is a classic artistic tradition with no IP concerns. Note: there is a journal/notebook brand called 'Field Notes' that holds trademark registrations, which presents a medium concern if the design could be confused with that brand's merchandise \u2014 however, in the context of a mushroom illustration print, the phrase reads as descriptive rather than as a brand identifier, reducing but not eliminating risk. Recommend confirming no stylistic overlap with the Field Notes brand aesthetic to keep risk low."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The word 'Boletus' is partially obscured by the mushroom illustration, rendering it as 'Boletu' \u2014 the text is incomplete/cut off, which fails the requirement for correctly and fully displayed text."
+  }
+}

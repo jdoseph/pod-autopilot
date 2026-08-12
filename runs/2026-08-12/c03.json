@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Plant Parent Community",
+    "product_type": "tote",
+    "concept": "Dense illustrated pattern of trailing pothos, monstera leaves, and propagation jars with 'I Came for the Cuttings' in playful lettering",
+    "audience": "Houseplant enthusiasts who attend plant swaps and shop at plant sales and nurseries",
+    "score": 7.8,
+    "rationale": "Plant parent identity is deeply community-driven and the tote is used literally at plant swaps and markets; the insider phrase 'I Came for the Cuttings' signals in-group knowledge that drives strong conversion; pattern-based designs photograph well for social media; durable year-round niche with strong gifting appeal entering holiday season"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Came for the Cuttings\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of dense interlocking pothos and monstera leaves in a repeating pattern, interspersed with glass propagation jars containing water and leaf cuttings. Composition fills the center canvas with organic flowing arrangement of leaves at various angles and sizes. Single centered composition on plain cream background. Solid color blocks only: forest green, sage green, warm terracotta, clear glass white, soft tan background. No gradients, no shading, no photorealism. Bold simple shapes with clean sharp edges in screen-print aesthetic. All design elements stay connected and away from edges. Pattern reads clearly from across a room at 12x16 inches.",
+    "text_on_design": "I Came for the Cuttings",
+    "style": "Bold playful sans-serif lettering, slightly curved and arched, positioned along the top of the leaf pattern composition in warm terracotta. Modern friendly typeface, all lowercase with slight whimsy, approximately 12-15% of total design height."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Came for the Cuttings' is a original, generic humorous play on plant hobby culture with no known trademark associations. The illustrated elements (pothos, monstera leaves, propagation jars) are common botanical subjects with no IP restrictions. No celebrity, brand, character, team, lyric, or protected slogan references are present. The design is straightforwardly original plant-enthusiast humor suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'I CAME FOR THE CUTTINGS' \u2014 correctly spelled and complete. The design features generic monstera/tropical plant illustrations in propagation jars, which are common motifs with no IP concerns. Clean flat illustration style, no anatomy, no brand marks, no real persons, suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Plant Parent Tote Bag - 'I Came for the Cuttings' Plant Lover Gift",
+    "tags": [
+      "plant parent tote",
+      "plant lover gift bag",
+      "plant swap tote",
+      "houseplant illustration tote",
+      "propagation theme bag",
+      "monstera pothos tote",
+      "plant nursery bag",
+      "plant parent apparel",
+      "botanical print tote",
+      "plant sale shopping bag",
+      "plant lady gift",
+      "plant community tote",
+      "plant enthusiast bag"
+    ],
+    "description": "The perfect companion for plant swaps, nursery hauls, and cutting exchanges. This tote is packed with illustrated trailing pothos, monstera leaves, and propagation jars that celebrate plant parent life. The playful 'I Came for the Cuttings' lettering speaks to anyone who's ever planned to buy one plant and left with five. Durable canvas construction handles heavy ceramic pots and wet propagation jars. Ideal gift for houseplant enthusiasts who spend weekends at plant sales."
+  },
+  "products": {
+    "shopify": "6a7c8babda18d89fad095714"
+  }
+}

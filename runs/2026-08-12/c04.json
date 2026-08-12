@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Witchy Autumn Aesthetics",
+    "product_type": "mug",
+    "concept": "Wraparound design of a moonlit forest with bare trees, a single cauldron, and the phrase 'Brew Something Wicked' in gothic script",
+    "audience": "People who embrace cottagecore, witchy aesthetics, and dark autumn vibes",
+    "score": 7.7,
+    "rationale": "The witchy aesthetic niche is large, passionate, and peaks in September-October; mug is a perfect product match for the cozy seasonal ritual theme; competition exists but a moody illustrated style distinguishes from clipart-heavy alternatives"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Brew Something Wicked\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Wraparound composition: silhouetted bare trees with stark branches forming a forest ring around a central cast-iron cauldron with wisps of smoke rising upward. Single full moon glowing behind the trees. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: deep charcoal black, cream white, forest green, burnt orange, and pale silver. Single centered composition on a plain solid cream background with generous margin. All artwork elements connected and away from edges. Readable at small scale. Gothic witchy aesthetic, cottagecore dark autumn mood.",
+    "text_on_design": "Brew Something Wicked",
+    "style": "Bold gothic serif script, arched above the cauldron, integrated into the composition as a secondary focal point below the moon"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brew Something Wicked' is a generic Halloween-themed play on words, not a registered trademark or protected slogan to my knowledge. It does not reference any brand, celebrity, character, team, or song lyric. The visual elements \u2014 moonlit forest, bare trees, and a cauldron \u2014 are entirely generic Halloween/witchcraft imagery with no distinctive IP associations. Gothic script is a common typographic style. The overall concept is original and commercially safe for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly and correctly displays 'BREW SOMETHING WICKED' with no misspellings or missing words. The artwork features a generic Halloween motif (cauldron, bare trees, moon, botanical elements) with a clean composition on a light background suitable for garment printing. No IP conflicts, identifiable characters, or quality issues detected."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Witchy Autumn Mug - Brew Something Wicked Moon Forest Design",
+    "tags": [
+      "witchy mug",
+      "autumn aesthetic mug",
+      "cottagecore mug",
+      "gothic design mug",
+      "dark autumn mug",
+      "witchy gift",
+      "moon phase mug",
+      "forest design mug",
+      "cauldron print mug",
+      "gothic script mug",
+      "autumn vibes mug",
+      "witchy season gift",
+      "dark aesthetic mug"
+    ],
+    "description": "Embrace the enchanting darkness of autumn with every sip. This wraparound design features a moonlit forest with silhouetted bare trees, a solitary cauldron, and 'Brew Something Wicked' in atmospheric gothic script. Perfect for cottagecore lovers, witchy aesthetic enthusiasts, and anyone who treats autumn as peak season. Ceramic construction retains heat beautifully for long evenings. Ideal gift for friends who decorate early and embrace darker seasonal energy."
+  },
+  "products": {
+    "shopify": "6a7c8bc452ffe7ef0a072804"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Teachers",
+    "product_type": "mug",
+    "concept": "Minimalist design reading 'Fueled by Coffee and the Audacity of 28 Eight-Year-Olds' in clean layered typography",
+    "audience": "Elementary school teachers who bond over shared classroom chaos humor",
+    "score": 8.1,
+    "rationale": "Teacher appreciation gifting is perennial and the holiday season amplifies it; hyper-specific number reference makes the audience feel seen; typography-only execution keeps production cost low; strong shareable social angle drives organic discovery; one of the more differentiated teacher concepts in a crowded niche"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fueled by Coffee and the Audacity of 28 Eight-Year-Olds\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a steaming coffee mug tilted slightly, with bold simple geometric shapes forming a playful starburst burst behind it. Solid color blocks: warm burgundy, cream white, charcoal gray, and one accent gold. No gradients, no shading, no photorealism. Centered composition on a plain light gray background with generous margins. The design reads as clean, modern, and screen-print ready. Keep all elements connected and away from edges.",
+    "text_on_design": "Fueled by Coffee and the Audacity of 28 Eight-Year-Olds",
+    "style": "Minimalist flat vector with bold geometric mug illustration. Text in two layered sizes: main phrase in bold modern sans-serif, stacked horizontally with 'Fueled by Coffee' slightly larger and 'and the Audacity of 28 Eight-Year-Olds' in a smaller complementary weight below. All type centered below the mug illustration. Screen-print aesthetic, high contrast, sharp clean edges, no decorative flourishes."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase is an original, generic humorous expression referencing a common teacher or caregiver experience. It contains no registered trademarks, brand names, celebrity references, protected slogans, or intellectual property concerns. 'Coffee' is generic, and the humor around managing large groups of children is a well-established common theme in everyday expression. The phrase appears to be original and poses no meaningful IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'FUELED BY COFFEE AND THE AUDACITY OF 28 EIGHT-YEAR-OLDS' which matches the required content, but there is a stray quotation mark artifact visible after '28' (before 'EIGHT-YEAR-OLDS') that constitutes a rendering artifact/error in the lettering. Rejecting for quality due to this extraneous character."
+  }
+}

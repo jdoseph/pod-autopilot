@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "tote",
+    "concept": "Botanical print of six illustrated wild mushroom varieties arranged in a grid pattern with small handwritten identification notes beneath each one",
+    "audience": "Foragers, mycology enthusiasts, and nature-adjacent shoppers who use totes for market trips",
+    "score": 8.3,
+    "rationale": "Tote is the most natural product for foragers who literally carry bags in the field; botanical grid style has proven commercial appeal in art prints and translates beautifully to tote; timing aligns with fall foraging peak; the educational element adds value and shareability; low IP risk and high niche passion make this a top-tier concept"
+  },
+  "design": {
+    "image_prompt": "Flat vector illustration of six wild mushroom varieties arranged in a 2x3 grid on a cream background. Each mushroom is rendered in bold simple shapes with clean sharp edges, showing distinctive caps, stems, and details. Mushroom varieties: fly agaric (red cap with white spots), chanterelle (golden funnel shape), puffball (round), morel (honeycomb texture), oyster mushroom (layered shelf), and death cap (pale with ring). Use solid color blocks only\u2014no gradients, no shading, no photorealism. Limited palette: cream, dark forest green, rust red, golden yellow, pale gray. Centered composition with generous margins on plain cream background. High contrast screen-print aesthetic. Readable at 12x16 inches from across a room.",
+    "text_on_design": null,
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Botanical illustration of generic wild mushroom varieties in a grid layout with handwritten identification notes is a classic naturalist art style with no references to trademarks, brands, characters, celebrities, or protected intellectual property. Generic scientific or common mushroom names used as identification labels are factual descriptors and not protectable as trademarks in this context. This design presents no meaningful IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Clean flat-style illustration of nine mushroom varieties shown from different angles. No text or lettering present. No IP concerns \u2014 mushroom motifs are common generic subject matter. No recognizable characters, brands, celebrities, or protected artwork. Art quality is solid with clear shapes, consistent style, and a light neutral background suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Mushroom Foraging Botanical Tote Bag - Wild Species Field Guide Print",
+    "tags": [
+      "mushroom foraging bag",
+      "botanical tote bag",
+      "mycology gift",
+      "nature illustration tote",
+      "field guide design",
+      "market tote bag",
+      "forager gift",
+      "woodland print tote",
+      "educational tote",
+      "nature lover bag",
+      "reusable shopping tote",
+      "illustrated plant bag",
+      "fungi identification tote"
+    ],
+    "description": "Carry your farmers market finds or foraged treasures in style. This tote features six detailed wild mushroom varieties arranged in a scientific grid, each with identification notes perfect for learning species names. Ideal for foragers, mycology students, and nature enthusiasts who appreciate botanical accuracy. Sturdy cotton construction handles weekly shopping trips, plant hauls, or weekend field expeditions. Great gift for anyone obsessed with mushroom hunting or woodland exploration."
+  },
+  "products": {
+    "shopify": "6a7c8b6e029d04117604b1ec"
+  }
+}

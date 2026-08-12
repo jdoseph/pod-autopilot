@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Amateur Astronomy",
+    "product_type": "t-shirt",
+    "concept": "Dense star map of the autumn night sky constellations with 'Office Hours: Dusk to Dawn' printed along the bottom",
+    "audience": "Backyard stargazers and astronomy hobbyists who observe during fall nights",
+    "score": 7.4,
+    "rationale": "Fall brings clearer skies and longer nights, driving astronomy interest; the community is passionate and underserved in POD; star map designs have proven conversion history and the witty tagline adds differentiation"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Office Hours: Dusk to Dawn\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of autumn night sky star map showing constellation patterns. Bold simple shapes: white stars of varying sizes connected by thin white lines forming recognizable fall constellations (Cassiopeia, Perseus, Andromeda, Pegasus, Orion rising). Deep navy blue background with solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition on plain solid black background with generous margin. High contrast screen-print aesthetic with clean sharp edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Office Hours: Dusk to Dawn",
+    "style": "Bold retro sans-serif all-caps lettering, white, positioned along the bottom below the constellation map"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The star map design depicts generic autumn night sky constellations, which are natural astronomical features not protected by IP. The phrase 'Office Hours: Dusk to Dawn' is a common idiomatic construction combining a familiar workplace term with a generic time reference. No known trademark conflicts exist for this phrase in this context, no celebrity or brand associations are evoked, and the design contains no protected characters, logos, or slogans. The concept is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Office Hours: Dusk to Dawn' correctly spelled and complete. The typography is clean with a creative constellation/star pattern treatment on 'Dusk' and 'Dawn' letters. No IP risks, no quality issues, no anatomical elements, and the black background with cream border is suitable for garment printing."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Astronomy T-Shirt - Autumn Star Map Night Sky 'Office Hours' Tee",
+    "tags": [
+      "astronomy t-shirt",
+      "star map tee",
+      "night sky shirt",
+      "constellation shirt",
+      "stargazer gift",
+      "autumn astronomy tee",
+      "science lover shirt",
+      "backyard astronomy gift",
+      "space enthusiast tee",
+      "fall night sky tee",
+      "educational science shirt",
+      "astronomy hobbyist gift",
+      "celestial design tee"
+    ],
+    "description": "For backyard astronomers and amateur stargazers who chase clear autumn skies. This tee showcases a dense, accurate star map of autumn night constellations rendered in beautiful detail. 'Office Hours: Dusk to Dawn' runs along the bottom, celebrating the night observer's schedule. Soft cotton blend comfortable for evening observation sessions or daytime wear. Perfect gift for someone passionate about astronomy, planetarium visits, or fall stargazing expeditions."
+  },
+  "products": {
+    "shopify": "6a7c8bee029d04117604b295"
+  }
+}
