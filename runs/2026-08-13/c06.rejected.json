@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "t-shirt",
+    "concept": "A cartoon sourdough starter jar with googly eyes labeled 'My Other Pet' in a retro badge style.",
+    "audience": "Home sourdough bakers who treat their starter like a living companion",
+    "score": 7.1,
+    "rationale": "Sourdough culture remains evergreen with a cult-like community. The pet angle is emotionally sticky, drives gifting, and has search volume year-round. Low brand risk and easy to execute with humorous illustration style."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"MY OTHER PET\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass mason jar containing bubbling sourdough starter, centered composition. The jar has two large googly eyes mounted on the front, giving it an anthropomorphic pet-like character. Bold simple shapes with clean sharp edges, screen-print aesthetic. Color palette: warm cream #F5E6D3, dark brown #3D2817, bright white #FFFFFF, and warm tan #D4A574. Solid color blocks, no gradients, no airbrush shading, no photorealism. The jar sits on a plain pale yellow #FFFACD background with generous margin. Single centered composition, all elements connected and away from edges. Retro badge style circular frame around the jar made of simple bold lines.",
+    "text_on_design": "MY OTHER PET",
+    "style": "Bold retro sans-serif, all caps, curved along the top of a circular badge frame surrounding the jar illustration, approximately 1.5 inches tall"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Other Pet' is a common generic humorous expression with no known trademark associations. The sourdough starter jar concept is a widely used novelty idea in the maker/foodie community. The retro badge style is a generic design approach. No identifiable brand names, characters, celebrities, or protected slogans are referenced. The combination presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'MY OTHER POT' (with the mason jar serving as the 'O' between P and T), not the required 'MY OTHER PET'. The text is incorrect and does not match the required phrase."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Bookish / Reading Culture",
+    "product_type": "mug",
+    "concept": "A stack of illustrated autumn books with steam rising from the top one as if it were a mug, with text 'One More Chapter' in cozy handwritten font.",
+    "audience": "Avid readers who participate in book clubs and follow BookTok or Bookstagram",
+    "score": 7.5,
+    "rationale": "Reading community is one of the most active POD buyer audiences. The book-as-mug visual pun is charming and shareable. Autumn reading season is peak for this community, and it's a perfect self-gift or book club gift."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"One More Chapter\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a centered stack of four stylized books in autumn colors, each book slightly offset and tilted. The top book has warm steam wisps rising upward in elegant curved lines. The books feature bold solid color blocks with clean geometric shapes\u2014spines visible, pages suggested by simple lines. No gradients, no shading, no photorealism. Solid color palette: burnt orange, forest green, warm cream, deep burgundy, and charcoal. Single plain pale cream background, generous margin on all sides. High contrast, screen-print aesthetic, readable at 12x16 inches.",
+    "text_on_design": "One More Chapter",
+    "style": "Bold handwritten serif in charcoal, curved gently above the book stack in a cozy friendly weight, integrated into the composition without shadowing."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'One More Chapter' is a common, generic expression widely used in everyday language by readers and is not associated with any specific trademark, brand, or protected IP to my knowledge. The illustrated concept of autumn books with steam is an original artistic idea that does not reference any characters, logos, or protected imagery. The cozy book aesthetic is a broadly used generic theme in the print-on-demand space. No celebrity, team, lyric, or brand reference is present."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text displayed across the stacked books reads 'ONE MORE MORE CHAPTER' \u2014 the word 'MORE' is repeated on two separate books, resulting in incorrect text. The required phrase is 'One More Chapter' with no duplicate words."
+  }
+}

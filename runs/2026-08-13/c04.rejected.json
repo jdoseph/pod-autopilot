@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Witchcraft / Mystical Aesthetic",
+    "product_type": "tote",
+    "concept": "A risograph-style illustration of a moon phase cycle above a ring of herbs and crystals with 'Gather What Calls to You' printed in elegant gothic lettering.",
+    "audience": "Witchcraft practitioners, crystal collectors, and mystical aesthetic enthusiasts aged 20-38",
+    "score": 7.4,
+    "rationale": "The witchy/mystical aesthetic community is enormous on TikTok and Pinterest with consistent POD buying behavior. Autumn and Samhain season amplifies demand. Tote is ideal for crystal store and herb market hauls. No IP risk and strong identity-expression appeal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Gather What Calls to You\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, screen-print aesthetic. Center composition: eight moon phases arranged in a horizontal arc at top, rendered as simple solid circles and crescents. Below, a circular wreath of stylized herbs (sage, lavender, rosemary) and geometric crystals (quartz points, amethyst clusters) in solid shapes with clean edges. No gradients, no shading, no photorealism. Color palette: deep indigo, cream, sage green, amethyst purple, silver. Solid uniform charcoal background, generous margins, all artwork elements centered and away from edges.",
+    "text_on_design": "Gather What Calls to You",
+    "style": "Bold gothic serif lettering, arched and centered below the herb and crystal ring, in cream color. Flat vector, screen-print aesthetic, no drop shadows, no decorative flourishes beyond the letterforms themselves."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Gather What Calls to You' is a generic, evocative sentiment with no known trademark associations. The visual elements \u2014 moon phase cycles, herbs, crystals, and risograph-style illustration \u2014 are all common aesthetic tropes in the wellness and spiritual art market with no protected IP implications. Gothic lettering is a widely used typographic style. No celebrity, brand, character, team, lyric, or protected slogan is referenced. The design concept is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'GATHER WHAT CALLSS TO YOU' \u2014 'CALLS' is misspelled with a double 'S' (CALLSS). This is a text quality defect that requires rejection."
+  }
+}

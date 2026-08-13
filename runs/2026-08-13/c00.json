@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Season Enthusiasm",
+    "product_type": "tote",
+    "concept": "A large-format black tote featuring a grinning jack-o'-lantern made of bold geometric shapes with 'Trick or Tote' printed in spooky serif type below it.",
+    "audience": "Halloween enthusiasts who use reusable bags and attend fall markets or trunk-or-treat events",
+    "score": 8.1,
+    "rationale": "'Trick or Tote' is a highly giftable seasonal pun perfectly matched to the product. Totes are functional Halloween accessories for candy, market shopping, and costumes. The 6-8 week buying window is spot-on for October delivery. Low IP risk and high impulse-buy potential."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Trick or Tote\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a jack-o'-lantern made of bold geometric shapes: large circle for head, two solid triangles for eyes, one inverted triangle for nose, crescent moon shape for grinning mouth. Grinning expression. Centered composition on plain cream background. Solid color blocks: orange pumpkin, black facial features, dark green stem. No gradients, no shading, no photorealism. High contrast screen-print aesthetic with clean sharp edges. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Trick or Tote",
+    "style": "Bold spooky serif type, arched below the pumpkin illustration. Flat vector, limited palette of orange, black, dark green, cream background. Screen-print aesthetic, solid shapes, no gradients."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "'Trick or Tote' is a original pun on the classic Halloween phrase 'trick or treat,' which is a common generic cultural expression not protected by trademark. The design elements \u2014 a geometric jack-o'-lantern and spooky serif typography \u2014 are generic Halloween imagery with no association to any specific brand, character, team, or protected IP. No celebrity likeness, logo, or distinctive slogan from an identifiable rights holder is present. This is a clean, original seasonal design suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'TRICK OR TOTE' correctly spelled and complete, set within a clean pumpkin illustration on a plain background. No IP concerns, no quality issues, text is fully legible and well-rendered."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Trick or Tote Black Halloween Bag with Geometric Jack-o'-Lantern Design",
+    "tags": [
+      "halloween tote bag",
+      "reusable market bag",
+      "geometric pumpkin design",
+      "fall festival tote",
+      "trick or treat bag",
+      "spooky season fashion",
+      "trunk-or-treat gear",
+      "black canvas tote",
+      "halloween enthusiast gift",
+      "seasonal market bag",
+      "bold graphic tote",
+      "october aesthetic",
+      "everyday halloween bag"
+    ],
+    "description": "Carry your fall vibes in style. This large-format black tote features a grinning jack-o'-lantern rendered in bold geometric shapes with 'Trick or Tote' in spooky serif lettering. Perfect for weekend farmers markets, trunk-or-treat events, or stacking up your favorite Halloween decorations at home. Durable enough for everyday use, distinctive enough to spark conversations. Great for: anyone who celebrates spooky season year-round, reusable bag collectors, market enthusiasts."
+  },
+  "products": {
+    "shopify": "6a7ddd0a4bf761a85607557a"
+  }
+}

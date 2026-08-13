@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn Comfort / Hygge",
+    "product_type": "mug",
+    "concept": "A cozy illustrated scene of a hand wrapped around a steaming mug beside a rainy window with a cat on the sill, captioned 'This Is Enough'.",
+    "audience": "Introverts, homebodies, and hygge-lifestyle enthusiasts aged 25-45",
+    "score": 7.2,
+    "rationale": "Autumn hygge content peaks in September-October, perfectly timed. 'This Is Enough' taps into anti-hustle sentiment that drives high engagement. Mug-within-a-mug concept is meta and giftable."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"This Is Enough\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a hand wrapped around a steaming mug in the foreground, centered composition. Behind it, a rainy window with diagonal rain streaks. On the window sill, a cat silhouette sitting peacefully. Steam rises in simple curved lines from the mug. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: warm cream, deep forest green, charcoal gray, soft white, and rust orange. Single centered composition on a plain solid white background with generous margin. High contrast, screen-print aesthetic, bold simple shapes, clean sharp edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "This Is Enough",
+    "style": "Flat vector illustration, screen-print aesthetic, bold retro sans-serif typography in charcoal gray, centered and arched below the main illustration. Solid color blocks only, no gradients or shading. Limited palette: cream, forest green, charcoal gray, white, rust orange."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'This Is Enough' is a short, generic, common-sentiment expression with no known trademark associations in apparel or print-on-demand contexts. The illustrated scene elements (hand, mug, rainy window, cat on sill) are all generic artistic motifs with no intellectual property concerns. No celebrity likenesses, brand references, character depictions, song lyrics, or protected slogans are present. The overall concept is original and low-risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'THIS IS ENOUGH' \u2014 correctly spelled and complete. The illustration is a clean, original composition featuring a hand holding a steaming coffee mug with a cat silhouette in a rainy window background. No IP risks, no quality issues, no anatomical deformities, and the design is standalone artwork suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "This Is Enough Hygge Mug with Rainy Window and Cat Illustration",
+    "tags": [
+      "hygge mug",
+      "cozy ceramic mug",
+      "rainy window design",
+      "cat illustration mug",
+      "comfort drinkware",
+      "minimalist wellness",
+      "introvert mug",
+      "autumn warmth mug",
+      "cozy aesthetic",
+      "self-care gift",
+      "this is enough",
+      "contentment mug",
+      "home comfort drinkware"
+    ],
+    "description": "A gentle reminder that comfort is enough. This mug features a cozy illustrated scene of a hand wrapped around a steaming mug beside a rainy window with a cat on the sill, captioned 'This Is Enough.' Perfect for morning coffee, afternoon tea, or hot chocolate on quiet days. Ideal for: introverts and homebodies, hygge lifestyle enthusiasts, people seeking calm in chaos, anyone who values simplicity, gift-givers celebrating contentment. A daily affirmation for those who find joy in small, quiet moments."
+  },
+  "products": {
+    "shopify": "6a7ddd78fd27c0b7290d20a9"
+  }
+}

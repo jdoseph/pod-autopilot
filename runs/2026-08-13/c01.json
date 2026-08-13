@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Season Enthusiasm",
+    "product_type": "mug",
+    "concept": "Wrap-around design of a foggy graveyard at twilight with the handle positioned as a lit lantern post and 'Mornings Are Scary Enough' printed on the front.",
+    "audience": "Halloween lovers and horror aesthetic fans who drink coffee daily",
+    "score": 7.9,
+    "rationale": "The mug is the ideal product for this concept\u2014handle as lantern is a clever product-integrated idea. Mornings plus horror is a beloved mug humor format. Strong gift potential for Halloween season perfectly timed at 6-8 weeks out."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Mornings Are Scary Enough\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a foggy graveyard at twilight. Centered composition: silhouetted tombstones and bare gnarled trees in the middle ground, thick fog banks rendered as solid horizontal bands obscuring the lower third. A tall wrought-iron lantern post with a glowing rectangular window positioned on the right side of center, warm golden light radiating from within. Single crescent moon pale yellow in the upper portion. Color palette: deep charcoal black, dark purple, fog gray, warm golden yellow, pale cream. Solid color blocks only, no gradients, no photorealism, no shadowing or airbrush effects. High contrast screen-print aesthetic. Design centered with generous margin on all sides, away from edges, on a solid black background that will be deleted in post-processing.",
+    "text_on_design": "Mornings Are Scary Enough",
+    "style": "Bold retro serif typeface, white, arched across the upper third of the composition above the graveyard illustration. Clean, crisp letterforms with high readability at distance."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Mornings Are Scary Enough' is a generic humorous expression combining a common sentiment about mornings with a casual horror reference. It does not appear to be a registered trademark, slogan associated with a specific brand, or tied to any copyrighted character, celebrity, team, or media property. The graveyard and lantern visual concept is generic Gothic/Halloween imagery with no specific IP associations. The overall design concept is original and commercially safe for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'MORNINGS ARE SCARY ENOUGH' correctly spelled and complete. The artwork features a generic spooky graveyard scene with a lamp post, crescent moon, and bare trees \u2014 all common Halloween motifs with no IP concerns. Text is clean and legible, composition is suitable for garment printing with a solid black background."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Mornings Are Scary Enough Halloween Coffee Mug with Graveyard Design",
+    "tags": [
+      "halloween coffee mug",
+      "graveyard design mug",
+      "spooky morning mug",
+      "horror aesthetic drinkware",
+      "fog cemetery illustration",
+      "daily coffee cup",
+      "halloween gift mug",
+      "lantern handle design",
+      "dark humor mug",
+      "twilight graveyard art",
+      "scary season drinkware",
+      "horror fan gift",
+      "spooky ceramic mug"
+    ],
+    "description": "Start every morning with a touch of the macabre. This wraparound mug features a foggy graveyard at twilight with the handle positioned as a glowing lantern post. 'Mornings Are Scary Enough' printed on the front speaks to coffee lovers who appreciate dark humor. Perfect for: horror enthusiasts, Halloween lovers who stay in character year-round, anyone who needs caffeine to face the day, Halloween aesthetic collectors. Great gift for coworkers with a dark sense of humor."
+  },
+  "products": {
+    "shopify": "6a7ddd204bf761a85607558b"
+  }
+}
