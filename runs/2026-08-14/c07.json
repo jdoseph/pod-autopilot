@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough baking",
+    "product_type": "t-shirt",
+    "concept": "Illustrated sourdough starter jar with cartoon eyes and the text 'I Feed My Starter Before My Family'",
+    "audience": "Home bakers obsessed with sourdough who follow bread-making communities online",
+    "score": 7.2,
+    "rationale": "Sourdough culture remains a strong hobbyist niche with self-deprecating humor resonating well. No IP issues. Dedicated Facebook and Reddit communities share merch constantly. Humor angle reduces design competition versus plain bread illustrations."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Feed My Starter Before My Family\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass mason jar filled with bubbly sourdough starter, centered composition. The jar has two large cartoon eyes (black circles with white highlights) positioned on the upper portion, giving it a friendly character. Inside the jar, show thick creamy starter with visible bubbles in solid tan and cream colors. The jar is glass-clear with bold black outlines and minimal detail. Simple wooden spoon resting in the jar. Solid color blocks only, no gradients, no shading, no photorealism. Color palette: black outlines, cream, tan, light gray for jar highlight, warm white. Plain solid cream background, generous margin around design, all elements centered and away from edges.",
+    "text_on_design": "I Feed My Starter Before My Family",
+    "style": "Bold retro sans-serif, all caps, arched below the jar illustration in black, high contrast, screen-print ready"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Feed My Starter Before My Family' is a generic humorous statement about sourdough baking culture with no known trademark associations. The illustrated sourdough jar with cartoon eyes is a common whimsical design trope. No celebrity, brand, character, team, or protected slogan references are present. The humor is based on a relatable everyday concept and poses minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'I FEED MY STARTER BEFORE MY FAMILY' \u2014 correctly spelled and complete. The design features a clean cartoon mason jar with a sourdough starter character (googly eyes, wooden spoon), clear artwork with no IP conflicts, no anatomy issues, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 7,
+    "title": "I Feed My Starter Before My Family Sourdough Baker Tee - Bread Lover Shirt",
+    "tags": [
+      "sourdough baker shirt",
+      "sourdough humor tee",
+      "bread baker gift",
+      "starter jar design",
+      "home baker tee",
+      "sourdough community",
+      "funny baker shirt",
+      "bread making apparel",
+      "baking humor gift",
+      "sourdough enthusiast",
+      "baker lifestyle tee",
+      "cartoon starter jar",
+      "baking community shirt"
+    ],
+    "description": "For home bakers obsessed with sourdough who follow bread-making communities online. Features an illustrated sourdough starter jar with cartoon eyes and 'I Feed My Starter Before My Family' text. Celebrate your dedication to sourdough with humor and personality. Perfect gift for passionate home bakers who prioritize their starter's health. Great conversation starter in baking circles and social media. Comfortable fit for kitchen work or casual wear. Appeals to sourdough enthusiasts who embrace their bread obsession with pride."
+  },
+  "products": {
+    "shopify": "6a7f2ddc5ae8bbac5300c606"
+  }
+}

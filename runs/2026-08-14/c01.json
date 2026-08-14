@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween trick-or-treat",
+    "product_type": "tote",
+    "concept": "Black canvas tote with orange spiderweb illustration and 'Official Candy Collector' in retro horror font",
+    "audience": "Parents buying for young children and adults doing ironic trick-or-treat gatherings",
+    "score": 8.0,
+    "rationale": "Halloween totes for trick-or-treating are a top seasonal seller. Functional product with clear use case. Buying window is perfect \u2014 6-7 weeks before Halloween. Both sincere and ironic audiences exist. Design is simple to produce and highly giftable."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Official Candy Collector\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a bold geometric spiderweb with a stylized spider perched at center. Orange spiderweb lines with sharp angles and clean geometric geometry on solid black background. Single centered composition with generous margins. Screen-print aesthetic with solid color blocks, no gradients, no shading, no photorealism. High contrast, readable at 12x16 inches from across a room. Color palette: orange, black, cream. The artwork connects as one unified design element, positioned away from edges.",
+    "text_on_design": "Official Candy Collector",
+    "style": "Bold retro horror serif font arched above the spiderweb illustration, cream colored text, all caps, 1970s horror movie poster aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Official Candy Collector' is a generic Halloween-themed expression with no known trademark associations. The spiderweb illustration is a common public domain Halloween motif. The retro horror font style is a broad aesthetic category. No celebrity, brand, character, or protected slogan is referenced. The overall concept is original seasonal novelty merchandise with low IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Official Candy Collector' correctly spelled across three lines, with clean bold typography. The orange spider and spiderweb graphic is a generic Halloween motif with no IP concerns. Text is fully legible, well-rendered, and suitable for garment printing on a solid black background."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Official Candy Collector Spiderweb Tote - Halloween Trick-or-Treat Bag",
+    "tags": [
+      "halloween tote bag",
+      "trick-or-treat bag",
+      "candy collector tote",
+      "spiderweb design",
+      "halloween canvas tote",
+      "kids trick-or-treat",
+      "orange and black tote",
+      "halloween gift bag",
+      "retro horror design",
+      "reusable halloween bag",
+      "adult halloween party",
+      "sturdy canvas tote",
+      "seasonal trick-or-treat"
+    ],
+    "description": "Black canvas tote featuring orange spiderweb illustration and 'Official Candy Collector' in retro horror font. Perfect for young children on Halloween night or adults participating in ironic trick-or-treat gatherings. Durable construction handles candy collection and everyday use. Works as party favor, gift bag, or seasonal decoration storage. Ideal present for parents, trick-or-treaters, and anyone hosting Halloween events. Celebrate the season with retro-inspired humor and functionality."
+  },
+  "products": {
+    "shopify": "6a7f2d454ddb7516f707d80b"
+  }
+}

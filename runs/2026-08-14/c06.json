@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky true crime fan",
+    "product_type": "mug",
+    "concept": "Crime scene tape border around the mug rim with the text 'Solving Murders Before My First Sip' in evidence-tag font",
+    "audience": "True crime podcast and documentary fans who use dark humor as part of their fandom identity",
+    "score": 7.4,
+    "rationale": "True crime audience is enormous and identity-driven, buying merchandise that signals their niche. Dark humor on mugs is a proven seller. Halloween proximity makes this especially timely. No IP concerns. Risk is saturation from similar concepts."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Solving Murders Before My First Sip\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for mug wrap design. Central composition: yellow and black crime scene tape forming a horizontal band across the middle, with bold diagonal stripes and clean edges. Above the tape, a simple white coffee mug silhouette with steam wisps. Below the tape, a small evidence tag shape in cream with a string loop. Color palette: black, yellow, cream white, dark gray. Solid color blocks, no gradients, no shading, no photorealism. Plain solid dark gray background. Single centered design with generous margins, readable at 12 inches. Screen-print aesthetic, bold simple shapes, high contrast, sharp edges throughout.",
+    "text_on_design": "Solving Murders Before My First Sip",
+    "style": "Bold sans-serif, all caps, stencil-like evidence tag typeface, positioned in a horizontal line below the crime scene tape band, centered, high contrast against the design"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Solving Murders Before My First Sip' is a generic humorous expression in the popular 'true crime fan' novelty merchandise category. It does not reference any specific trademark, brand, celebrity, character, song lyric, or protected slogan. Crime scene tape is a generic visual element not owned by any single rights holder. The 'evidence tag' font style is a generic aesthetic choice. This type of humor-about-coffee-and-true-crime is a well-established generic novelty category with no identifiable IP owner. Approved for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'SOLVING MURDERS BEFORE MY FIRST SIP' which matches the required text exactly (case-insensitive). The design is a clean, flat-style illustration of a yellow mug with steam and a tea tag. No IP concerns, no anatomical issues, no rendering artifacts, and the background is a simple solid gray suitable for garment printing."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Solving Murders Before My First Sip True Crime Mug - Dark Humor Gift",
+    "tags": [
+      "true crime mug",
+      "crime podcast fan",
+      "dark humor coffee mug",
+      "murder mystery gift",
+      "crime scene tape design",
+      "true crime fan gift",
+      "evidence tag font",
+      "podcast listener mug",
+      "detective humor mug",
+      "documentary fan gift",
+      "funny crime mug",
+      "mystery lover gift",
+      "fandom humor mug"
+    ],
+    "description": "For true crime podcast and documentary fans who use dark humor as part of their fandom identity. Features crime scene tape border around the mug rim with 'Solving Murders Before My First Sip' in evidence-tag font. Perfect for morning coffee rituals while enjoying true crime content. Great gift for podcast enthusiasts, mystery lovers, and comedy fans. Appeals to those who appreciate witty, darker humor. Ideal for coworkers, friends, and fellow true crime community members. Makes a memorable present for fans of the genre."
+  },
+  "products": {
+    "shopify": "6a7f2dc5c82af4e0b805e710"
+  }
+}

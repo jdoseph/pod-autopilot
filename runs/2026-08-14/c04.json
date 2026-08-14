@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cottagecore mushroom foraging",
+    "product_type": "tote",
+    "concept": "Illustrated wicker basket overflowing with foraged mushrooms, acorns, and berries with 'Wandering & Gathering' in botanical script",
+    "audience": "Cottagecore aesthetic followers, foragers, and nature-immersed millennials and Gen Z",
+    "score": 7.6,
+    "rationale": "Cottagecore remains a strong aesthetic identity on TikTok and Instagram. Foraging content spikes in fall. Tote is the perfect functional accessory for the foraging activity itself. Passionate niche with strong gift-purchasing behavior and low IP risk."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Wandering & Gathering\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a wicker basket overflowing with foraged mushrooms, acorns, and berries. The basket is centered and tilted slightly, with mushrooms of varying sizes (some with spots, some solid), scattered acorns, and clusters of berries spilling over the rim. Simple bold shapes with clean sharp edges. Solid color palette: warm tan for the basket weave, forest green for stems and leaves, cream for mushroom caps, rust orange for acorns, deep burgundy and berry red for the fruits. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain solid cream background with generous margins. All design elements connected and away from edges. Text arched above in botanical script style: 'Wandering & Gathering'.",
+    "text_on_design": "Wandering & Gathering",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette (tan, forest green, cream, rust orange, burgundy, berry red), solid color blocks only, no gradients, no shading, readable at 12x16 inches"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Wandering & Gathering' is a generic descriptive expression combining two common English words with no known trademark associations. The illustrated wicker basket with foraged natural elements (mushrooms, acorns, berries) is a wholly original botanical concept with no recognizable characters, brand references, celebrity likenesses, or protected slogans. The botanical script styling is a common design treatment. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'WANDERING & GATHERING' which matches the required phrase exactly (case-insensitive). The lettering is clean and legible, arched above a well-rendered illustration of a wicker basket filled with mushrooms, berries, acorns, and foliage. No IP concerns, no anatomy issues, no rendering artifacts. Clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Wandering & Gathering Mushroom Foraging Tote - Cottagecore Canvas Bag",
+    "tags": [
+      "cottagecore tote",
+      "mushroom foraging bag",
+      "botanical design tote",
+      "nature lover gift",
+      "wicker basket illustration",
+      "forager tote bag",
+      "millennial cottagecore",
+      "nature aesthetic bag",
+      "gathering design",
+      "woodland illustration",
+      "acorn and berry design",
+      "botanical script text",
+      "hiking and gathering"
+    ],
+    "description": "Perfect for cottagecore aesthetic followers, foragers, and nature-immersed individuals. Illustrated wicker basket overflowing with foraged mushrooms, acorns, and berries with 'Wandering & Gathering' in botanical script. Ideal for carrying foraged items, farmers market finds, or daily essentials. Appeals to Gen Z and millennials who embrace nature-connected lifestyle and woodland aesthetics. Makes a thoughtful gift for hikers, nature enthusiasts, and gardeners. Celebrates the beauty of slow living and seasonal gathering traditions."
+  },
+  "products": {
+    "shopify": "6a7f2d8c5ae8bbac5300c584"
+  }
+}

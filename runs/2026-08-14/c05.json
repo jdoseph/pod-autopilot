@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Pet costume Halloween",
+    "product_type": "t-shirt",
+    "concept": "Illustrated dog dressed as a tiny ghost with 'My Dog is the Cutest Spooky' in hand-lettered style",
+    "audience": "Dog owners who dress their pets for Halloween and share photos on social media",
+    "score": 7.5,
+    "rationale": "Pet Halloween content explodes in September-October. Dog owner niche is massive, emotionally engaged, and buys heavily. Avoids all IP. Humor plus cute art style is proven to convert. High shareability drives organic reach."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Dog is the Cutest Spooky\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a friendly cartoon dog wearing a white ghost costume with two black oval eyes and a simple curved smile. The dog's ears poke out from under the white sheet. Dog is centered in composition. Use solid color blocks: white ghost, warm tan dog ears/snout, black eyes and smile, orange background. No gradients, no shading, no photorealism. Bold screen-print aesthetic with clean sharp edges and high contrast. Single centered composition with generous margin on plain solid orange background. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "My Dog is the Cutest Spooky",
+    "style": "Hand-lettered style arched in a curved banner below the illustration, friendly casual serif with slight irregularity to suggest hand-drawn quality. Bold weight, black color, integrated into the flat vector design."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Dog is the Cutest Spooky' is a generic, descriptive sentiment with no known trademark associations. The illustrated concept of a dog dressed as a ghost is a common Halloween novelty theme. No celebrity likenesses, brand names, protected characters, registered slogans, or song lyrics are referenced. The design is original and presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'MY DOG IS THE CUTEST SPOOKY' \u2014 correctly spelled and complete. The design features a clean, original illustration of a dog dressed as a ghost on a solid orange background. No IP conflicts, no quality issues, no anatomical problems, and no rendering artifacts detected."
+  },
+  "listing": {
+    "index": 5,
+    "title": "My Dog is the Cutest Spooky Ghost Costume Tee - Dog Owner Halloween Shirt",
+    "tags": [
+      "dog halloween shirt",
+      "pet costume tee",
+      "dog parent gift",
+      "ghost dog design",
+      "cute spooky tee",
+      "dog lover halloween",
+      "hand-lettered dog shirt",
+      "pet owner apparel",
+      "social media pet outfit",
+      "funny dog tee",
+      "halloween pet tee",
+      "dog costume shirt",
+      "pet parent clothing"
+    ],
+    "description": "For dog owners who dress their pets for Halloween and share photos on social media. Features an illustrated dog dressed as a tiny ghost with 'My Dog is the Cutest Spooky' in lettered style. Celebrate your pup's Halloween costume with coordinating apparel. Perfect gift for dog lovers and pet parents. Great conversation starter at dog parks, Halloween parties, and social gatherings. Comfortable fit for all-day wear. Show off your dog's adorable spooky side in style."
+  },
+  "products": {
+    "shopify": "6a7f2da7c82af4e0b805e6f1"
+  }
+}

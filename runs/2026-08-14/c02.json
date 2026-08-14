@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky plant parent",
+    "product_type": "tote",
+    "concept": "Illustrated Halloween-ified houseplants \u2014 a cactus with tiny ghost costume, a monstera with bat wings \u2014 and 'My Plants Are Dying For Attention'",
+    "audience": "Millennial and Gen Z plant enthusiasts who layer their hobby identity with Halloween humor",
+    "score": 7.9,
+    "rationale": "Plant parent identity is massive online. Halloween crossover content performs extremely well in this demographic. The tote is a natural fit for carrying plants home from nurseries. Pun is sharp and shareable. Falls perfectly in the pre-Halloween gifting surge."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Plants Are Dying For Attention\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of three Halloween-themed houseplants arranged in a row on a plain cream background. Left: a round barrel cactus with a tiny white ghost costume draped over it, ghost has two black dot eyes. Center: a large monstera deliciosa with bright green leaves and attached black bat wings on either side, wings have simple geometric details. Right: a potted snake plant with orange and purple striped wrapping around its leaves like a mummy, simple black X eyes. All plants in terracotta pots. Solid color blocks only\u2014no gradients, no shading, no photorealism. Bold simple shapes, clean sharp edges, screen-print aesthetic. Limited palette: cream background, sage green, terracotta orange, black, white, purple. High contrast. Single centered composition with generous margins. Text in bold retro serif font arched below the plants.",
+    "text_on_design": "My Plants Are Dying For Attention",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: cream, sage green, terracotta orange, black, white, purple."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Plants Are Dying For Attention' is a generic plant-humor pun with no known trademark registration or association with a specific brand, celebrity, or IP holder. The illustrated elements \u2014 a costumed cactus and a monstera with bat wings \u2014 are original Halloween-themed depictions of common houseplants, not referencing any protected characters, logos, or brand imagery. No trademarked slogans, licensed characters, or celebrity likenesses are involved. The concept is safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'MY PLANTS ARE DYING FOR ATTENTION' \u2014 correctly spelled and complete. The illustration features generic Halloween-themed potted plants (ghost cactus, vampire monstera, mummy cactus) with clean line art, no IP concerns, no quality issues, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "My Plants Are Dying For Attention Halloween Tote - Plant Parent Gift",
+    "tags": [
+      "plant parent tote",
+      "halloween plant lover",
+      "spooky plant design",
+      "houseplant tote bag",
+      "funny plant gift",
+      "millennial plant humor",
+      "cactus and monstera",
+      "ghost costume plant",
+      "bat wings illustration",
+      "plant enthusiast gift",
+      "halloween garden tote",
+      "gen z plant parent",
+      "botanical humor bag"
+    ],
+    "description": "Celebrate plant parenthood with Halloween flair. Illustrated Halloween-ified houseplants including a ghost-costumed cactus and bat-winged monstera with the text 'My Plants Are Dying For Attention.' Perfect gift for plant enthusiasts, millennials, and Gen Z who blend hobby identity with seasonal humor. Ideal for carrying supplies to plant swaps, garden centers, or displaying as decor. Appeals to those who appreciate witty plant jokes and spooky aesthetics. Great for plant lovers who celebrate every season with personality."
+  },
+  "products": {
+    "shopify": "6a7f2d59412d30246200b875"
+  }
+}

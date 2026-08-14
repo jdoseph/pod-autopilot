@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween coffee lovers",
+    "product_type": "mug",
+    "concept": "A witch hat and broomstick forming the handle silhouette of a coffee mug with 'Brew Before Beauty'",
+    "audience": "Coffee-addicted adults who decorate for Halloween and gift mugs seasonally",
+    "score": 8.1,
+    "rationale": "Mugs are the top-selling Halloween gift item. Coffee culture plus Halloween is a proven combo with huge audience. The design concept is clever and original \u2014 visual pun on the handle. Hits the buying window perfectly for gift-givers shopping in September."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"BREW BEFORE BEAUTY\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a coffee mug silhouette where the handle is formed by a broomstick leaning diagonally, with a witch hat positioned at the top rim of the mug. Bold simple shapes with sharp clean edges, screen-print aesthetic. Solid color blocks: deep purple mug body, black broomstick bristles and hat, orange hat band accent, cream background. No gradients, no shading, no photorealism. Single centered composition on plain cream background with generous margin. Design readable at 12x16 inches.",
+    "text_on_design": "BREW BEFORE BEAUTY",
+    "style": "Bold condensed sans-serif, all caps, arched in a curve below the mug illustration, deep purple color matching the mug body"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brew Before Beauty' is a generic Halloween/coffee pun playing on the common expression 'beauty before brains' or similar idioms, with no known trademark registration or strong association with a specific brand. The witch hat and broomstick imagery is entirely generic Halloween iconography not tied to any specific IP. The coffee mug silhouette concept is a common design category. No celebrity, character, brand, or protected slogan is evoked. The design is considered safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'BREW BEFORE BEAUTY' correctly spelled and complete. The artwork features a generic Halloween witch theme (coffee mug, witch hat, broomstick) with no IP risks, no brand resemblance, clean composition, and solid flat illustration style suitable for print-on-demand."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Brew Before Beauty Witch Hat Coffee Mug - Halloween Coffee Lover Gift",
+    "tags": [
+      "halloween coffee mug",
+      "witch hat mug",
+      "coffee lover gift",
+      "seasonal mug",
+      "halloween drinkware",
+      "adult halloween gift",
+      "autumn coffee mug",
+      "novelty coffee cup",
+      "halloween kitchen decor",
+      "broomstick mug",
+      "spooky coffee gift",
+      "fall coffee lover",
+      "halloween office mug"
+    ],
+    "description": "Perfect for coffee-addicted Halloween enthusiasts. Features a witch hat and broomstick forming the mug's handle silhouette with 'Brew Before Beauty' text. Ideal for morning coffee rituals during spooky season. Great gift for adults who decorate homes for Halloween and collect seasonal mugs. Enjoy your favorite hot or cold beverages in festive style. Makes a thoughtful present for coworkers, friends, and family members who love Halloween and coffee culture."
+  },
+  "products": {
+    "shopify": "6a7f2d2f4ddb7516f707d7f4"
+  }
+}
