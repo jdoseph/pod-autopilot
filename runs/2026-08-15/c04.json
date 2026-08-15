@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers Market Regular",
+    "product_type": "tote",
+    "concept": "A simple line-art illustration of overflowing market vegetables with the text 'Locally Obsessed' in a clean vintage stamp style.",
+    "audience": "Farmers market shoppers, locavores, and slow-living lifestyle enthusiasts",
+    "score": 7.5,
+    "rationale": "Tote bags are the natural product for this audience \u2014 they literally use them at markets. Fall harvest market season peaks now. 'Locally Obsessed' identity language resonates without IP issues."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Locally Obsessed\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of overflowing market vegetables in bold simple shapes with clean sharp edges. Composition shows tomatoes, carrots, lettuce, zucchini, and bell peppers spilling from a wicker basket in the center, single-line art style with solid color blocks. Limited palette: forest green, rust orange, deep red, cream, and charcoal gray. No gradients, no shading, no photorealism. Text 'Locally Obsessed' in bold vintage stamp serif typeface arched above the basket. Plain solid cream background, generous margins, all artwork elements centered and connected, readable at 12x16 inches.",
+    "text_on_design": "Locally Obsessed",
+    "style": "Flat vector illustration, screen-print aesthetic, bold simple shapes, clean sharp edges, single-line art, limited solid color palette (forest green, rust orange, deep red, cream, charcoal), no gradients or shading, centered composition on plain solid background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Locally Obsessed' is a generic descriptive expression commonly used in farm-to-table and local food culture contexts. It does not reference any known registered trademark, brand, celebrity, character, or protected slogan. The vintage stamp style with vegetable line art is a common generic design approach with no identifiable IP conflicts. The combination is original and commercially safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'LOCALLY OBSESSED' is correctly spelled, clearly rendered in clean bold arched typography, and matches the required phrase exactly. The illustration features a generic farmers market basket with vegetables \u2014 no IP concerns, no anatomical issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Locally Obsessed Farmers Market Tote Bag | Vegetable Design",
+    "tags": [
+      "farmers market tote",
+      "locally obsessed bag",
+      "farmers market shopper",
+      "locavore tote",
+      "vegetable illustration",
+      "vintage stamp design",
+      "sustainable shopping bag",
+      "slow living tote",
+      "local food bag",
+      "market fresh gift",
+      "eco-friendly tote",
+      "line art vegetables",
+      "farmers market lover"
+    ],
+    "description": "Celebrate your farmers market passion with this charming tote featuring clean line-art overflowing market vegetables and 'Locally Obsessed' in vintage stamp style lettering. Spacious and sturdy for weekly market hauls, farmers market shopping trips, and farm-to-table lifestyle celebrations. Perfect gift for locavores, slow-living advocates, sustainable shoppers, and anyone committed to supporting local food systems and seasonal eating."
+  },
+  "products": {
+    "shopify": "6a80783556fce35c0b004354"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "mug",
+    "concept": "A wrap-around illustration of a misty forest floor with labeled mushroom varieties and the text 'Morning Forage' on the front.",
+    "audience": "Foragers and nature hobbyists who want a thematic morning ritual item",
+    "score": 7.6,
+    "rationale": "Mugs and morning ritual language are a natural pairing; fall foraging season timing is ideal. Illustrated wrap-around designs photograph well for listings and stand out vs. text-only mugs."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Morning Forage\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of forest floor mushroom varieties in bold simple shapes with clean sharp edges. Central composition featuring five distinct mushroom types scattered across mossy ground with stylized ferns and fallen leaves. Use solid color blocks only: forest green, cream, burnt orange, deep purple, and charcoal gray. No gradients, no shading, no photorealism. High contrast screen-print aesthetic. Plain solid cream background with generous margins. All mushroom and plant elements centered and connected, away from edges. Include subtle label indicators but no readable text on individual mushrooms\u2014labels will be added separately. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Morning Forage",
+    "style": "Bold retro sans-serif, uppercase, arched above the central mushroom cluster, same charcoal gray as darkest illustration elements"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Morning Forage' is a generic descriptive term combining two common English words with no known trademark associations in apparel or print-on-demand contexts. The mushroom illustration concept is educational and naturalistic, referencing real fungal varieties rather than any protected characters, brands, or intellectual property. No celebrity, team, lyric, or brand references are present. Overall risk is low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'MORNING FORAGE' \u2014 correctly spelled and complete. The illustration features a clean, original composition of stylized mushrooms and foliage in a retro folk art style. No IP concerns, no quality issues, clean typography, suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Forest Mushroom Mug | Morning Forage Coffee Cup",
+    "tags": [
+      "mushroom coffee mug",
+      "foraging mug",
+      "forest illustration mug",
+      "nature lover gift",
+      "mycology mug",
+      "morning ritual mug",
+      "labeled species mug",
+      "misty forest design",
+      "cottagecore mug",
+      "forager gift",
+      "botanical coffee cup",
+      "nature hobbyist gift",
+      "forest floor illustration"
+    ],
+    "description": "Start your morning ritual with this nature-inspired mug featuring a wrap-around misty forest floor illustration with labeled mushroom varieties. 'Morning Forage' appears on the front in thematic lettering. Perfect for foragers, mycologists, nature hobbyists, and anyone who loves beginning their day with botanical beauty. Celebrate your connection to wild spaces and natural exploration with every sip."
+  },
+  "products": {
+    "shopify": "6a807824c446b64dc40a2038"
+  }
+}

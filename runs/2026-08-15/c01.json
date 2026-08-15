@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Witchy Herbalism",
+    "product_type": "tote",
+    "concept": "A circular wreath of illustrated dried herbs \u2014 lavender, rosemary, mugwort, yarrow \u2014 with a mortar and pestle center and the text 'Gather & Brew' in hand-lettered style.",
+    "audience": "Herbalists, kitchen witches, and holistic wellness practitioners",
+    "score": 7.9,
+    "rationale": "Herbalism and kitchen witch aesthetics are growing consistently; 'Gather & Brew' has dual seasonal resonance (harvest + Halloween). Tote is functional for herb-gathering use case. Distinctive enough from crowded witch-hat designs."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Gather & Brew\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a circular wreath composed of botanical herbs: lavender sprigs, rosemary branches, mugwort leaves, and yarrow flowers arranged in a perfect ring. Center features a simple mortar and pestle in solid form. All elements use solid color blocks with clean sharp edges, no gradients or shading. Color palette: sage green, dusty purple, warm cream, deep charcoal, and terracotta. Single centered composition on a plain solid white background with generous margin. Screen-print aesthetic, bold simple shapes, high contrast. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Gather & Brew",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks only\u2014no gradients, no airbrush shading, no photorealism. Limited palette: sage green, dusty purple, warm cream, deep charcoal, terracotta. Hand-lettered serif treatment arched above the mortar and pestle. Single centered composition on plain solid white background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Gather & Brew' is a generic, descriptive expression with no known trademark conflicts in common use. The illustrated botanical wreath with mortar and pestle is a widely used folk/herbal aesthetic motif not associated with any specific brand, character, or protected intellectual property. All named herbs are common plant names. The hand-lettered style is a generic design treatment. No celebrity, team, brand, lyric, or character references are present. Overall IP risk is low, though a formal USPTO search is recommended before large-scale production as no database check was performed."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'GATHER & BREW' correctly spelled and complete. The composition features a clean herbal wreath with lavender, leaves, wildflowers, and a mortar and pestle on a neutral background. No IP risks, no quality issues, and the text is clear and well-rendered."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Herbal Wreath Tote Bag | Gather & Brew Herbs Design",
+    "tags": [
+      "herbal tote bag",
+      "herb illustration bag",
+      "kitchen witch gift",
+      "herbalism tote",
+      "witchy aesthetic bag",
+      "mortar pestle design",
+      "lavender rosemary print",
+      "dried herbs illustration",
+      "wellness practitioner gift",
+      "holistic living bag",
+      "botanical wreath tote",
+      "gather and brew",
+      "herbalist gift"
+    ],
+    "description": "Beautiful circular wreath of illustrated dried herbs\u2014lavender, rosemary, mugwort, and yarrow\u2014surrounds a detailed mortar and pestle on this charming tote. Hand-lettered 'Gather & Brew' text adds artisanal appeal. Perfect for herbalists, kitchen witches, wellness practitioners, or anyone embracing herbal craftsmanship. Spacious enough for market trips, classes, or daily adventures. Celebrate your plant knowledge and herbal passion with this thoughtful, aesthetic bag."
+  },
+  "products": {
+    "shopify": "6a8077fc008df847eb0bc741"
+  }
+}

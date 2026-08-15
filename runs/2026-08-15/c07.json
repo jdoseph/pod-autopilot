@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Cat Lady",
+    "product_type": "t-shirt",
+    "concept": "Three black cats sitting on a crescent moon surrounded by tiny bats and stars, with 'Familiar Count: 3' written in a whimsical serif font.",
+    "audience": "Cat owners who lean into Halloween aesthetic year-round",
+    "score": 7.1,
+    "rationale": "Cat + Halloween crossover is a proven seller. 'Familiar Count' humor appeals to witchy-cat-lady identity. Halloween buying window starts now and the design works post-Halloween as cat content."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Familiar Count: 3\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of three black cats sitting together on a white crescent moon, centered composition. Surround with tiny five-pointed stars and small bat silhouettes scattered throughout the negative space. Solid color palette: black, white, deep purple, cream. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Single centered composition on a solid deep purple background with generous margin. High contrast. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Familiar Count: 3",
+    "style": "Whimsical serif font, curved and playful, positioned below the moon illustration in cream color, maximum 6 words"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design features generic Halloween/witchy imagery (black cats, crescent moon, bats, stars) that is entirely in the public domain as common decorative motifs. The phrase 'Familiar Count: 3' is an original, playful wordplay on the witchcraft concept of a 'familiar' (a witch's animal companion) combined with a simple count, functioning as generic descriptive humor. No references to trademarks, brands, celebrities, characters, or protected slogans are present. The whimsical serif font style is a common design choice with no IP implications. This design is safe to proceed."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'FAMILIAR COUNT: 3' correctly spelled and complete, matching the required text exactly. The artwork features three generic black cats on a crescent moon with bats and sparkles \u2014 a common Halloween motif with no IP concerns. Clean composition, clear lettering, no anatomy issues, no artifacts, and a simple purple background suitable for garment printing."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Spooky Black Cats Crescent Moon T-Shirt | Familiar Count",
+    "tags": [
+      "spooky cat shirt",
+      "cat lady tshirt",
+      "halloween cat shirt",
+      "crescent moon cats",
+      "black cat tee",
+      "witchy cat shirt",
+      "familiar count design",
+      "bat star illustration",
+      "cat lover gift",
+      "spooky aesthetic shirt",
+      "year-round halloween",
+      "occult cat shirt",
+      "cat owner gift"
+    ],
+    "description": "Perfect for feline lovers who embrace spooky vibes year-round. This tee features three black cats sitting on a crescent moon surrounded by tiny bats and stars, with whimsical serif lettering reading 'Familiar Count: 3.' Celebrate your cat family with witchy charm. Ideal gift for cat owners, Halloween enthusiasts, dark aesthetic lovers, and anyone whose cats are their favorite familiars. Comfortable everyday wear with playful personality."
+  },
+  "products": {
+    "shopify": "6a807871cc112fe8830a0d23"
+  }
+}

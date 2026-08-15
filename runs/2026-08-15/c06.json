@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "mug",
+    "concept": "A smiling illustrated sourdough starter jar wearing a tiny witch hat with the text 'My Starter Is the Only Culture I Need.'",
+    "audience": "Home bakers who bake sourdough and enjoy dry humor",
+    "score": 7.3,
+    "rationale": "Sourdough baking identity content performs consistently; witch hat adds Halloween seasonal hook without limiting to only Halloween buyers. Wordplay on 'culture' is clever and niche-specific."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Starter Is the Only Culture I Need\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass mason jar filled with bubbling sourdough starter, with a smiling friendly face (two dot eyes and curved smile). A tiny black witch hat sits perched on top of the jar rim. The jar has a simple label outline. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: cream, warm tan, deep charcoal, sage green, and black. Single centered composition on a plain white background with generous margins. Screen-print aesthetic with bold simple shapes and clean sharp edges. Readable at 12x16 inches.",
+    "text_on_design": "My Starter Is the Only Culture I Need",
+    "style": "Bold retro serif typeface, arched in a gentle curve above the jar illustration, all caps, deep charcoal color, integrated as part of the composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Starter Is the Only Culture I Need' is a generic humorous play on the dual meaning of 'culture' (microbial culture vs. societal culture) in the context of sourdough baking. No known trademark exists for this phrase. The illustrated sourdough jar with witch hat is original generic artwork with no reference to any protected character, brand, celebrity, or property. Common wordplay of this nature is widely used in food humor merchandise without IP concerns."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'MY STARTER IS THE ONLY CULTURE I NEED' \u2014 correctly spelled and complete. The design features a clean mason jar with a witch hat illustration on a plain background, no IP concerns, no anatomy issues, no rendering artifacts. Suitable for print-on-demand."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Sourdough Starter Mug | Witty Baker Humor Coffee Cup",
+    "tags": [
+      "sourdough starter mug",
+      "baker gift",
+      "sourdough humor mug",
+      "baking mug",
+      "funny baker mug",
+      "home baker gift",
+      "sourdough culture mug",
+      "witch hat starter jar",
+      "bread baker gift",
+      "fermentation humor",
+      "kitchen baker gift",
+      "witchy baker mug",
+      "dry humor coffee"
+    ],
+    "description": "Celebrate your sourdough obsession with this charming mug featuring a smiling illustrated starter jar wearing a tiny witch hat. The witty text 'My Starter Is the Only Culture I Need' delivers perfectly dry humor for home bakers. Ideal gift for sourdough enthusiasts, fermentation hobbyists, and anyone who finds joy in nurturing their starter and crafting artisanal bread. Perfect companion for morning baking routines."
+  },
+  "products": {
+    "shopify": "6a80785f008df847eb0bc832"
+  }
+}

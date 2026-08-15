@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Season Coffee",
+    "product_type": "mug",
+    "concept": "A black mug design featuring a cauldron of steaming coffee with tiny skulls as bubbles and the text 'Brew #1' in gothic lettering.",
+    "audience": "Halloween enthusiasts and horror-adjacent coffee drinkers",
+    "score": 7.8,
+    "rationale": "Halloween mugs are a top-performing seasonal category; this concept has strong gifting appeal, a clear visual hook, and the humor is accessible. October buying window is now open."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Brew #1\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a bubbling cauldron overflowing with steam wisps, filled with dark coffee. Replace steam bubbles with 5-7 tiny skull shapes of varying sizes floating upward. Cauldron rendered as bold simple black silhouette with a thick curved handle and three sturdy legs. Skulls are white with black eye sockets and teeth details, solid shapes no shading. Plain cream background. Centered composition with generous margins all around. Screen-print aesthetic, high contrast, sharp edges, solid color blocks only\u2014no gradients, no airbrush, no photorealism. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Brew #1",
+    "style": "Bold gothic serif lettering, uppercase, arched in a slight curve above the cauldron, black color, roughly 1.5 inches tall. Thick weighted strokes characteristic of gothic typography."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design concept uses original gothic-styled artwork with a cauldron and skull motifs, which are generic Halloween or dark-aesthetic imagery not tied to any specific brand, character, or protected work. The phrase 'Brew #1' is a short, generic common phrase with no known trademark association in this context. Gothic lettering is a widely used generic style. No celebrity, team, brand, song lyric, or protected character references are present. The overall combination is sufficiently original and generic to pose minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'BREW #1' correctly spelled on a witch's cauldron with skull bubbles rising from it. Text is complete, legible, and matches the required copy exactly. The composition is clean, original, two-tone artwork suitable for garment printing with no IP concerns, quality issues, or identifiable protected elements."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Spooky Coffee Mug | Cauldron Brew Skulls Gothic Design",
+    "tags": [
+      "spooky coffee mug",
+      "halloween mug",
+      "gothic coffee cup",
+      "cauldron design mug",
+      "skull mug",
+      "horror coffee mug",
+      "dark academia mug",
+      "witchy coffee gift",
+      "halloween gift",
+      "spooky season mug",
+      "black coffee mug",
+      "brew gothic lettering",
+      "skeleton mug"
+    ],
+    "description": "Wake up on the spooky side with this black mug featuring a bubbling cauldron of steaming coffee surrounded by tiny skull bubbles. Gothic lettering spells 'Brew #1' in delightfully dark style. Perfect for Halloween enthusiasts, horror fans, and anyone who loves their coffee with a side of macabre aesthetic. Ideal gift for spooky season lovers, dark academia fans, and coffee drinkers who appreciate witchy vibes year-round."
+  },
+  "products": {
+    "shopify": "6a80780f9c3944dca50fbfbe"
+  }
+}

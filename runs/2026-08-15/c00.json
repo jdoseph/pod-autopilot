@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "tote",
+    "concept": "A large botanical-illustration tote featuring hand-drawn wild mushrooms with Latin species names and the phrase 'Field to Table' along the bottom hem.",
+    "audience": "Foragers, farmers market shoppers, and cottagecore aesthetic fans",
+    "score": 8.1,
+    "rationale": "Totes are functional for foraging itself, making this a use-case product \u2014 a strong POD signal. Botanical style with Latin names feels premium. Fall timing is perfect. Low IP risk."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Field to Table\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five botanical wild mushrooms arranged in a centered organic cluster. Each mushroom is a distinct species with varied cap shapes\u2014one tall slender chanterelle, one broad porcini, one delicate fairy ring mushroom, one spotted fly agaric, one funnel-shaped horn of plenty. Solid color blocks with clean sharp edges, no gradients, no shading, no photorealism. Limited palette: forest green, cream, rust orange, deep burgundy, charcoal gray. High contrast screen-print aesthetic. Each mushroom labeled with tiny solid-color Latin species names integrated into the composition. Single centered composition on a plain solid white background with generous margin all around. Artwork elements stay well away from edges. Professional botanical illustration style, bold simple shapes.",
+    "text_on_design": "Field to Table",
+    "style": "Flat vector, bold retro serif, 'Field to Table' in solid charcoal gray arched along the bottom of the mushroom cluster in a single line. No other text or lettering anywhere on the design."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "'Field to Table' is a common generic phrase used broadly in food, farming, and culinary contexts to describe farm-fresh or foraged food concepts. It is not associated with a single dominant brand or registered trademark to my knowledge, and it functions as descriptive language rather than a distinctive commercial identifier. The botanical illustration style with Latin species names is original scientific/artistic expression. No celebrity likenesses, brand names, character IP, or protected slogans are present. Overall risk is low, though a formal USPTO search is recommended before large print runs as a standard precaution."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'FIELD TO TABLE' correctly spelled and complete. The illustration features a clean collection of varied mushrooms in a retro illustrative style with no IP concerns, no anatomical issues, no rendering artifacts, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Botanical Mushroom Tote Bag | Wild Species Field to Table",
+    "tags": [
+      "mushroom foraging tote",
+      "botanical illustration bag",
+      "cottagecore tote",
+      "farmers market bag",
+      "nature lover gift",
+      "field to table bag",
+      "forager gift",
+      "wildflower tote",
+      "latin species print",
+      "reusable market tote",
+      "foraging enthusiast",
+      "eco-friendly shopper bag",
+      "botanical art tote"
+    ],
+    "description": "Carry your foraged finds in style with this large botanical tote featuring detailed hand-drawn wild mushroom illustrations and Latin species names. Perfect for farmers market trips, foraging adventures, or everyday use. The 'Field to Table' text celebrates the journey from forest to kitchen. Durable, spacious, and ideal for anyone passionate about mycology, local sourcing, or cottagecore aesthetic. Great gift for foragers, nature enthusiasts, and sustainable living advocates."
+  },
+  "products": {
+    "shopify": "6a8077e9cc112fe8830a0be6"
+  }
+}

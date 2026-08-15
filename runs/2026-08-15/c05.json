@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "Illustrated chanterelle, oyster, and hen-of-the-woods mushrooms arranged in a circular botanical-print style with the words 'Wild Harvest' arched above.",
+    "audience": "Amateur foragers, cottagecore enthusiasts, and nature lovers",
+    "score": 7.4,
+    "rationale": "Mushroom foraging has sustained Google Trends growth; fall is peak foraging season aligning perfectly with the 6-8 week buying window. Botanical style sells well and is evergreen."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Wild Harvest\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of three mushrooms arranged in a circular botanical composition: a chanterelle with trumpet-like funnel shape and ridged undersurface, an oyster mushroom with fan-like overlapping caps, and hen-of-the-woods with frilly clustered shelves, all rendered as bold solid shapes with clean edges. Centered circular design with minimal decorative botanical line elements around the perimeter. Solid color blocks only, no gradients, no shading, no photorealism. Color palette: forest green, golden yellow, cream, warm brown, sage green. Plain solid cream background, generous margin, artwork centered and self-contained.",
+    "text_on_design": "Wild Harvest",
+    "style": "Bold retro serif type arched above the circular mushroom illustration; screen-print aesthetic with high contrast and sharp edges; single centered composition on plain solid background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The illustrated botanical design features common wild mushroom varieties (chanterelle, oyster, hen-of-the-woods) rendered in a generic botanical-print style. These are generic species names with no trademark concerns. The phrase 'Wild Harvest' is a descriptive, common combination of ordinary English words used in everyday language related to foraging and nature. While 'Wild Harvest' has been used as a brand name in some food contexts, it functions here as a descriptive phrase on a nature-themed botanical illustration rather than as a brand identifier, and common descriptive phrases used in their descriptive sense present low IP risk. No celebrity likenesses, fictional characters, sports teams, song lyrics, or registered brand logos are incorporated. The overall composition is generic botanical art with a descriptive nature phrase."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'WILD HARVEST' correctly spelled and complete. The illustration features generic mushroom varieties with botanical leaf accents in a clean circular badge composition. No IP concerns, no quality issues, text is legible and well-formed, clean cream background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Wild Harvest Mushroom T-Shirt | Botanical Foraging Design",
+    "tags": [
+      "mushroom tshirt",
+      "foraging tshirt",
+      "botanical print shirt",
+      "wild harvest shirt",
+      "cottagecore shirt",
+      "chanterelle oyster hen mushroom",
+      "nature lover shirt",
+      "forager gift",
+      "amateur forager",
+      "nature graphic tee",
+      "mycology shirt",
+      "botanical circular print",
+      "outdoor enthusiast gift"
+    ],
+    "description": "Showcase your foraging knowledge in this nature-inspired tee featuring illustrated chanterelle, oyster, and hen-of-the-woods mushrooms arranged in beautiful botanical circular style. 'Wild Harvest' arches above in elegant lettering. Perfect for amateur foragers, cottagecore enthusiasts, nature lovers, and anyone passionate about wild edibles and mycology. Comfortable everyday wear celebrating your connection to the forest and fungi."
+  },
+  "products": {
+    "shopify": "6a80784bcc112fe8830a0ccc"
+  }
+}
