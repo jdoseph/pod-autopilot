@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Cat Owners",
+    "product_type": "mug",
+    "concept": "A silhouette of a cat arching its back on a full moon with the text 'Black Coffee, Black Cat, Dark Academia' in gothic serif lettering.",
+    "audience": "Cat owners who love Halloween aesthetics and dark academia style, heavy coffee drinkers.",
+    "score": 7.4,
+    "rationale": "Mugs are a top Halloween gift category. Triple identity alignment (cat person, coffee drinker, dark academia fan) creates strong purchase and gifting intent. Clean silhouette design works well on ceramic. Prime buying window hits perfectly."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Black Coffee, Black Cat, Dark Academia\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cat silhouette in solid black, arching its back in a dramatic pose, centered against a large full moon in solid cream white. Behind the moon, a plain solid charcoal grey background. The cat's body curves upward in an elegant arc, tail curved expressively. Single centered composition with generous margins on all sides. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks only: black cat, cream moon, charcoal background. No gradients, no shading, no photorealism. High contrast. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Black Coffee, Black Cat, Dark Academia",
+    "style": "Bold gothic serif lettering arched in a curved banner above the silhouette, all in solid black, matching the cat's weight and drama"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design elements are all generic: a cat silhouette, a full moon, and gothic serif lettering are common public domain artistic choices with no trademark concerns. The phrase 'Black Coffee, Black Cat, Dark Academia' is a descriptive, thematic combination of common words. 'Dark Academia' is a widely used generic cultural/aesthetic term not owned by any single entity. No celebrity likenesses, brand names, registered slogans, fictional characters, or protected intellectual property are referenced. This is a straightforward aesthetic design using entirely generic components."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'BLACK COFFEE, BLACK CAT, DARK ACADEMIA' \u2014 correctly spelled and complete. The design features a clean black cat silhouette against a moon with no IP concerns, no anatomical issues, and no rendering artifacts. The gray background may need consideration for garment printing but the artwork itself is standalone and print-ready."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Black Coffee Black Cat Dark Academia Mug | Halloween Cat Lover",
+    "tags": [
+      "black cat mug",
+      "dark academia mug",
+      "halloween coffee mug",
+      "gothic cat design",
+      "spooky cat lover",
+      "coffee lover gift",
+      "full moon cat silhouette",
+      "dark aesthetic mug",
+      "cat owner gift",
+      "halloween mug",
+      "witchy aesthetic",
+      "gothic home decor",
+      "literary gift"
+    ],
+    "description": "For cat-loving coffee enthusiasts who embrace Halloween aesthetics year-round. Features a striking cat silhouette arching against a full moon, paired with 'Black Coffee, Black Cat, Dark Academia' in gothic serif lettering. Perfect morning companion for dark academia fans, literary lovers, and anyone drawn to moody aesthetics. Durable ceramic construction holds hot and cold beverages. Makes an ideal gift for Halloween decorators, spooky season enthusiasts, and cat parents who lean into gothic style."
+  },
+  "products": {
+    "shopify": "6a81c990afdfc98a760cdcab"
+  }
+}

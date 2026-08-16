@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Amateur Mycology",
+    "product_type": "tote",
+    "concept": "A scattered pattern of illustrated foraged mushrooms in earthy tones with 'Went Into the Woods' in a simple typewriter font.",
+    "audience": "Mushroom foragers who carry bags for collecting and lean into the aesthetic of foraging culture.",
+    "score": 7.5,
+    "rationale": "Tote is functionally relevant\u2014foragers carry bags. Fall is prime season. Mushroom illustration patterns perform well and are visually distinctive. 'Went Into the Woods' has a literary, self-aware quality the audience appreciates. Low direct competition at this intersection."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Went Into the Woods\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of 8-10 foraged mushrooms scattered across the composition in a organic, natural arrangement. Include varieties: morel, oyster, chanterelle, puffball, and button mushroom shapes. Solid color blocks with clean sharp edges, no gradients or shading. Limited palette: burnt sienna, forest green, cream, warm tan, and dark charcoal. Single centered composition on a plain cream background with generous margins. All mushroom elements clustered in center, away from edges. Screen-print aesthetic with high contrast, bold simple shapes. Readable at 12x16 inches. No photorealism, no airbrush, no drop shadows.",
+    "text_on_design": "Went Into the Woods",
+    "style": "Bold typewriter font, centered below the mushroom cluster"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Went Into the Woods' is a common descriptive expression referencing the activity of foraging or hiking in wooded areas. It does not appear to reference any known registered trademark, brand, or protected intellectual property. Note that 'Into the Woods' is a well-known Stephen Sondheim musical, but the full phrase 'Went Into the Woods' is sufficiently distinct from the musical's title and does not reproduce any specific lyric, character, or protectable element from that work. The illustrated mushroom pattern in earthy tones is generic and decorative with no character or brand association. Overall risk is low, though the designer may wish to conduct a formal USPTO search before mass production as a precautionary measure."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'WENT INTO THE WOODS' which matches the required phrase exactly (case-insensitive). All letters are correctly spelled and fully formed. The design features clean flat-style mushroom illustrations in earthy tones with no IP concerns, no anatomical issues, no rendering artifacts, and a clean cream background suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Went Into the Woods Mushroom Foraging Tote Bag",
+    "tags": [
+      "mushroom foraging tote",
+      "foraged mushroom design",
+      "forager bag",
+      "mycology tote",
+      "earthy aesthetic bag",
+      "woodland collector",
+      "nature enthusiast gift",
+      "foraging supplies bag",
+      "botanical tote",
+      "forest aesthetic",
+      "fall foraging bag",
+      "outdoor activity tote",
+      "mushroom hunter"
+    ],
+    "description": "Designed for serious mushroom foragers who venture into woodlands to collect specimens. Scattered illustration of foraged mushrooms in natural earthy tones with 'Went Into the Woods' in typewriter-style font. Roomy interior carries collection baskets, field guides, and harvest tools. Embodies the aesthetic and culture of the foraging community. Ideal gift for mycology enthusiasts, nature photographers, and weekend explorers who identify with forest culture."
+  },
+  "products": {
+    "shopify": "6a81c97aafdfc98a760cdc94"
+  }
+}

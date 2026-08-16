@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Amateur Mycology",
+    "product_type": "t-shirt",
+    "concept": "Botanical-illustration-style arrangement of various foraged mushroom species with the Latin-style banner 'Fungi Forager' beneath.",
+    "audience": "Mushroom foragers and mycology enthusiasts who forage heavily in fall and identify strongly with the hobby.",
+    "score": 7.3,
+    "rationale": "Fall is prime mushroom foraging season, perfectly timed. Mycology has exploded as a hobby with strong community identity and merch-buying behavior. Botanical illustration style is perennially popular and production-friendly. Low direct design competition at this exact angle."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fungi Forager\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of six botanically distinct mushroom species arranged in a symmetrical circular composition. Include a mix of recognizable foraging varieties: oyster mushroom with broad fan shape, chanterelle with funnel form, porcini with bulbous cap, morel with honeycomb texture, shiitake with umbrella cap, and lion's mane with cascading shelves. Each mushroom rendered as solid color blocks with clean outlines showing gills, stems, and caps in anatomically simplified forms. Below the arrangement, a horizontal banner with serif lettering. Centered on a plain warm cream background with 1.5 inch margin on all sides. Use exactly five colors: deep forest green, warm rust orange, cream, charcoal gray, and golden tan. Solid color blocks only, no gradients, no shading, no photorealism, screen-print ready.",
+    "text_on_design": "Fungi Forager",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, limited 5-color palette with solid color blocks, centered single composition on plain solid background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Botanical illustration style mushroom artwork is generic and unprotected. 'Fungi Forager' is a descriptive, common-style Latin phrase with no known trademark associations. No celebrity, brand, character, lyric, or protected slogan elements are present. The design concept is entirely original and generic in nature."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays 'FUNGI FORAGER' correctly spelled and in full, matching the required text exactly (case-insensitive). The illustration features a clean, original composition of various mushroom types in earthy tones against a plain cream background. No IP risks, no quality issues, no malformed elements detected."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Fungi Forager Botanical Mushroom T-Shirt | Mycology Enthusiast",
+    "tags": [
+      "mushroom t-shirt",
+      "fungi forager shirt",
+      "botanical illustration",
+      "mycology t-shirt",
+      "foraging culture shirt",
+      "mushroom species design",
+      "nature lover shirt",
+      "fall foraging tee",
+      "outdoor enthusiast",
+      "botanical art shirt",
+      "forager aesthetic",
+      "gift for collectors",
+      "nature identification"
+    ],
+    "description": "Celebrates passionate mushroom foragers and mycology enthusiasts who spend fall seasons exploring woodlands. Botanical-illustration-style arrangement showcases various foraged mushroom species in detailed accuracy. Latin-style banner reads 'Fungi Forager' beneath the design. Comfortable everyday wear that expresses dedication to the hobby and field identification skills. Perfect gift for experienced foragers, nature collectors, outdoor educators, and anyone serious about mushroom identification and seasonal harvesting traditions."
+  },
+  "products": {
+    "shopify": "6a81c9a0afdfc98a760cdcb7"
+  }
+}

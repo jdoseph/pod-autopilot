@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween Trick-or-Treat Parents",
+    "product_type": "tote",
+    "concept": "A large illustrated candy corn pattern border framing the text 'Candy Tax Collector' in playful display font.",
+    "audience": "Parents who accompany their kids trick-or-treating and jokingly steal candy from the haul.",
+    "score": 7.6,
+    "rationale": "Totes are functionally perfect for trick-or-treat use\u2014carrying kids' extra candy or their own supplies. Buying window hits Halloween perfectly. The 'candy tax' meme is widely understood by millennial parents. Strong impulse-buy and gift potential. Low IP risk. High utility drives conversion."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Candy Tax Collector\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration for print-on-demand tote. A large decorative border frame made of candy corn pieces arranged in a continuous pattern around all four edges. Each candy corn is a simple geometric shape with three solid color blocks stacked vertically: yellow on top, orange in middle, white on bottom. The corn pieces are rotated at varied angles and tightly clustered to create a bold, playful frame. Center the text 'Candy Tax Collector' in large bold playful display font (rounded, friendly, slightly whimsical serif style) in the empty space within the frame. Background is solid cream color. Artwork uses only four colors: bright yellow, orange, white, and cream background. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition with clean sharp edges and screen-print aesthetic. All elements stay well away from the outer edges. Design reads clearly from across a room at 12x16 inches.",
+    "text_on_design": "Candy Tax Collector",
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette of yellow, orange, white, and cream background, solid color blocks only, no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Candy Tax Collector' is a generic humorous concept referencing the common parental practice of taking a portion of a child's Halloween candy. It does not reference any known trademark, brand, character, celebrity, or protected slogan. Candy corn is a generic candy type not protected by any single brand. The overall concept is original generic humor suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'Candy Tax Collector' \u2014 correctly spelled and complete. Design features generic candy corn illustrations arranged as a border frame with no IP concerns. Clean composition, clear typography, no quality issues, suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Candy Tax Collector Halloween Tote Bag | Trick-or-Treat Parent",
+    "tags": [
+      "halloween tote bag",
+      "candy corn design",
+      "trick-or-treat bag",
+      "parent humor gift",
+      "halloween shopping bag",
+      "funny parent tote",
+      "candy storage bag",
+      "halloween party bag",
+      "reusable grocery tote",
+      "fall seasonal tote",
+      "novelty canvas bag",
+      "halloween costume accessory",
+      "family trick-or-treat"
+    ],
+    "description": "Perfect for parents who accompany kids on trick-or-treating adventures and enjoy the tradition of sampling the haul. Features a vibrant candy corn border framing 'Candy Tax Collector' in playful lettering. Spacious design holds candy, groceries, or everyday essentials. Great gift for Halloween-loving parents, trick-or-treat volunteers, and anyone who appreciates seasonal humor. Durable canvas construction handles repeated use season after season."
+  },
+  "products": {
+    "shopify": "6a81c9621bd4eaf3600ed25b"
+  }
+}

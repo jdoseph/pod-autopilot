@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky Cat Owners",
+    "product_type": "t-shirt",
+    "concept": "A black cat sitting inside a jack-o-lantern with the text 'Most Likely to Be a Witch' in a wiggly Halloween font.",
+    "audience": "Cat owners who go all-in on Halloween decor and costumes, especially women 25-45.",
+    "score": 7.1,
+    "rationale": "Halloween is the primary buying target (6-8 weeks out). Cat Halloween shirts consistently outperform generic Halloween designs. The self-deprecating 'witch' angle resonates with the core demographic and avoids IP issues entirely."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Most Likely to Be a Witch\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cat sitting inside a carved jack-o-lantern, centered composition. The cat's silhouette is solid black with two bright yellow circular eyes, sitting upright inside the pumpkin. The pumpkin is bright orange with a classic carved face: triangular eyes, triangular nose, and a wide grinning mouth, all cut out showing the dark background. Above the pumpkin in a playful wiggly Halloween-style font, the text 'Most Likely to Be a Witch' in solid black. Plain cream background, generous margin around all elements. Solid color blocks only: black, orange, yellow, cream. No gradients, no shading, no photorealism. Screen-print aesthetic, bold simple shapes, clean sharp edges, high contrast. Single centered design.",
+    "text_on_design": "Most Likely to Be a Witch",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, solid color blocks (black, orange, yellow, cream), no gradients, screen-print aesthetic, high contrast, readable at distance"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Most Likely to Be a Witch' is a generic humorous Halloween expression with no known trademark associations. The design elements \u2014 a black cat, jack-o-lantern, and wiggly Halloween font \u2014 are all common generic Halloween imagery not tied to any specific brand, character, or protected work. No celebrity likenesses, brand names, song lyrics, or protected characters are referenced. This is a safe, original concept suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads 'MOST LIKELY TO BE A WITCH' \u2014 correctly spelled and complete. The illustration features a generic black cat sitting in a jack-o'-lantern, both common Halloween motifs with no IP concerns. Clean vector-style artwork with solid lines, clear composition, light background suitable for garment printing, and no quality issues."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Most Likely to Be a Witch Black Cat Jack-o-Lantern T-Shirt",
+    "tags": [
+      "witch t-shirt",
+      "black cat shirt",
+      "halloween t-shirt women",
+      "jack-o-lantern design",
+      "spooky cat tee",
+      "halloween costume shirt",
+      "funny halloween shirt",
+      "witchy aesthetic",
+      "cat lover gift",
+      "fall seasonal tee",
+      "dark academia shirt",
+      "halloween party shirt",
+      "novelty graphic tee"
+    ],
+    "description": "Perfect for cat owners who celebrate Halloween with full-force enthusiasm and style. Black cat sits inside a carved jack-o-lantern with 'Most Likely to Be a Witch' in wiggly Halloween lettering. Fun wearable for Halloween parties, costume events, or anyone who lives the spooky aesthetic. Great gift for women who adore cats, embrace Halloween decor, and enjoy seasonal fashion. Soft comfortable fit for everyday wear during fall and beyond."
+  },
+  "products": {
+    "shopify": "6a81c9b2bfba2c4f9f044a56"
+  }
+}

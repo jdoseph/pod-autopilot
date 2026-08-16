@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Farmers Market Regulars",
+    "product_type": "tote",
+    "concept": "A hand-drawn vegetable medley illustration with 'Locally Obsessed' in a chunky vintage stamp font.",
+    "audience": "Weekly farmers market shoppers who see buying local as a core identity, typically women 28-50 in urban and suburban areas.",
+    "score": 7.0,
+    "rationale": "Tote bags are the natural product for this audience\u2014they literally need them. Harvest season farmers markets peak in fall. 'Locally Obsessed' is punchy and identity-affirming. Strong gifting potential. Moderate competition but concept is cleaner than most."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Locally Obsessed\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a vibrant vegetable medley: a whole tomato, leafy kale, a carrot with greens, a bell pepper, and a radish arranged in a loose circular cluster. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism. Color palette: deep forest green, bright tomato red, burnt orange, cream, and charcoal gray. Single centered composition on a plain pale cream solid background with generous margin. Readable at 12x16 inches from across a room. All artwork elements connected and away from the edges.",
+    "text_on_design": "Locally Obsessed",
+    "style": "Bold chunky vintage stamp font, slightly distressed edges, arched above the vegetable cluster in charcoal gray"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Locally Obsessed' is a generic descriptive expression commonly used in farm-to-table and local food contexts with no widely known trademark associations. The hand-drawn vegetable medley illustration is generic and does not reference any protected brand, character, or IP. The vintage stamp font treatment is a common design style. No celebrity, team, brand, or protected slogan elements are present. Overall risk is low, but a formal USPTO search is recommended before production."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'LOCALLY BSESSED' \u2014 the letter 'O' in 'OBSESSED' has been replaced by a vegetable illustration, making the word appear as 'BSESSED' rather than 'OBSESSED'. The required text 'Locally Obsessed' is not fully and correctly rendered as readable lettering."
+  }
+}
