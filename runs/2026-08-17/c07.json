@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cottagecore autumn",
+    "product_type": "mug",
+    "concept": "Illustrated scene of a stone cottage with smoke rising, surrounded by fall trees and the wrap-around text 'Somewhere Quieter' in a hand-inked font",
+    "audience": "Cottagecore and slow-living enthusiasts seeking cozy autumn escapism",
+    "score": 7.2,
+    "rationale": "Cottagecore remains a resilient aesthetic niche; wrap-around mug designs with scene illustrations photograph well for gifting season; 'Somewhere Quieter' resonates with burnout-era audience heading into holiday stress"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Somewhere Quieter\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a stone cottage with chimney emitting wispy smoke, surrounded by stylized autumn trees in various heights. Centered composition on plain cream background. Solid color blocks only: warm cream, deep forest green, rust orange, charcoal gray, golden yellow. No gradients, no shading, no photorealism. Bold simple shapes with clean sharp edges, screen-print aesthetic. Single centered image with generous margins, readable from across a room at 12x16 inches. Text wraps around the cottage scene in a hand-inked serif typeface, curved to follow the natural flow of the composition.",
+    "text_on_design": "Somewhere Quieter",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks: cream, forest green, rust orange, charcoal gray, golden yellow. No gradients, no airbrush shading, no photorealism. Single centered composition on plain solid background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Somewhere Quieter' is a generic, evocative expression with no known trademark associations, celebrity connections, or protected IP. The illustrated scene of a stone cottage with autumn trees is a common, generic artistic motif with no identifiable reference to specific brands, characters, or properties. The hand-inked font style is a common design choice. Overall, this design presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'SOMEWHERE QUIETER' correctly spelled and complete, matching the required text exactly. The illustration features a generic stone cottage with autumn trees and chimney smoke \u2014 no IP risk, no quality issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Somewhere Quieter Cottagecore Mug | Stone Cottage Autumn Scene",
+    "tags": [
+      "cottagecore mug",
+      "slow living aesthetic",
+      "autumn cozy design",
+      "cottage core gift",
+      "escapism decor",
+      "hand-inked typography",
+      "stone cottage art",
+      "fall forest scene",
+      "quiet aesthetic",
+      "chimney smoke illustration",
+      "peaceful design",
+      "cozy season merch",
+      "wistful typography"
+    ],
+    "description": "Illustrated stone cottage with rising chimney smoke, surrounded by autumn forest, wrapped with 'Somewhere Quieter' in hand-inked lettering. Ceramic vessel for contemplative mornings and cozy evenings. Perfect for cottagecore enthusiasts and slow-living seekers who use daily rituals as escape into intentional, quieter ways of being. Dishwasher safe ceramic in warm cream tones."
+  },
+  "products": {
+    "shopify": "6a831cae6a73fb86cd02cb03"
+  }
+}

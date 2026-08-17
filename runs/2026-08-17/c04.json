@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers market regulars",
+    "product_type": "tote",
+    "concept": "Overhead flat-lay illustration of fall market produce \u2014 squash, apples, dried flowers, a jar of honey \u2014 with the text 'Haul of the Season' in market chalkboard style",
+    "audience": "Farmers market shoppers and locavores who treat weekend market trips as a lifestyle ritual",
+    "score": 7.6,
+    "rationale": "Farmers market totes are functional gifts with a clear audience; fall harvest imagery is timely; 'Haul of the Season' is playful and specific; chalkboard aesthetic is recognizable but not oversaturated in this design direction"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Haul of the Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of overhead farmers market produce arrangement: butternut squash, honeycrisp apples, dried wheat stalks, and a glass jar of golden honey, all centered and slightly overlapping on a plain cream background. Solid color blocks only\u2014no gradients, no shading, no photorealism. Bold simple shapes with clean sharp edges, high-contrast screen-print aesthetic. Limited palette: deep orange, sage green, warm gold, cream, and charcoal gray. Single centered composition with generous margins, readable at 12\u00d716 inches from across a room.",
+    "text_on_design": "Haul of the Season",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism. Text in bold hand-drawn chalkboard serif style, arched below the produce arrangement."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Haul of the Season' is a generic, descriptive expression using common English words with no known trademark associations. The flat-lay illustration of fall produce items (squash, apples, dried flowers, honey jar) consists of entirely generic subject matter with no brand, character, or celebrity references. The chalkboard market style is a common, widely-used aesthetic. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'HAUL OF THE SEASON' in bold, correctly spelled text. The illustration features generic autumn harvest items (squash, apples, mason jar, wheat stalks) with no IP concerns. Clean composition suitable for garment printing with a plain background."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Haul of the Season Farmers Market Tote | Produce Illustration",
+    "tags": [
+      "farmers market tote",
+      "locavore shopping bag",
+      "seasonal produce art",
+      "fall harvest design",
+      "market day bag",
+      "weekly ritual carrier",
+      "farmers market regular",
+      "local food movement",
+      "chalkboard typography",
+      "honey jar squash",
+      "seasonal eating",
+      "community supported",
+      "flat-lay illustration"
+    ],
+    "description": "Overhead flat-lay of autumn market treasures\u2014squash, apples, dried flowers, honey jar\u2014with chalkboard-style 'Haul of the Season' lettering. Celebrate the ritual of weekly market trips, seasonal eating, and connection to local growers. Sturdy carrier for farmers market regulars and locavores who treat these weekend rituals as lifestyle anchor. Sized for generous harvests."
+  },
+  "products": {
+    "shopify": "6a831c7342139871510b8a0d"
+  }
+}

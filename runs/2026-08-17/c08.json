@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough baking",
+    "product_type": "t-shirt",
+    "concept": "Cartoon loaf of sourdough with a grumpy face and the text 'I Waited 72 Hours for This' in a retro stamp style",
+    "audience": "Home bakers obsessed with long-ferment sourdough who enjoy self-deprecating humor",
+    "score": 7.1,
+    "rationale": "Sourdough culture remains a dedicated evergreen niche with passionate buyers; humor targeting the waiting process is relatable and lightly saturated at the quirky-humor angle"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I WAITED 72 HOURS FOR THIS\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a round sourdough loaf with a grumpy, scowling face (two angry eyes and a frown mouth), centered on plain cream background. Bold simple shapes, clean sharp edges, screen-print aesthetic. Color palette: warm golden-brown for loaf, charcoal gray for facial features, burnt orange for accent score marks. Solid color blocks, no gradients, no shading, no photorealism. Above the loaf in a circular retro postal stamp border (dashed circle outline in charcoal gray with small corner tick marks), the text 'I WAITED 72 HOURS FOR THIS' in bold condensed sans-serif capitals. Design is single centered composition with generous margins, readable at 12x16 inches from across a room.",
+    "text_on_design": "I WAITED 72 HOURS FOR THIS",
+    "style": "Bold retro stamp style \u2014 circular dashed border with postal tick marks, text in all capitals, condensed sans-serif, arched within the stamp frame"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design features a generic cartoon sourdough loaf with a grumpy face, which is a common humorous illustration style with no connection to specific protected characters or brands. The phrase 'I Waited 72 Hours for This' is an original, descriptive phrase referencing the well-known 72-hour sourdough fermentation process. It does not reference any known trademark, slogan, brand, celebrity, or protected intellectual property. Retro stamp styling is a generic design aesthetic. This concept appears safe for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'I WAITED 72 HOURS FOR THIS' with correct spelling and complete wording. The design features a clean, original cartoon anthropomorphized sourdough bread loaf with an angry expression, a generic comic illustration style with no IP concerns. Text is bold, legible, and well-rendered. Background is simple and suitable for garment printing."
+  },
+  "listing": {
+    "index": 8,
+    "title": "I Waited 72 Hours for This Sourdough Tee | Grumpy Loaf",
+    "tags": [
+      "sourdough baker shirt",
+      "long ferment humor",
+      "home baker funny",
+      "grumpy loaf design",
+      "sourdough culture",
+      "retro stamp style",
+      "baking enthusiast gift",
+      "fermentation tee",
+      "artisan bread",
+      "baker personality",
+      "self deprecating humor",
+      "bread fermentation",
+      "baking community"
+    ],
+    "description": "Cartoon sourdough loaf with grumpy expression and retro stamp-style text: 'I Waited 72 Hours for This.' Celebrate the patience obsession of long-ferment bakers who treat timing like science and humor like survival strategy. Perfect for home bakers who embrace fermentation culture and self-deprecating jokes about their bread-making dedication. Soft cotton for bakers who earn their irony."
+  },
+  "products": {
+    "shopify": "6a831cc4e3c6f19f8906b22c"
+  }
+}

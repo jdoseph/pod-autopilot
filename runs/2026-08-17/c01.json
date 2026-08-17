@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Seed saving and heritage gardening",
+    "product_type": "tote",
+    "concept": "Botanical illustration of seed pods from five heirloom vegetables with handwritten labels and 'Save the Good Ones' as a footer",
+    "audience": "Heritage gardeners, seed savers, and homesteaders who shop at farmers markets and seed swaps",
+    "score": 7.9,
+    "rationale": "Seed saving is a growing movement with passionate community buyers; tote is the perfect functional product for this audience (market bags, seed swap events); botanical style has high perceived value and low direct design competition in this sub-niche"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Save the Good Ones\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five botanical seed pods arranged in a balanced vertical composition: heirloom tomato pod, bean pod, squash pod, pepper pod, and carrot seed head. Each pod rendered with bold simple shapes, clean sharp edges, solid color blocks. Color palette: deep forest green, warm terracotta, cream, charcoal gray, dusty sage. No gradients, no photorealistic detail, no airbrush shading. Centered on a plain pale linen background with generous margin. Each seed pod labeled with hand-drawn style calligraphy text integrated into the design. Screen-print aesthetic, high contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": "Save the Good Ones",
+    "style": "Bold retro serif footer text centered below the botanical composition, hand-drawn calligraphy labels on each individual seed pod integrated naturally into the illustration"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Save the Good Ones' is a generic, common-sense instructional expression with no known trademark associations in the seed, gardening, or apparel categories. Botanical illustrations of heirloom vegetable seed pods with handwritten labels are a well-established genre of public domain scientific art. No celebrity, brand, character, lyric, or protected slogan elements are present. The overall concept is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'SAVE THE GOOD ONES' is correctly spelled, complete, and clearly rendered. The design features clean flat-style vegetable illustrations (tomato, onion, pumpkin, pepper, carrot) in a harmonious earthy color palette on a light background. No IP risks, no anatomical issues, no artifacts, no brand resemblance detected."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Save the Good Ones Seed Saver Tote | Heritage Garden Heirloom",
+    "tags": [
+      "seed saving tote",
+      "heritage gardening",
+      "heirloom vegetables",
+      "farmers market bag",
+      "seed swap merch",
+      "botanical illustration",
+      "homesteader gift",
+      "sustainable gardening",
+      "seed pod art",
+      "local garden community",
+      "preservation focused",
+      "cottage garden",
+      "seed keeper"
+    ],
+    "description": "Celebrate seed heritage with botanical illustrations of five heirloom vegetable pods, each labeled in handwritten style. 'Save the Good Ones' reminds you why seed saving matters\u2014genetic diversity, adaptation, and independence. Durable carrier for farmers market trips, seed swaps, and planting season celebrations. Ideal gift for gardeners who preserve varieties and community knowledge."
+  },
+  "products": {
+    "shopify": "6a831c2e8ae90ddd3b0ef162"
+  }
+}

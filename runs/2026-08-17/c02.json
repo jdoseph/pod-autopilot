@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Witchy herbalism",
+    "product_type": "mug",
+    "concept": "Circle of illustrated herbs \u2014 mugwort, rosehip, chamomile, elderberry \u2014 with moon phases and the text 'Brew Something Intentional'",
+    "audience": "Witchcraft-adjacent and herbal wellness practitioners who frame daily rituals spiritually",
+    "score": 7.8,
+    "rationale": "Witchy wellness is a strong fall niche with dedicated buyers; herb-plus-moon imagery is established but 'Brew Something Intentional' ties ritual framing to the mug use case perfectly and elevates above generic witch designs"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Brew Something Intentional\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of four medicinal herbs arranged in a circle around a central moon phase wheel. Top: mugwort with serrated leaves and small clustered flowers in sage green. Right: rosehip with compound leaves and round berry clusters in burnt orange. Bottom: elderberry with delicate feathered foliage and dark purple berry bunches. Left: chamomile with thin stems, feathery leaves, and daisy-like white flowers with yellow centers. Center: eight moon phases arranged in a perfect circle, each phase as a solid white or charcoal crescent and full moon. All elements connected by thin black lines radiating from center. Bold simple shapes, solid color blocks, no gradients, no shading, no photorealism. High contrast screen-print aesthetic. Centered on plain cream background with 1.5-inch margin on all sides. Single composition, readable at 12x16 inches from across a room.",
+    "text_on_design": "Brew Something Intentional",
+    "style": "Bold sans-serif capitals arched above the circle composition, approximately 0.75 inches tall, black solid color, tracking 0.15 inches"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brew Something Intentional' is a generic, descriptive expression with no known trademark associations. The illustrated botanical elements (mugwort, rosehip, chamomile, elderberry) and moon phases are common folk herbalism and apothecary imagery in the public domain. No celebrity likenesses, brand names, character references, song lyrics, or protected slogans are present. The overall design concept is original and commercially safe for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'Brew Something Intentional' is present, correctly spelled, and complete. The design features clean botanical/herbal illustrations (chamomile flowers, rose hips, elderberries, and other herbs) arranged around a moon phase motif. No IP risks, no quality issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Brew Something Intentional Herbalist Mug | Moon Phase Herbs",
+    "tags": [
+      "witchy herbalism mug",
+      "herbal tea gifts",
+      "moon phase design",
+      "mugwort chamomile art",
+      "witch coffee mug",
+      "intention setting",
+      "herbal wellness",
+      "spiritual ritual",
+      "elderberry rosehip",
+      "witchcraft adjacent",
+      "lunar cycle",
+      "apothecary aesthetic",
+      "mindful beverage"
+    ],
+    "description": "Circle of illustrated herbs\u2014mugwort, rosehip, chamomile, elderberry\u2014with lunar phases frame your daily brew. 'Brew Something Intentional' invites mindful ritual into morning routines and evening sips. Perfect for practitioners who frame wellness as spiritual practice, tea enthusiasts, and those who seek purpose in seasonal plants. Dishwasher safe ceramic holds your favorite intentional beverage."
+  },
+  "products": {
+    "shopify": "6a831c456a73fb86cd02caab"
+  }
+}

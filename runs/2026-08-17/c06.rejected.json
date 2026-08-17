@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Amateur astronomy",
+    "product_type": "t-shirt",
+    "concept": "Vintage star chart of the Orionid meteor shower orbit with 'Catching Orionids 2026' as a distressed expedition badge design",
+    "audience": "Amateur astronomers and stargazers aware that the Orionid meteor shower peaks in late October",
+    "score": 7.4,
+    "rationale": "Orionids peak mid-October, squarely in the buying window; event-specific astronomical designs have low design competition and appeal to a data-driven passionate niche"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Catching Orionids 2026\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a vintage star chart showing Orion constellation connected by bold lines with an orbital path overlaid in a sweeping arc representing meteor shower trajectory. Central circular badge frame with distressed edges and worn texture effect achieved through vector gaps and rough outlines. Small stars scattered throughout. Solid color blocks, no gradients, no airbrush shading, no photorealism. Color palette: deep navy blue, cream, copper gold, dark red, black. Single centered composition on a solid tan background with generous margin. Screen-print aesthetic with high contrast and clean sharp edges readable at 12x16 inches.",
+    "text_on_design": "Catching Orionids 2026",
+    "style": "Bold distressed serif type arched across the top of the badge circle, letters slightly weathered with small gaps mimicking expedition stamp aesthetic"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The Orionid meteor shower is a naturally occurring astronomical phenomenon and not a trademarked name, brand, or protected intellectual property. The phrase 'Catching Orionids 2026' is a generic descriptive expression referencing a real celestial event, similar to naming a season or natural occurrence. The vintage star chart and distressed expedition badge aesthetic are common public domain design styles. No celebrity, team, character, lyric, slogan, or registered trademark is referenced. This design poses minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "high",
+    "reason": "The star map within the circular illustration contains numerous small text labels (constellation names and other annotations) that are garbled, mirrored, half-formed, and illegible \u2014 clear AI rendering artifacts. While the main headline 'CATCHING ORIONIDS 2026' is correctly spelled and legible, the secondary text throughout the design is malformed and unsuitable for print-on-demand."
+  }
+}

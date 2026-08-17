@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Mushroom foraging",
+    "product_type": "t-shirt",
+    "concept": "Detailed botanical-illustration style grid of six edible fall mushrooms labeled in Latin with 'Field Notes' as a header",
+    "audience": "Foragers, cottagecore followers, and nature-science enthusiasts who forage in autumn",
+    "score": 7.6,
+    "rationale": "Mushroom foraging peaks in fall; botanical-grid style is trending in nature niches and Latin labeling adds perceived value; competition exists but detailed illustration style differentiates"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Field Notes\nCantharellus cibarius\nBoletus edulis\nPleurotus species\nGrifola frondosa\nHericium erinaceus\nLentinula edodes\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of six edible fall mushrooms arranged in a 2\u00d73 grid, each mushroom shown from top and side view in bold simple shapes with clean sharp edges. Mushrooms include chanterelle, porcini, oyster, hen-of-the-woods, lion's mane, and shiitake. Each mushroom rendered in solid color blocks with Latin names labeled beneath in small bold sans-serif text. No gradients, no shading, no photorealism, no background detail. High contrast screen-print aesthetic. Single centered composition on plain cream solid background with generous margin, artwork elements clustered in center away from edges, readable at 12\u00d716 inches from across a room.",
+    "text_on_design": "Field Notes\nCantharellus cibarius\nBoletus edulis\nPleurotus species\nGrifola frondosa\nHericium erinaceus\nLentinula edodes",
+    "style": "Limited palette: forest green, burnt sienna, cream, charcoal gray, warm gold. Solid color blocks only, no gradients, no airbrush shading, no photorealism. Bold retro serif 'Field Notes' arched at top center above the grid. Screen-print aesthetic with flat vector shapes and clean sharp edges."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "All elements are generic and unprotected. 'Field Notes' as a descriptive header for a naturalist-style illustration is a common generic phrase used in educational and nature contexts; while there is a stationery brand called Field Notes, that mark applies to notebooks and stationery goods and is unlikely to create confusion in the context of a botanical mushroom art print, though minimal caution is noted. The six mushroom names are standard Latin binomial scientific nomenclature (Cantharellus cibarius, Boletus edulis, Pleurotus species, Grifola frondosa, Hericium erinaceus, Lentinula edodes) and are fully in the public domain as taxonomic designations. The botanical illustration style is a well-established public domain artistic tradition. No trademarks, brand names, celebrities, characters, lyrics, or protected slogans are referenced. Risk is low but the designer should be aware of the Field Notes stationery brand and may wish to consider an alternative header such as 'Mycological Notes' or 'Forager Notes' to eliminate even this marginal overlap."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Multiple text errors found. The list includes fabricated/garbled words not in the required text: 'Edulis' repeated as standalone entry, 'Specles' instead of 'Species', 'Srrondous' is a garbled placeholder word. Mushroom labels also contain misspellings: 'Canstein' (should be Cantharellus cibarius label), 'Oystini', 'Grechio', 'Grifolla Frondoss' (double-l, extra s), 'Henicium' instead of 'Hericium'. The required text is not displayed correctly or completely."
+  }
+}
