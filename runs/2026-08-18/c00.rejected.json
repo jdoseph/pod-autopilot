@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "fall foraging",
+    "product_type": "tote",
+    "concept": "Illustrated mushroom and acorn botanical pattern with the text 'I Came Home With More Than I Planned' in earthy ink style.",
+    "audience": "Foragers, nature walkers, and wild food enthusiasts who collect mushrooms and botanicals in autumn",
+    "score": 8.3,
+    "rationale": "Foraging is a rapidly growing hobby with passionate community, autumn is peak season, tote is functionally relevant to the activity, low POD design competition for foraging specifically."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Came Home With More Than I Planned\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a botanical pattern featuring stylized mushrooms and acorns arranged in a loose circular composition. Include 3\u20134 varieties of mushrooms with distinct cap shapes (one with spots, one with gills visible, one simple rounded cap) and 5\u20136 acorns at different angles with detailed oak leaves. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: forest green, warm rust, cream, and charcoal. Clean sharp edges, screen-print aesthetic. Centered on a plain light tan background with 2-inch margin. All elements connected and away from edges. Single bold condensed sans-serif text arched below the botanical cluster.",
+    "text_on_design": "I Came Home With More Than I Planned",
+    "style": "Bold retro condensed sans-serif, all caps, arched below the illustration, charcoal color, readable at 12\u00d716 inches"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Came Home With More Than I Planned' is a generic, relatable humorous sentiment with no known trademark associations, celebrity connections, or protected IP. The botanical illustration concept featuring mushrooms and acorns is a common nature art theme. The earthy ink style is a standard artistic approach. No brand names, characters, slogans, or protected elements are present. This design presents minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The word 'MORE' is missing from the required text. The design reads 'I CAME HOME WITH THAN I PLANNED' instead of the required 'I Came Home With More Than I Planned'."
+  }
+}

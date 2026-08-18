@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "amateur astronomy",
+    "product_type": "t-shirt",
+    "concept": "Detailed illustration of a backyard telescope pointed at a starfield with text 'Darkness Is the Point' in celestial typography.",
+    "audience": "Hobbyist stargazers and amateur astronomers who chase dark skies on weekends",
+    "score": 7.4,
+    "rationale": "Passion niche with tight community identity, clear skies in autumn make this seasonally relevant, low design saturation for astronomy-specific hobby angle."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Darkness Is the Point\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a telescope on a tripod pointing upward into a starfield. Simple bold shapes: telescope tube as solid black rectangle with circular eyepiece, tripod legs in dark gray, scattered stars as solid white circles of varying sizes across upper half. Sky section transitions from deep navy at top to charcoal at bottom. Single bright star centered above telescope in gold. Solid color blocks only, no gradients, no shading, no photorealism. High contrast screen-print aesthetic. Centered composition on plain solid black background with generous margin. Readable at 12x16 inches.",
+    "text_on_design": "Darkness Is the Point",
+    "style": "Bold retro sans-serif in white and gold, arched above the telescope illustration, letters slightly spaced for celestial feel"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Darkness Is the Point' is a generic philosophical statement with no known trademark associations. The backyard telescope and starfield illustration are common astronomy themes with no IP concerns. The celestial typography style is a generic design choice. No identifiable brand names, characters, logos, or protected slogans are present in the concept."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The word 'POINT' is visually broken into 'P' and 'OINT' separated by 'IS THE', making the required text 'Darkness Is the Point' appear garbled and incomplete rather than clearly legible."
+  }
+}

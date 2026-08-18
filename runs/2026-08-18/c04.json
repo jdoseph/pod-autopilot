@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "amateur astronomy",
+    "product_type": "mug",
+    "concept": "Dark-glazed style mug design showing a star map of autumn constellations with text 'My Other Hobby Has No Wi-Fi'.",
+    "audience": "Hobbyist stargazers who escape to dark-sky locations and enjoy the analog nature of the pursuit",
+    "score": 7.5,
+    "rationale": "Autumn star-gazing season, tight niche identity, the no-Wi-Fi angle celebrates intentional disconnection which resonates deeply with this community."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Other Hobby Has No Wi-Fi\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of autumn constellation star map with connected stars forming Orion, Cassiopeia, and Perseus constellations. Bold simple geometric lines connecting white dots on dark navy background. Single centered circular composition resembling a telescope viewfinder. Solid color blocks: navy, white, cream, deep charcoal. No gradients, no airbrush shading, no photorealism. Screen-print aesthetic with high contrast. Plain solid charcoal background surrounding the design with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "My Other Hobby Has No Wi-Fi",
+    "style": "Bold modern sans-serif, white lettering, arched below the star map circle in a single clean line"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Other Hobby Has No Wi-Fi' is a generic humorous sentiment in the style of common novelty slogans. It does not reference any known trademark, brand, celebrity, character, team, or protected slogan. The autumn constellation star map imagery is generic and unprotected. No IP concerns identified with either the text or the visual concept."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'MY OTHER HOBBY HAS NO WI-FI' \u2014 correctly spelled and complete. The design is a clean circular badge with constellation/star background elements, no IP concerns, no quality issues, and no mockup present."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Astronomy Mug | Star Map My Other Hobby Has No Wi-Fi",
+    "tags": [
+      "astronomy coffee mug",
+      "star map mug",
+      "dark sky mug",
+      "constellation gift",
+      "amateur astronomer",
+      "stargazer mug",
+      "fall constellation map",
+      "analog hobby gift",
+      "telescope lover",
+      "offline hobby gift",
+      "dark-glazed mug",
+      "astronomy club gift",
+      "space lover coffee cup"
+    ],
+    "description": "Celebrate the analog nature of stargazing with this dark-glazed mug featuring autumn constellation maps and 'My Other Hobby Has No Wi-Fi.' Perfect for hobbyist stargazers who escape to dark-sky locations and appreciate the unplugged pursuit of astronomy. Watch the night sky come to life in your hands during morning coffee or evening hot chocolate before a night of observation. Ideal gift for amateur astronomers, dark-sky enthusiasts, and anyone who values time offline beneath the stars. Ceramic construction built to last through many observing seasons."
+  },
+  "products": {
+    "shopify": "6a846f2e1e6f44e313013049"
+  }
+}

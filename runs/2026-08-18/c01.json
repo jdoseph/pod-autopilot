@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "farmers market regulars",
+    "product_type": "tote",
+    "concept": "Bold block-print style illustration of mismatched heirloom vegetables with text 'Ugly Produce Appreciation Society'.",
+    "audience": "Local food enthusiasts, farmers market shoppers, and sustainable eating advocates",
+    "score": 8.1,
+    "rationale": "Tote is the perfect product for farmers market shoppers, autumn harvest market season peaks now, design is witty and specific enough to feel like an in-group signal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Ugly Produce Appreciation Society\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five mismatched heirloom vegetables arranged in a loose circular composition: a gnarled carrot with irregular bumps, a lumpy heirloom tomato with deep ridges, a twisted beet with protruding roots, a knobby fingerling potato, and a warty squash. Bold simple shapes with clean sharp edges, solid color blocks, no gradients, no shading. High contrast screen-print aesthetic. Palette: deep burgundy, golden yellow, forest green, cream, and charcoal gray on a solid white background. Single centered composition with generous margins. Readable at 12x16 inches. All vegetable elements connected and away from the edges, never depend on the background.",
+    "text_on_design": "Ugly Produce Appreciation Society",
+    "style": "Flat vector illustration, bold retro sans-serif text in charcoal gray arched below the vegetable cluster, screen-print aesthetic, solid color blocks only, high contrast, clean sharp edges"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Ugly Produce Appreciation Society' is a generic, descriptive, and whimsical phrase with no known trademark registrations or associations with a specific brand, celebrity, team, or protected IP. The concept of ugly or imperfect produce is a broad public-interest topic discussed widely in food waste contexts, and no single entity has established trademark rights over this general phrase or concept. The block-print heirloom vegetable illustration style is a common folk-art aesthetic with no proprietary association. This design presents low IP risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'UGLY PRODUCE APPRECIATION SOCIETY' \u2014 correctly spelled and complete. The design features clean flat-illustration vegetables (carrot, tomato, beet, squash, radish, ginger root) arranged around the text on a plain background. No IP concerns, no quality issues, no anatomy problems. Suitable for print-on-demand."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Ugly Produce Tote Bag | Farmers Market Shopper",
+    "tags": [
+      "farmers market tote",
+      "ugly produce bag",
+      "sustainable grocery bag",
+      "block print tote",
+      "heirloom vegetable design",
+      "local food shopper",
+      "eco-friendly grocery bag",
+      "farmers market gift",
+      "vegetable illustration bag",
+      "sustainable eating gift",
+      "reusable produce tote",
+      "farmer support gift",
+      "garden lover tote"
+    ],
+    "description": "Celebrate imperfect produce with this bold block-print tote featuring mismatched heirloom vegetables and 'Ugly Produce Appreciation Society.' Perfect for regular farmers market trips, sustainable grocery shopping, and supporting local food systems. The durable canvas construction handles loads of fresh vegetables, bulk items, and farmers market finds. Ideal gift for local food enthusiasts, sustainable eating advocates, and anyone who believes the best produce tells a story. Make a statement while shopping consciously."
+  },
+  "products": {
+    "shopify": "6a846eec5c8f811f60063728"
+  }
+}

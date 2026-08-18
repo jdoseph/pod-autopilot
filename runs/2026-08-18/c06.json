@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "autumn hiking",
+    "product_type": "t-shirt",
+    "concept": "Minimalist line-art of a forest trail with falling leaves and the text 'Peak Season' in earthy tones.",
+    "audience": "Outdoor enthusiasts who hike specifically for fall foliage, timing aligns with October buying window",
+    "score": 7.1,
+    "rationale": "Fall foliage hiking surges late September through October, 6-8 weeks from now is prime buying window, pun on 'peak' appeals to hikers and leaf-peepers alike."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Peak Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a winding forest trail viewed from above, composed of bold simple lines creating a path that curves through stylized trees. Falling leaves scatter across the composition in various sizes. Solid color blocks in burnt orange, olive green, warm tan, and deep rust red. No gradients, no shading, no photorealism. Single centered composition on a cream background. High contrast, screen-print aesthetic with clean sharp edges. Design reads clearly at 12x16 inches.",
+    "text_on_design": "Peak Season",
+    "style": "Bold retro sans-serif in rust red, positioned in a straight horizontal line below the trail illustration, integrated into the overall centered composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Peak Season' is a common generic expression used in everyday language to describe a time of high activity or demand. It does not reference any known registered trademark, brand, celebrity, sports team, character, or protected slogan. The minimalist forest trail design with falling leaves is entirely generic nature-themed artwork with no identifiable IP concerns. The earthy tones and overall concept are original and unencumbered. This design is safe to proceed."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'PEAK SEASON' correctly spelled across two lines, with clean bold typography. The illustration features a generic autumn landscape with trees and a winding path in fall colors. No IP concerns, no quality issues, text is complete and accurate."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Autumn Hiking Tee | Peak Season Forest Trail",
+    "tags": [
+      "fall hiking shirt",
+      "autumn tee",
+      "foliage hiking gift",
+      "outdoor enthusiast shirt",
+      "forest trail design",
+      "fall season t-shirt",
+      "nature lover tee",
+      "October hiking",
+      "minimalist nature shirt",
+      "leaf pattern tee",
+      "seasonal outdoor gift",
+      "trail walker shirt",
+      "mountain hiking apparel"
+    ],
+    "description": "Capture the magic of peak foliage season with this minimalist line-art t-shirt featuring a forest trail with falling leaves and 'Peak Season' in earthy tones. Perfect for autumn hikers who time their adventures for October's spectacular color displays. Lightweight, breathable cotton blend comfortable for all-day trail exploration, layering, and post-hike hangouts. Ideal gift for outdoor enthusiasts who specifically hike for fall foliage, understand the brief window of peak colors, and want to celebrate that seasonal magic. Available in classic unisex fit."
+  },
+  "products": {
+    "shopify": "6a846f5c1e6f44e313013076"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "amateur astronomy",
+    "product_type": "tote",
+    "concept": "Screenprint-style illustration of a person lying in a field staring upward at the Milky Way with text 'Getting My Bearings'.",
+    "audience": "Stargazers, dark-sky travelers, and astronomy club members who make overnight observation trips",
+    "score": 7.9,
+    "rationale": "Dual meaning of 'getting my bearings' (navigation + emotional grounding) is clever, visual is striking and community-identifiable, tote suits the travel-to-dark-sites use case."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Getting My Bearings\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a person lying on their back in a field, arms at sides, head tilted upward gazing at a starry night sky. Above them, a bold Milky Way band stretches across the composition with solid color star clusters and geometric cosmic forms. Simple rolling hills in the foreground. Solid color blocks only, no gradients, no shading. Limited palette: deep navy blue, bright white, pale cream, charcoal grey. Clean sharp edges, high contrast screen-print aesthetic. Single centered composition on a plain solid black background with generous margins. Readable and striking at 12x16 inches from across a room.",
+    "text_on_design": "Getting My Bearings",
+    "style": "Bold retro sans-serif, all caps, arched below the figure in white, clean geometric letterforms"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Getting My Bearings' is a common idiomatic English expression with no known trademark associations in apparel or print-on-demand contexts. The visual concept of a person stargazing at the Milky Way is a generic, widely-used artistic theme with no connection to protected characters, brands, or intellectual property. No celebrity likenesses, trademarked logos, song lyrics, or protected elements are present. The combination is original and low-risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'GETTING MY BEARINGS' which matches the required phrase exactly, correctly spelled. The illustration shows a generic person lying on grass stargazing \u2014 no IP concerns, clean linework, no anatomical issues, suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Astronomy Tote Bag | Stargazer Getting My Bearings",
+    "tags": [
+      "astronomy tote bag",
+      "stargazer gift",
+      "dark sky travel bag",
+      "Milky Way illustration",
+      "constellation canvas bag",
+      "amateur astronomy gift",
+      "night sky tote",
+      "observatory trip bag",
+      "celestial design tote",
+      "astronomy club gift",
+      "dark-sky traveler",
+      "space lover tote",
+      "screenprint celestial bag"
+    ],
+    "description": "Pack your gear for overnight observation trips with this screenprint-style tote featuring a stargazer lying beneath the Milky Way and 'Getting My Bearings.' Designed for amateur astronomers, dark-sky travelers, and members of astronomy clubs who understand the magic of escaping city lights. Spacious canvas construction holds telescopes, notebooks, blankets, and supplies. Perfect gift for the stargazer who chases dark skies on weekends, attends star parties, and finds their direction under the night sky."
+  },
+  "products": {
+    "shopify": "6a846efef1ba1ded1b0ed5cd"
+  }
+}

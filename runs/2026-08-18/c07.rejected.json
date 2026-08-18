@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "introverted readers",
+    "product_type": "mug",
+    "concept": "Stack of illustrated books forming a cozy fort with text 'Do Not Disturb: Currently Somewhere Else'.",
+    "audience": "Avid fiction readers who use books as social escape and identify strongly with introvert humor",
+    "score": 7.0,
+    "rationale": "Reading niche has passionate gifting community, sentiment is evergreen but gains relevance as cozy season approaches, low enough specificity to gift broadly."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Do Not Disturb: Currently Somewhere Else\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cozy book fort: a triangular tent-like structure made from stacked illustrated books of varying heights, leaning against each other. Books show colorful spines with simple geometric patterns and abstract shapes\u2014no real titles. Inside the fort opening, a tiny silhouette figure sits cross-legged reading. The books use solid blocks of color: deep navy, burnt orange, forest green, cream, and mauve. No gradients, no shading, no photorealism. Bold clean edges, high contrast, screen-print aesthetic. Single centered composition on a plain light gray solid background with generous margins. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Do Not Disturb: Currently Somewhere Else",
+    "style": "Bold retro sans-serif, white text in a clean banner arch below the book fort illustration, 5 words total, strong legibility"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Do Not Disturb: Currently Somewhere Else' is a generic, whimsical expression of a common sentiment with no known trademark associations. The illustrated book fort concept is a broadly used generic image in the reading/bookish merchandise space. No celebrity, brand, character, lyric, or protected slogan is referenced or evoked. The combination is original enough to pose minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text does not match the required phrase. The main text reads 'DO NOT DISTURB: SOMEWHERE ELSE' (missing 'CURRENTLY'), and on the book spines there are garbled/partial text fragments including 'II ORF SHRE' and 'CURENTY' (misspelled 'CURRENTLY'). The required complete and correctly spelled phrase 'Do Not Disturb: Currently Somewhere Else' is not displayed correctly anywhere in the design."
+  }
+}
