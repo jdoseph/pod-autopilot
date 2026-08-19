@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers market regulars",
+    "product_type": "tote",
+    "concept": "Illustrated grid of vegetables and herbs with text 'Weekly Ritual' in clean sans-serif",
+    "audience": "People who shop farmers markets and prioritize local seasonal produce",
+    "score": 7.6,
+    "rationale": "Totes are functionally essential for farmers market shoppers making this highly relevant; fall harvest season timing is perfect, and 'Weekly Ritual' frames the behavior as identity\u2014strong audience-product fit."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Weekly Ritual\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration: 3x3 grid of 9 vegetables and herbs in bold simple shapes with clean sharp edges. Include tomato, carrot, leafy greens, bell pepper, cucumber, basil, onion, radish, and pea pods. Solid color blocks only\u2014no gradients, no shading, no photorealism. Limited palette: forest green, burnt orange, deep red, cream, and charcoal gray. Each vegetable is a single centered icon occupying equal grid squares. Centered composition on a plain solid white background with generous margin around the entire grid. Design readable at 12x16 inches from across a room. Screen-print aesthetic with high contrast and no textures.",
+    "text_on_design": "Weekly Ritual",
+    "style": "Bold clean sans-serif, all caps, positioned centered below the 3x3 grid, tight letterspacing, same charcoal gray as grid elements"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Weekly Ritual' is a generic, descriptive common phrase with no known trademark associations in the context of vegetable and herb illustrations. The design concept uses original illustrated elements with no reference to protected brands, characters, or slogans. No IP concerns identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'WEEKLY RITUAL' in bold, correctly spelled text. The composition features clean, flat-style vegetable icons arranged in colored square tiles above each word line. No IP risks, no quality issues, no garbled text, no malformed elements. Clean background suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Weekly Ritual Farmers Market Tote | Vegetable Garden Design",
+    "tags": [
+      "farmers market tote",
+      "weekly ritual bag",
+      "vegetable illustration tote",
+      "local produce shopper",
+      "seasonal food lover",
+      "garden illustration bag",
+      "sustainable shopping tote",
+      "farm to table gift",
+      "gardener appreciation gift",
+      "eco-conscious tote bag",
+      "herb garden design",
+      "farmers market regular",
+      "culinary enthusiast gift"
+    ],
+    "description": "Celebrate your farmers market ritual with this beautifully illustrated tote featuring a grid of fresh vegetables and herbs in clean, modern design. Perfect for regular market shoppers who prioritize seasonal, local produce. Roomy enough for your weekly haul of fresh finds, and the durable canvas holds up to repeated trips. Whether you're a gardener, home cook, or sustainability-focused shopper, this tote reflects your commitment to fresh, local food culture. Ideal gift for anyone serious about seasonal eating."
+  },
+  "products": {
+    "shopify": "6a85c0a48829705717057c73"
+  }
+}

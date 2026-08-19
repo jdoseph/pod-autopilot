@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Introverted readers",
+    "product_type": "t-shirt",
+    "concept": "Simple stack of books illustration with the phrase 'I Already Have Plans' underneath",
+    "audience": "Book lovers and introverts who prefer reading over socializing",
+    "score": 7.0,
+    "rationale": "Introvert reader identity is a proven POD niche; this phrase is widely relatable and not currently dominated by one design, though the broader introvert shirt market is competitive."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Already Have Plans\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a centered stack of 5 books in varying heights, slightly tilted, with bold simple rectangular shapes and clean sharp edges. Books in solid colors: deep navy blue, burnt orange, forest green, cream white, and burgundy red. Single thick black outline around each book for definition. Plain cream background. Screen-print aesthetic with high contrast, solid color blocks, no gradients, no shading, no photorealism. Composition centered with generous margins, readable at 12x16 inches from across a room.",
+    "text_on_design": "I Already Have Plans",
+    "style": "Bold retro sans-serif in black, 6 words maximum, positioned directly underneath the book stack with equal spacing, clean and legible."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Already Have Plans' is a common, generic humorous expression widely used in everyday language to convey introversion or a preference for staying home. It does not appear to be a distinctive protected slogan associated with any specific brand, and the stack of books illustration is a generic clip-art style image with no character or IP associations. No known trademark conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'I ALREADY HAVE PLANS' correctly spelled and complete. The illustration shows a clean stack of four books in distinct colors (blue, orange/terracotta, green, dark red) with a retro illustration style. No IP concerns, no anatomy issues, clean background suitable for garment printing, and all text is legible and properly rendered."
+  },
+  "listing": {
+    "index": 7,
+    "title": "I Already Have Plans Book Lover Tee | Introvert Design",
+    "tags": [
+      "introvert t-shirt",
+      "book lover tee",
+      "i already have plans",
+      "reading enthusiast shirt",
+      "bookworm design",
+      "introverted lifestyle tee",
+      "book stack illustration",
+      "cozy reader shirt",
+      "literary humor tshirt",
+      "relatable introvert gift",
+      "book nerd shirt",
+      "antisocial books tee",
+      "library lover apparel"
+    ],
+    "description": "Declare your reading priorities with this simple, witty tee featuring a stack of books and the phrase 'I Already Have Plans.' Perfect for introverts and book lovers who genuinely prefer a good story over social obligations. The clean illustration celebrates the quiet joy of reading and reflects your authentic social preferences. Whether you're a voracious reader, library regular, or someone who values cozy nights with books, this shirt speaks your truth. Great gift for bookworms, introverts, and anyone who needs a polite way to decline plans."
+  },
+  "products": {
+    "shopify": "6a85c11082dce70d3e041bb1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Witchy wellness",
+    "product_type": "mug",
+    "concept": "Moon phase arc above a steaming cauldron with the text 'Brewing Something Good'",
+    "audience": "Women interested in astrology, herbalism, and aesthetic witchcraft",
+    "score": 7.9,
+    "rationale": "Witchy aesthetic audience buys heavily in fall; cauldron-as-coffee-mug metaphor is original, the phrase works year-round but peaks October\u2014strong repeat purchase and gifting potential."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Brewing Something Good\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration centered on solid cream background. An open cauldron with three stylized steam wisps rising upward, rendered in bold simple shapes. Above the cauldron, an arc of eight moon phases progressing left to right: new moon (solid circle), waxing crescent, first quarter, waxing gibbous, full moon (solid circle), waning gibbous, last quarter, waning crescent. All moons are the same size, simple bold outlines and solid fills. Single color palette: deep indigo for moon phase outlines and cauldron, sage green for steam wisps, cream background. Solid color blocks only, no gradients, no shading, no airbrush effects. Sharp clean edges throughout. Composition centered with generous margins on all sides, no artwork touching edges. Bold retro serif text 'Brewing Something Good' arched below the cauldron in deep indigo, maximum 6 words, readable at 12x16 inches from across a room.",
+    "text_on_design": "Brewing Something Good",
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks, no gradients, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brewing Something Good' is a generic, descriptive expression with no known trademark associations. The visual elements \u2014 moon phase arc and steaming cauldron \u2014 are common, widely used motifs in witchy and mystical aesthetic designs with no distinctive IP ownership. The combination does not reference any brand, character, celebrity, team, lyric, or protected slogan. This design presents low IP risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'BREWING SOMETHING GOOD' is correctly spelled and complete, arranged in an arc beneath a cauldron with moon phases. The design is clean, uses a generic witchy/mystical motif (cauldron, moon phases), has no IP concerns, and the artwork is well-rendered with no quality issues."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Witchy Wellness Mug | Moon Phase Cauldron Design 11oz",
+    "tags": [
+      "witchy aesthetic mug",
+      "moon phase cup",
+      "astrology gift mug",
+      "herbalism lover gift",
+      "witchcraft coffee mug",
+      "celestial cauldron design",
+      "spiritual beverage cup",
+      "goddess energy mug",
+      "botanical witch gift",
+      "mystical morning mug",
+      "alternative lifestyle cup",
+      "esoteric home decor",
+      "witch coffee lover"
+    ],
+    "description": "Brew your morning intentions with this enchanting mug featuring moon phases arcing above a steaming cauldron and the affirmation 'Brewing Something Good.' Designed for those drawn to astrology, herbalism, and the aesthetic of witchcraft. Whether you're sipping herbal tea, coffee, or your favorite warm potion, this mug celebrates your spiritual practice. Makes a thoughtful gift for astrology enthusiasts, herbalists, and anyone creating their own magical home sanctuary."
+  },
+  "products": {
+    "shopify": "6a85c092ae5b4841b20a1e9e"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Anxious plant parents",
+    "product_type": "mug",
+    "concept": "Illustrated drooping plant with googly eyes and text 'I'm Fine (I'm Not Fine)' on a pastel background",
+    "audience": "Millennial and Gen Z plant collectors who anthropomorphize their houseplants",
+    "score": 7.1,
+    "rationale": "Plant parent identity is a robust POD niche; the anxious inner monologue angle layered onto a plant is fresher than generic 'plant lady' designs and matches current mental-health humor tone."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I'm Fine (I'm Not Fine)\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a drooping potted plant with two large googly eyes (white circles with black pupils and subtle shine). The plant has wilted leaves hanging downward in simple curved shapes, rendered in muted sage green and soft moss tones. The pot is a warm terracotta beige. Bold sans-serif text arched above reads 'I'm Fine (I'm Not Fine)' in charcoal gray. Solid color blocks, no gradients, no airbrush shading, no photorealistic detail. Single centered composition on a plain soft lavender background with generous white margin. High contrast screen-print aesthetic, clean sharp edges.",
+    "text_on_design": "I'm Fine (I'm Not Fine)",
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, limited palette of sage green, moss tone, terracotta beige, charcoal gray, and lavender background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I'm Fine (I'm Not Fine)' is a common colloquial expression of relatable self-deprecating humor with no known trademark protection. It does not reference any brand, character, celebrity, song lyric, or protected slogan. The illustrated drooping plant with googly eyes is a generic humorous concept. The overall design concept is original and uses widely understood everyday language that falls into the public domain of common expression."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'I'M FINE (I'M NOT FINE)' which matches the required text exactly (case-insensitive). The design features a clean cartoon wilting potted plant with googly eyes, original illustration style, no IP concerns, no anatomy issues, and a plain background suitable for garment printing."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Plant Parent Anxiety Mug | I'm Fine I'm Not Fine Design",
+    "tags": [
+      "plant parent mug",
+      "anxious plant lover",
+      "houseplant coffee cup",
+      "googly eyes design",
+      "millennial plant parent",
+      "relatable humor mug",
+      "plant collector gift",
+      "drooping plant design",
+      "pastel plant mug",
+      "plant anxiety gift",
+      "gen z plant lover",
+      "humorous plant person",
+      "plant care enthusiast"
+    ],
+    "description": "Perfectly capture the plant parent experience with this relatable mug featuring a drooping plant with googly eyes and the honest text 'I'm Fine (I'm Not Fine).' Designed for millennial and Gen Z plant collectors who've mastered anthropomorphizing houseplants and worry about their green babies. The pastel background and playful illustration celebrate the humor in plant parenthood. Whether you're a serial propagator, struggle with watering schedules, or just love your botanicals deeply, this mug gets it. Ideal gift for plant lovers who appreciate honest, funny takes on their hobby."
+  },
+  "products": {
+    "shopify": "6a85c0f70ac89785100f7e2f"
+  }
+}

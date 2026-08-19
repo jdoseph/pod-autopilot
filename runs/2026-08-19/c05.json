@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough baking",
+    "product_type": "t-shirt",
+    "concept": "Illustrated starter jar labeled 'Do Not Discard' with the tagline 'Fed, Active, and Ready to Rise'",
+    "audience": "Home bakers obsessed with sourdough culture and bread fermentation",
+    "score": 7.2,
+    "rationale": "Sourdough has a cult, year-round audience; the 'do not discard' joke resonates deeply with the niche and design competition for this specific angle is still relatively low."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Do Not Discard\nFed Active Ready to Rise\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass sourdough starter jar centered on plain cream background. The jar is a simple geometric shape with clean edges, filled with tan bubbling starter dough showing circular bubble shapes. Bold black label on jar reads 'Do Not Discard'. Above the jar in a centered position: bold retro serif typeface arched in two lines reading 'FED ACTIVE READY TO RISE'. Solid color palette: cream background, clear glass jar outline in charcoal black, tan starter fill, black label and text. No gradients, no shading, no photorealism. Single centered composition with generous margins, readable from across a room.",
+    "text_on_design": "Do Not Discard\nFed Active Ready to Rise",
+    "style": "Flat vector illustration, bold simple geometric shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients or airbrush shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Do Not Discard' is a generic instructional label with no known trademark associations. 'Fed, Active, and Ready to Rise' is a descriptive sourdough starter phrase rooted in common baking terminology. Neither phrase references any brand, character, celebrity, team, or protected slogan. The illustrated jar concept is a common design trope in the baking/food niche. No identifiable IP conflicts detected."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "All required text is present and correctly spelled: 'FED ACTIVE READY TO RISE' arched above the jar and 'DO NOT DISCARD' on the jar label. The design features a clean illustration of a sourdough starter jar on a plain background with no IP concerns, no anatomy, and no quality issues."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Sourdough Starter Tee | Fed Active Ready to Rise Design",
+    "tags": [
+      "sourdough t-shirt",
+      "bread baking gift",
+      "sourdough starter design",
+      "home baker tee",
+      "fermentation lover shirt",
+      "do not discard design",
+      "baking culture tshirt",
+      "starter jar illustration",
+      "artisan bread baker",
+      "baking enthusiast gift",
+      "sourdough culture tee",
+      "kitchen lover shirt",
+      "baker personality shirt"
+    ],
+    "description": "Share your sourdough obsession with this clever tee featuring an illustrated starter jar labeled 'Do Not Discard' and the tagline 'Fed, Active, and Ready to Rise.' Perfect for home bakers who treat their starter like a cherished pet and understand the fermentation lifestyle. Whether you're deep into the sourdough community, love the ritual of baking, or appreciate bread culture humor, this shirt celebrates your dedication. Makes a thoughtful gift for artisan bakers, fermentation enthusiasts, and anyone who talks about their starter regularly."
+  },
+  "products": {
+    "shopify": "6a85c0dd68850c72ac01d601"
+  }
+}
