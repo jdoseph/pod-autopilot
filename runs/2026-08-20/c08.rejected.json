@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Amateur astronomy",
+    "product_type": "t-shirt",
+    "concept": "Detailed star-map ring chart of autumn constellations with 'Dark Sky Season' arched above",
+    "audience": "Stargazers, astronomy club members, science teachers aged 20-55",
+    "score": 7.0,
+    "rationale": "Longer autumn nights energize the astronomy community. The seasonal hook is timely, the audience is passionate and underserved in POD, and constellation art is perennially giftable."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Dark Sky Season\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a circular star-map ring chart showing autumn constellations (Cassiopeia, Perseus, Andromeda, Pegasus, Cygnus) rendered as bold geometric line drawings and solid dots connected by clean straight lines. Center circle contains constellation names in tiny solid blocks. Concentric rings frame the chart in 3\u20134 distinct solid colors: deep navy blue, burnt orange, cream, and charcoal gray. Solid color blocks only, no gradients, no shading, no photorealism. Single centered composition on a plain pale gray background with generous margin. Readable at 12x16 inches from across a room. High contrast, screen-print aesthetic.",
+    "text_on_design": "Dark Sky Season",
+    "style": "Bold retro sans-serif capital letters arched above the star-map ring, integrated into the design as part of the composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Dark Sky Season' is a generic descriptive term referring to autumn and winter months favored by astronomers and stargazers for optimal viewing conditions. It does not appear to be a registered trademark or protected slogan associated with any known brand, organization, or commercial entity. The accompanying star-map ring chart of autumn constellations is a common astronomical illustration style with no specific IP concerns. The overall design concept is generic and educational in nature, posing minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "high",
+    "reason": "The text 'DARK SKY SEASON' is present and correctly spelled in the main headline. However, the circular star chart diagram contains numerous garbled, half-formed, and illegible text labels throughout (constellation names and other annotations that are clearly malformed AI-generated text artifacts). This fails the quality standard requiring no garbled or misspelled text anywhere in the image."
+  }
+}

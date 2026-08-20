@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Cozy reading season",
+    "product_type": "mug",
+    "concept": "Wraparound illustration of a cat sleeping on a stack of books amid falling leaves with 'Chapter After Chapter' text",
+    "audience": "Book lovers, cat owners, autumn homebodies aged 25-50",
+    "score": 8.1,
+    "rationale": "Mugs are the dominant gift format for readers. Fall reading season plus cat content is a proven combination; the phrase avoids clich\u00e9. Strong gifting potential for October\u2013November buying window with very low IP risk."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Chapter After Chapter\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a sleeping cat curled up on a tall stack of open books, surrounded by falling autumn leaves in various sizes. Single centered composition. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: deep forest green, warm rust orange, cream, charcoal gray, and burnt sienna. Clean sharp edges, screen-print aesthetic. Cat rendered as simple geometric shapes with closed eyes and peaceful expression. Books stacked with visible spines and pages. Leaves scattered naturally around the composition. Plain cream-colored uniform background, generous margin around all artwork elements. Design stays centered and away from edges, readable at 12x16 inches from across a room.",
+    "text_on_design": "Chapter After Chapter",
+    "style": "Bold retro serif typeface, arched above the illustration in charcoal gray, under 6 words total"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Chapter After Chapter' is a generic, descriptive expression about reading and does not appear to be a registered trademark or protected slogan associated with any known brand. The illustration elements (sleeping cat, books, falling leaves) are common artistic motifs with no IP concerns. No celebrity likenesses, brand references, character designs, or protected creative works are involved. The overall concept is an original, generic reading-themed design suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'CHAPTER AFTER CHAPTER' correctly spelled across three lines, matching the required text exactly. The artwork features a generic sleeping cat on a stack of books with autumn leaves, clean vector-style illustration with no IP concerns, no anatomical issues, and a clean cream background suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Cat on Books Mug with Falling Leaves - Cozy Reading Season",
+    "tags": [
+      "book lover gift",
+      "cat mug",
+      "autumn home d\u00e9cor",
+      "cozy reading",
+      "Chapter After Chapter",
+      "literary gifts",
+      "fall coffee mug",
+      "cat illustrations",
+      "bookish aesthetic",
+      "reading gifts",
+      "seasonal mug",
+      "wrapped design",
+      "cat owner gift"
+    ],
+    "description": "Wrap your hands around cozy with this literary celebration mug. A sleeping cat nestles atop a tower of books as leaves drift around\u2014perfect for curling up with your next great read during autumn. Features wraparound 'Chapter After Chapter' text. Ideal for bookshelf decorators, cat lovers, and anyone who measures seasons by their reading list. Great gift for book clubs, reading enthusiasts, and autumn entertaining."
+  },
+  "products": {
+    "shopify": "6a87126678deab0d8c02dd80"
+  }
+}

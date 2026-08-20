@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Spooky homesteading",
+    "product_type": "t-shirt",
+    "concept": "Gothic farmhouse silhouette with roosters and pumpkins, text reads 'Raise Your Own Demons' in distressed blackletter",
+    "audience": "Homesteaders with dark humor, Halloween lovers, cottagecore-gothic crossover aged 20-40",
+    "score": 7.5,
+    "rationale": "Intersection of homestead pride and Halloween humor is underexplored. October timing is ideal, the phrase is original and memorable, and the gothic-meets-rural aesthetic has growing social media traction."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Raise Your Own Demons\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, screen-print aesthetic. Centered composition: silhouette of a steep-roofed Gothic farmhouse with peaked gables and a tall chimney, framed by two aggressive roosters with exaggerated combs and tails on either side. Three carved jack-o'-lantern pumpkins arranged at the base, solid black shapes. All elements connected, bold simple shapes, clean sharp edges, high contrast. Limited palette: black, deep burnt orange, cream, charcoal gray. Solid color blocks only, no gradients, no shading, no photorealism. Plain solid cream background, generous margin, readable at 12x16 inches from across a room.",
+    "text_on_design": "Raise Your Own Demons",
+    "style": "Distressed blackletter, bold weight, arched above the farmhouse silhouette, integrated into the composition"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Raise Your Own Demons' is a generic darkly humorous expression with no known trademark registration or association with a specific brand, celebrity, or IP holder. The gothic farmhouse aesthetic combined with roosters and pumpkins is a common folk-horror style with no distinctive protected elements. Distressed blackletter typography is a widely used generic style. No identifiable trademark, character, lyric, slogan, or celebrity reference is present. The design concept is original and low-risk for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'RAISE YOUR OWN DEMONS' is correctly spelled and complete. The design features generic Halloween motifs (jack-o-lanterns, haunted house, roosters) with no IP concerns. Clean vector-style artwork suitable for garment printing."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Raise Your Own Demons Shirt - Gothic Farmhouse Tee",
+    "tags": [
+      "homesteading humor",
+      "gothic farmhouse",
+      "spooky tee",
+      "Halloween shirt",
+      "cottagecore gothic",
+      "dark humor",
+      "rooster pumpkin",
+      "distressed print",
+      "farmhouse style",
+      "alternative fashion",
+      "witchy aesthetic",
+      "seasonal clothing",
+      "novelty shirt"
+    ],
+    "description": "Wear your dark sense of humor with pride in this gothic farmhouse tee. A silhouetted farmhouse, roosters, and pumpkins create moody ambiance while 'Raise Your Own Demons' in distressed blackletter text celebrates agricultural mischief. Perfect for homesteaders with edge, Halloween devotees, and the cottagecore-gothic crowd who appreciate wit with their whimsy. Comfortable layering piece for autumn festivals, farm visits, or everyday wear that speaks your spooky-domestic truth."
+  },
+  "products": {
+    "shopify": "6a8712ba78deab0d8c02ddb7"
+  }
+}

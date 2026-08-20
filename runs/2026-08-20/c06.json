@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn foraging",
+    "product_type": "t-shirt",
+    "concept": "Illustrated mushroom and wild berry cluster with the text 'Forest Floor Finds' in earthy hand-lettered style",
+    "audience": "Foragers, cottagecore enthusiasts, nature lovers aged 25-45",
+    "score": 7.2,
+    "rationale": "Foraging interest spikes each fall; the October buying window aligns perfectly. Low design saturation for foraging-specific apparel, passionate community, and no IP risk. Slightly niche limits ceiling."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Forest Floor Finds\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a clustered arrangement of mushrooms and wild berries in the center. Include 3-4 varieties of mushrooms with distinctive cap shapes (one with spots, one tall and slender, one umbrella-shaped) and scattered berries (blackberries, raspberries, lingonberries) nestled between stems and toadstools. Solid color blocks only: sage green, cream, rust brown, deep burgundy, charcoal gray. No gradients, no shading, no photorealism. Clean sharp edges, screen-print aesthetic. Single centered composition on a plain warm beige background with 2-inch margin on all sides. Keep all elements connected and away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Forest Floor Finds",
+    "style": "Hand-lettered serif type in rust brown, arched above the mushroom cluster in a casual organic curve, 6 words maximum, bold weight, naturalistic but clean letterforms"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Forest Floor Finds' is a generic descriptive expression with no known trademark associations. The illustrated mushroom and wild berry cluster imagery is common nature art with no character, brand, or IP concerns. The earthy hand-lettered style is a widely used aesthetic not tied to any specific protected work. No celebrity, team, lyric, slogan, or brand reference is present. This design presents low IP risk and is suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'FOREST FLOOR FINDS' correctly spelled and complete. The artwork features generic mushroom and berry illustrations in a clean flat design style with no IP concerns. Text is legible, anatomy of illustrated elements is clean, and the composition is suitable for garment printing against a plain warm yellow background."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Forest Floor Finds Tee - Mushroom Berry Foraging Shirt",
+    "tags": [
+      "foraging shirt",
+      "mushroom illustration",
+      "wild berry",
+      "nature lover",
+      "cottagecore shirt",
+      "earthy aesthetic",
+      "hand-lettered design",
+      "autumn fashion",
+      "nature gatherer",
+      "outdoor enthusiast",
+      "forest aesthetic",
+      "casual tee",
+      "nature-inspired"
+    ],
+    "description": "Wear your foraging passion with this earthy tee featuring an illustrated mushroom and wild berry cluster in nature-inspired colors. 'Forest Floor Finds' in hand-lettered script celebrates the treasures waiting in autumn woods. Comfortable and casual for foraging expeditions, farmers market visits, or cottagecore gatherings. Great gift for mushroom hunters, nature walkers, sustainable lifestyle enthusiasts, and anyone drawn to forest aesthetics and seasonal harvesting."
+  },
+  "products": {
+    "shopify": "6a8712eaccc62e0d65033d94"
+  }
+}

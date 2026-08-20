@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Autumn foraging",
+    "product_type": "tote",
+    "concept": "Large botanical print of illustrated foraged finds \u2014 acorns, mushrooms, rosehips \u2014 arranged as a nature-journal spread with 'Gathered' in simple type",
+    "audience": "Foragers, farmers market shoppers, cottagecore fans aged 22-45",
+    "score": 7.9,
+    "rationale": "Totes are the functional tool for foragers; the audience actually uses them in the woods. The botanical illustration style is on-trend and prints beautifully on canvas. Strong functional and aesthetic fit lifts the score."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Gathered\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of foraged botanical elements arranged in a loose circular composition: acorns with caps, mushrooms with varied gill details, rosehips with leaves, scattered smaller botanicals like berries and twigs. Solid color blocks with clean sharp edges, no gradients or shading. Limited palette: sage green, cream, rust brown, deep charcoal, warm ochre. Single centered composition on a plain cream background with generous white margin. High contrast, screen-print aesthetic. Readable at 12x16 inches. All elements connected and away from edges.",
+    "text_on_design": "Gathered",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks only, no gradients, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design features generic botanical illustrations of common foraged items (acorns, mushrooms, rosehips) in a nature-journal style, which is a well-established and unprotected artistic tradition. The word 'Gathered' is a common English word used descriptively and is not associated with any well-known trademark in the print-on-demand or apparel space to my knowledge. No celebrity, brand, character, lyric, or protected slogan is referenced. The overall concept is original and generic enough to present minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The word 'GATHERED' is correctly spelled and clearly rendered in bold dark green type. The design features clean flat-illustration autumn/forest motifs (mushrooms, acorns, leaves, berries) with no IP concerns, no quality issues, and no placeholder or extraneous text. Suitable for garment printing."
+  },
+  "listing": {
+    "index": 1,
+    "title": "Foraged Botanical Tote - Autumn Gathering Canvas Bag",
+    "tags": [
+      "foraging tote",
+      "botanical illustration",
+      "farmers market bag",
+      "cottagecore aesthetic",
+      "nature journal design",
+      "reusable grocery tote",
+      "autumn gatherings",
+      "acorns mushrooms",
+      "eco-conscious gift",
+      "nature lovers",
+      "farmer's market regular",
+      "rustic home goods",
+      "sustainable shopping"
+    ],
+    "description": "Carry your treasures in this nature-journal-inspired tote featuring illustrated foraged finds\u2014acorns, mushrooms, rosehips\u2014artfully arranged across the canvas. The word 'Gathered' anchors the design with understated elegance. Perfect for farmers market trips, foraging adventures, and everyday outings with a natural aesthetic. Makes a thoughtful gift for foragers, sustainable shoppers, and anyone drawn to cottagecore style. Roomy, durable, and conversation-starting."
+  },
+  "products": {
+    "shopify": "6a87127f556d042f3d07dc16"
+  }
+}

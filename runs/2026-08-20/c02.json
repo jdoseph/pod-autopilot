@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Backyard birding",
+    "product_type": "mug",
+    "concept": "Painted-style illustration of five common feeder birds perched on a branch with 'Morning Watch' lettered below in watercolor script",
+    "audience": "Birdwatchers, nature hobbyists, retirees aged 40-70",
+    "score": 7.8,
+    "rationale": "Birding is one of the fastest-growing U.S. hobbies. Mugs are a natural fit for the early-morning ritual this audience already has. Fall migration adds seasonal relevance. Competition exists but quality illustration differentiates."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Morning Watch\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five common backyard birds perched on a horizontal branch. Left to right: cardinal with crest, chickadee, tufted titmouse, nuthatch, and finch. Birds shown in profile and three-quarter view, solid color blocks with clean sharp edges, no gradients or shading. Color palette: cardinal red, warm gray, soft blue, cream, and charcoal black. Branch rendered as simple organic shape in dark brown. Single centered composition on pale cream background with generous margins. High contrast, screen-print ready, readable at 12x16 inches from across a room. No photorealism, no detail, no busy elements.",
+    "text_on_design": "Morning Watch",
+    "style": "Bold sans-serif, modern geometric lettering, centered below the branch, solid charcoal black, no watercolor effects"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Morning Watch' is a common generic term with no strong association with a specific registered trademark in the apparel or print-on-demand space. The design concept featuring painted feeder birds on a branch is a widely used decorative motif in nature art. No celebrity likenesses, sports teams, brand names, song lyrics, or protected characters are referenced. The watercolor script lettering style is a common artistic technique. Overall IP risk is low, though a formal USPTO search is recommended before large-scale production."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'MORNING WATCH' which matches the required text exactly (case-insensitive match). The design features clean flat-style illustration of common backyard birds perched on a branch, with bold legible typography. No IP concerns, no quality issues, clean light background suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Backyard Birding Mug - Morning Watch Coffee Cup",
+    "tags": [
+      "birding gift",
+      "bird watcher mug",
+      "feeder birds",
+      "nature enthusiast",
+      "Morning Watch",
+      "watercolor art",
+      "wildlife mug",
+      "retirement gift",
+      "bird lover",
+      "outdoor hobby",
+      "painted illustration",
+      "autumn gifts",
+      "wildlife d\u00e9cor"
+    ],
+    "description": "Start your morning watch with five beautifully painted feeder birds perched on a branch, lettered with watercolor script. Designed for those who love tracking backyard visitors and celebrating wild encounters from the kitchen window. Features artist-rendered birds perfect for nature hobbyists, birdwatchers, and outdoor enthusiasts. Ideal retirement gift, nature classroom addition, or present for anyone passionate about local wildlife and seasonal observation."
+  },
+  "products": {
+    "shopify": "6a87129110bf16328102e31f"
+  }
+}

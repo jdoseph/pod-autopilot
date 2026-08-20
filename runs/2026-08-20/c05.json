@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Farmers market regulars",
+    "product_type": "tote",
+    "concept": "Retro produce-stand poster art featuring heirloom vegetables and the slogan 'Know Your Grower' in bold vintage type",
+    "audience": "Local food advocates, farmers market shoppers, foodies aged 28-55",
+    "score": 7.3,
+    "rationale": "Totes are the default purchase vehicle for this audience, so the use case is native. Fall harvest season increases farmers market attendance. The slogan carries values the audience wears as an identity badge."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"KNOW YOUR GROWER\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a vibrant farmers market produce stand featuring heirloom vegetables: a large red tomato, purple heirloom carrot, golden beet, and striped squash arranged in bold simple geometric shapes with clean sharp edges. Solid color blocks in deep forest green, bright tomato red, deep purple, golden yellow, and cream. No gradients, no airbrush shading, no photorealism. Single centered composition on a plain cream background with generous margins. Screen-print aesthetic with high contrast. Bold retro serif typography arched above the vegetables reading 'KNOW YOUR GROWER' in deep forest green, capital letters, 1950s-60s diner poster style. All artwork elements connected and away from edges.",
+    "text_on_design": "KNOW YOUR GROWER",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette: forest green, tomato red, deep purple, golden yellow, cream solid color blocks, no gradients, no photorealism, centered composition on plain solid background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Know Your Grower' is a common generic slogan used broadly in the farm-to-table and local agriculture community without association with any single trademark holder. Heirloom vegetable imagery and retro produce-stand poster aesthetics are generic public domain design elements. No celebrity likenesses, brand names, sports teams, fictional characters, or protected marks are referenced. The design concept is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'KNOW YOUR GROWER' in bold dark green lettering, correctly spelled and complete. The artwork features clean vector-style illustrations of common vegetables (tomato, carrot, beet, onion, pumpkin) with no IP concerns, no anatomical issues, no artifacts, and a clean cream background suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Know Your Grower Tote - Retro Farmers Market Bag",
+    "tags": [
+      "farmers market tote",
+      "local food",
+      "heirloom vegetables",
+      "vintage produce",
+      "eco-friendly bag",
+      "reusable shopper",
+      "food advocate",
+      "retro poster art",
+      "sustainable shopping",
+      "foodie gift",
+      "farmer support",
+      "vintage aesthetic",
+      "canvas grocery bag"
+    ],
+    "description": "Celebrate local growers with this retro produce-stand poster tote featuring heirloom vegetables in bold vintage typography. 'Know Your Grower' anchors the design, making a statement every market visit. Built for weekly shopping runs, farmer's market regulars, and food-conscious shoppers who value direct relationships with their produce sources. Perfect gift for locavores, foodies, vintage design lovers, and anyone committed to supporting small-scale agriculture."
+  },
+  "products": {
+    "shopify": "6a8712d36f59fa57050f80e3"
+  }
+}

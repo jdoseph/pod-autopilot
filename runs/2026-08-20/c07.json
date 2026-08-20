@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Elementary school teachers",
+    "product_type": "tote",
+    "concept": "Cheerful illustrated apple, pencil, and open book collage with the text 'Classrooms Are My Cardio' in playful script",
+    "audience": "K-6 teachers, teacher gift-givers, school staff aged 22-55",
+    "score": 7.1,
+    "rationale": "Teacher totes are a strong gift category. Back-to-school energy persists through October. The phrase is humorous without referencing any brand or IP. Teachers actively use totes and appreciate functional gifts."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Classrooms Are My Cardio\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cheerful apple with a bold red body and bright green leaf, a yellow pencil with an eraser tip, and an open book with cream pages and navy spine, arranged in a loose triangular collage composition. Solid color blocks, no gradients, no airbrush shading, no photorealism. Bold simple shapes with clean sharp edges in a screen-print aesthetic. Limited palette: red, yellow, navy blue, bright green, cream. Single centered composition on a plain solid light gray background with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Classrooms Are My Cardio",
+    "style": "Bold playful script lettering arched below the collage in navy blue, hand-drawn friendly character with slight curves and bounce"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Classrooms Are My Cardio' is a generic humorous play on the common 'X Is My Cardio' expression format, which is a widely used colloquial structure not owned by any single entity. The illustrated elements (apple, pencil, open book) are generic educational icons with no trademark concerns. No celebrity, brand, character, or protected slogan is referenced. The design appears to be original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Text reads exactly 'CLASSROOMS ARE MY CARDIO' \u2014 correctly spelled and complete. Artwork features clean cartoon illustrations of a pencil, apple, and open book with no IP concerns. Line art style is clean and suitable for garment printing. No anatomy issues, artifacts, or quality concerns detected."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Classrooms Are My Cardio Tote - Teacher Appreciation Bag",
+    "tags": [
+      "teacher gift",
+      "school staff tote",
+      "elementary teacher",
+      "classroom appreciation",
+      "playful design",
+      "reusable bag",
+      "teacher humor",
+      "end of year gift",
+      "school supplies",
+      "educator thank you",
+      "K-6 teacher",
+      "apple pencil book",
+      "canvas tote"
+    ],
+    "description": "Celebrate educators with this cheerful tote featuring an apple, pencil, and open book collage with the witty message 'Classrooms Are My Cardio' in playful script. Perfect for carrying lesson plans, grading stacks, and classroom supplies while expressing teacher pride and humor. Ideal appreciation gift for elementary teachers, school staff, and anyone grateful for educational dedication. Great for end-of-year thank-yous, new teacher welcomes, and daily school-life carry."
+  },
+  "products": {
+    "shopify": "6a8713017d1f550cf2093058"
+  }
+}

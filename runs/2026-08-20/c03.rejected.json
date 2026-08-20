@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Amateur mycology",
+    "product_type": "mug",
+    "concept": "Scientific-illustration grid of eight wild mushroom species labeled in Latin with 'Field Notes: Fungi' as the header",
+    "audience": "Mushroom hunters, botany enthusiasts, science aesthetics fans aged 20-45",
+    "score": 7.6,
+    "rationale": "Mycology has exploded in popularity. Scientific-grid illustration style is on-trend and feels premium. Fall foraging season is the perfect timing. Mugs in this niche have strong gift-purchase rates."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"FIELD NOTES: FUNGI\n\nAmanita muscaria\nBoletus edulis\nAgaricus campestris\nCantharellus cibarius\nArmillaria mellea\nCortinarius violaceus\nCraterellus cinereus\nFomitopsis pinicola\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of eight wild mushroom species arranged in a 2x4 grid on a cream background. Each mushroom is a distinct silhouette with bold simple shapes and clean sharp edges: (1) tall thin Amanita muscaria with red cap and white spots, (2) brown Boletus edulis with thick stem, (3) delicate white Agaricus campestris, (4) orange funnel-shaped Cantharellus cibarius, (5) clustered white Armillaria mellea, (6) purple-capped Cortinarius violaceus, (7) black trumpet Craterellus cinereus, (8) pale shelf-like Fomitopsis pinicola. Each mushroom labeled below in small serif capital letters with Latin binomial names only. At top, centered header text in bold serif capitals. Grid layout with thin lines separating each illustration cell. Color palette: cream background, dark brown, forest green, rust orange, cream white, charcoal black. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition, readable at 12x16 inches from across a room.",
+    "text_on_design": "FIELD NOTES: FUNGI\n\nAmanita muscaria\nBoletus edulis\nAgaricus campestris\nCantharellus cibarius\nArmillaria mellea\nCortinarius violaceus\nCraterellus cinereus\nFomitopsis pinicola",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette of 5 solid colors, no gradients, no photorealistic detail, high contrast, centered grid composition on plain cream background with generous margins"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design consists entirely of a generic scientific-illustration concept using standard Latin binomial nomenclature for common wild mushroom species. 'Field Notes: Fungi' is a descriptive, generic phrase with no association to any known registered trademark, brand, or protected intellectual property. All eight species names (Amanita muscaria, Boletus edulis, Agaricus campestris, Cantharellus cibarius, Armillaria mellea, Cortinarius violaceus, Craterellus cinereus, Fomitopsis pinicola) are standard mycological taxonomy in the public domain. No celebrity likenesses, team logos, song lyrics, movie characters, or protected slogans are present. This is a straightforward nature-illustration concept with minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Multiple text errors disqualify this design: 'Notes' is misspelled as 'Nutes', 'FUNGI' is missing and replaced with garbled placeholder text, 'Armillaria mellea' is misspelled as 'Ammillarius Mellea', and 'Cortinarius violaceus' is misspelled as 'Corkinarius Violaceus'."
+  }
+}
