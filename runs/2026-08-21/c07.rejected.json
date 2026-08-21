@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "anxious plant parent",
+    "product_type": "mug",
+    "concept": "A wilting succulent illustration with the text 'I Googled Your Symptoms. We Need to Talk.' in a deadpan clinical font.",
+    "audience": "Overprotective houseplant owners who over-research plant care",
+    "score": 7.3,
+    "rationale": "Plant parent mugs are an established POD category, but this concept has a fresh angle borrowing from self-deprecating anxiety humor. Strong gifting potential for the houseplant community heading into the holiday season."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Googled Your Symptoms. We Need to Talk.\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a wilting succulent in a small ceramic pot, drooping leaves in shades of sage green and dusty mauve, brown crispy leaf edges, centered composition on cream background. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks only: sage green, dusty mauve, terracotta pot, cream background, dark brown accents. No gradients, no shading, no photorealism. Single centered image with generous margin, readable at 12x16 inches. The text 'I Googled Your Symptoms. We Need to Talk.' appears in bold sans-serif clinical typeface arranged horizontally below the plant, approximately 30% of composition width.",
+    "text_on_design": "I Googled Your Symptoms. We Need to Talk.",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, screen-print aesthetic, limited palette: sage green, dusty mauve, terracotta, dark brown, cream background. Solid color blocks, no gradients, no airbrush shading, no photorealism."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Googled Your Symptoms. We Need to Talk.' is a generic humorous expression playing on common hypochondria and internet self-diagnosis tropes. It does not reference any known trademark, brand, character, celebrity, or protected slogan. While 'Google' is a registered trademark, it is used here as a genericized verb in common everyday speech, which is widely accepted in colloquial usage. The wilting succulent illustration is a generic design element. The overall concept is original, relatable humor with no identifiable IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "medium",
+    "reason": "The text reads 'I GOOGLED YOUR SYMPTOMS. WE NEED TO TALK.' which matches the required content, but 'Googled' references the Google brand name/trademark, creating IP risk. Additionally, the word 'SYMPTOMS' appears to be rendered as 'SYMPTQMS' or similar upon close inspection \u2014 potential lettering quality issue. The Google trademark reference alone is sufficient grounds for rejection due to IP risk."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "cozy autumn reading",
+    "product_type": "mug",
+    "concept": "A hand-lettered 'Stack of Books and Sweater Weather' design with illustrated falling leaves and a steaming mug nested among book spines.",
+    "audience": "Bookworms and literary enthusiasts who love autumn aesthetics",
+    "score": 7.6,
+    "rationale": "Reading niche + fall season + mug is a triple-synergy product. The timing aligns with the October gifting window. Booktok audiences actively purchase book-themed merchandise, though the space is growing more competitive."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Stack of Books and Sweater Weather\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cozy autumn scene with a centered stack of three thick books in warm earth tones (burnt orange, deep burgundy, mustard yellow) standing vertically with visible spines. A ceramic mug with steam wisps rises from between the book stack, rendered in cream and warm gray. Falling maple leaves in solid burnt orange and golden yellow scattered around the composition. Clean bold vector shapes, solid color blocks with no gradients, no shading, no photorealism. High contrast screen-print aesthetic. Single centered composition on a plain pale cream background with generous margins. Readable at 12x16 inches.",
+    "text_on_design": "Stack of Books and Sweater Weather",
+    "style": "Bold retro serif lettering arched above the illustration, 4-5 words maximum, hand-lettered appearance but clean vector execution"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Stack of Books and Sweater Weather' is a generic descriptive expression combining two common seasonal concepts. Neither element is a registered trademark or protected slogan. 'Sweater Weather' has been used broadly as a generic seasonal descriptor across many products and while a song by The Neighbourhood exists with that title, song titles alone are not copyright protected and this usage is clearly in a different descriptive context rather than referencing the song. The illustrated elements (falling leaves, steaming mug, book spines) are all generic autumnal imagery with no connection to any specific brand, character, or protected intellectual property. The overall concept is a common cozy autumn theme widely represented in the print-on-demand market without distinctive trademark concerns."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text in the design reads 'STACK BOOKS AND SWEATER WEATHER', which does not match the required text 'Stack of Books and Sweater Weather'. The word 'of' is missing from the design."
+  }
+}

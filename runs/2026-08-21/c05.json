@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "autumn farmers market",
+    "product_type": "tote",
+    "concept": "A hand-illustrated arrangement of fall harvest vegetables\u2014squash, apples, corn\u2014with the text 'Locally Obsessed' in a vintage market style.",
+    "audience": "Farmers market regulars, sustainable living advocates, and locavores",
+    "score": 7.5,
+    "rationale": "Farmers market season peaks in fall, and totes are the quintessential farmers market product, making this a natural product-audience fit. The 'locally obsessed' positioning is culturally resonant and has low direct design competition."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Locally Obsessed\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of fall harvest vegetables arranged in a centered circular composition: a butternut squash, red apple, ear of corn, and smaller root vegetables in solid color blocks with clean sharp edges, screen-print aesthetic. Colors: burnt orange, deep gold, forest green, cream, and rust red\u2014solid color blocks only, no gradients, no shading, no photorealism. Bold simple shapes with high contrast. Single centered composition on a plain solid navy background with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Locally Obsessed",
+    "style": "Bold vintage serif, arched above the vegetable arrangement in cream color, hand-drawn market signage treatment"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Locally Obsessed' is a generic descriptive expression with no known trademark associations. The hand-illustrated fall harvest vegetable imagery (squash, apples, corn) is entirely generic and unaffiliated with any brand, character, or protected work. The vintage market style is a common aesthetic with no IP concerns. No celebrity, team, brand, or protected slogan references are present. Overall risk is low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'LOCALLY OBSESSED' in clean, correctly spelled typography arranged in an arch around a charming illustration of farm-fresh produce (butternut squash, apples, corn, carrots, radishes). Text is complete, legible, and correctly spelled. No IP risks, no quality issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Locally Obsessed Farmers Market Tote | Fall Harvest Vegetable Bag",
+    "tags": [
+      "farmers market tote",
+      "harvest vegetable bag",
+      "locally obsessed",
+      "sustainable living bag",
+      "locavore gift",
+      "fall harvest design",
+      "vintage market style",
+      "autumn farmers market",
+      "eco-friendly tote",
+      "local produce lover",
+      "squash apple corn print",
+      "seasonal shopping bag",
+      "farmers market fashion"
+    ],
+    "description": "Show your commitment to local food systems with this vintage-styled tote featuring hand-illustrated fall harvest vegetables\u2014squash, apples, corn, and seasonal favorites. 'Locally Obsessed' celebrates farmers market regulars, sustainable living advocates, and locavores everywhere. Durable canvas construction perfect for weekly market trips and farmers market shopping. A meaningful gift for anyone passionate about supporting local agriculture, eating seasonally, and sustainable food choices. Stylish and functional for the conscious consumer."
+  },
+  "products": {
+    "shopify": "6a886445ed52a10658081fe7"
+  }
+}

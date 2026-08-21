@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "witchy autumn lifestyle",
+    "product_type": "tote",
+    "concept": "A detailed line-art illustration of potion bottles, dried herbs, and moon phases arranged as a flat lay with 'Gather What the Season Offers'.",
+    "audience": "Cottagecore, witchcore, and herbalism enthusiasts who celebrate autumn rituals",
+    "score": 8.1,
+    "rationale": "Witchy and cottagecore aesthetics are sustained cultural trends with highly engaged communities. This design is versatile, tote-appropriate, seasonally timed for Halloween/fall, and targets a buyer segment known for high merchandise purchasing."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Gather What the Season Offers\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five potion bottles with cork stoppers arranged in a circle, surrounded by dried herb bundles (sage, lavender, yarrow), moon phase symbols (crescent, full, gibbous) positioned between bottles, single oak leaf accent, all solid color blocks with clean outlined strokes, no gradients or shading, high contrast, centered composition on cream background with 2-inch margin, screen-print ready, readable at 12x16 inches.",
+    "text_on_design": "Gather What the Season Offers",
+    "style": "Bold sans-serif, 36pt, arched in a gentle curve above the arrangement, solid dark color, clean sharp letterforms"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Gather What the Season Offers' is a generic, descriptive sentiment with no known trademark associations. The visual elements \u2014 potion bottles, dried herbs, and moon phases in flat-lay line art \u2014 are common aesthetic motifs in the cottage-core and witchy-craft design space, none of which are proprietary to a specific brand, character, or IP holder. No celebrity, team, lyric, slogan, or registered mark is evoked. Design is clear for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'GATHER WHAT THE SEASON OFFERS' \u2014 correctly spelled and complete. The design features generic potion bottles, moon phases, and botanical elements with no IP concerns. Clean line art style suitable for garment printing with a plain background."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Autumn Potion Bottles & Moon Phases Tote | Witchy Herbalism Bag",
+    "tags": [
+      "witchy autumn tote",
+      "cottagecore bag",
+      "herbalism gifts",
+      "moon phase design",
+      "witch aesthetic",
+      "seasonal harvest bag",
+      "witchcore fashion",
+      "autumn ritual tote",
+      "dried herbs illustration",
+      "celestial witchy style",
+      "fall lifestyle bag",
+      "occult aesthetic tote",
+      "nature lover gift"
+    ],
+    "description": "Celebrate autumn magic with this detailed line-art tote featuring potion bottles, dried herbs, and moon phases arranged as a beautiful flat lay. 'Gather What the Season Offers' captures the essence of seasonal rituals and herbalism practice. Perfect for farmers markets, library trips, or everyday witchcore style. Durable canvas construction holds groceries, books, or your spell ingredients. A gift for anyone embracing witchy autumn living, cottagecore aesthetics, or herbalism hobbies."
+  },
+  "products": {
+    "shopify": "6a8863d8902c259f960d76b1"
+  }
+}

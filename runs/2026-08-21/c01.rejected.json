@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Halloween cat lovers",
+    "product_type": "t-shirt",
+    "concept": "A black cat sitting inside a jack-o-lantern with tiny witch hat, captioned 'Basic Witch' in spooky serif font.",
+    "audience": "Cat owners who celebrate Halloween and embrace self-aware pop culture humor",
+    "score": 7.9,
+    "rationale": "Halloween buying window opens in late September, making this perfectly timed. Cat plus Halloween is a proven combo; the 'basic witch' self-aware angle adds personality. Moderate competition but high gifting potential."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Basic Witch\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cat sitting inside a carved jack-o-lantern, the cat wearing a tiny purple witch hat on its head. The pumpkin has classic triangular eyes and a wide grinning mouth, all glowing orange. Single centered composition on a solid cream background. Solid color blocks only: black cat, orange pumpkin, purple hat, dark orange pumpkin shadows for dimension. No gradients, no shading, no photorealism. Bold screen-print aesthetic with clean sharp edges and high contrast. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Basic Witch",
+    "style": "Bold spooky serif font, arched above the illustration in dark purple, all caps"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Basic Witch' is a common generic Halloween pun play on the colloquial term 'basic witch' and does not appear to be a registered trademark with significant enforcement history. The visual elements (black cat, jack-o-lantern, witch hat) are all generic Halloween imagery in the public domain. The spooky serif font styling is purely aesthetic. No celebrity likenesses, branded characters, song lyrics, or protected slogans are referenced. This design concept presents low IP risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'BASIC WITCH' but the 'IT' letters in 'WITCH' are replaced/obscured by the cat illustration, making the word incomplete and partially illegible as rendered. The text does not display fully and correctly as required."
+  }
+}

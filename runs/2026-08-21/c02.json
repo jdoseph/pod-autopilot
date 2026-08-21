@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "mushroom foraging",
+    "product_type": "mug",
+    "concept": "A botanical-illustration-style arrangement of various wild mushrooms captioned 'Fungi to Be With' in elegant script.",
+    "audience": "Foragers, mycology hobbyists, and cottagecore enthusiasts",
+    "score": 7.8,
+    "rationale": "Mycology/foraging is a fast-growing niche with a cult following. Autumn is peak foraging season, aligning perfectly with the buying window. Pun-based designs in this niche perform reliably well with passionate buyers."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fungi to Be With\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five botanically stylized wild mushrooms arranged in a loose circular composition. Include varied cap shapes: one tall thin-stemmed mushroom with a pointed cap, one wide flat-capped toadstool, one delicate umbrella-like specimen, one chunky clustered variety, and one with gills visible underneath. Solid color blocks only, no gradients, no photorealistic detail. Limited palette: forest green, cream, rust orange, deep purple, charcoal black on a pale cream background. Clean sharp vector edges, screen-print aesthetic. Single centered composition with generous margin on all sides. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Fungi to Be With",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, limited palette of 5 solid colors, no gradients, no airbrush shading, no photorealism. Text in elegant script arched below the mushroom arrangement."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fungi to Be With' is a common pun on the generic expression 'fun to be with,' widely used in novelty and nature merchandise with no known trademark protection. Botanical mushroom illustrations are a generic art style. No celebrity, brand, character, lyric, or protected slogan is evoked. The design presents low IP risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'FUNGI TO BE WITH' correctly spelled across three lines, matching the required text. The typography is clean retro-bubble style in dark green on a cream background, accompanied by charming illustrated mushrooms in various colors. No IP risks, no quality issues, no anatomical problems, and the clean background is suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Fungi to Be With Botanical Mushroom Mug | Forager's Coffee Cup",
+    "tags": [
+      "mushroom foraging mug",
+      "fungi botanical design",
+      "mycology gift",
+      "cottagecore coffee cup",
+      "forager lifestyle",
+      "wild mushroom illustration",
+      "nature lover mug",
+      "botanical print",
+      "elegant script design",
+      "mushroom identification",
+      "fungus lover gift",
+      "outdoor enthusiast mug",
+      "woodland aesthetic"
+    ],
+    "description": "Sip in style with this beautifully illustrated mug featuring a botanical-style arrangement of various wild mushrooms. 'Fungi to Be With' in elegant script celebrates your love of foraging and fungal diversity. Perfect for morning coffee or tea breaks while planning your next mushroom hunt. Ideal gift for mycology hobbyists, mushroom foragers, and cottagecore enthusiasts. High-quality ceramic holds 11oz and pairs perfectly with seasonal outdoor adventures and nature study."
+  },
+  "products": {
+    "shopify": "6a8863fa902c259f960d770e"
+  }
+}

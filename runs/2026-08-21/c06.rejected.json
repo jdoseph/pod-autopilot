@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "sourdough baking",
+    "product_type": "t-shirt",
+    "concept": "A cartoon sourdough starter jar with googly eyes and the phrase 'I Fed the Baby Today' in a rustic font.",
+    "audience": "Home bakers and sourdough hobbyists who anthropomorphize their starters",
+    "score": 7.4,
+    "rationale": "Sourdough culture remains a sustained hobby trend with a humor-driven community. The inside-joke angle ('fed the baby') resonates deeply with this audience and has low direct design competition."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Fed the Baby Today\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass jar with a cloth cover tied at the neck, containing a bubbly sourdough starter with a friendly face: two large googly eyes and a simple curved smile. The jar is centered and slightly tilted with personality. Solid color blocks with clean sharp edges, no gradients, no shading. Limited palette: cream, warm tan, forest green, charcoal gray, and white. Screen-print aesthetic with bold simple shapes. Plain solid white background with generous margin around the jar. High contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": "I Fed the Baby Today",
+    "style": "Rustic serif font, bold weight, arched in a gentle curve above the jar illustration"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Fed the Baby Today' is a common colloquial expression used in the sourdough baking community to refer to feeding a sourdough starter, which bakers affectionately call 'the baby.' It is a generic, descriptive phrase with no known trademark registration or association with a specific brand, celebrity, or protected IP. The cartoon jar with googly eyes is a common whimsical design trope. No characters, logos, brand names, or protected elements are referenced. Risk is low."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'I FED THE THE BABY TODAY' \u2014 'THE' is duplicated, making the text incorrect. The required phrase is 'I Fed the Baby Today' with no repeated words. Reject for text error."
+  }
+}

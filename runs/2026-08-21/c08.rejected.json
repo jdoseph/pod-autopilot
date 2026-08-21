@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "plant parenthood",
+    "product_type": "t-shirt",
+    "concept": "An illustrated cluster of houseplants with speech bubbles saying 'We're thriving' and 'Mostly' in a self-deprecating humor style.",
+    "audience": "Millennial and Gen Z houseplant collectors with a sense of humor",
+    "score": 7.1,
+    "rationale": "Houseplant culture is a durable evergreen niche with an active online community. Humor-driven designs outperform generic botanical art in this space, but the niche is increasingly saturated."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"We're thriving / Mostly\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a clustered arrangement of five houseplants in various pots\u2014a monstera, snake plant, pothos, fiddle leaf fig, and trailing succulent\u2014centered composition. Two speech bubbles with hand-drawn organic shapes emerge from the cluster. Solid color blocks only, no gradients, no shading. Color palette: sage green, terracotta orange, cream, charcoal gray, white. Plain solid white background. High contrast, bold simple shapes, clean sharp edges, screen-print aesthetic. Artwork only, no mockups or models. Design reads clearly at 12x16 inches from across a room.",
+    "text_on_design": "We're thriving / Mostly",
+    "style": "Flat vector illustration, screen-print aesthetic, bold solid shapes, limited palette (sage green, terracotta, cream, charcoal, white), no gradients or shading, high contrast, centered on plain white background"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrases 'We're thriving' and 'Mostly' are common, generic expressions with no known trademark associations. The self-deprecating humor concept using illustrated houseplants is a widely used generic style in the print-on-demand space. No celebrity likenesses, brand names, protected characters, song lyrics, or distinctive slogans are referenced. The combination is original enough to pose minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'WE'RE THRIVING/ MOSTLY.' with a period after 'MOSTLY' that is not part of the required text. Additionally, the speech bubbles contain placeholder line graphics instead of actual text, which counts as garbled/incomplete text elements. The required text also uses title case 'We're thriving / Mostly' but this is a minor style issue compared to the extra punctuation and placeholder bubble content."
+  }
+}
