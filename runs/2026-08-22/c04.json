@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "Detailed botanical-style illustration of various wild mushrooms arranged in a grid with small handwritten Latin names beneath each",
+    "audience": "Mycology hobbyists and foragers, skewing 25-45, nature-forward lifestyle",
+    "score": 7.4,
+    "rationale": "Mushroom foraging is a sustained growing niche with passionate repeat buyers; fall is peak foraging season aligning with the 6-8 week buying window; botanical illustration style differentiates from cartoon competitors; low brand-conflict risk"
+  },
+  "design": {
+    "image_prompt": "Flat vector illustration of nine wild mushrooms arranged in a 3x3 grid, each species distinctly different in cap shape, stem proportion, and gill pattern. Mushrooms include: fly agaric with red cap and white spots, chanterelle with golden funnel shape, puffball round and pale, morel with honeycomb texture, oyster mushroom layered and gray, death cap with pale bulbous base, honey mushroom clustered and amber, shiitake with dark umbrella cap, and boletus with thick stem and pores. Solid color blocks only\u2014no gradients, no photorealism, no shading. Use five colors: cream, forest green, rust red, mushroom brown, and charcoal. Each mushroom outlined in charcoal. Centered composition on a solid white background with generous margins. Readable at 12x16 inches from across a room. Screen-print aesthetic with bold simple shapes and clean sharp edges.",
+    "text_on_design": null,
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks, no gradients, no airbrush shading, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Botanical-style scientific illustrations of wild mushrooms with handwritten Latin taxonomic names are firmly in the public domain tradition of natural history illustration. No trademarks, brand names, characters, celebrities, or protected slogans are involved. Generic mushroom species names in Latin (e.g., Amanita muscaria, Cantharellus cibarius) are scientific nomenclature and not protectable. The grid layout and illustrative style are common artistic approaches with no IP concerns. This design presents negligible risk."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Clean illustrated mushroom variety sheet with no text, no IP concerns, no recognizable characters or brands. Anatomy is consistent and well-rendered across all ten mushroom types. White background is suitable for garment printing. Generic botanical/nature illustration style."
+  },
+  "listing": {
+    "index": 4,
+    "title": "Botanical Mushroom Grid T-Shirt | Wild Varieties Latin Names Tee",
+    "tags": [
+      "mushroom t-shirt",
+      "botanical illustration",
+      "mycology shirt",
+      "foraging gift shirt",
+      "nature lover tee",
+      "wild mushroom design",
+      "Latin names print",
+      "field guide style",
+      "outdoor enthusiast gift",
+      "nature-forward fashion",
+      "scientific illustration",
+      "hobbist apparel",
+      "conservation awareness"
+    ],
+    "description": "This nature-forward tee features a detailed botanical-style grid of various wild mushrooms with small handwritten Latin names beneath each variety. Perfect for mycology hobbyists, foragers, and nature enthusiasts aged 25-45 who speak the language of species identification. Quality construction displays your expertise and passion for mushroom identification while celebrating the beauty of forest biodiversity."
+  },
+  "products": {
+    "shopify": "6a89b2aa484994129f03b6af"
+  }
+}

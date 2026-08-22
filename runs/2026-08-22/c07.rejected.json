@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Tarot and Mysticism",
+    "product_type": "mug",
+    "concept": "The Fool tarot card reimagined as a skeleton walking off a cliff at sunrise with 'New Beginnings Are Terrifying' written along the border",
+    "audience": "Tarot practitioners, spiritual wellness community, alternative spirituality fans ages 22-40",
+    "score": 7.0,
+    "rationale": "Tarot niche has passionate dedicated buyers who purchase multiple items; Halloween adjacency boosts fall discoverability; message is universally relatable beyond just tarot fans; mug is a natural daily ritual product for this audience"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"New Beginnings Are Terrifying\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a skeleton figure mid-stride walking off a cliff edge at sunrise. The skeleton is simplified with bold geometric shapes, one arm raised upward in a carefree gesture, the other swinging. Below the cliff is a void of empty space. Behind the skeleton, a large circular sun with clean horizontal rays extends upward, colored in warm orange-gold tones. The skeleton is rendered in cream white with bold black outlines. Solid color blocks only, no gradients, no shading, no photorealism. High contrast screen-print aesthetic with sharp clean edges. Single centered composition on a plain solid deep navy background with generous margins. All elements connected and away from the edges.",
+    "text_on_design": "New Beginnings Are Terrifying",
+    "style": "Bold retro sans-serif lettering curved along the outer border of the composition, uppercase, same cream white with black outline as the skeleton. Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Limited palette: cream white, black, orange-gold, deep navy background. Solid color blocks, no gradients, no airbrush shading, no photorealism. Readable at 12x16 inches from across a room."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The Fool tarot card is a centuries-old public domain archetype with no trademark protection. A skeleton walking off a cliff at sunrise is a generic artistic interpretation of this traditional imagery. The phrase 'New Beginnings Are Terrifying' is an original, descriptive expression combining common words in a straightforward way with no known trademark registration or association with any specific brand, celebrity, or property. Tarot card imagery and skeleton art are widely used generic design elements in the print-on-demand space. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text reads 'NEW BEGINNIN ARE TERRIFYING' \u2014 the word 'BEGINNINGS' is cut off/truncated (missing the 'GS' ending), making the text incomplete and misspelled as displayed. The required exact text 'New Beginnings Are Terrifying' is not fully rendered."
+  }
+}

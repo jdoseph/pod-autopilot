@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Witchy Grocery Runs",
+    "product_type": "tote",
+    "concept": "Illustrated list design styled as a witch's shopping list including 'eye of newt, seasonal squash, dark chocolate, and good intentions' in aged parchment aesthetic",
+    "audience": "Witchcraft aesthetic fans, cottagecore enthusiasts, humorous gift seekers, women 20-40",
+    "score": 7.9,
+    "rationale": "Extremely strong product-concept fit since a shopping list design belongs on a tote; humor is accessible to non-witchy buyers too making it broader; fall season amplifies witchy aesthetic demand; gift-ready concept drives impulse purchases; unique enough to have low direct competition"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Eye of Newt\nSeasonal Squash\nDark Chocolate\nGood Intentions\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a witch's shopping list on aged parchment. Central composition featuring a hand-drawn checklist with four items: a stylized newt eye (circular with iris detail), a round squash, a dark chocolate bar, and a glowing heart symbol for intentions. Each item has a small checkbox to the left. Weathered parchment texture created with solid color blocks, no gradients. Limited palette: cream, forest green, deep purple, burnt orange, charcoal black. Bold simple shapes, clean sharp edges, screen-print aesthetic, solid color blocks only, no photorealism, no airbrush shading. Single centered composition on plain cream background with generous margins. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Eye of Newt\nSeasonal Squash\nDark Chocolate\nGood Intentions",
+    "style": "flat vector illustration, screen-print aesthetic, aged parchment visual effect using solid colors, limited palette of cream, forest green, deep purple, burnt orange, charcoal black, no gradients, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "All elements are generic and original. The four list items ('Eye of Newt', 'Seasonal Squash', 'Dark Chocolate', 'Good Intentions') are common words and phrases with no trademark associations. The witch shopping list concept is a well-established genre of generic Halloween/folk humor not tied to any specific IP. The aged parchment aesthetic is a common design style. No celebrity likenesses, brand names, character references, song lyrics, or protected slogans are present. Safe to proceed."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text misspelling detected: 'DARK CHOCCOLATE' should be 'DARK CHOCOLATE' (extra 'C' in chocolate). Design must be corrected before approval."
+  }
+}

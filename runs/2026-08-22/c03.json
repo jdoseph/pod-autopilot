@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Witchy Home Aesthetic",
+    "product_type": "mug",
+    "concept": "Crescent moon and herb bundle illustration with the phrase 'Brewing Something Wicked' in elegant thin script",
+    "audience": "Cottagecore and witchcraft aesthetic fans, women 20-40 who follow seasonal rituals",
+    "score": 7.6,
+    "rationale": "Witchy aesthetic is a top-performing POD niche with passionate repeat buyers; mug is perfect product fit for 'brewing' wordplay; fall season amplifies demand; design style (elegant, not kitschy) differentiates from crowded Halloween mugs"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Brewing Something Wicked\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a crescent moon cradling a bundle of dried herbs tied with a thin string, centered composition. The bundle includes recognizable herb sprigs: sage, rosemary, and lavender rendered as simple bold shapes. Solid color palette: deep forest green, cream, charcoal gray, and dusty gold. Solid color blocks only, no gradients, no shading, no photorealism. High contrast screen-print aesthetic with clean sharp edges. Plain cream background, generous margin around artwork, all elements connected and centered away from edges. Bold thin script text reading 'Brewing Something Wicked' arched gracefully above the moon in charcoal gray.",
+    "text_on_design": "Brewing Something Wicked",
+    "style": "Flat vector illustration, screen-print aesthetic, bold simple shapes, clean sharp edges, high contrast, limited solid color palette: forest green, cream, charcoal gray, dusty gold. Elegant thin script typography arched above composition. No gradients, no shading, no photorealism, no drop shadows."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brewing Something Wicked' is a common generic play on the idiom 'brewing something' combined with the word 'wicked,' a broadly used colloquial term. It does not reference any known registered trademark, brand, slogan, character, lyric, or celebrity. The crescent moon and herb bundle illustration is a widely used generic aesthetic motif in the witchy/apothecary design space with no specific IP association. The combination presents low IP risk and is suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'BREWING SOMETHING WICKED' is correctly spelled, complete, and clearly legible in arched lettering above the crescent moon and herb bouquet illustration. The design is a clean, original composition with no IP concerns, no anatomical elements, no artifacts, and a simple background suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Brewing Something Wicked Mug | Crescent Moon Witchy Home Aesthetic",
+    "tags": [
+      "witchy mug",
+      "crescent moon mug",
+      "cottagecore home decor",
+      "herb bundle illustration",
+      "witchcraft aesthetic",
+      "seasonal ritual gift",
+      "elegant script design",
+      "women's coffee mug",
+      "witch home aesthetic",
+      "mystical drinkware",
+      "autumn witch gift",
+      "herbal magic mug",
+      "intimate home gift"
+    ],
+    "description": "Sip your morning brew from this elegant mug featuring a crescent moon and herb bundle illustration with 'Brewing Something Wicked' in refined script. Designed for cottagecore and witchcraft aesthetic lovers who appreciate seasonal rituals and cozy home moments. The delicate artwork brings quiet magic to your kitchen or bedroom altar, making it a meaningful gift for anyone celebrating their spiritual practice."
+  },
+  "products": {
+    "shopify": "6a89b261484994129f03b662"
+  }
+}

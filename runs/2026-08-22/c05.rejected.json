@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Introverted Autumn Lovers",
+    "product_type": "mug",
+    "concept": "Cozy illustrated cabin window with rain outside and the text 'I Canceled Plans For This' above a steaming mug inside the scene",
+    "audience": "Introverts and homebodies who celebrate autumn as permission to stay in, ages 25-45",
+    "score": 7.2,
+    "rationale": "Introvert humor is a proven high-converting POD niche; seasonal framing (autumn rain, staying in) makes it timely; mug is perfectly self-referential product choice; design has viral social media potential driving organic discovery"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I Canceled Plans For This\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a cozy cabin window at night with rain streaking down the glass panes. Inside the window frame, a steaming mug sits on a wooden windowsill, wisps of steam rising in simple curved lines. Through the window, show a dark rainy night outside with diagonal rain lines and distant pine trees silhouetted against a stormy sky. The cabin interior is warm and inviting with soft interior details. Centered composition on a solid cream background. Solid color blocks only: cream background, deep forest green for trees and window frame, warm tan for cabin wood, white for rain and steam, rust orange for mug. No gradients, no shading, no photorealism. High contrast, screen-print aesthetic, bold simple shapes with clean sharp edges. Text 'I Canceled Plans For This' in bold retro sans-serif, arched above the window scene. Readable at 12x16 inches from across a room.",
+    "text_on_design": "I Canceled Plans For This",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast screen-print aesthetic, limited palette of solid color blocks with no gradients or shading"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I Canceled Plans For This' is a common, generic expression of relatable humor with no known trademark registration or association with a specific brand, celebrity, or protected property. The illustrated cabin window with rain and steaming mug is a wholly original scenic concept containing no recognizable trademarked characters, logos, or protected elements. The combination presents negligible IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text is misspelled: the design reads 'I CANCEED PLANS FOR THIS' instead of the required 'I Canceled Plans For This'. The word 'CANCELED' is rendered as 'CANCEED', which is a clear spelling error that must be corrected before print."
+  }
+}

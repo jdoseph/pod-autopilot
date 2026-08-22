@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "tote",
+    "concept": "Illustrated field guide style tote featuring eight edible mushroom varieties arranged around the text 'Foraged and Found' in earthy tones",
+    "audience": "Foragers, mycology enthusiasts, farmers market shoppers, nature lovers",
+    "score": 8.1,
+    "rationale": "Tote is the ideal functional product for foragers who literally carry bags while foraging; fall is peak mushroom season amplifying demand; field guide aesthetic is distinctive and high-perceived-value; strong gifting potential; relatively low design competition in this specific execution"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Foraged and Found\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration field guide of eight edible mushroom varieties arranged in a circular composition around center text. Each mushroom rendered in bold simple shapes with clean sharp edges: morel, chanterelle, shiitake, oyster, porcini, cremini, enoki, and button mushrooms. Solid color blocks only, no gradients, no shading, no photorealism. Limited palette: forest green, burnt orange, warm tan, cream, and deep brown. Mushrooms positioned symmetrically radiating outward from center, all elements connected and centered on plain cream background with generous margin. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Foraged and Found",
+    "style": "flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients, no airbrush shading, no photorealism, limited palette of forest green, burnt orange, warm tan, cream, and deep brown, centered single composition on plain cream background with generous margin"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Foraged and Found' is a generic, descriptive expression with no known trademark associations. The field guide illustration concept featuring edible mushroom varieties is a common artistic style not tied to any specific brand, character, or protected IP. Earthy tones and botanical/mycological illustration styles are widely used generic design approaches. No celebrity, team, brand, lyric, or character references are present. The overall concept is original and low-risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'FORAGED AND FOUND' which matches the required text exactly (case-insensitive). The design features a clean circular arrangement of stylized mushroom illustrations in earthy tones around the bold typography. No IP risks, no quality issues, clean composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Mushroom Foraging Field Guide Tote Bag | Edible Varieties Illustration",
+    "tags": [
+      "mushroom foraging bag",
+      "mycology gift",
+      "nature lover tote",
+      "farmers market bag",
+      "illustrated field guide",
+      "edible mushroom art",
+      "forager gift",
+      "earthy tones canvas",
+      "botanical tote bag",
+      "nature enthusiast gift",
+      "reusable shopping bag",
+      "outdoor adventure gear",
+      "woodland aesthetic"
+    ],
+    "description": "Carry your foraged finds in style with this illustrated tote featuring eight edible mushroom varieties arranged in earthy tones. Perfect for farmers market trips, forest foraging adventures, or as a gift for mycology enthusiasts. Durable canvas construction with 'Foraged and Found' text creates a functional piece that celebrates your love of wild edibles and nature exploration. Great for anyone serious about mushroom identification and outdoor gathering."
+  },
+  "products": {
+    "shopify": "6a89b2229c6066779a07b407"
+  }
+}

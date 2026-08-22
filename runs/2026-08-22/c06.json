@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween Cat Owners",
+    "product_type": "t-shirt",
+    "concept": "Black cat sitting inside a Jack-o-lantern with the phrase 'My Cat IS the Halloween Decoration' in spooky hand-lettered type",
+    "audience": "Cat owners who celebrate Halloween enthusiastically, predominantly women 25-50",
+    "score": 7.1,
+    "rationale": "Halloween is the primary purchase driver hitting peak demand in the buying window; cat+Halloween is evergreen but this angle (cat as decoration) feels fresh; pet owner niches convert well on apparel"
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Cat IS the Halloween Decoration\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a black cat sitting inside a carved jack-o-lantern. The cat's face is centered within the pumpkin's hollow interior, ears perked up, with a calm confident expression. The pumpkin has a classic triangular eye, nose, and toothy grin carved into it, glowing with warmth. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: black cat, orange pumpkin, deep purple background, cream carved details, dark green stem. Single centered composition on a plain deep purple background with generous margins. Screen-print aesthetic, bold simple shapes, clean sharp edges, high contrast. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "My Cat IS the Halloween Decoration",
+    "style": "Flat vector illustration, screen-print aesthetic, bold simple shapes, clean sharp edges, high contrast, solid color blocks only. Limited palette: black, orange, deep purple, cream, dark green. Hand-lettered spooky serif typography arched below the illustration in cream, slightly playful and witchy but legible. Single centered composition on plain deep purple background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Cat IS the Halloween Decoration' is a generic humorous sentiment with no known trademark registration, celebrity association, or brand affiliation. The visual elements (black cat, jack-o-lantern) are common Halloween imagery in the public domain. The hand-lettered spooky typography style is a generic design approach. No registered marks, protected characters, licensed IP, or distinctive slogans are referenced or evoked. This is a low-risk original design suitable for print-on-demand."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads 'MY CAT IS THE HALLOWEEN DECORATION' \u2014 correctly spelled and complete, matching the required phrase exactly. The illustration is a clean, original cartoon composition featuring a generic black cat sitting inside a jack-o'-lantern pumpkin against a purple background. No IP risks, no quality issues, no malformed elements detected."
+  },
+  "listing": {
+    "index": 6,
+    "title": "My Cat IS the Halloween Decoration T-Shirt | Black Cat Jack-o-lantern",
+    "tags": [
+      "cat owner t-shirt",
+      "black cat shirt",
+      "Halloween cat design",
+      "jack-o-lantern art",
+      "funny cat tee",
+      "Halloween pet gift",
+      "spooky lettering",
+      "women's cat shirt",
+      "pet owner apparel",
+      "seasonal cat humor",
+      "Halloween costume tee",
+      "feline fashion",
+      "cat enthusiast gift"
+    ],
+    "description": "This charming tee features a black cat sitting inside a Jack-o-lantern with 'My Cat IS the Halloween Decoration' in spooky hand-lettered type. Perfect for cat owners aged 25-50 who enthusiastically embrace Halloween and celebrate their feline friend as the season's true centerpiece. Quality construction and playful artwork make this a meaningful gift for anyone whose cat steals the Halloween spotlight year after year."
+  },
+  "products": {
+    "shopify": "6a89b2cf1064782d070ddfca"
+  }
+}
