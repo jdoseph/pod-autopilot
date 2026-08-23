@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "t-shirt",
+    "concept": "A vintage-style illustration of a sourdough starter jar labeled 'Mother' with dramatic lighting and the tagline 'Fed Daily, Loved Always' in a worn serif font.",
+    "audience": "Home bakers obsessed with fermentation and artisan bread culture",
+    "score": 7.1,
+    "rationale": "Sourdough culture has a devoted, humor-appreciating community. The 'starter as pet' narrative is well-established but this angle treats it with mock-reverence, which resonates. Good evergreen appeal beyond any trend spike."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Fed Daily, Loved Always\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a glass mason jar containing bubbly sourdough starter, centered composition. The jar is a simple geometric shape with bold black outline and translucent light gray fill. Inside, solid white bubbles and solid cream-colored starter mixture in horizontal layers. A hand-written style label on the jar reads 'Mother' in solid black serif lettering. Dramatic side lighting suggested by a solid black vertical stripe on the left side of the jar creating strong contrast. Plain pale cream background. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color palette: black, cream, light gray, white. No gradients, no shading, no photorealism. Single centered design with generous margins, readable at 12x16 inches.",
+    "text_on_design": "Fed Daily, Loved Always",
+    "style": "Worn serif font, bold weight, positioned in a horizontal line below the jar illustration, approximately 8\u201310 words worth of letterspacing, solid black color"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Fed Daily, Loved Always' is a generic, original tagline with no known trademark associations. The sourdough starter concept using 'Mother' as a jar label is a common, well-established term in baking culture and does not reference any specific brand, character, celebrity, or protected slogan. The vintage illustration style and worn serif font are generic design choices. No IP conflicts identified."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'Fed Daily, Loved Always' \u2014 correctly spelled and complete. The design features a clean mason jar illustration with a sourdough starter theme, bold legible typography, light background suitable for garment printing, no IP concerns, and no quality issues."
+  },
+  "listing": {
+    "index": 7,
+    "title": "Fed Daily, Loved Always Sourdough Starter T-Shirt | Baker Tee",
+    "tags": [
+      "sourdough starter shirt",
+      "baker t-shirt",
+      "fermentation tee",
+      "bread maker shirt",
+      "artisan baker gift",
+      "sourdough humor tee",
+      "kitchen shirt",
+      "home baker shirt",
+      "vintage style tee",
+      "slow living shirt",
+      "baking culture tee",
+      "sourdough lover gift",
+      "mother starter shirt"
+    ],
+    "description": "Celebrate sourdough obsession with this vintage-styled design showcasing a 'Mother' starter jar bathed in dramatic lighting and the heartfelt message 'Fed Daily, Loved Always.' Perfect for home bakers who treat their fermentation projects like cherished pets. Comfortable cotton blend ideal for wearing in the kitchen or around town. A thoughtful gift for fermentation enthusiasts and artisan bread hobbyists. Speaks to the dedication and care behind every loaf."
+  },
+  "products": {
+    "shopify": "6a8b04982091666f1004b014"
+  }
+}

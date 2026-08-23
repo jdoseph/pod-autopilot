@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "A field-guide-style grid of six illustrated wild mushroom species (chanterelle, hen of the woods, oyster, etc.) with Latin names beneath each and 'Autumn Harvest' as a header.",
+    "audience": "Foragers, mycology hobbyists, and nature lovers who forage in fall",
+    "score": 7.3,
+    "rationale": "Mushroom/foraging content is at peak cultural saturation but the audience is deeply passionate and gift-receptive. A scientific illustration style differentiates from the oversaturated cute mushroom market. Fall timing is ideal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Autumn Harvest\nCantharellus cibarius\nGrifola frondosa\nPleurotus ostreatus\nBoletus edulis\nMorchella esculenta\nLentinula edodes\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration field guide grid of six wild mushrooms arranged in two rows of three. Top row: chanterelle with golden funnel shape, hen of the woods with layered fronds, oyster mushroom with fan-like cap. Bottom row: porcini with bulbous stem and rounded cap, morel with honeycomb texture, shiitake with dark umbrella cap. Each mushroom shown from above and side angle, solid color blocks, no gradients, no shading, no photorealism. Limited palette: burnt orange, deep forest green, cream, charcoal gray, warm tan. Latin binomial names in small bold sans-serif beneath each specimen. Clean sharp edges, high contrast, screen-print aesthetic. Single centered composition on plain light cream background with generous margins. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Autumn Harvest\nCantharellus cibarius\nGrifola frondosa\nPleurotus ostreatus\nBoletus edulis\nMorchella esculenta\nLentinula edodes",
+    "style": "Bold flat vector illustration, screen-print aesthetic, limited solid color palette (burnt orange, forest green, cream, charcoal gray, warm tan), solid color blocks only, no gradients or photorealistic detail, high contrast, clean sharp edges, field guide layout"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design uses generic scientific Latin names for common wild mushroom species, all of which are standard mycological taxonomy in the public domain. 'Autumn Harvest' is a generic seasonal phrase with no distinctive trademark association. The field-guide illustration style is a well-established generic format. No celebrity likenesses, brand names, protected characters, song lyrics, or recognizable slogans are present. This concept poses minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "high",
+    "reason": "The text does not match the required specification. The headline reads 'AUTUMN HERVETS' instead of 'Autumn Harvest'. The subtitle block contains garbled/misspelled Latin names ('boletotus', 'pleurous', 'teligratus', 'moichula edoulis'). Individual mushroom labels are also incorrect or misspelled: 'Chanterella', 'Poletus ostrenelis', 'Oyster edulis', 'Lenttaka edodes'. Multiple spelling errors and incorrect/placeholder text throughout the design."
+  }
+}

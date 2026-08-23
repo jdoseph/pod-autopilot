@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Sourdough Baking",
+    "product_type": "mug",
+    "concept": "A wrap-around design of a cozy kitchen scene with a scored sourdough loaf, a steaming mug, and the text 'Proof Takes Time' on the front in a warm, rustic typeface.",
+    "audience": "Home bakers who treat their morning coffee ritual as part of their slow-living routine",
+    "score": 7.4,
+    "rationale": "Mugs are the natural gift item for bakers and this design works as both self-purchase and gift. The phrase 'Proof Takes Time' works on bread and life philosophy levels. Strong October\u2013December gifting potential."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Proof Takes Time\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, screen-print aesthetic. Centered composition on solid cream background. Single scene: scored sourdough loaf with diagonal slash marks in warm tan and dark brown, positioned left of center. Steaming ceramic mug in warm ochre with three curved steam wisps rising. Minimal kitchen elements: simple wooden cutting board shape beneath loaf, small butter knife. Bold retro serif typeface arched above in dark brown reading 'Proof Takes Time'. Solid color blocks only, no gradients, no shading, high contrast. Limited palette: warm tan, dark brown, ochre, cream background, off-white steam. All elements centered, connected composition with generous margins. Readable at 12x16 inches. Clean sharp edges, professional print-ready design.",
+    "text_on_design": "Proof Takes Time",
+    "style": "flat vector illustration, screen-print, bold simple shapes, solid colors only, high contrast, no gradients"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Proof Takes Time' is a generic baking/bread-making reference using standard culinary terminology ('proof' as in dough proofing). It does not reference any known trademark, brand, celebrity, sports team, or protected intellectual property. The design elements \u2014 a sourdough loaf, steaming mug, and rustic kitchen scene \u2014 are all generic illustrative concepts with no identifiable IP concerns. The double meaning (proofing dough / patience) is common wordplay in the baking community and does not appear to infringe on any well-known protected slogan or mark."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'PROOF TAKES TIME' is correctly spelled and complete, arched above a clean illustration of a bread loaf and coffee mug on a cutting board. No IP concerns, no anatomy issues, clean flat-style artwork suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "Proof Takes Time Sourdough Mug | Artisan Baker Coffee Cup",
+    "tags": [
+      "sourdough mug",
+      "baker gift mug",
+      "kitchen mug",
+      "slow living mug",
+      "artisan bread mug",
+      "coffee mug for bakers",
+      "bread lover gift",
+      "rustic kitchen mug",
+      "fermentation mug",
+      "home baker mug",
+      "cozy kitchen mug",
+      "sourdough starter gift",
+      "baking humor mug"
+    ],
+    "description": "Celebrate the sourdough lifestyle with this cozy wrap-around design showing a fresh-scored loaf, steaming beverage, and rustic 'Proof Takes Time' text. Captures the mindful ritual of slow fermentation and morning coffee moments. Durable ceramic perfect for daily use in the kitchen. An ideal gift for passionate home bakers who understand that great bread can't be rushed. A conversation starter for any baking enthusiast's kitchen."
+  },
+  "products": {
+    "shopify": "6a8b044eec1479120c07b2bf"
+  }
+}

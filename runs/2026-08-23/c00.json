@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Halloween & Spooky Season",
+    "product_type": "tote",
+    "concept": "A black tote with white linework illustration of a classic haunted house on a hill surrounded by bare trees, bats, and a full moon, with 'Trick or Treat Haul' in playful retro lettering.",
+    "audience": "Halloween enthusiasts, parents trick-or-treating with kids, and spooky season lifestyle buyers",
+    "score": 7.9,
+    "rationale": "Totes as trick-or-treat bags is an underexploited practical use case. This design is bold, seasonal, and functional. The buying window from today lands squarely in the September 15\u2013October 15 Halloween shopping surge. High commercial viability."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Trick or Treat Haul\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Centered composition on a plain cream solid background with generous margin. Limited palette: black, white, cream, dark gray, orange. Solid color blocks, no gradients, no airbrush shading, no photorealism. Classic haunted house silhouette centered on a hill, pointed roof with peaked windows, bare gnarled trees flanking left and right, full moon large behind the house, 8-10 flying bats scattered around upper area, curved ground line defining the hill. All linework bold and readable. No details, no textures, no busy elements. Design elements connected and away from edges.",
+    "text_on_design": "Trick or Treat Haul",
+    "style": "Bold retro serif lettering, playful and slightly tilted, arched above the haunted house illustration in black"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design concept is entirely original generic Halloween imagery \u2014 haunted house, bare trees, bats, and full moon are all common public domain iconography with no association to any specific trademarked franchise, character, or brand. The phrase 'Trick or Treat Haul' is a straightforward descriptive combination of common Halloween vernacular; 'trick or treat' is a generic cultural phrase and 'haul' is a common colloquial term. Neither element individually nor in combination is known to be a registered trademark. Retro playful lettering is a style, not a protected element. No celebrity, team, character, lyric, or brand reference is present. This design is cleared for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Trick or Treat Haul' correctly spelled and complete. The artwork features a generic haunted house silhouette with bats and bare trees \u2014 a common Halloween motif with no IP concerns. Text is clean and legible, composition is suitable for garment printing with a simple off-white background."
+  },
+  "listing": {
+    "index": 0,
+    "title": "Trick or Treat Haul Halloween Tote Bag | Haunted House Design",
+    "tags": [
+      "halloween tote bag",
+      "spooky season tote",
+      "trick or treat bag",
+      "haunted house design",
+      "halloween canvas bag",
+      "fall tote bag",
+      "gothic aesthetic tote",
+      "halloween gift",
+      "reusable trick or treat bag",
+      "black tote bag",
+      "halloween party favor",
+      "seasonal tote",
+      "family halloween"
+    ],
+    "description": "Carry candy and memories in this atmospheric Halloween tote. Features a haunted house illustration framed by gnarled trees, flying bats, and a luminous moon\u2014perfect for trick-or-treating adventures or spooky season shopping. Durable canvas construction handles full bags of Halloween candy. A go-to accessory for parents and enthusiasts celebrating the season. Great gift for Halloween lovers who live for October vibes year-round."
+  },
+  "products": {
+    "shopify": "6a8b04109523f98a66091f32"
+  }
+}

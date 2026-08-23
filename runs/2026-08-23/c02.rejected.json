@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Witchy & Occult Aesthetic",
+    "product_type": "mug",
+    "concept": "A black mug featuring a gold foil-style illustration of a tarot card back pattern (geometric, non-branded) with the text 'My Future is Unwritten' in elegant gold lettering.",
+    "audience": "Tarot readers, witchy lifestyle enthusiasts, and mysticism-adjacent gift buyers",
+    "score": 7.6,
+    "rationale": "Black mugs with gold designs photograph extremely well for social commerce. Tarot is a sustained cultural trend, not a fad. The phrase avoids any actual tarot card IP. Timing is perfect for Halloween season gifting starting now."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"My Future is Unwritten\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a mystical tarot card back pattern with geometric Art Deco symmetry: central ornate mandala radiating outward with concentric diamonds, stars, and interlocking lines. Bold simple shapes, clean sharp edges, screen-print aesthetic. Color palette: deep navy blue, bright gold, cream, black. Solid color blocks, no gradients, no airbrush shading, no photorealism. Single centered composition on plain cream background with generous margin. Readable at 12x16 inches from across a room. Never photorealistic, never a mug mockup.",
+    "text_on_design": "My Future is Unwritten",
+    "style": "Elegant gold serif lettering, arched below the tarot pattern in two lines, balanced and proportional to the illustration above"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'My Future is Unwritten' is a common generic sentiment with no strong association to a specific protected trademark, song, or branded property. The tarot card back pattern described is geometric and non-branded, avoiding any specific tarot deck trade dress. The overall concept uses generic mystical/inspirational themes without referencing celebrities, franchises, or known protected slogans. Note: the phrase loosely echoes 'The Future is Unwritten' (a Joe Strummer documentary title), but documentary titles generally receive limited trademark protection and the variation here is sufficient to distinguish it as generic expression. Risk remains low, but a USPTO search is recommended before production to confirm no active registrations exist for this exact phrase in Class 21 (mugs)."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The text is incomplete and malformed. The word 'is' appears on the left side of the decorative element and 'IE' appears on the right side (should be 'is'), with the full phrase broken up by the central graphic in a way that obscures and corrupts the intended text 'My Future is Unwritten'. The right side reads 'IE' instead of 'is', making the text garbled and incorrect."
+  }
+}

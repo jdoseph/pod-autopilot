@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Bookworm & Reading Culture",
+    "product_type": "tote",
+    "concept": "A tote with a simple illustrated stack of books wrapped in a scarf with falling leaves and the text 'Currently Reading: Everything' in a wry serif typeface.",
+    "audience": "Avid readers, book club members, and library regulars aged 25\u201345",
+    "score": 7.3,
+    "rationale": "Readers are high-affinity tote buyers \u2014 it's their primary book-carrying tool. The phrase is instantly relatable and meme-adjacent without referencing any IP. Fall is when reading culture peaks with cozy season content. Strong gift potential."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Currently Reading: Everything\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a centered stack of five books in varying widths, wrapped with a flowing scarf weaving through and around the stack. Scarf has a warm terracotta color. Scattered falling leaves in burnt orange, golden yellow, and deep crimson float around the books and scarf in a loose organic arrangement. Books rendered as solid color blocks: navy, forest green, burgundy, cream, and charcoal. Clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only\u2014no gradients, no shading, no photorealism. Single centered composition on a plain pale cream background with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Currently Reading: Everything",
+    "style": "Bold retro serif typeface arched above the illustration in charcoal, 5 words maximum"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Currently Reading: Everything' is a generic, wry expression of a common bookish sentiment with no known trademark associations. The illustrated elements (stacked books, scarf, falling leaves) are generic and non-distinctive from an IP standpoint. No celebrity likenesses, brand names, protected characters, song lyrics, or registered slogans are present. This is original descriptive humor typical of book-lover merchandise and poses minimal IP risk."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "Text error on the book spine: 'READHING' is misspelled (should be 'READING'). The full intended phrase 'Currently Reading: Everything' is not correctly rendered."
+  }
+}

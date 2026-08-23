@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging & Mycology",
+    "product_type": "mug",
+    "concept": "A cream-colored mug with a single oversized detailed ink illustration of a chanterelle mushroom and the text 'Found in the Wild' in a small stamp-style font beneath it.",
+    "audience": "Foragers, nature lovers, and mycology enthusiasts who appreciate minimalist naturalist art",
+    "score": 7.2,
+    "rationale": "Minimal single-subject illustration style is aesthetically timeless and sells well as a gift. Foragers are a growing community tied to fall season activity. Low text reduces printing risk and increases elegance."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Found in the Wild\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of a single oversized chanterelle mushroom centered on the composition. Bold simple shapes with clean sharp edges, high contrast screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism. Limited palette: burnt orange, golden yellow, deep forest green, cream. The mushroom shows the characteristic funnel shape and ridged underside with confident bold linework. Plain solid cream background, generous margin around the centered mushroom illustration. Design readable at 12x16 inches from across a room.",
+    "text_on_design": "Found in the Wild",
+    "style": "Small stamp-style serif font in burnt orange, positioned directly beneath the mushroom illustration, approximately 1/8 of the mushroom's height"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The chanterelle mushroom illustration is a generic natural subject with no trademark association. The phrase 'Found in the Wild' is a common descriptive expression with no known registered trademark in apparel or housewares, and it does not reference any brand, character, celebrity, lyric, or protected slogan. The stamp-style font treatment is a widely used generic design convention. Overall risk is low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'Found in the Wild' correctly spelled and complete. The mushroom illustration (chanterelle) cleverly integrates with the typography as the 'O' in 'WILD'. Text is clean, legible, and well-rendered. No IP risks, no quality issues, original composition suitable for garment printing."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Found in the Wild Chanterelle Mushroom Mug | Naturalist Coffee Cup",
+    "tags": [
+      "mushroom mug",
+      "chanterelle mug",
+      "foraging mug",
+      "naturalist mug",
+      "mycology gift",
+      "nature lover mug",
+      "forest mug",
+      "minimalist nature mug",
+      "botanical mug",
+      "field work mug",
+      "nature illustration mug",
+      "forager coffee cup",
+      "cream colored mug"
+    ],
+    "description": "Sip your morning beverage from this serene cream-colored mug featuring a beautifully detailed chanterelle mushroom illustration with 'Found in the Wild' stamp-style text. The minimalist naturalist approach appeals to foragers, mycologists, and nature appreciators. Perfectly sized for coffee or tea during autumn foraging season. High-quality ceramic with comfortable handle for daily use. A thoughtful gift for those who respect nature's bounty and mycological artistry."
+  },
+  "products": {
+    "shopify": "6a8b04829523f98a66091fca"
+  }
+}
