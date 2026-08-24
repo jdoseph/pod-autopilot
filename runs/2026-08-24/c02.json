@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Witch and Folk Magic Aesthetic",
+    "product_type": "mug",
+    "concept": "Botanical illustration of dried herbs hanging above a cauldron with steam curling into moon phases and text 'Brewing Something Good' in hand-lettered style.",
+    "audience": "Practitioners of folk magic, witchcraft, and cottagecore spirituality aged 20-40 who celebrate seasonal sabbats.",
+    "score": 7.6,
+    "rationale": "The witchy aesthetic peaks in the lead-up to October and Samhain\u2014the buying window is perfectly aligned. This audience buys enthusiastically and mugs are central to ritual aesthetics. Design is rich and differentiable. No licensed IP. Community is large, passionate, and underserved by mainstream retail."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Brewing Something Good\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of five dried herb bundles hanging from a horizontal line above a steaming cauldron. Herbs rendered as simple silhouettes with thin stems and leafy clusters. Steam curls rise from cauldron spout and transform into five moon phases arranged horizontally from new to full and back to new. Cauldron is a simple solid shape with a handle. Bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism. Palette: deep forest green, cream, charcoal gray, burnt orange, white. Single centered composition on solid black background with generous margin. Readable at 12x16 inches from across a room.",
+    "text_on_design": "Brewing Something Good",
+    "style": "Hand-lettered serif, curved and organic letterforms, positioned below the cauldron in a gentle arc, integrated into the composition without floating separately."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Brewing Something Good' is a generic, descriptive expression with no known trademark associations. The botanical illustration concept featuring dried herbs, a cauldron, steam, and moon phases consists of common artistic elements in the witchy/apothecary aesthetic genre, none of which are protected. The hand-lettered style is a presentation choice, not a rights issue. No celebrity likenesses, brand names, characters, or protected slogans are present. Overall risk is low."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text 'Brewing Something Good' is correctly spelled and complete, displayed clearly within the cauldron. The design features a clean two-color composition with hanging herbs, moon phases, and a witch's cauldron \u2014 all generic motifs with no IP concerns. No anatomical elements, no recognizable characters, no brand resemblance. Artwork is clean and suitable for garment printing."
+  },
+  "listing": {
+    "index": 2,
+    "title": "Brewing Something Good Witch Aesthetic Mug",
+    "tags": [
+      "witch mug",
+      "cottagecore aesthetic",
+      "folk magic drinkware",
+      "herbal tea mug",
+      "botanical illustration",
+      "moon phase design",
+      "cauldron mug",
+      "sabbat seasonal gift",
+      "witchcraft home decor",
+      "spiritual practice cup",
+      "dried herbs design",
+      "hand-lettered typography",
+      "folklore inspired"
+    ],
+    "description": "Celebrate the craft with this beautiful ceramic mug showcasing botanical herbs hanging above a cauldron with steam curling into moon phases. The phrase 'Brewing Something Good' in earthy lettering captures the essence of folk magic practice. Perfect for morning tea, evening rituals, or quiet moments of intention-setting. Holds 11oz, dishwasher safe. Ideal for practitioners of witchcraft, herbalists, and anyone drawn to sabbat celebrations and cottagecore living."
+  },
+  "products": {
+    "shopify": "6a8c5a5fe3ea493db406d1c3"
+  }
+}

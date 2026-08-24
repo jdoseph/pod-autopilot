@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Dungeon Masters / Tabletop RPG",
+    "product_type": "mug",
+    "concept": "A dramatic top-down view of a hand hovering over a d20 die with steam rising, captioned 'I've Been Planning This Encounter for Weeks' in gothic script.",
+    "audience": "Tabletop RPG game masters aged 18-40 who run weekly campaigns and identify strongly with their DM role.",
+    "score": 7.8,
+    "rationale": "TTRPG is a growing hobby with a highly passionate, gift-giving community. DM-specific merch is undersupplied compared to general player merch. The inside-joke copy lands perfectly for the audience. No IP referenced. Q4 gaming gift season aligns with the buying window. Strong score."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"I've Been Planning This Encounter for Weeks\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration, top-down view of a pale hand hovering above a large d20 die, wisps of steam rising dramatically from the die in curved flowing lines. Bold simple shapes, clean sharp edges, screen-print aesthetic. Solid color blocks, no gradients, no airbrush shading, no photorealism. Color palette: deep charcoal black, cream white, blood red, and gold. Single centered composition on a plain solid dark gray background with generous margin. Artwork only, never a mug mockup. The hand and die occupy the upper two-thirds, steam swirls fill the lower third, all elements connected and away from edges. Readable at 12x16 inches from across a room.",
+    "text_on_design": "I've Been Planning This Encounter for Weeks",
+    "style": "Bold gothic script arched below the illustration in cream white and gold, text under 6 words, high contrast against dark background."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'I've Been Planning This Encounter for Weeks' is a generic, original humorous expression referencing tabletop RPG gameplay. It does not reproduce any known trademarked slogan, brand name, character, lyric, or protected IP. The d20 die is a generic game component not exclusively owned by any single entity in trademark terms for general merchandise use. The gothic script and dramatic visual concept are stylistic choices with no IP implications. The design is approvable as an original, low-risk concept."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The text reads exactly 'I've Been Planning This Encounter for Weeks' \u2014 correctly spelled and complete. The design features a generic hand holding a D20 die with smoke/flame effects, which is a common tabletop RPG motif with no IP concerns. The hand anatomy is clean and well-rendered, lettering is clear and legible, and the composition is suitable for garment printing with a plain background."
+  },
+  "listing": {
+    "index": 1,
+    "title": "I've Been Planning This Encounter for Weeks DM Mug",
+    "tags": [
+      "dungeon master mug",
+      "tabletop RPG gift",
+      "d20 dice mug",
+      "game master coffee mug",
+      "gothic fantasy mug",
+      "campaign planning gift",
+      "DnD inspired drinkware",
+      "game night mug",
+      "role-playing game merch",
+      "DM appreciation gift",
+      "dramatic fantasy art",
+      "gamer coffee cup",
+      "weekly campaign"
+    ],
+    "description": "Every DM knows the rush of unveiling a meticulously planned encounter. This ceramic mug features a dramatic top-down view of a hand hovering over a glowing d20 with steam rising, captioned in gothic script. The perfect companion for long campaign nights, prep sessions, and those moments of justified pride when your players walk right into your trap. Holds 11oz, dishwasher safe. An ideal gift for game masters who live for the narrative."
+  },
+  "products": {
+    "shopify": "6a8c5a4952430436c7081b1a"
+  }
+}

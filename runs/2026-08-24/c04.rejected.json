@@ -1,0 +1,25 @@
+{
+  "concept": {
+    "niche": "Mushroom Foraging",
+    "product_type": "t-shirt",
+    "concept": "Detailed botanical-style illustration of mixed foraged mushrooms arranged in a grid with small scientific-style labels.",
+    "audience": "Amateur mycologists and foragers aged 25-55 who attend foraging walks and follow mushroom ID communities.",
+    "score": 7.4,
+    "rationale": "Mushroom foraging has seen sustained growth and autumn is the peak foraging season, perfectly matching the buying window. Botanical illustration style is design-differentiating. Niche audience is passionate and underserved by mass-market apparel. Strong gifting potential."
+  },
+  "design": {
+    "image_prompt": "Flat vector illustration of nine foraged mushrooms arranged in a 3x3 grid, each variety depicted with bold simple shapes showing cap, stem, and gill details. Varieties include: oyster mushroom, chanterelle, morel, puffball, fly agaric, button mushroom, shiitake, lion's mane, and boletus. Solid color blocks with clean sharp edges, no gradients, no shading, no photorealism. Color palette: forest green, cream, burnt orange, deep brown, charcoal gray. Each mushroom has a tiny solid-color rectangular label below in matching colors showing genus/species in minimal lettering\u2014readable but secondary to the illustrations. Single centered composition on a plain solid wheat background with generous margin. Screen-print aesthetic, high contrast, readable at 12x16 inches from across a room.",
+    "text_on_design": null,
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, solid color blocks only, no gradients, no shading, no photorealism"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "Botanical-style mushroom illustrations are generic scientific artwork with no trademark, brand, character, or celebrity associations. Grid arrangements with scientific labels are a common public domain artistic convention. No protected IP elements are present."
+  },
+  "image_verdict": {
+    "approved": false,
+    "risk_level": "low",
+    "reason": "The design contains multiple text labels (mushroom names) throughout the image, which violates the requirement for no text or lettering. Additionally, several of the mushroom names are misspelled or garbled (e.g., 'Oystwest' instead of 'Oyster', 'Moderele' instead of 'Morel', 'Fly Agriig' instead of 'Fly Agaric', 'Solomane' instead of 'Solomone/Morel', 'Chanterele' missing a second 'l'). The design must be rejected on both the no-text rule and text quality grounds."
+  }
+}

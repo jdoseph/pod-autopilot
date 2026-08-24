@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Amateur Astronomy",
+    "product_type": "mug",
+    "concept": "Wrap-around star map illustration of the autumn night sky with 'Best Viewed After Midnight' printed along the handle side.",
+    "audience": "Stargazing hobbyists who stay up late with telescopes and binoculars and follow seasonal celestial events.",
+    "score": 7.3,
+    "rationale": "Autumn sky maps are seasonally timely and design-rich. The copy rewards insiders. Mugs are natural gifts for this demographic. Actual autumn constellations create design authenticity. Competitors exist but seasonal specificity reduces overlap. Gift-season timing is ideal."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Best Viewed After Midnight\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of autumn constellations arranged in a circular wrap-around composition: Orion, Cassiopeia, Perseus, and Pegasus rendered as bold geometric star patterns connected by clean straight lines forming recognizable star shapes. Solid color blocks\u2014deep navy blue stars, golden yellow constellation lines, silver-white accent dots at star points, charcoal gray background. No gradients, no airbrush shading, no photorealism. Single centered circular composition on a solid cream background with generous margin. Readable at 12x16 inches from across a room. High contrast screen-print aesthetic, sharp clean edges.",
+    "text_on_design": "Best Viewed After Midnight",
+    "style": "Bold retro sans-serif uppercase text, 8\u201310pt equivalent, arched along the right side of the circular star map in silver-white, following the mug handle side placement."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The star map illustration is a generic astronomical/scientific concept with no trademark, character, or IP concerns. The phrase 'Best Viewed After Midnight' is a plain descriptive statement about stargazing conditions. It does not reference any known registered trademark, brand, slogan, song title, lyric, or character. Common astronomical humor and descriptive phrases of this nature are generally safe for print-on-demand use. No celebrity, team, or protected IP element is present in the concept."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'BEST VIEWED AFTER MIDNIGHT' correctly spelled and complete. The artwork features generic constellation motifs on a dark blob shape with a cream background \u2014 no IP concerns, clean vector-style illustration, no anatomy, no artifacts, suitable for garment printing."
+  },
+  "listing": {
+    "index": 5,
+    "title": "Best Viewed After Midnight Star Map Mug",
+    "tags": [
+      "star map mug",
+      "astronomy gift",
+      "night sky coffee",
+      "stargazing drinkware",
+      "seasonal stars",
+      "telescope enthusiast",
+      "autumn constellations",
+      "astronomy lover gift",
+      "late night sky watching",
+      "celestial design mug",
+      "astronomer beverage",
+      "night sky illustration",
+      "hobby gift"
+    ],
+    "description": "Perfect for late-night stargazing sessions, this wrap-around ceramic mug features an accurate autumn night sky star map. The text 'Best Viewed After Midnight' along the handle side celebrates those magical hours spent with binoculars and telescopes in hand. Holds 11oz, dishwasher safe. Ideal for backyard astronomers who track seasonal celestial events and understand that the best views come after midnight. A thoughtful gift for anyone who follows the stars."
+  },
+  "products": {
+    "shopify": "6a8c5b6752430436c7081bff"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Amateur Astronomers",
+    "product_type": "t-shirt",
+    "concept": "Retro 1970s NASA-poster style graphic of Saturn with the headline 'Weekend Plans: Confirmed' and a small telescope icon.",
+    "audience": "Backyard stargazers and astronomy hobbyists aged 22-55 who own telescopes and follow space news obsessively.",
+    "score": 7.1,
+    "rationale": "Amateur astronomy communities are passionate and underserved in POD. Retro space aesthetics trend consistently. Autumn brings longer nights and increased stargazing activity. The humor is relatable and niche-specific. Avoids licensed NASA imagery by using stylistic homage only."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"Weekend Plans: Confirmed\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration in 1970s NASA poster style. Centered composition: large Saturn with bold concentric rings in a dynamic tilted angle, surrounded by a small telescope icon positioned to the lower left. Solid color blocks only, no gradients, no shading. Limited palette: burnt orange, mustard yellow, deep navy blue, cream, and forest green. Clean sharp edges, high contrast, screen-print aesthetic. Single centered composition on a plain cream background with generous margin. Readable at 12x16 inches from across a room. Bold retro serif typography arched above the illustration stating the exact text. All artwork elements connected and away from the edges.",
+    "text_on_design": "Weekend Plans: Confirmed",
+    "style": "Flat vector illustration, bold simple shapes, clean sharp edges, high contrast, screen-print aesthetic, limited solid color palette: burnt orange, mustard yellow, deep navy blue, forest green, cream. No gradients, no airbrush shading, no photorealism, no drop shadows, no busy backgrounds."
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'Weekend Plans: Confirmed' is a generic humorous expression with no known trademark claims. Saturn as a celestial body and telescope icons are public domain imagery. The retro NASA-poster aesthetic is a general artistic style rather than a reproduction of any specific protected NASA work. No celebrity, brand, character, lyric, or registered slogan is referenced. Design is clear to proceed."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design clearly displays 'WEEKEND PLANS: CONFIRMED' correctly spelled and complete, matching the required text exactly. The artwork features a clean retro-style illustration of Saturn with a telescope, stars, and a sunset/rainbow background on a plain cream background. No IP risks, no quality issues, no malformed elements detected."
+  },
+  "listing": {
+    "index": 6,
+    "title": "Weekend Plans Confirmed Retro Saturn T-Shirt",
+    "tags": [
+      "astronomy t-shirt",
+      "nasa vintage style",
+      "space graphic tee",
+      "telescope astronomer",
+      "saturn print shirt",
+      "1970s retro design",
+      "stargazer apparel",
+      "science lover gift",
+      "space exploration tee",
+      "backyard astronomy",
+      "retro space poster",
+      "hobbyist gift",
+      "celestial apparel"
+    ],
+    "description": "Channel retro space exploration vibes with this classic-styled t-shirt featuring Saturn in bold 1970s NASA-poster aesthetic. 'Weekend Plans: Confirmed' headlines the design with a small telescope icon, perfectly capturing the backyard astronomer's spirit. Quality cotton construction, comfortable for stargazing marathons or everyday wear. Ideal for telescope owners, space news enthusiasts, and anyone who considers clear skies their ultimate weekend plans. A conversation starter for astronomy hobbyists of all experience levels."
+  },
+  "products": {
+    "shopify": "6a8c5b775ce651b118055faf"
+  }
+}

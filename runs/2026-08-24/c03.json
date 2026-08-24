@@ -1,0 +1,48 @@
+{
+  "concept": {
+    "niche": "Bookshop Culture",
+    "product_type": "tote",
+    "concept": "An overhead illustration of stacked second-hand books with dog-eared pages and the text 'One More Won't Hurt' in hand-stamped imperfect lettering.",
+    "audience": "Independent bookshop loyalists and used-book hunters aged 22-45 who carry totes as a lifestyle statement.",
+    "score": 7.5,
+    "rationale": "Totes are the canonical bookshop accessory\u2014alignment is near-perfect. The humor acknowledges the buyer's compulsive book-buying identity. Indie bookshop culture is strong and this audience purchases deliberately. Scores well due to audience passion, product-fit, and a humor angle that photographs sharply on social media."
+  },
+  "design": {
+    "image_prompt": "The design prominently features the text \"One More Won't Hurt\" \u2014 spelled exactly, large and readable, integrated into the composition, no other words anywhere. Flat vector illustration of stacked used books viewed from directly above, showing worn spines and dog-eared pages splayed open. Books in various orientations, overlapping slightly. Solid color blocks only: deep forest green, warm cream, rust orange, charcoal gray, and pale yellow. No gradients, no shading, no photorealism. Clean sharp edges, high contrast, screen-print aesthetic. Single centered composition on a solid white background with generous margin. Readable at 12x16 inches. Books only, no other objects.",
+    "text_on_design": "One More Won't Hurt",
+    "style": "Bold hand-stamped imperfect lettering positioned below the stacked books, irregular baseline and slightly uneven letterforms suggesting stamped impression, charcoal gray or rust orange color, 2-3 inches tall, legible from across a room"
+  },
+  "verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The phrase 'One More Won't Hurt' is a common, generic colloquial expression not associated with any specific trademark, brand, or protected intellectual property. The illustration concept of stacked second-hand books with dog-eared pages is a generic visual motif with no character, logo, or brand references. The hand-stamped lettering style is a common design treatment. No celebrity, team, song lyric, movie quote, or registered slogan is evoked. The combination is original and presents low IP risk for print-on-demand use."
+  },
+  "image_verdict": {
+    "approved": true,
+    "risk_level": "low",
+    "reason": "The design displays exactly 'ONE MORE WON'T HURT' correctly spelled and complete. The artwork features stacked books in a clean illustrated style with no IP concerns, no anatomy, no identifiable characters or persons, and a light/transparent background suitable for garment printing."
+  },
+  "listing": {
+    "index": 3,
+    "title": "One More Won't Hurt Bookshop Tote Bag",
+    "tags": [
+      "used book tote",
+      "bookshop bag",
+      "bibliophile gift",
+      "literary tote",
+      "stacked books design",
+      "independent bookstore",
+      "book lover accessory",
+      "reading community",
+      "vintage book aesthetic",
+      "dog-eared pages",
+      "literary print bag",
+      "sustainable book bag",
+      "second-hand books"
+    ],
+    "description": "An essential accessory for bookshop devotees and used-book collectors. This sturdy canvas tote features an overhead illustration of dog-eared stacked volumes with the relatable text 'One More Won't Hurt' in imperfect lettering. Perfectly sized for used bookstore hauls, literary events, or everyday carry. The worn, authentic aesthetic celebrates the beauty of pre-loved books and independent bookselling. A thoughtful gift for voracious readers and bookshop loyalists who know one more book always fits."
+  },
+  "products": {
+    "shopify": "6a8c5a705a4655eec7075aa0"
+  }
+}
