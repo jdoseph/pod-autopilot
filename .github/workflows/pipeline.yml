@@ -1,8 +1,8 @@
 name: pod-autopilot
 on:
-  schedule:
-    - cron: "0 14 * * *"    # daily pipeline, 9am ET
-    - cron: "0 15 * * 1"    # weekly analytics + digest, Monday
+   # schedule:
+     #- cron: "0 14 * * *"    # daily pipeline, 9am ET
+     #-  cron: "0 15 * * 1"    # weekly analytics + digest, Monday
   workflow_dispatch:
     inputs:
       weekly:
